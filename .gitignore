@@ -1,3 +1,4 @@
+# Ambiente virtuale Python
 venv/
 .env
 __pycache__/
@@ -7,3 +8,17 @@ __pycache__/
 *.sqlite3
 *.log
 *.tmp
+
+# File troppo grandi/eseguibili da NON caricare su GitHub
+unione_moduli.py
+backend/ffmpeg-*/bin/ffmpeg.exe
+backend/ffmpeg-*/bin/ffplay.exe
+backend/ffmpeg-*/bin/ffprobe.exe
+data/Catalogo Nuova SKin.pdf
+data/Catalogo Peccati Olfattivi.pdf
+
+# Escludi tutti gli .exe (se vuoi)
+*.exe
+
+# Escludi tutti i PDF sopra una certa dimensione (solo se necessario)
+# *.pdf
