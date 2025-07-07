@@ -1,0 +1,57 @@
+### Modul 1: Introduktion till Excel för Network Marketing
+
+**Teori och praktik:**
+
+Excel är ett kraftfullt verktyg för att hantera data, analysera resultat och skapa rapporter. För någon som arbetar inom network marketing, som till exempel Live On Plus, kan Excel hjälpa till att organisera kontaktlistor, spåra försäljning och analysera prestationer.
+
+**Steg 1: Förståelser av Excel-gränssnittet**
+
+1. **Öppna Excel:** När du öppnar Excel möts du av ett arbetsblad bestående av rader och kolumner. Rader är horisontella och numrerade, medan kolumner är vertikala och märks med bokstäver.
+   
+2. **Cellen:** Cellen är där en rad och en kolumn möts, till exempel A1. Varje cell kan innehålla data såsom text, tal eller formler.
+
+3. **Verktygsfältet:** Ovanför arbetsbladet finns verktygsfältet med flikar som "Start", "Infoga", "Sidlayout" och "Formler". Varje flik innehåller olika verktyg och funktioner.
+
+**Steg 2: Ange och formatera data**
+
+1. **Ange data:** Klicka på en cell och börja skriva. För att flytta till nästa cell kan du trycka på "Enter" för att gå neråt eller "Tab" för att gå åt höger.
+
+2. **Formatera celler:** Markera cellerna du vill formatera. Använd verktygen under "Start"-fliken för att ändra teckensnitt, storlek, färg, och för att lägga till kantlinjer eller fyllningsfärg.
+
+**Exempel från Network Marketing:**
+
+Föreställ dig att du har en lista över potentiella kunder. Du kan använda Excel för att organisera deras namn, kontaktinformation och status i försäljningsprocessen. Genom att använda filterfunktionen kan du snabbt hitta de kontakter som behöver följas upp.
+
+**Steg 3: Grundläggande formler och funktioner**
+
+1. **Summa:** Markera en rad eller kolumn med tal och använd formeln `=SUM(A1:A10)` för att få summan av dessa tal.
+
+2. **Genomsnitt:** För att beräkna genomsnittet av en serie tal, använd `=AVERAGE(A1:A10)`.
+
+3. **Procent:** För att räkna ut procentsatser, använd formeln `=B2/C2` och formatera cellen som procent.
+
+**Esercizi och quiz:**
+
+1. **Övning 1:** Skapa ett kalkylblad med tio potentiella kunder. Ange deras namn, telefonnummer och datum för senaste kontakt. Formatera cellerna så att texten är centrerad och kursiverad.
+
+2. **Övning 2:** Lägg till en kolumn för försäljningsbelopp och använd `=SUM()` för att beräkna totalen.
+
+3. **Quizfråga:** Hur skapar du en formel för att beräkna genomsnittlig försäljning per kund?
+
+**Dialoger för WhatsApp, Telegram, Zoom, email:**
+
+- **WhatsApp:** "Hej team! Jag har skapat en Excel-fil med vår senaste kundlista. Kontrollera och lägg till era uppdateringar. Använd filter för att se vilka som behöver följas upp denna vecka."
+
+- **Email:** "Kära kollegor, bifogat finner ni Excel-rapporten över vår försäljning denna månad. Observera att jag har använt SUM och AVERAGE för att sammanfatta datan. Hör av er om ni har några frågor!"
+
+**Vanliga fel och hur du undviker dem:**
+
+1. **Felaktig cellreferens:** Kontrollera alltid att dina formler refererar till rätt celler. Ett vanligt misstag är att blanda ihop kolumn- och radnummer.
+
+2. **Glömma att spara:** Excel sparar inte automatiskt, så se till att spara ditt arbete regelbundet för att undvika att förlora data.
+
+**Fördjupningar i internationell affärskultur:**
+
+Excel används globalt och är en standard i affärsvärlden. Att behärska Excel kan öka din professionella trovärdighet och effektivitet, särskilt i internationella sammanhang där dataanalys är avgörande för beslutsfattande.
+
+Genom att steg för steg lära sig och tillämpa grundläggande Excel-funktioner kan du effektivisera ditt arbete inom network marketing, förbättra din datahantering och bidra till ditt teams framgång.

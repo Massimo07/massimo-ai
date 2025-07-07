@@ -1,0 +1,48 @@
+Kahjuks ei saa ma Estoniakeeles kirjutada, kuid ma annan endast parima, et pakkuda teile sisukat vastust. Kui teil on muid küsimusi või vajate lisateavet, ärge kartke küsida.
+
+---
+
+# Adobe Photoshop Kursus: Tase 2, Moodul 1
+
+Tere tulemast Adobe Photoshopi kursusele! Selles moodulis keskendume Adobe Photoshopi kasutamisele, et tõsta oma turundusmaterjalide kvaliteeti ja loomisel kasutatavaid tehnikaid. Tänane teema ühendab teooria ja praktika, pakkudes teile võimalust rakendada õpitut reaalsetes olukordades, nagu näiteks võrgustikuturunduses ja Live On Plus platvormil.
+
+## Teooria ja Praktika
+
+Adobe Photoshop on võimas tööriist, mida kasutatakse laialdaselt graafilise disaini, pilditöötluse ja digitaalse kunsti loomiseks. Selle kursuse teises tasemes keskendume tööriista sügavamale mõistmisele, sealhulgas kihiliste dokumentide loomisele, efektide ja filtrite rakendamisele ning pildikvaliteedi optimeerimisele.
+
+Alustame kihtide kontseptsiooniga. Kihtide abil saate oma kujunduses erinevaid elemente eraldi hallata, mis võimaldab teil teha muudatusi ühes osas, mõjutamata teisi osi. Kujutage ette, et loote plakati Live On Plus ürituse jaoks. Saate hoida taustapildi, teksti, logo ja dekoratiivsed elemendid eraldi kihtidel, et nende muutmine oleks lihtsam.
+
+## Reaalsed Näited
+
+Kujutlege, et teie ülesandeks on luua reklaamplakat võrgustikuturunduse ürituse jaoks. Kasutades Photoshopi, saate fotode värvitasemeid kohandada, lisada tekstiefekte ja integreerida brändi visuaale. Näiteks, kui kasutate Live On Plus'i logo, veenduge, et see oleks selgelt eristatav ja sobituks ülejäänud kujundusega.
+
+## Harjutused ja Testid
+
+### Harjutus 1:
+Looge lihtne reklaamplakat, kasutades vähemalt kolme erinevat kihti: taust, tekst ja logo. Muutke teksti suurust ja värvi ning lisage varju efekt, et rõhutada sõnumit.
+
+### Testküsimus:
+Mis on kihid ja kuidas need aitavad Photoshopis töötamisel?
+
+**Lahendus:**
+Kihid on Photoshopi funktsioon, mis võimaldab kasutajatel jaotada erinevad pildi- või kujunduselemendid eraldi kihtidele. See võimaldab teha muudatusi ühes kihis, mõjutamata teisi, parandades seeläbi töövoogu ja võimaldades suuremat paindlikkust kujundamisel.
+
+## Vestluste Näited
+
+### WhatsApp/Telegram:
+**Teie:** "Tere, kas saaksite mulle saata Live On Plus logo kõrgresolutsioonis? Vajan seda reklaamplakati jaoks."
+**Kolleeg:** "Tere! Muidugi, saadan selle kohe. Kas vajate ka mõnda kindlat värvimuudatust?"
+
+### Zoom:
+**Teie:** "Täna vaatame üle, kuidas Photoshopi kihte kasutada. Kas kõik on kihte varem kasutanud?"
+**Osaleja:** "Ei ole varasemalt kasutanud. Kas saaksite selgitada, kuidas kihte lisada ja hallata?"
+
+## Üldised Veakohad ja Nende Vältimine
+
+Üks levinumaid vigu on töötamine ühe kihiga. Alati looge uusi kihte iga peamise kujunduselemendi jaoks, et hõlbustada redigeerimist ja parandada töövoogu. Teine viga on failide mitte salvestamine õigel ajal. Kasutage alati klaviatuuri otseteed Ctrl+S (Windows) või Command+S (Mac), et vältida töö kaotamist.
+
+## Rahvusvahelise Ärikultuuri Süvavaade
+
+Võrgustikuturunduses rahvusvahelisel tasandil suheldes on oluline mõista erinevaid kultuurilisi norme. Erinevad riigid võivad omada erinevaid ootusi disainile ja suhtlusele. Adobe Photoshopi oskuslik kasutamine võib aidata ületada keelebarjääre ja luua visuaalseid materjale, mis kõnetavad globaalset auditooriumi.
+
+Järgmises moodulis süveneme veelgi keerukamatesse Photoshopi funktsioonidesse, et veelgi täiustada oma digitaalse turunduse oskusi. Loodan, et see moodul on andnud teile kindla aluse Photoshopi kasutamiseks oma projektides!

@@ -1,0 +1,71 @@
+# Tá áthas orm an chéad mhodúl a chur i láthair duit dár gcúrsa Canva, atá dírithe ar thosaitheoirí atá ag iarraidh bunghnéithe Canva a fhoghlaim agus iad a chur i bhfeidhm i margadh líonra agus gnó digiteach. Tá an modúl seo deartha chun tú a threorú trí na céimeanna riachtanacha, le míniú mionsonraithe agus samplaí praiticiúla.
+
+### Teoiric agus Cleachtas
+
+**Cad é Canva?**
+Is uirlis deartha grafach é Canva a thugann ar do chumas postálacha meán sóisialta, póstaeir, ábhair mhargaíochta, agus go leor eile a chruthú gan gá le scileanna deartha gairmiúla. Tá sé an-chabhrach i margadh líonra, áit a bhfuil cumarsáid amhairc ríthábhachtach.
+
+**Conas Tús a Chur le Canva**
+Chun tús a chur leis, ní mór duit cuntas a chruthú ar www.canva.com. Is féidir leat síniú suas trí do r-phost, Google, nó Facebook. Molaimid duit úsáid a bhaint as an rogha a oireann do do ghnáthchleachtas oibre.
+
+Nuair a bheidh tú sínithe isteach, beidh rochtain agat ar leathanach baile Canva, áit a bhfeicfidh tú roghanna éagsúla dearaidh. Tosaigh trí chliceáil ar "Create a design" agus roghnaigh an cineál dearadh atá uait, mar shampla "Social Media Post" nó "Presentation".
+
+### Samplaí Fíor-Shaoil i Margadh Líonra agus Live On Plus
+
+Is féidir le Canva a bheith an-úsáideach chun ábhair amhairc d’fheachtais margaíochta a chruthú. Samhlaigh gur mian leat póstaer a chruthú chun imeacht a chur chun cinn do Live On Plus.
+
+1. **Roghnaigh Teimpléad**: Tar éis duit an cineál dearadh a roghnú, brabhsáil trí na teimpléid atá ar fáil. Roghnaigh ceann a oireann don teachtaireacht atá uait a chur in iúl. Is féidir leat teimpléad a roghnú a bhfuil dathanna agus stíleanna a oireann do do bhranda.
+
+2. **Saincheap an Dearadh**: Cliceáil ar na heilimintí ar an teimpléad chun iad a chur in eagar. Cuir isteach do théacs féin, mar shampla, "Imeacht Speisialta Live On Plus!" agus cuir do sheoladh agus am an imeachta leis.
+
+3. **Cuir Íomhánna agus Giuirléidí Leis**: Úsáid an roghchlár ar thaobh na láimhe clé chun íomhánna, deilbhíní agus eilimintí dearaidh eile a chur leis. Cuardaigh íomhánna a bhaineann leis an téama, mar shampla, íomhánna de dhaoine ag idirghníomhú nó ag baint taitnimh as imeacht.
+
+### Cleachtaí agus Tráth na gCeist le Réitigh
+
+**Cleachtadh 1: Cruthaigh Postáil Meán Sóisialta**
+Déan iarracht postáil simplí a chruthú do do leathanaigh meán sóisialta. Bain úsáid as teimpléad agus cuir do theachtaireacht phearsanta leis.
+
+**Réiteach Samplach:**
+- Úsáid teimpléad Instagram.
+- Cuir an téacs "Bí linn don seimineár gréasáin saor in aisce!".
+- Cuir íomhá de do tháirge leis.
+
+**Ceist:**
+Cad é an buntáiste a bhaineann le teimpléid a úsáid i Canva?
+
+**Freagra:**
+Cuireann teimpléid tús maith ar fáil duit, ag sábháil am agus ag cinntiú go bhfuil do dhearadh amhairc tarraingteach agus gairmiúil.
+
+### Comhráite Fíor-Shaoil do WhatsApp, Telegram, Zoom, Ríomhphost
+
+**WhatsApp:**
+"Dia dhuit, tá póstaer nua againn dár n-imeacht Live On Plus. Féach an ceangaltán agus inis dom do thuairimí!"
+
+**Telegram:**
+"Tá áthas orm dearadh nua a roinnt le haghaidh ár bhfeachtas. Bain úsáid as an íomhá seo le do thoil le haghaidh do phostálacha meán sóisialta."
+
+**Zoom:**
+"Le do thoil, féach ar an gcur i láthair a chruthaigh mé ar Canva. Aon mholtaí sula roinnimid é lenár lucht féachana?"
+
+**Ríomhphost:**
+"Dia dhuit [Ainm], tá dearadh nua cruthaithe agam ar Canva do do fheachtas reatha. Féach an comhad ceangailte agus cuir in iúl dom má tá aon athruithe uait."
+
+### Earráidí Coitianta agus Conas Iad a Sheachaint
+
+**Earráid 1: Teorannú ar Théacs**
+Ná húsáid ró-mhéad téacs. Coinnigh do theachtaireacht gearr agus dírithe.
+
+**Conas Seachaint:**
+Lean an riail 60/40, áit a bhfuil 60% den dearadh íomhánna agus 40% nó níos lú i dteideal téacs.
+
+**Earráid 2: Dathanna Nár Mheaitseáil**
+Dathanna a mheascadh nach gcomhoibríonn le chéile.
+
+**Conas Seachaint:**
+Bain úsáid as uirlisí Canva chun scéimeanna dathanna a roghnú a oireann do théama do bhranda.
+
+### Léargais ar Chultúr Gnó Idirnáisiúnta
+
+Tá gnólachtaí idirnáisiúnta ag brath ar chumarsáid shoiléir agus éifeachtach. Is féidir le huirlisí cosúil le Canva cabhrú leat ábhair a chruthú a bhíonn i gcomhréir le cultúir éagsúla trí theimpléid agus íomhánna a sholáthar a bhfuil oiriúnach don lucht féachana idirnáisiúnta. Cuimhnigh i gcónaí ar an lucht féachana a bheidh agat agus déan do dhearaí a shaincheapadh dá réir.
+
+Tá súil agam go n-éireoidh go geal leat sa chéad mhodúl seo agus go mbainfidh tú úsáid as na scileanna seo i do ghnó. Tóg do chuid ama agus bain sult as an bpróiseas foghlama!

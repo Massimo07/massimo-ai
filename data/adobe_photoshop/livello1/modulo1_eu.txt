@@ -1,0 +1,58 @@
+### 1. Modulo: Adobe Photoshop Oinarrizko Ezagutzak
+
+**1.1. Sarrera Photoshop-era**
+
+Photoshop Adobe enpresak garatutako irudi-editore sofistikatua da, eta mundu osoan erabiltzen da diseinu grafikoan, argazkilaritzan eta, garrantzitsua denez gure kasuan, network marketing eta negozio digitaletan. Programa honek tresna anitz eskaintzen ditu irudiak sortzeko eta editatzeko, eta hori oso baliagarria da marketing digitalerako material bisual erakargarriak sortzeko.
+
+**1.2. Photoshop-eko Oinarrizko Tresnak**
+
+Hasteko, Photoshop-en oinarrizko interfazearekin ezagutu behar gara. Programaren abiaraztean, hainbat atal ikusiko ditugu: goialdean menu-barra dago, ezkerrean tresna-barra, eta eskubian geruza-panelak eta propietateak. Tresna-barra Photoshop-en bihotza da, eta hemen aurkituko ditugu irudiak editatzeko beharrezko tresna nagusiak.
+
+- **Marrazketa Tresna**: Oinarrizko tresna hau irudiak sortzeko eta editatzeko erabiltzen da. Adibidez, Live On Plus-eko logotipo bat sortu nahi baduzu, marrazketa tresna hau erabil dezakezu forma sinpleak eta testu kutxak gehitzeko.
+
+- **Lupa Tresna**: Irudia handitzeko edo txikitzeko erabiltzen da, eta xehetasunetan arreta jartzeko lagungarria da.
+
+- **Eskua Tresna**: Lan-eremuan zehar mugitzeko aukera ematen du, eta hori baliagarria da irudi handi batean lan egiten dugunean.
+
+**1.3. Praktika: Irudi Bat Sortu eta Gorde**
+
+Praktikan, irudi bat sortzea eta gordetzea ikasiko dugu. Hasteko:
+
+1. **Fitxategia > Berria**: Menutik aukera hau hautatzen dugu irudi berria sortzeko. Zabalduko den leihoan, irudiaren tamaina, bereizmena eta kolore modua aukeratu behar ditugu. Live On Plus-eko Facebook iragarki baterako, 1200x628 pixeleko tamaina egokia da.
+
+2. **Tresna-Barra**: Erabili marrazketa tresna irudiaren oinarria sortzeko. Adibidez, atzeko planoko kolorea aukeratu dezakezu eta forma geometriko batzuk gehitu.
+
+3. **Testua Gehitu**: Tresna-barra erabiliz, testu-tresna hautatu eta testu-kutxa bat gehitu. Idatzi zure mezua, adibidez, "Jarrai Ezazu Gurekin!" eta formatu ezazu letra-tipo eta kolore egokiak erabiliz.
+
+4. **Gorde**: Behin irudia sortuta, gorde ezazu. Joan Fitxategia > Gorde honela, eta aukeratu JPEG edo PNG formatuan gordetzea, web-erako optimizatzeko.
+
+**1.4. Eserketa eta Quiz-ak**
+
+Erabili ikasitakoa esku artean duen proiektu erreal batean. Sortu irudi bat zure negozio digitaleko iragarki baterako, eta bidali posta elektronikoz zure lagunei edo taldekideei baloratu dezaten. 
+
+Quiz bat burutu dezakezu zure ulermena probatzeko:
+
+- Zer formatutan gorde behar duzu irudiak web-erako?
+- Zein tresna erabiltzen da irudia handitzeko?
+
+Erantzunak: JPEG edo PNG; Lupa Tresna.
+
+**1.5. Komunikazio Tresnetan Elkarrizketa Errealak**
+
+Zure taldekideekin komunikatzeko, tresna digitalak erabiltzen ditugu. Hona hemen WhatsApp elkarrizketa erreal baten adibidea:
+
+**Zuk:** "Kaixo! Nola ikusten duzu azken irudi hau? Aldaketaren bat proposatuko zenuke?"
+
+**Taldekidea:** "Kaixo! Oso ondo dago, baina agian testua pixka bat handiagoa egin dezakezu irakurgarritasun hobea izateko."
+
+**1.6. Errori Komunak eta Nola Saiaitu**
+
+Errore arrunt bat irudiaren tamaina desegokia aukeratzea da. Gogoratu beti zure irudiaren xedea eta plataforma kontuan hartzea tamaina egokia aukeratzeko.
+
+**1.7. Nazioarteko Negozio Kultura Sakontzea**
+
+Photoshop erabiltzea marketin digitaleko estrategietan sartzen da, eta horrek nazioarteko merkatuetara zabaltzeko aukera ematen du. Garrantzitsua da kontuan hartzea irudiak kultura-aniztasuna errespetatzen duela, irudiak pertsona ezberdinen aurrean erakutsi behar baitira.
+
+**1.8. Ondorioa**
+
+Lehenengo modulu honetan, Photoshop-eko oinarrizko kontzeptuekin hasi gara, irudi bat nola sortu eta gorde ulertu dugu, eta komunikazio tresnak nola erabili ere ikasi dugu. Praktikarekin, zure trebetasunak hobetzen joango dira, eta zure negozio digitala hobetuko duzu, eduki bisual profesionalagoarekin.

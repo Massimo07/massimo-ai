@@ -1,0 +1,63 @@
+# ### Modul 1: Osnove Network Marketinga i Osnove Live On Plus
+
+Dobrodošli na prvi modul vašeg profesionalnog kursa o network marketingu s fokusom na Live On Plus. Ovaj modul će vas uvesti u temelje network marketinga, s posebnim osvrtom na rast mreže, regrutiranje, prodaju, duplikaciju, liderstvo i upravljanje međunarodnim timom. Pristupit ćemo svakom od ovih elemenata detaljno kako bismo vam omogućili čvrst početak u vašoj karijeri u digitalnom poslovanju.
+
+#### Teorijski okvir Network Marketinga
+
+Network marketing, ili mrežni marketing, je poslovni model koji se oslanja na osobne mreže za rast i distribuciju proizvoda ili usluga. U osnovi, to je strategija koja koristi postojeće veze između osoba za povećanje prodaje i širenje poslovanja. Live On Plus, kao platforma, nudi alate i resurse kako bi ovaj proces bio što učinkovitiji.
+
+**Primjer:**
+Zamislite da ste kupili proizvod od Live On Plus. Ako vam se proizvod sviđa, prirodno ćete ga preporučiti prijateljima i obitelji. U network marketingu, za svaku preporuku koja rezultira prodajom, vi dobivate proviziju. Ovaj ciklus se ponavlja dok vaša mreža raste.
+
+#### Prakticiranje Osnovnih Vještina
+
+**1. Rast mreže:**
+Za početak, potrebno je identificirati vašu ciljnu skupinu. Tko bi mogao biti zainteresiran za proizvode ili usluge koje nudite? Iskoristite društvene medije, osobne kontakte i događaje kako biste proširili svoj doseg.
+
+**2. Regrutiranje:**
+Ključ uspješnog regrutiranja je u komunikaciji i odnosima. Prvo, budite sigurni u proizvod koji nudite. Drugo, važno je slušati potrebe potencijalnih članova vašeg tima.
+
+**Primjer dijaloga za WhatsApp:**
+"Pozdrav [Ime]! Nadam se da si dobro. Želim ti ispričati o sjajnoj prilici koju sam otkrio s Live On Plus. Mislim da bi te moglo zanimati zbog [navedite razlog]. Kad bi imao/la vremena za kratki razgovor?"
+
+**3. Prodaja:**
+Prodaja se temelji na razumijevanju potreba kupca i predstavljanju proizvoda kao rješenja tih potreba. Uvijek budite spremni odgovoriti na pitanja i pružiti dodatne informacije.
+
+#### Duplikacija i Liderstvo
+
+Duplikacija je proces kojim osposobljavate članove svog tima da repliciraju vaš uspjeh. To znači pružanje obuke, resursa i podrške kako bi vaši članovi mogli samostalno rasti.
+
+**Liderstvo:**
+Biti lider u network marketingu znači voditi primjerom. Razvijajte vještine empatije, komunikacije i strateškog razmišljanja kako biste inspirirali i motivirali svoj tim.
+
+**Primjer e-maila za mentorstvo:**
+"Dragi [Ime], želim ti čestitati na sjajnom radu u proteklom mjesecu. Tvoj trud se vidi i volio/la bih da zajedno postavimo ciljeve za sljedeći period. Uvijek sam tu za dodatnu podršku ili pitanja."
+
+#### Upravljanje Međunarodnim Timom
+
+Rad s međunarodnim timom zahtijeva razumijevanje kulturnih razlika i prilagodbu komunikacijskih stilova. Uvijek istražite osnovne kulturne norme država s kojima surađujete.
+
+**Greške koje treba izbjegavati:**
+- Ne pretpostavljajte da svi članovi tima dijele iste vrijednosti i stilove rada.
+- Izbjegavajte generičke pristupe komunikaciji. Uvijek personalizirajte poruke.
+
+#### Esercizi i Kvizovi
+
+**Eserciz:**
+Napišite kratku poruku potencijalnom klijentu ili članu tima koristeći informacije iz modula.
+
+**Kviz:**
+1. Koji je osnovni cilj network marketinga?
+2. Navedi dva načina kako možete povećati prodaju.
+3. Što je duplikacija u kontekstu network marketinga?
+
+**Rješenja:**
+1. Cilj je proširiti mrežu i povećati prodaju putem osobnih preporuka.
+2. Razumijevanje potreba kupca i prezentiranje proizvoda kao rješenja.
+3. Proces osposobljavanja članova tima da samostalno repliciraju uspjeh.
+
+#### Kulturni Uvidi u Međunarodno Poslovanje
+
+U poslu s međunarodnim timovima, važno je razvijati interkulturalne kompetencije. To uključuje poštovanje različitih poslovnih običaja i praksi. Uvijek budite otvoreni za učenje i prilagodbu.
+
+Ovim modulom stekli ste osnovna znanja potrebna za uspješan početak u network marketingu s Live On Plus. U sljedećim modulima nastavit ćemo razvijati vaše vještine i produbljivati razumijevanje ovog uzbudljivog poslovnog modela.

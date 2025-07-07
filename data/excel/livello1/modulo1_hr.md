@@ -1,0 +1,66 @@
+# **Modul 1: Uvod u Excel za Početnike u Network Marketingu**
+
+Dobrodošli na prvi modul našeg tečaja Excel za početnike, posebno prilagođen za potrebe network marketinga i poslovanja uživo, kao što je Live On Plus. U ovom modulu, pružit ćemo vam temeljno razumijevanje Excela, kako teorijski tako i praktično, s primjerima koji su relevantni za vaše poslovanje.
+
+**Teorijski Uvod u Excel**
+
+Excel je program za proračunske tablice razvijen od strane Microsofta, koji omogućava korisnicima izradu tablica, kalkulacija, grafova i analizu podataka. U kontekstu network marketinga, Excel se koristi za praćenje kontakata, organizaciju podataka o klijentima i partnerima, analizu prodaje i mnogo više.
+
+Da biste započeli s Excelom, prvo morate razumjeti njegov osnovni koncept: radna knjiga (workbook) i radni list (worksheet). Radna knjiga je datoteka koja može sadržavati više radnih listova, a svaki radni list se sastoji od mreže ćelija organiziranih u redove i stupce.
+
+**Praktična Primjena: Kreiranje Osnovne Tablice**
+
+1. **Otvaranje Excela:**
+   Kako biste otvorili Excel, jednostavno dvaput kliknite na ikonu programa ili ga potražite u izborniku Start na računalu.
+
+2. **Kreiranje nove radne knjige:**
+   Kada se Excel otvori, kliknite na "New Workbook" (Nova radna knjiga) ili "Blank Workbook" (Prazna radna knjiga).
+
+3. **Razumijevanje sučelja:**
+   Na vrhu vidjet ćete vrpcu (ribbon) s različitim karticama kao što su Home, Insert, Page Layout, itd. Ispod vrpce nalazi se radni list, podijeljen na ćelije.
+
+4. **Unos podataka:**
+   Kliknite na ćeliju A1 i upišite "Ime Kontakta". U ćeliju B1 upišite "Email", a u C1 "Broj Telefona". Ovo su naslovi stupaca.
+
+5. **Popunjavanje podataka:**
+   U redak 2, ispod "Ime Kontakta", upišite ime vašeg prvog kontakta. U ćeliju B2 unesite email adresu, a u C2 broj telefona. Ponovite ovaj postupak za nekoliko kontakata.
+
+**Primjeri iz Network Marketinga**
+
+Zamislite da radite u Live On Plus i želite pratiti svoje klijente i njihove narudžbe. Možete koristiti Excel za izradu popisa klijenata, praćenje njihovih narudžbi i izračun ukupne prodaje.
+
+**Esercizi i Kvizovi**
+
+1. **Vježba:**
+   Izradite tablicu s najmanje 5 kontakata, uključujući ime, email i broj telefona. Dodajte stupac za "Posljednja Kupnja" i unesite datume.
+
+2. **Kviz:**
+   a) Što je radni list u Excelu?
+   b) Kako možete unijeti podatke u ćeliju?
+
+**Rješenja:**
+   a) Radni list je pojedinačna stranica unutar radne knjige.
+   b) Klikom na ćeliju i upisivanjem podataka, te pritiskom na Enter.
+
+**Dijalozi za WhatsApp, Telegram, Zoom, Email**
+
+**WhatsApp/Telegram:**
+- Vi: "Pozdrav, mogu li ti poslati našu Excel tablicu s kontaktima kako bismo pratili naše klijente?"
+- Suradnik: "Naravno, pošalji mi ju, molim te."
+
+**Zoom:**
+- Vi: "Kako svi možete vidjeti, u ovom stupcu pratimo posljednju kupnju svakog klijenta, što nam pomaže u planiranju budućih kampanja."
+
+**Email:**
+- Predmet: "Ažurirana Excel Tablica Kontakata"
+- Sadržaj: "Pozdrav svima, u prilogu se nalazi ažurirana Excel tablica s našim kontaktima i njihovim podacima. Molim vas da provjerite i javite mi ako ima kakvih izmjena."
+
+**Uobičajene Greške i Kako ih Izbjeći**
+
+Jedna od najčešćih grešaka početnika je pretrpavanje tablice podacima bez jasne organizacije. Kako biste to izbjegli, uvijek koristite jasne naslove stupaca i držite podatke u logičnim kategorijama. Također, redovito spremajte svoj rad kako biste izbjegli gubitak podataka.
+
+**Kultura Poslovanja: Međunarodni Aspekti**
+
+U međunarodnom poslovanju, Excel je alat koji se široko koristi i razumije. Bez obzira na jezične ili kulturne barijere, Excel omogućuje univerzalno razumijevanje podataka i olakšava suradnju s timovima iz različitih zemalja. Razvijanje vještina u Excelu može značajno poboljšati vašu sposobnost za vođenje međunarodnih poslova i komunikaciju s globalnim partnerima.
+
+Zaključno, ovaj modul vam je pružio osnovno razumijevanje Excela i kako se on može koristiti u network marketingu. U sljedećim modulima, nastavit ćemo graditi na ovim osnovama i istražiti naprednije funkcije.

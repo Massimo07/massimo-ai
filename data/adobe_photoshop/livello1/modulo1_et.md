@@ -1,0 +1,53 @@
+# ### Adobe Photoshop'i Kursuse Moduul: Tase 1, Moduul 1
+
+Tere tulemast Adobe Photoshop'i kursusele! See on esimene samm teie teekonnal, et omandada oskused, mis on kasulikud nii network marketingus kui ka digitaalses äris. Selles esimeses moodulis keskendume Photoshop'i põhitõdedele ning sellele, kuidas neid oskusi rakendada teie ärivajaduste jaoks.
+
+#### Teooria ja Praktika
+
+Adobe Photoshop on võimas tööriist pilditöötluseks ja graafiliseks disainiks. See programm võimaldab teil luua ja redigeerida pilte, luua visuaale turunduskampaaniate jaoks ning parandada fotode kvaliteeti. Alustame kõige olulisemast – liidesest.
+
+1. **Liidese mõistmine**: Kui avate Photoshop'i esmakordselt, võib see tunduda hirmutav. Alustuseks tutvume menüüribaga ekraani ülaosas, tööriistakastiga vasakul ning kihipaneeliga paremal. Need on teie peamised tööriistad.
+
+2. **Tööriistade kasutamine**: Valige "Move Tool" (liigutamise tööriist) tööriistakastist. Seda kasutatakse erinevate elementide paigutamiseks lõuendil. Proovige liigutada mõnda pilti või teksti.
+
+3. **Kihid**: Photoshop kasutab kihte, et eristada erinevaid pildi osi. Iga element, mida lisate, võiks olla oma kihil. Avage kihipaneel ja looge uus kiht, klõpsates ikoonil "Create a New Layer". 
+
+#### Rakendus Network Marketingus ja Live On Plus
+
+Kujutage ette, et töötate Live On Plus turundusmeeskonnas ja peate looma sotsiaalmeedia postituse, mis reklaamib uut toodet. Photoshop võimaldab teil luua silmapaistvaid visuaale, mis meelitavad tähelepanu.
+
+Reaalses elus võiksite alustada toote foto importimisega Photoshop'i. Kasutage "Crop Tool" (lõikamise tööriist), et keskenduda tootele. Seejärel lisage tekst, kasutades "Text Tool" (tekstitööriist), et kuvada olulist teavet nagu toote nimi ja eripakkumine.
+
+#### Harjutused ja Quiz
+
+1. **Harjutus**: Importige oma arvutist pilt Photoshop'i. Kasutage "Crop Tool", et lõigata välja ainult oluline osa pildist. Lisage tekst, kasutades "Text Tool".
+
+2. **Quiz**: Miks on kihtide kasutamine Photoshop'is oluline? 
+   - a) Need võimaldavad erinevate elementide eraldamist ja lihtsustavad redigeerimist.
+   - b) Kihid on ainult dekoratiivsed.
+   - c) Kihid ei oma mingit funktsiooni.
+
+_Õige vastus: a) Need võimaldavad erinevate elementide eraldamist ja lihtsustavad redigeerimist._
+
+#### Vestlused WhatsAppis, Telegramis, Zoomis ja Emailis
+
+**WhatsApp näide:**
+- Sina: "Tere, kas saaksin abi uue sotsiaalmeedia postituse visuaali loomisel Photoshop'is?"
+- Kolleeg: "Loomulikult! Kas oled kihtide kasutamisega tuttav?"
+- Sina: "Jah, just õppisin neid kasutama. See on tõesti kasulik!"
+
+**Email näide:**
+- Teema: Abi vaja Photoshop'i projekti jaoks
+- Sisu: "Tere [Nimi], olen hetkel töötamas uue turunduskampaania visuaalide kallal ja vajan abi Photoshop'i tööriistadega. Kas saaksite mind juhendada kihtide ja tekstivahendite kasutamisel? Tänan ette! Parimate soovidega, [Teie nimi]"
+
+#### Tüüpilised vead ja nende vältimine
+
+1. **Elementide segamine ühel kihil**: Algajad kipuvad kõik elemendid ühele kihile paigutama, mis muudab redigeerimise keeruliseks. Alati looge uus kiht iga elemendi jaoks.
+
+2. **Unustatakse salvestada**: Photoshop ei salvesta automaatselt. Kasutage "Save As" funktsiooni ja salvestage töö regulaarselt.
+
+#### Rahvusvahelise Ärikultuuri Süvitsi Teadmised
+
+Photoshop'i oskused on universaalsed ja neid kasutatakse ülemaailmselt erinevates tööstusharudes. Rahvusvahelise ärikultuuri mõistmine, nagu näiteks kultuurilised erinevused disaini eelistustes, võib aidata teil luua visuaale, mis kõnetavad globaalsemat publikut. Näiteks võib Aasia turg eelistada erksamaid värve ja rohkem detaile, samas kui Skandinaavia turud võivad hinnata minimalistlikku lähenemist.
+
+Kokkuvõtteks, selles moodulis oleme õppinud Photoshop'i põhitõdesid ja nende rakendamist network marketingus. Harjutage neid oskusi regulaarselt, et saada kindlust ja loovust oma turundusprojektides. Järgmises moodulis sukeldume sügavamale pilditöötlusse ja efektide loomisse. Edu õpingutes!

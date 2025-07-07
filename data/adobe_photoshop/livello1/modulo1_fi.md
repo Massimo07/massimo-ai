@@ -1,0 +1,55 @@
+# **Adobe Photoshop - Kurssi: Adobe_photoshop, Taso 1, Moduuli 1**
+
+Tervetuloa Adobe Photoshopin perusteiden kurssille! Tässä moduulissa keskitymme tutustumaan ohjelman peruskäsitteisiin ja opimme, kuinka käyttää Photoshopia käytännön esimerkkien kautta. Tämä moduuli on suunnattu erityisesti verkostomarkkinoinnin ja digitaalisen liiketoiminnan aloittelijoille, joten älä huoli, jos et ole aiemmin käyttänyt Photoshopia. Aloitetaan!
+
+**Teoria ja Käytännön Harjoitukset**
+
+Adobe Photoshop on monipuolinen kuvankäsittelyohjelma, jota käytetään laajasti graafisessa suunnittelussa, valokuvien muokkauksessa ja digitaalisen sisällön luomisessa. Aloitamme perusasioista, kuten käyttöliittymän tuntemisesta ja yleisimpien työkalujen käytöstä.
+
+1. **Käyttöliittymän Ymmärtäminen**
+   Ensin avaa Photoshop. Kun ohjelma on käynnistynyt, näet työtilan, joka koostuu useista osista: valikkorivi ylhäällä, työkalupalkki vasemmalla, ominaisuuspaneelit oikealla ja työskentelyalue keskellä. Näihin osiin tutustuminen on tärkeää, sillä ne muodostavat Photoshopin ytimen.
+
+2. **Ensimmäinen Harjoitus: Kuvan Asettaminen**
+   - Klikkaa "File" (Tiedosto) ja valitse "Open" (Avaa) avataksesi haluamasi kuvan.
+   - Kun kuva on avattu, se näkyy työskentelyalueella. Voit käyttää zoom-työkalua (suurennuslasi työkalupalkissa) lähentääksesi tai loitontaaksesi kuvaa.
+
+3. **Perustyökalut: Liike, Rajaus ja Sivellin**
+   - Liiketyökalu (Move Tool): Tämä työkalu (nuolet työkalupalkissa) auttaa siirtämään elementtejä työskentelyalueella.
+   - Rajaa työkalu (Crop Tool): Säädä kuvan kokoa ja sommittelua.
+   - Säädä sivellin (Brush Tool): Käytä piirtämiseen tai värin lisäämiseen.
+
+**Esimerkki Verkostomarkkinoinnista ja Live On Plus -sovelluksesta**
+
+Kuvittele, että haluat luoda mainoskuvan Live On Plus -tuotteesta. Voit käyttää Photoshopia parantaaksesi kuvan laatua, lisätäksesi tekstiä ja tehdäksesi siitä houkuttelevamman. Tämä parantaa brändisi visuaalista ilmettä ja houkuttelee potentiaalisia asiakkaita.
+
+**Esercizi ja Kysymykset**
+
+1. **Harjoitus: Luo yksinkertainen mainos**
+   - Valitse kuva tuotteesta.
+   - Lisää tekstiä käyttämällä tekstityökalua (T työkalupalkissa).
+   - Tallenna kuva JPEG-muodossa valitsemalla "File" > "Save As" (Tallenna nimellä).
+
+**Kysymys:**
+- Mitä eroa on tasoilla (Layers) ja muokkaustyökaluilla (Adjustment Tools)?
+
+**Ratkaisut:**
+- Tasot (Layers) mahdollistavat erilaisten elementtien erillisen käsittelyn kuvassa. Muokkaustyökalut (Adjustment Tools) puolestaan muuttavat kuvan yleisiä ominaisuuksia, kuten kirkkautta ja kontrastia.
+
+**Keskustelut WhatsAppissa, Telegramissa, Zoomissa ja Sähköpostissa**
+
+**WhatsApp:**
+- Opiskelija: "Miten saan tekstin näyttämään terävämmältä kuvassa?"
+- Opettaja: "Käytä tekstityökalun jälkeen terävöitystyökalua (Sharpen Tool) ja säädä asetuksia."
+
+**Zoom:**
+- Opettaja: "Katsotaan yhdessä, miten voimme parantaa mainoskuvan laatua käyttämällä eri suodattimia."
+
+**Virheet ja Niiden Välttäminen**
+
+Yksi yleisimmistä virheistä on työskennellä ilman tasoja. Jos kaikki muokkaukset tehdään samalle tasolle, on vaikea palata takaisin ja muuttaa yksittäisiä elementtejä. Muista aina luoda uusi taso ennen uuden elementin lisäämistä.
+
+**Kansainvälinen Liiketoimintakulttuuri**
+
+Visuaalinen viestintä on kansainvälisessä liiketoiminnassa äärimmäisen tärkeää. Olipa kyseessä verkkosivusto, mainoskampanja tai sosiaalinen media, kuvien tulee olla kulttuurisesti sopivia ja visuaalisesti houkuttelevia. Photoshopin hallinta auttaa sinua luomaan visuaalista sisältöä, joka resonoi eri kulttuurien kanssa.
+
+Toivottavasti tämä moduuli auttoi sinua saamaan hyvän käsityksen Photoshopin perusteista. Seuraavassa moduulissa syvennymme tarkemmin kuvankäsittelyyn ja visuaalisiin tehosteisiin. Onnea matkallesi kohti digitaalisen sisällön mestaruutta!

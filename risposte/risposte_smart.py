@@ -1,0 +1,1 @@
+def risposte_smart(testo): return 'Funzionalità SMART in arrivo.'

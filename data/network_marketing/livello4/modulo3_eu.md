@@ -1,0 +1,13 @@
+# Zuzeneko sareko marketineko ikastaroa, sarean, sareko hazkundea, kontratazioa, salmenta, bikoizketa, lidergoa, nazioarteko taldeen kudeaketa eta negozioen prestakuntza.
+
+
+[4. maila / 3. modulua / Hizkuntza: euskara]
+
+Helburu didaktikoak: sakontzea - ​​azalpen zehatza, gramatika (behar izanez gero), sareko marketinerako benetako lan-fluxua.
+
+Teoria, praktika, benetako elkarrizketak, ariketa praktikoak, egiaztapen galdetegia, akats arruntak, praktika onak, hiztegia eta nazioarteko kultura.
+
+
+(Edukia luzatua hemen AI edo eskuz sortu beharreko. Modulu bakoitzak osatua, profesionala izan behar du eta benetako unibertsitateko ikastaro batean azaldu behar da, Zuzeneko / Nazioarteko Nazioarteko Marketin Negoziora zuzenean egokitua.)
+
+---

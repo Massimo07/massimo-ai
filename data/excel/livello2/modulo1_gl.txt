@@ -1,0 +1,58 @@
+### Módulo 1: Introdución a Excel para Network Marketing e Business Dixital
+
+**Teoría e Práctica de Excel**
+
+Excel é unha ferramenta esencial para calquera profesional do network marketing e do business dixital, como Live On Plus. Este módulo está deseñado para axudarche a comprender como Excel pode optimizar a túa xestión de datos, mellorar a túa eficiencia e facilitar a toma de decisións informadas.
+
+Excel é unha folla de cálculo que permite organizar datos en táboas, realizar cálculos automáticos e crear gráficos visuais para interpretar eses datos. Para un profesional no ámbito do network marketing, Excel pode ser utilizado para seguir contactos, analizar vendas, monitorizar o rendemento de campañas e moito máis.
+
+**Exemplo Real: Seguimento de Contactos**
+
+Imos considerar un caso práctico onde tes que seguir os teus contactos e os seus respectivos estados dentro do proceso de vendas. Crearás unha táboa en Excel con columnas para nome, correo electrónico, teléfono, estado da venda, e data do último contacto.
+
+1. **Abrir Excel**: Inicia o programa Excel no teu ordenador. Verás unha pantalla en branco chamada "Folla 1".
+   
+2. **Crear unha táboa básica**:
+   - Na primeira fila, escribe os encabezados das columnas: "Nome", "Correo Electrónico", "Teléfono", "Estado da Venda", "Data do Último Contacto".
+   - Na segunda fila, empeza a engadir os teus contactos. Por exemplo, na celda A2 escribe "Juan Pérez", na celda B2 escribe "juanperez@example.com", e así sucesivamente.
+
+3. **Formato da Táboa**: Selecciona toda a táboa e vai á pestana "Inicio". Usa a opción "Formato de Táboa" para escoller un estilo. Isto mellorará a presentación visual e permitirá ordenar e filtrar datos facilmente.
+
+**Exercicios e Quiz**
+
+Exercicio 1: Crea unha táboa similar coa información dos teus contactos actuais. Inclúe polo menos 10 entradas.
+
+Quiz:
+1. Que función de Excel usarías para contar o número de contactos nun estado específico?
+   - Resposta: A función `CONTAR.SI` é útil para isto. Por exemplo, `CONTAR.SI(D2:D11, "Interesado")`.
+
+2. Como engadirías un filtro para ver só os contactos que precisan seguimento?
+   - Resposta: Selecciona os encabezados da táboa, vai a "Datos" e selecciona "Filtro". Despois fai clic na frecha do encabezado "Estado da Venda" para seleccionar "Necesita Seguimento".
+
+**Diálogos Reais para WhatsApp, Telegram, Zoom, Email**
+
+Imos crear un exemplo de diálogo por email para contactar cun cliente potencial usando datos de Excel:
+
+- **Email**: 
+  "Estimado Juan Pérez,
+  Espero que esteas ben. Vimos que mostraste interese nos nosos produtos e gustaríanos ofrecerche unha consulta gratuíta para discutir como podemos axudarche. Por favor, avísanos cando sería un bo momento para chamarte.
+  Grazas e quedo á espera da túa resposta.
+  Un saúdo, [O teu Nome]"
+
+Este tipo de comunicación directa e persoalizada é posible grazas a un seguimento eficaz mediante Excel.
+
+**Erros Comúns e Como Evitalos**
+
+1. **Erro: Non gardar os cambios regularmente.**
+   - Solución: Usa a función de autoguardado de Excel ou recorda gardar manualmente con frecuencia (Ctrl + S).
+
+2. **Erro: Fórmulas incorrectas debido a referencia de celas mal feitas.**
+   - Solución: Usa referencias absolutas ($A$1) cando desexes que unha referencia de cela non cambie ao copiar a fórmula a outra cela.
+
+**Cultura Business Internacional**
+
+Comprender como Excel é utilizado a nivel internacional pode darche unha vantaxe competitiva. Por exemplo, en moitas empresas multinacionais, Excel é a ferramenta estándar para presentacións de resultados financeiros. Saber manexar Excel con destreza pode abrir portas a colaboracións internacionais e facilitar a comunicación con equipos globais.
+
+**Conclusión**
+
+Con este módulo, deberías ter unha comprensión básica de como utilizar Excel para xestionar contactos e datos de vendas no contexto do network marketing. Practicar regularmente e explorar as funcións avanzadas de Excel axudarache a converterte nun experto, mellorando así a túa eficiencia e capacidade de análise no teu negocio dixital.

@@ -1,0 +1,51 @@
+# **Excel-kurssi (Taso 2, Moduuli 1): Teoria ja Käytäntö**
+
+Tervetuloa Excel-kurssin toiseen tasoon! Tässä moduulissa syvennymme Excelin käyttöön erityisesti verkostomarkkinoinnin ja digitaalisen liiketoiminnan näkökulmasta. Moduulin tarkoituksena on tarjota syvällisempi ymmärrys Excelin käyttömahdollisuuksista liiketoiminnan analysoinnissa ja hallinnoinnissa.
+
+**Teoria ja Käytäntö:**
+
+Excel on tehokas työkalu tietojen hallintaan, analysointiin ja esittämiseen. Verkostomarkkinoinnissa Excel voi auttaa sinua seuraamaan myyntiäsi, hallitsemaan kontaktejasi ja ennustamaan tulevia trendejä. Aloitamme tarkastelemalla Excelin perustoimintoja, kuten taulukoiden luomista ja tietojen järjestämistä.
+
+Ensimmäinen askel on avata Excel ja tutustua käyttöliittymään. Excelissä on erilaisia valikkoja ja työkaluja, kuten "Aloitus", "Lisää", "Kaavat" ja "Tieto". Nämä työkalut auttavat sinua eri tehtävissä, kuten laskutoimituksissa, kaavioiden luomisessa ja tietojen analysoinnissa.
+
+**Esimerkki: Verkostomarkkinoinnin Myyntitaulukko**
+
+Kuvittele, että olet juuri aloittanut Live On Plus -verkostomarkkinoinnin parissa ja haluat seurata myyntiäsi. Luo uusi Excel-taulukko ja lisää seuraavat sarakkeet: Päivämäärä, Asiakas, Tuote, Määrä, Yksikköhinta, Kokonaishinta. Täytä taulukko esimerkkitiedoilla.
+
+1. Avaa Excel ja luo uusi työkirja.
+2. Nimeä ensimmäinen taulukko "Myynti".
+3. Kirjoita sarakkeiden otsikot ensimmäiselle riville.
+4. Syötä esimerkkitiedot seuraaville riveille.
+
+Kun olet syöttänyt tiedot, voit laskea kokonaishinnan kaavalla: kirjoita soluun F2 (Kokonaishinta) kaava `=D2*E2` ja paina Enter. Kopioi kaava alas kaikille riveille vetämällä solun oikeasta alakulmasta.
+
+**Esercizi e Quiz:**
+
+1. Luo taulukko, joka sisältää seuraavat sarakkeet: Kategoria, Tuotenumero, Myyntimäärä, Hinta.
+2. Syötä vähintään viisi riviä tietoa omasta liiketoiminnastasi.
+3. Laske koko taulukon kokonaishinta käyttämällä SUMMA-kaavaa.
+
+**Ratkaisut:**
+
+1. Luo uusi työkirja ja nimeä taulukko.
+2. Syötä tiedot ja käytä kaavaa `=SUMMA(E2:E6)` laskeaksesi kokonaishinnan.
+
+**Dialogit:**
+
+WhatsApp: "Hei Tiina! Voisitko lähettää minulle viime kuun myyntiraportin Excel-muodossa? Tarvitsen sen tämän viikon liiketapaamiseen."
+
+Telegram: "Moikka! Olen juuri luonut uuden Excel-taulukon Live On Plus -tuotteiden myyntiseurantaan. Voinko jakaa sen kanssasi?"
+
+Zoom: "Katsotaanpa yhdessä, miten voimme käyttää Exceliä tehokkaammin tiimimme myyntidatan analysointiin."
+
+Email: "Hei, tässä on liitteenä Excel-taulukko, joka sisältää tämän viikon myyntitiedot. Käytäthän SUMMA-kaavaa kokonaishinnan laskemiseen."
+
+**Yleiset virheet ja niiden välttäminen:**
+
+Yksi yleisimmistä virheistä Excelissä on kaavojen väärä kirjoittaminen. Muista aina aloittaa kaava yhtäsuuruusmerkillä (=) ja tarkistaa, että kaikki solujen viittaukset ovat oikein. Toinen yleinen virhe on unohtaa tallentaa työsi säännöllisesti. Käytä Ctrl + S -näppäinyhdistelmää tallentaaksesi työsi usein.
+
+**Kansainvälisen liiketoimintakulttuurin syventäminen:**
+
+Verkostomarkkinoinnissa on tärkeää ymmärtää eri markkinoiden kulttuurisia eroja. Esimerkiksi suomalaisessa liiketoimintakulttuurissa arvostetaan avoimuutta ja rehellisyyttä, kun taas muissa kulttuureissa muodollisuus ja hierarkia voivat olla merkittävämpiä. Excelin avulla voit helposti luoda raportteja, jotka ovat visuaalisesti selkeitä ja helposti ymmärrettäviä kansainväliselle yleisölle.
+
+Tämä moduuli on ensimmäinen askel kohti Excelin tehokasta hyödyntämistä liiketoiminnassasi. Käytä esimerkkejä ja harjoituksia syventääksesi ymmärrystäsi ja muista, että harjoitus tekee mestarin. Jatka harjoittelua ja käytä Exceliä osana päivittäistä liiketoimintaasi, niin huomaat pian sen tuomat edut.

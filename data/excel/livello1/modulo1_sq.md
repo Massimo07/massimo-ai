@@ -1,0 +1,65 @@
+# Moduli i Parë i Kursit "Excel" - Niveli 1
+
+Mirë se vini në modulin e parë të kursit tonë të Excel-it, ku do të hidhni hapat e parë në botën e kësaj vegle të fuqishme që do t'ju ndihmojë të menaxhoni dhe analizoni të dhënat me efikasitet. Ky modul është krijuar posaçërisht për fillestarët, duke ofruar një përmbledhje të teorisë dhe praktikës së Excel-it, me shembuj të përshtatur për network marketing dhe Live On Plus.
+
+**Teoria e Excel-it**
+
+Excel është një program për përpunimin e tabelave që ju lejon të ruani, organizoni dhe analizoni të dhëna. Në biznesin e network marketing, Excel mund të përdoret për të gjurmuar shitjet, për të menaxhuar kontaktet dhe për të krijuar raporte të performancës.
+
+Për të filluar, hapni Microsoft Excel. Ndërfaqja kryesore përbëhet nga qeliza të organizuara në rreshta dhe kolona. Çdo qelizë ka një adresë unike, për shembull, A1 ose B2, që tregon kolonën dhe rreshtin e saj.
+
+**Praktika e Excel-it**
+
+1. **Krijimi i një Fletore Excel:**
+
+   a. Hapni Excel dhe zgjidhni "Blank Workbook" për të krijuar një fletore të re.
+   
+   b. Në qelizën A1, shkruani "Emri i Konsumatorit". Në B1, shkruani "Email". Në C1, shkruani "Shitjet Mujore".
+   
+   c. Plotësoni disa qeliza me informacion të imagjinuar për klientët tuaj. Për shembull:
+      - A2: "John Doe"
+      - B2: "john.doe@example.com"
+      - C2: "1500"
+
+2. **Formulimi Bazë:**
+
+   a. Për të llogaritur totalin e shitjeve mujore, shkoni në qelizën C6 (nëse keni 5 rreshta të mbushura me të dhëna) dhe shkruani formulën =SUM(C2:C5). Kjo formulë do të mbledhë të gjitha vlerat në kolonën C nga rreshti 2 deri në 5.
+
+**Shembuj Reale në Network Marketing dhe Live On Plus**
+
+Impakti i Excel në network marketing është i madh. Duke përdorur Excel, ju mund të krijoni tabela për të gjurmuar performancën e skuadrës suaj, të analizoni trendet e shitjeve dhe të prezantoni të dhëna në mënyrë vizuale për kolegët.
+
+*Shembull Praktik:* Nëse jeni pjesë e Live On Plus, mund të krijoni një fletore për të ndjekur performancën e çdo anëtari të skuadrës, duke përdorur kolona për emrat, numrin e produkteve të shitura dhe komisionet e fituara.
+
+**Esercizi dhe Quiz me Zgjidhje**
+
+*Eserciz:* Krijoni një tabelë në Excel për të llogaritur komisionet mujore për skuadrën tuaj. Supozoni se komisioni është 10% e shitjeve totale.
+
+*Zgjidhja:* 
+- Në qelizën D1, shkruani "Komisioni".
+- Në qelizën D2, shkruani formulën =C2*0.1 dhe kopjojeni atë formulë për të gjitha rreshtat e mbushura me të dhëna.
+
+*Quiz:* Cila është formula për të llogaritur mesataren e shitjeve mujore?
+
+*Përgjigje:* Formula është =AVERAGE(C2:C5).
+
+**Dialogë për WhatsApp, Telegram, Zoom, Email**
+
+*WhatsApp/Telegram:*
+- "Përshëndetje! Si po shkon me përpunimin e tabelave në Excel? A keni nevojë për ndihmë me ndonjë formulë?"
+
+*Zoom:*
+- "Gjatë këtij sesioni, do të diskutojmë si të përdorim grafikat në Excel për të prezantuar të dhënat e skuadrës suaj në mënyrë vizuale."
+
+*Email:*
+- "I nderuar [Emri], siç diskutuam në mbledhjen e fundit, ju dërgoj një udhëzues të shkurtër se si të llogaritni komisionet mujore në Excel. Ju lutem më kontaktoni për çdo pyetje."
+
+**Gabime të Përbashkëta dhe Si të Shmangen**
+
+Një gabim i zakonshëm është mosmbyllja e saktë e formulave. Sigurohuni që të përdorni parantezat e duhura dhe të kontrolloni për gabime në sintaksë.
+
+**Kultura Ndërkombëtare e Biznesit**
+
+Në biznesin ndërkombëtar, Excel është një standard. Të kuptuarit e mirë i Excel-it ju jep një avantazh konkurrues, pasi shumë kompani ndërkombëtare presin që punonjësit e tyre të jenë të aftë në përdorimin e këtij mjeti.
+
+Në përfundim, ky modul ju ofron bazat për të filluar me Excel-in. Praktikoni shpesh dhe mos hezitoni të eksploroni më shumë funksionalitete për të rritur efikasitetin tuaj në network marketing dhe biznesin tuaj.

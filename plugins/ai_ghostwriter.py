@@ -1,0 +1,73 @@
+from telegram.ext import CommandHandler
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+import sys, os
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from utils import get_user
+
+import openai
+
+import os
+
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup
+
+OPENAI_MODEL = os.getenv("GPT_MODEL", "gpt-4o")
+
+async def ai_ghostwriter_handler(update, context):
+
+    user = update.effective_user
+
+    text = (
+
+        "✍️ *AI Ghostwriter PRO*\n\n"
+
+        "Vuoi articoli, script video, lettere, annunci o presentazioni di livello TOP? Scrivi il tuo obiettivo e scegli il tono (amichevole, autorevole, ispirante, tecnico) e Massimo AI scrive come un copywriter da 200€/ora."
+
+    )
+
+    buttons = [
+
+        [InlineKeyboardButton("Scrivi ora", callback_data="start_ghostwriter")],
+
+        [InlineKeyboardButton("🏠 Torna Home", callback_data="home")]
+
+    ]
+
+    await context.bot.send_message(
+
+        chat_id=user.id,
+
+        text=text,
+
+        parse_mode="Markdown",
+
+        reply_markup=InlineKeyboardMarkup(buttons)
+
+    )
+
+async def ai_ghostwriter_generate(update, context):
+
+    prompt = update.message.text.strip()
+
+    tone = "ispirante"  # Puoi farlo selezionare all'utente
+
+    response = openai.ChatCompletion.create(
+
+        model=OPENAI_MODEL,
+
+        messages=[{"role": "user", "content": f"Scrivi un testo {tone} su: {prompt}"}],
+
+        temperature=0.7,
+
+        max_tokens=400
+
+    )
+
+    testo = response['choices'][0]['message']['content'].strip()
+
+    await await update.message.reply_text(f"📝 *Testo pronto:*\n\n{testo}", parse_mode="Markdown")
+
+async def catch_all(update, context):
+    await update.message.reply_text("🙋‍♂️ Scrivi /start per cominciare oppure scegli una delle opzioni dal menu.")

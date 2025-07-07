@@ -1,0 +1,16 @@
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+async async async def corso_autotraining_livello_6_handler(update, context):
+
+    user = update.effective_user
+
+    text = (
+
+        "🧘 *Autotraining & Meditazione – Livello 6*\n\n"
+
+        "Gestione emozioni: strategie di controllo mentale, meditazione in movimento, focus sul team e performance di gruppo."
+
+    )
+
+    await context.bot.send_message(chat_id=user.id, text=text)
+

@@ -1,0 +1,65 @@
+### Modulul 1: Introducere în Excel pentru Network Marketing și Business Digital
+
+Bun venit la primul modul al cursului nostru de Excel, dedicat începătorilor care doresc să își îmbunătățească abilitățile de utilizare a acestui instrument esențial în network marketing și business digital. Vom explora împreună conceptele de bază ale Excelului și vom aplica aceste cunoștințe în contexte reale, specifice platformei Live On Plus și nu numai.
+
+#### Teorie și Practică
+
+**Ce este Excel?**
+
+Excel este un program de calcul tabelar dezvoltat de Microsoft, care permite utilizatorilor să organizeze, să analizeze și să vizualizeze date în tabele. În network marketing, Excel poate fi utilizat pentru a urmări performanța echipei, a gestiona contactele și a analiza tendințele de vânzări.
+
+**Interfața Excel**
+
+Când deschizi Excel, vei observa o grilă mare formată din rânduri și coloane. Fiecare dreptunghi din grilă se numește celulă. Fiecare coloană este identificată printr-o literă (de exemplu, A, B, C), iar fiecare rând printr-un număr (de exemplu, 1, 2, 3). Celulele sunt identificate prin combinația literă-număr, cum ar fi A1 sau B2.
+
+**Creează primul tău fișier Excel**
+
+1. Deschide Microsoft Excel.
+2. Selectează „Blank Workbook” pentru a crea un document nou.
+3. Salvează documentul mergând la „File” > „Save As” și alege locația unde dorești să-l salvezi. Dă-i un nume sugestiv, cum ar fi „Performanța Echipei Live On Plus”.
+
+#### Exercițiu Practic: Crearea unui Tabel de Contacte
+
+1. În celula A1, scrie „Nume”.
+2. În celula B1, scrie „Telefon”.
+3. În celula C1, scrie „Email”.
+4. În coloanele de sub aceste titluri, introdu informațiile de contact pentru membrii echipei tale sau potențiali clienți.
+
+Acest tabel simplu te va ajuta să îți organizezi și să accesezi rapid informațiile de contact.
+
+#### Exerciții și Quiz
+
+1. **Exercițiu:** Creează un tabel cu 10 rânduri în care să introduci numele clienților tăi, numerele de telefon și adresele de email. Salvează fișierul și încearcă să adaugi un rând suplimentar pentru un nou client.
+
+2. **Quiz:** Dacă vrei să găsești informațiile unui client al cărui nume îl știi, cum poți naviga rapid prin tabelul tău folosind funcționalitățile de filtrare ale Excelului?
+
+**Răspuns:** Poți folosi opțiunea „Filter” din tab-ul „Data” pentru a sorta și filtra datele după nume. Acest lucru îți va permite să găsești rapid informațiile dorite.
+
+#### Dialoguri Reale
+
+**WhatsApp/Telegram:**
+
+- Tu: „Bună, echipă! Am creat un tabel Excel cu toate contactele noastre. Vă rog să verificați și să adăugați orice informații lipsă. Mulțumesc!”
+
+**Zoom:**
+
+- Tu: „Astăzi vom revizui tabelul nostru de performanță. Voi împărtăși ecranul meu pentru a vedea cum putem utiliza filtrele pentru a analiza vânzările.”
+
+**Email:**
+
+- Subiect: „Actualizare Tabel Contacte”
+  - Conținut: „Bună echipă, am atașat tabelul nostru Excel actualizat. Vă rog să verificați și să confirmați acuratețea informațiilor. Aștept feedback-ul vostru. Mulțumesc!”
+
+#### Erori Comune și Cum să le Eviți
+
+- **Eroare:** Introducerea datelor greșite în celule.
+  - **Soluție:** Verifică întotdeauna datele introduse și folosește opțiunea „Undo” (Ctrl + Z) pentru a corecta imediat greșelile.
+
+- **Eroare:** Nu salvezi documentul frecvent.
+  - **Soluție:** Activează salvarea automată sau salvează manual frecvent (Ctrl + S).
+
+#### Cultura Business internațională
+
+În mediul de afaceri internațional, Excel este un limbaj comun. Mulți profesioniști din întreaga lume îl folosesc pentru a lua decizii bazate pe date. Înțelegerea și utilizarea eficientă a Excelului te poate ajuta să comunici mai bine cu colegii internaționali și să îți crești eficiența în afaceri.
+
+Acest modul reprezintă doar începutul aventurii tale în Excel. Pe măsură ce avansăm, vei învăța funcții și formule mai complexe care îți vor permite să analizezi datele într-un mod mai profund și să iei decizii informate în cadrul afacerii tale de network marketing. Nu uita să exersezi și să aplici ceea ce ai învățat în situațiile reale de afaceri pentru a deveni un expert în utilizarea Excelului.

@@ -1,0 +1,67 @@
+# **Modul 1: Uporaba Canva za Digitalni Marketing in Network Marketing**
+
+**Uvod v Canva in njegovo pomembnost**
+
+Canva je spletna platforma, ki omogoča enostavno ustvarjanje grafičnih vsebin. Za digitalni marketing, še posebej v network marketingu, je vizualna predstavitev ključnega pomena. Canva nam omogoča, da brez predhodnega oblikovalskega znanja ustvarimo profesionalne grafike, ki privabijo pozornost in povečajo angažiranost.
+
+**Teoretična osnova: Zakaj Canva?**
+
+Canva je dragoceno orodje zaradi svoje dostopnosti in enostavnosti uporabe. Platforma ponuja široko paleto predlog, ki jih lahko prilagodite svojim potrebam. V network marketingu, še posebej pri promociji produktov, kot je Live On Plus, je pomembno, da so vizualni materiali privlačni in dosledni z vašo blagovno znamko. Canva omogoča tudi sodelovanje z drugimi člani ekipe v realnem času, kar je ključno za usklajene marketinške kampanje.
+
+**Praktični del: Ustvarjanje prvega projekta v Canvi**
+
+1. **Prijava in raziskovanje platforme:** 
+   Najprej se prijavite v Canva. Če še nimate računa, ga ustvarite z vašim e-poštnim naslovom. Ko ste prijavljeni, se sprehodite po nadzorni plošči, da se seznanite z različnimi funkcijami. 
+
+2. **Izbira predloge:**
+   Kliknite na zavihek "Predloge" in v iskalno vrstico vpišite "marketing" ali "promocija izdelkov". Izberite predlogo, ki najbolj ustreza vaši blagovni znamki.
+
+3. **Prilagoditev predloge:**
+   - **Besedilo:** Kliknite na besedilna polja in jih prilagodite z informacijami o vašem produktu Live On Plus. Poskrbite, da bo besedilo jasno in jedrnato.
+   - **Slike:** Naložite slike vaših produktov ali izberite med brezplačnimi slikami, ki jih ponuja Canva. Povlecite in spustite jih na želeno mesto v predlogi.
+   - **Barve in pisave:** Prilagodite barvno shemo in pisave, da bodo usklajene z vašo blagovno znamko.
+
+**Enačba uspeha za Canva in Network Marketing**
+
+Dober dizajn = privlačna vizualizacija + doslednost blagovne znamke + jasnost sporočila.
+
+**Primeri iz prakse:**
+
+- **Promocijska grafika za Live On Plus:** Ustvarite oglas, ki izpostavlja ključne prednosti Live On Plus. Uporabite svetle barve in privlačne slike, da pritegnete pozornost.
+- **Infografika za izobraževanje strank:** Pripravite infografiko, ki pojasnjuje koristi vašega produkta na enostaven in vizualno privlačen način.
+
+**Esercizi:**
+
+1. **Ustvarite oglas za promocijo Live On Plus na socialnih omrežjih.**
+   - Uporabite predlogo, prilagodite slike in besedilo.
+   - Delite oglas na izbranem družbenem omrežju in zabeležite odziv.
+
+2. **Izdelajte infografiko, ki prikazuje 5 glavnih prednosti network marketinga.**
+   - Uporabite ikone in barvne sheme, ki so skladne z vašo blagovno znamko.
+
+**Rešitve za vaje:**
+
+- Prepričajte se, da so vse informacije na grafikah točne in da prenesejo jasno sporočilo o izdelku in koristih network marketinga.
+
+**Dialogi v digitalni komunikaciji:**
+
+- **WhatsApp/Telegram:**
+  - "Živjo [Ime], želel sem ti pokazati novo grafiko, ki sem jo ustvaril v Canvi za naš Live On Plus produkt. Kaj meniš?"
+
+- **Email:**
+  - "Spoštovani [Ime], pripenjam novo promocijsko grafiko za Live On Plus, ustvarjeno v Canvi. Vesel bom vaših povratnih informacij."
+
+- **Zoom:**
+  - "Pozdravljeni vsi! Danes vam bom pokazal, kako enostavno je ustvariti privlačne grafike v Canvi za naše marketinške potrebe."
+
+**Pogoste napake in kako se jim izogniti:**
+
+- **Preveč informacij:** Izogibajte se preobremenjenju grafike z besedilom. Ohranite jasnost in jedrnatost.
+- **Nedoslednost blagovne znamke:** Vedno uporabljajte iste barvne sheme in pisave, da ohranite prepoznavnost blagovne znamke.
+- **Nizka kakovost slik:** Uporabljajte le visokokakovostne slike za profesionalen videz.
+
+**Mednarodni poslovni kontekst:**
+
+Canva je globalno orodje, ki ga uporabljajo podjetja po celem svetu. Razumevanje, kako ustvariti vizualno privlačne vsebine, je ključno za uspeh na mednarodnem trgu. S pomočjo Canve lahko podjetja vseh velikosti ustvarijo materiale, ki so konkurenčni na globalni ravni.
+
+Zaključek: Obvladovanje Canve vam omogoča, da ustvarjate privlačne marketinške materiale brez potrebe po dragih oblikovalskih storitvah. To znanje je neprecenljivo za vsakogar, ki želi uspeti v network marketingu in širše v digitalnem marketingu.

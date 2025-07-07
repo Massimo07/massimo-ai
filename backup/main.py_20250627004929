@@ -1,0 +1,20 @@
+import os
+import asyncio
+from telegram.ext import ApplicationBuilder
+from handlers import get_handlers
+
+# Usa la variabile d'ambiente oppure incolla il token direttamente
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN") or "IL_TUO_TOKEN_TELEGRAM"
+
+async def main():
+    application = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
+
+    # Aggiungi tutti i tuoi handler dal modulo handlers.py
+    for handler in get_handlers():
+        application.add_handler(handler)
+
+    print("🚀 MASSIMO AI (Telegram bot) AVVIATO, ora si vola!")
+    await application.run_polling()
+
+if __name__ == "__main__":
+    asyncio.run(main())

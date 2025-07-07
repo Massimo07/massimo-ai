@@ -1,0 +1,76 @@
+# ## Mòdul 1: Introducció a Adobe Photoshop per a Network Marketing
+
+### Introducció
+
+Benvinguts al primer mòdul del curs "Adobe Photoshop per a Network Marketing". En aquest mòdul, aprendrem les bases de Photoshop, una eina essencial per crear contingut visual atractiu que pot potenciar les teves estratègies de màrqueting digital, especialment en plataformes com Live On Plus.
+
+### Teoria: Comprendre Photoshop
+
+Photoshop és un programa de disseny gràfic utilitzat per a l'edició i creació d'imatges. És conegut per les seves capacitats avançades de manipulació d'imatges, que permeten als usuaris editar fotografies, crear gràfics i dissenyar elements visuals amb precisió.
+
+#### Interfície de Photoshop
+
+Quan obres Photoshop per primera vegada, pot semblar intimidatori. L'interfície inclou una barra d'eines a l'esquerra, panells a la dreta i el llenç al centre. La barra d'eines conté eines per seleccionar, pintar, retocar i crear formes. Els panells inclouen capes, colors, ajustaments i més.
+
+#### Capes
+
+Un dels conceptes més importants a entendre són les capes. Pensa en les capes com fulls transparents apilats. Pots moure, editar i ajustar cada capa independentment, cosa que et permet crear dissenys complexos amb facilitat.
+
+### Pràctica: Primeres Passes a Photoshop
+
+1. **Crear un nou document**
+   - Obre Photoshop i selecciona "Fitxer" > "Nou".
+   - Tria les dimensions adequades per al teu projecte. Per exemple, per a un post a Instagram, pots utilitzar 1080x1080 píxels.
+
+2. **Afegir una imatge**
+   - Tria "Fitxer" > "Obrir" per afegir una imatge existent.
+   - La imatge s'obrirà com a nova capa al teu document.
+
+3. **Utilitzar eines bàsiques**
+   - **Eina de selecció**: Utilitza aquesta per seleccionar parts de la teva imatge. Pots moure-les, retallar-les o aplicar efectes específics.
+   - **Eina de text**: Fes clic a l'eina de text, selecciona un espai al llenç i escriu el teu missatge. Pots ajustar la font, el color i la mida al panell superior.
+
+### Exemple Real: Creació d'un Post per a Live On Plus
+
+Imagina que estàs promocionant un esdeveniment de Live On Plus. Pots crear un post atractiu a Photoshop amb els passos següents:
+
+- **Fons**: Tria un color de fons que representi la teva marca.
+- **Imatge del producte**: Afegeix una imatge del producte que estàs promocionant. Utilitza les eines de selecció per ajustar la seva posició.
+- **Text**: Afegeix text informatiu com "Esdeveniment Exclusiu!" i la data i hora.
+  
+### Exercicis i Quiz
+
+**Exercici 1:** Crea un banner promocional per a un producte de network marketing utilitzant capes i text. Assegura't d'incloure el logotip de la teva marca.
+
+**Quiz:**
+1. Què és una capa a Photoshop?
+2. Com pots afegir text a una imatge?
+
+**Solucions:**
+1. Una capa és un element individual dins del teu projecte en Photoshop que pots editar sense afectar altres parts del disseny.
+2. Pots afegir text seleccionant l'eina de text i clicant al lloc del llenç on vols que aparegui el text.
+
+### Diàlegs Reals per a Comunicació
+
+**WhatsApp/Telegram:**
+- **Tu:** "Hola [Nom], estic treballant en un nou disseny per a la nostra campanya de Live On Plus. Puc enviar-te una previsualització?"
+- **Resposta:** "Hola! Sí, m'encantaria veure-ho. Envia-m'ho quan puguis."
+
+**Zoom:**
+- **Tu:** "Durant aquesta reunió, us mostraré com podem utilitzar Photoshop per millorar els nostres materials de màrqueting."
+- **Participant:** "Perfecte, estic emocionat per veure com podem fer-ho més atractiu visualment."
+
+**Email:**
+- **Assumpte:** "Revisió del Disseny per a [Esdeveniment/Promoció]"
+- **Cos:** "Hola [Nom], adjunto trobareu el disseny preliminar per a la nostra pròxima promoció. Si us plau, revisa-ho i fes-me saber els teus comentaris. Gràcies!"
+
+### Errors Comuns i Com Evitar-los
+
+- **No utilitzar capes correctament:** Assegura't de crear una nova capa per a cada element nou. Això et permetrà fer ajustos sense afectar altres parts del disseny.
+- **Oblidar-se de guardar regularment:** Utilitza "Ctrl + S" per guardar el teu treball freqüentment i evitar pèrdua de dades.
+
+### Cultura Empresarial Internacional
+
+Comprendre les preferències culturals és essencial en el màrqueting digital. Per exemple, els colors i les imatges que utilitzes poden tenir diferents connotacions en diferents cultures. Sempre investiga el teu públic objectiu i adapta els teus dissenys per assegurar-te que estiguin alineats amb les seves expectatives i valors.
+
+Aquest mòdul ha cobert les bases de Photoshop i com utilitzar-lo per millorar les teves estratègies de màrqueting digital. A mesura que avancem en el curs, explorarem eines més avançades i tècniques per portar els teus dissenys al següent nivell.

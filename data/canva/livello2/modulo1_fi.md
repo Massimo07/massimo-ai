@@ -1,0 +1,59 @@
+# ### Moduuli 1: Johdanto Canvaan ja sen käyttö network-markkinoinnissa
+
+#### Teoria ja Käytäntö
+
+Canva on monipuolinen graafinen suunnittelutyökalu, joka on erityisen hyödyllinen network-markkinoinnissa ja digitaalisessa liiketoiminnassa. Tämän moduulin tavoitteena on opettaa, miten voit hyödyntää Canvaa tehokkaasti luodaksesi visuaalisesti houkuttelevia markkinointimateriaaleja.
+
+**Teoria**: Canva tarjoaa käyttäjilleen laajan valikoiman työkaluja, joilla voi luoda kaikenlaisia visuaalisia sisältöjä, kuten esityksiä, sosiaalisen median postauksia, mainoksia ja paljon muuta. Canvassa on valmiita pohjia, jotka helpottavat aloittamista, mutta voit myös luoda designisi alusta asti itse. Canva toimii sekä verkkoselaimessa että mobiilisovelluksena, joten voit työskennellä missä ja milloin tahansa.
+
+**Käytäntö**: Aloita luomalla ilmainen Canva-tili osoitteessa www.canva.com. Kun olet kirjautunut sisään, tutustu käyttöliittymään: yläreunassa on valikko, josta voit valita erilaisia sisältötyyppejä (kuten Facebook-postaus, esitys, tai juliste). Valitse esimerkiksi "Sosiaalinen media" ja sitten "Instagram-postaus". Tämä avaa editorin, jossa voit muokata valmiita pohjia tai aloittaa tyhjästä.
+
+#### Esimerkit: Network-Markkinointi ja Live On Plus
+
+**Esimerkki 1**: Oletetaan, että haluat luoda houkuttelevan Instagram-postauksen promotoidaksesi uutta tuotetta Live On Plus -alustalla. Valitse Canvasta "Instagram-postaus" ja etsi hakusanoilla "business" tai "product launch" sopiva pohja. Muokkaa teksti vastaamaan tuotteen ominaisuuksia ja lisää brändisi logo. Voit käyttää Canvan kuvapankkia lisätäksesi kuvia tai ladata omia kuvia.
+
+**Esimerkki 2**: Luo esitys, jolla esittelet Live On Plus -konseptia mahdollisille asiakkaille. Valitse "Esitys" ja käytä pohjaa, joka sopii ammatilliseen tyyliin. Lisää dioille tekstiä, kuvia ja kaavioita, jotka selventävät liiketoimintamallia ja sen etuja.
+
+#### Harjoitukset ja Visailut
+
+**Harjoitus**: Luo Canvaan A4-kokoinen flyeri, jolla mainostat tulevaa webinaaria. Käytä Canvan työkaluja lisätäksesi tapahtuman tiedot, puhujien kuvat ja yhteystiedot. Varmista, että flyeri on visuaalisesti tasapainoinen ja helppolukuinen.
+
+**Visailu**: Mikä seuraavista EI ole Canvan ominaisuus?
+A) Valmiit pohjat
+B) Koodieditori
+C) Kuvakirjasto
+D) Tekstityökalut
+
+**Ratkaisu**: B) Koodieditori
+
+#### Dialogit: WhatsApp, Telegram, Zoom, Sähköposti
+
+**WhatsApp**: 
+- Sinä: "Hei Tiina, olen juuri tehnyt uuden Instagram-postauksen Canvalla. Voitko katsoa ja kertoa mielipiteesi?"
+- Tiina: "Totta kai! Lähetä linkki, niin vilkaisen heti."
+
+**Telegram**:
+- Sinä: "Hei tiimi, kuka haluaa osallistua seuraavaan Canva-työpajaan?"
+- Tiimin jäsen: "Minä ehdottomasti, haluan oppia lisää visuaalisesta markkinoinnista!"
+
+**Zoom**:
+- Sinä: "Aloitetaan esitys Live On Plus:sta. Käytän Canvaa, jotta se on visuaalisesti kiinnostava."
+- Osallistuja: "Hienoa, odotan innolla näkeväni esityksesi!"
+
+**Sähköposti**:
+- Sinä: "Hei, lähetän tässä liitteenä Canva-esityksen, jonka tein viime viikon tapaamista varten. Kertokaa ajatuksianne!"
+- Vastaanottaja: "Kiitos! Esitys näyttää todella hyvältä ja ammattimaiselta."
+
+#### Yleiset Virheet ja Niiden Välttäminen
+
+1. **Liiallinen elementtien käyttö**: Yksi yleisimmistä virheistä on yrittää käyttää liian monta visuaalista elementtiä yhdessä designissa. Pidä design yksinkertaisena ja keskity muutamaan pääelementtiin.
+
+2. **Tekstin luettavuus**: Varmista, että tekstin väri erottuu taustasta. Käytä riittävän suurta fonttia ja vältä liian koristeellisia fontteja.
+
+3. **Kuvien laatu**: Käytä korkealaatuisia kuvia. Canva tarjoaa laajan kuvapankin, mutta voit myös ladata omia kuvia, kunhan ne ovat hyvälaatuisia.
+
+#### Kansainväliset Liiketoimintakulttuurit
+
+Kansainvälisessä liiketoiminnassa visuaalisuus voi viestiä paljon yrityksen arvoista ja ammattimaisuudesta. Esimerkiksi länsimaisissa kulttuureissa minimalismi ja selkeys ovat arvostettuja, kun taas Aasian markkinoilla värikkyys ja yksityiskohtaisuus saattavat olla suositumpia. Hyödynnä Canvan muokattavia pohjia sopeutuaksesi eri kulttuurien mieltymyksiin.
+
+Tässä oli ensimmäinen moduuli Canvan käytöstä network-markkinoinnin ja digitaalisen liiketoiminnan tukena. Jatkuva harjoittelu ja eri ominaisuuksien kokeilu auttavat sinua kehittymään taitavaksi Canvan käyttäjäksi.

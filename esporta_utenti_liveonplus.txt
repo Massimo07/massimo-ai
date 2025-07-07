@@ -1,0 +1,104 @@
+import time
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.keys import Keys
+
+# ---- CONFIGURAZIONE ----
+EMAIL = "INSERISCI_LA_TUA_EMAIL"
+PASSWORD = "INSERISCI_LA_TUA_PASSWORD"
+URL_LOGIN = "https://user.liveonplus.it/login"
+URL_TREE = "https://user.liveonplus.it/tree-view"
+PATH_CHROMEDRIVER = "chromedriver.exe"  # Assicurati che sia nello stesso folder dello script
+
+# Mappa prefissi → stato
+PREFISSI = {
+    '+39': 'Italia',
+    '+40': 'Romania',
+    '+49': 'Germania',
+    '+33': 'Francia',
+    '+34': 'Spagna',
+    '+44': 'UK',
+    '+43': 'Austria',
+    '+41': 'Svizzera',
+    '+386': 'Slovenia',
+    '+351': 'Portogallo',
+    '+48': 'Polonia',
+    '+36': 'Ungheria',
+    '+355': 'Albania',
+    '+1': 'USA/Canada'
+    # Aggiungi altri prefissi se vuoi!
+}
+
+def trova_stato(cell):
+    if not cell or not cell.strip():
+        return "Non disponibile"
+    for prefisso, stato in PREFISSI.items():
+        if cell.startswith(prefisso):
+            return stato
+    return "Non identificato"
+
+def main():
+    options = Options()
+    options.add_argument("--start-maximized")
+    driver = webdriver.Chrome(PATH_CHROMEDRIVER, options=options)
+    driver.get(URL_LOGIN)
+
+    # LOGIN
+    time.sleep(2)
+    driver.find_element(By.NAME, "email").send_keys(EMAIL)
+    driver.find_element(By.NAME, "password").send_keys(PASSWORD)
+    driver.find_element(By.TAG_NAME, "button").click()
+
+    time.sleep(4)
+    driver.get(URL_TREE)
+    time.sleep(4)
+
+    utenti = []
+
+    # Cerca tutte le righe della tabella (tr)
+    righe = driver.find_elements(By.XPATH, '//table//tr')
+    for r in righe[1:]:  # Salta intestazione
+        celle = r.find_elements(By.TAG_NAME, 'td')
+        if len(celle) >= 4:
+            codice = celle[0].text.strip()
+            nome = celle[1].text.strip()
+            livello = celle[2].text.strip()
+            # Click sulla "i" per info dettagliate (cellulare)
+            try:
+                btn_info = celle[-1].find_element(By.TAG_NAME, "button")
+                driver.execute_script("arguments[0].scrollIntoView();", btn_info)
+                btn_info.click()
+                time.sleep(0.5)
+                modal = driver.find_element(By.XPATH, '//div[contains(@class,"modal")]')
+                testo = modal.text
+                # Estrai numero di cellulare (esempio di parsing)
+                cell = ""
+                for riga in testo.split("\n"):
+                    if "Cellulare" in riga:
+                        cell = riga.split(":")[-1].strip()
+                        break
+                stato = trova_stato(cell)
+                # Chiudi modale
+                driver.find_element(By.XPATH, '//button[contains(@class,"btn-close")]').click()
+            except Exception as e:
+                cell = ""
+                stato = "Non trovato"
+            utenti.append({
+                "Codice": codice,
+                "Nome e Cognome": nome,
+                "Livello": livello,
+                "Cellulare": cell,
+                "Stato": stato
+            })
+
+    driver.quit()
+
+    # SALVA SU EXCEL
+    df = pd.DataFrame(utenti)
+    df.to_excel("utenti_liveonplus.xlsx", index=False)
+    print("File utenti_liveonplus.xlsx generato!")
+
+if __name__ == "__main__":
+    main()

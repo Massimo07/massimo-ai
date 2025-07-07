@@ -1,0 +1,6 @@
+[
+    {"nome": "Crema Viso Aloe Vera", "categoria": "Skincare", "prezzo": 22.90, "descrizione": "Idratante intensiva, adatta a tutti i tipi di pelle"},
+    {"nome": "Integratore Vital Energy", "categoria": "Integratori", "prezzo": 27.50, "descrizione": "Dona energia e vitalità, ideale per periodi di stanchezza"},
+    {"nome": "Mascara 3D Volume", "categoria": "Make-Up", "prezzo": 19.90, "descrizione": "Effetto ciglia finte, lunga durata"},
+    ...
+]

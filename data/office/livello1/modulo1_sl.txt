@@ -1,0 +1,56 @@
+Seveda, z veseljem bom pripravil podroben modul za vaš tečaj "Office" na nivoju začetnikov. Ta modul bo vseboval vse potrebne informacije za razumevanje osnov uporabe Office orodij v kontekstu mrežnega marketinga in digitalnega poslovanja. 
+
+**Modul 1: Uvod v Office za Mrežni Marketing**
+
+V tem modulu se bomo osredotočili na uporabo osnovnih orodij Office, kot so Microsoft Word, Excel in PowerPoint, v povezavi z mrežnim marketingom, zlasti z Live On Plus. Cilj je, da boste na koncu modula razumeli, kako ta orodja uporabljati za povečanje produktivnosti in učinkovitosti v vašem digitalnem poslu.
+
+**Teorija in praksa**
+
+Na začetku je pomembno razumeti, kaj je Office paket. Office je skupek programskih orodij, ki jih Microsoft ponuja za pomoč pri različnih pisarniških nalogah. V kontekstu mrežnega marketinga so ta orodja ključna za ustvarjanje profesionalnih dokumentov, analiziranje podatkov in pripravo predstavitev.
+
+1. **Microsoft Word**: To orodje je idealno za pripravo dokumentov, kot so poslovni načrti, poročila ali celo pisma za stranke. Pomembno je, da znate oblikovati tekst, uporabljati slogovne funkcije, in vključevati slike ali tabele.
+
+   *Primer iz prakse*: Predstavljajte si, da morate ustvariti poročilo o mesečni prodaji vašega tima. Word vam omogoča, da jasno in profesionalno organizirate informacije, dodate grafične elemente za izboljšanje vizualne predstavitve in vključite komentarje za dodatna pojasnila.
+
+2. **Microsoft Excel**: To je močno orodje za analizo podatkov in ustvarjanje preglednic. V mrežnem marketingu ga lahko uporabite za sledenje prodajnim številkam, izračunavanje provizij ali ocenjevanje uspešnosti kampanj.
+
+   *Primer iz prakse*: Denimo, da želite analizirati učinkovitost različnih produktov. Excel vam omogoča, da vnesete podatke o prodaji, ustvarite grafikone za vizualizacijo uspešnosti in uporabite formule za izračunavanje dobička.
+
+3. **Microsoft PowerPoint**: Uporablja se za ustvarjanje predstavitev. V mrežnem marketingu je to ključno za predstavitve izdelkov ali za motivacijske govore vašega tima.
+
+   *Primer iz prakse*: Če pripravljate predstavitev za potencialne stranke, lahko PowerPoint uporabite za ustvarjanje diapozitivov, ki poudarjajo prednosti vaših izdelkov, vključujejo slike in video posnetke ter animacije za boljšo interakcijo.
+
+**Esercizi in kvizi**
+
+1. **Vaja**: Ustvarite poročilo v Wordu o vašem zadnjem mrežnem srečanju. Vključite povzetek, glavne točke in slike. 
+   *Rešitev*: Uporabite funkcije za oblikovanje besedila, dodajte naslov in podnaslove, vključite slike z uporabo funkcije "Vstavi sliko".
+
+2. **Kvizi**: 
+   - Kaj je glavni namen uporabe Excela v mrežnem marketingu?
+   - Kako lahko PowerPoint izboljša vašo predstavitev izdelkov?
+
+**Dialogi za komunikacijska orodja**
+
+1. **WhatsApp**: 
+   - Stranka: "Pozdravljeni, zanima me več o vaših izdelkih."
+   - Vi: "Pozdravljeni! Z veseljem vam pošljem našo najnovejšo brošuro v PDF obliki. Ali vam lahko pošljem tudi povezavo do naše zadnje PowerPoint predstavitve?"
+
+2. **Email**: 
+   - Zadeva: Predstavitev vaših izdelkov
+   - Besedilo: "Spoštovani, v prilogi vam pošiljam PowerPoint predstavitev z informacijami o naših najnovejših izdelkih. Veselimo se vaših povratnih informacij."
+
+**Pogoste napake in kako jih preprečiti**
+
+1. **Napaka**: Nepravilno oblikovani dokumenti v Wordu.
+   - *Kako preprečiti*: Uporabite vgrajene stile in predloge za dosledno oblikovanje.
+
+2. **Napaka**: Nepravilna uporaba formul v Excelu.
+   - *Kako preprečiti*: Vedno dvakrat preverite formule in uporabite funkcijo za preverjanje napak.
+
+**Kulturni vidiki mednarodnega poslovanja**
+
+Pri poslovanju na mednarodnem nivoju je pomembno razumeti in spoštovati kulturne razlike. To vključuje poznavanje poslovnega bontona, razumevanje različnih komunikacijskih stilov in prilagajanje vašega pristopa glede na kulturni kontekst.
+
+Na primer, pri komuniciranju z mednarodnimi strankami preko e-pošte je pomembno uporabljati formalni jezik in jasno strukturirati sporočilo. Uporabite pozdrave in zaključke, ki so primerni za posamezno kulturo, in bodite pozorni na časovne razlike.
+
+Na koncu tega modula bi morali imeti jasno razumevanje, kako uporabiti Office orodja za podporo vašemu mrežnemu marketingu in poslovnim dejavnostim. Uporabite pridobljeno znanje za ustvarjanje profesionalnih dokumentov in učinkovito komuniciranje s svojimi strankami in timom.

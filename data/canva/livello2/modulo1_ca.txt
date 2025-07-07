@@ -1,0 +1,73 @@
+### Mòdul 1: Introducció a Canva per al Màrqueting de Xarxa i Business Digital
+
+Benvinguts al Mòdul 1 del curs "Canva, Nivell 2". En aquest mòdul, explorarem com utilitzar Canva de manera efectiva per al màrqueting de xarxa i el business digital, amb un enfocament específic en Live On Plus. Canva és una eina de disseny gràfic en línia, intuïtiva i accessible, que permet crear dissenys visuals atractius sense necessitat de tenir experiència prèvia en disseny gràfic.
+
+#### Teoria i Pràctica
+
+Canva és coneguda per la seva interfície fàcil d'usar, que permet als usuaris crear gràfics de qualitat professional amb facilitat. La teoria darrere de Canva és simple: proporcionar a qualsevol persona les eines per expressar visualment les seves idees d'una manera atractiva i impactant.
+
+**Pas 1: Crear un Compte a Canva**
+
+1. Visita el lloc web de Canva (www.canva.com).
+2. Fes clic a "Registra't" i segueix les instruccions per crear un compte nou. Pots registrar-te utilitzant el teu correu electrònic, compte de Google o Facebook.
+
+**Pas 2: Familiarització amb la Interfície**
+
+Un cop hagis iniciat sessió, t'adonaràs que la interfície és molt intuïtiva. A la pàgina d'inici, trobaràs una barra de cerca per explorar plantilles, un menú lateral amb opcions com "Els teus dissenys", "Plantilles", "Elements", i més.
+
+**Pas 3: Creació d'un Disseny Bàsic**
+
+Suposem que vols crear un pòster atractiu per promoure un producte de Live On Plus. Fes clic a "Crear un disseny" i selecciona la mida adequada, com ara un pòster (42x59.4 cm).
+
+En el llenç de treball, pots triar una plantilla predeterminada o començar des de zero. Les plantilles són especialment útils per a principiants, ja que proporcionen una estructura visual predefinida.
+
+#### Exemple Real Aplicat al Network Marketing
+
+Imagina que ets un representant de Live On Plus i vols dissenyar un pòster per a un nou producte de benestar. 
+
+1. Tria una plantilla amb una estètica que reflecteixi la imatge de marca de Live On Plus.
+2. Substitueix el text de mostra amb detalls específics del producte, com ara el nom, els beneficis i la informació de contacte.
+3. Afegeix imatges d'alta qualitat del producte. Pots pujar imatges pròpies o utilitzar la biblioteca d'imatges de Canva.
+4. Personalitza els colors i les fonts per assegurar que el disseny s'alinea amb la identitat de marca de Live On Plus.
+
+#### Exercicis i Quiz
+
+**Exercici: Creació d'un Banner per a Xarxes Socials**
+
+1. Crea un banner per a Facebook que anunciï un webinar de Live On Plus.
+2. Utilitza elements visuals com icones i gràfics per il·lustrar dades clau del webinar.
+3. Assegura't que el text sigui clar i llegible.
+
+**Quiz:**
+
+1. Quina és la funció principal de la barra de cerca de Canva?
+   - a) Permet cercar imatges a internet.
+   - b) Permet cercar plantilles i elements dins de Canva.
+   - c) Permet contactar amb el suport tècnic de Canva.
+
+*Resposta: b) Permet cercar plantilles i elements dins de Canva.*
+
+#### Diàlegs Reals
+
+**WhatsApp/Telegram:**
+
+- Usuari: "Hola, com puc crear un pòster atractiu per a un esdeveniment de Live On Plus?"
+- Instructor: "Hola! T'aconsello començar amb una plantilla a Canva. Pots personalitzar-la amb colors i imatges del teu esdeveniment."
+
+**Zoom:**
+
+- Instructor: "Ara compartirem la pantalla per mostrar com seleccionar i personalitzar una plantilla. Algú té preguntes fins ara?"
+
+**Email:**
+
+- Correu a un client potencial: "Hola [Nom], adjunto un pòster informatiu del nostre proper esdeveniment de Live On Plus. Espero que puguis unir-te a nosaltres!"
+
+#### Errors Comuns i Com Evitar-los
+
+Un error comú és no tenir en compte la coherència de marca. Sempre assegura't que els dissenys reflecteixin l'estètica i el missatge de la teva marca. Altres errors inclouen la sobrecàrrega de text i l'ús inadequat d'imatges de baixa resolució. Per evitar-ho, utilitza text concís i imatges d'alta qualitat.
+
+#### Cultura Business Internacional
+
+En el context global del màrqueting de xarxa, és crucial entendre les diferències culturals. Quan dissenyes materials per a un públic internacional, considera les preferències culturals en colors, imatges i estils de comunicació. Canva facilita aquesta adaptació gràcies a la seva àmplia varietat de plantilles i elements que poden ser ajustats segons les necessitats culturals.
+
+Amb aquests coneixements, estàs preparat per començar a crear dissenys efectius per al teu negoci de màrqueting de xarxa utilitzant Canva. Practica regularment per millorar les teves habilitats i crea materials que captivin la teva audiència.

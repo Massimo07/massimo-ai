@@ -1,0 +1,65 @@
+# # Excel 1. līmeņa kurss: Modulis 1
+
+## Ievads Excel
+
+Microsoft Excel ir viens no pasaulē visbiežāk izmantotajiem rīkiem datu pārvaldībai, analīzei un prezentācijai. Šajā modulī mēs apgūsim Excel pamatus, kas ir būtiski gan network marketing jomā, gan arī vispārīgā biznesa vidē. Sākot no izklājlapu veidošanas līdz datu analīzei, Excel ir neaizstājams rīks ikvienam digitālajā biznesā.
+
+### Teorija un Prakse
+
+Excel ir elektroniska izklājlapu programma, kas ļauj ievadīt, kārtot un analizēt datus. Tas ir īpaši noderīgs, lai pārvaldītu kontaktpersonu sarakstus, pārdošanas datus un citus svarīgus biznesa rādītājus. Mēs sāksim ar pamatiem - kā atvērt programmu, kā izveidot jaunu failu un kā saglabāt darbu.
+
+**1. solis: Excel atvēršana un faila izveide**
+- Lai atvērtu Excel, noklikšķiniet uz Excel ikonas datorā. Parasti tā atrodas darbvirsmā vai programmu sarakstā.
+- Kad programma ir atvērta, izvēlieties "Jauns" un pēc tam noklikšķiniet uz "Tukša darbgrāmata". Tādējādi izveidosiet jaunu failu, ko varēsiet izmantot saviem datiem.
+
+**2. solis: Datu ievadīšana un formatēšana**
+- Noklikšķiniet uz jebkura šūnas (mazs taisnstūrveida lodziņš) un sāciet rakstīt. Ievadiet, piemēram, produkta nosaukumu, cenu un daudzumu.
+- Lai formatētu tekstu, izmantojiet rīkus augšējā lentē, piemēram, "Bold" (treknraksts), "Italic" (slīpraksts) vai "Underline" (pasvītrojums).
+
+### Piemēri no reālās dzīves
+
+**Network Marketing un Excel:**
+Piemēram, ja esat Live On Plus pārstāvis, varat izmantot Excel, lai saglabātu savu klientu un potenciālo klientu kontaktinformāciju. Izveidojiet kolonnas ar nosaukumiem "Vārds", "Uzvārds", "E-pasts", "Tālrunis" un "Pēdējā saziņa". Tas palīdzēs sekot līdzi klientu attiecībām un plānot turpmākas darbības.
+
+### Uzdevumi un testi
+
+**Uzdevums 1:**
+Izveidojiet jaunu Excel failu un ievadiet sekojošus datus:
+- Kolonna A: "Produkta nosaukums" (ievadiet trīs dažādus produktus)
+- Kolonna B: "Cena" (norādiet katram produktam cenu)
+- Kolonna C: "Daudzums" (ievadiet pieejamo daudzumu)
+
+**Risinājums:**
+Pārbaudiet, vai esat pareizi ievadījis visus datus un izmantojiet formatēšanas rīkus, lai padarītu tabulu viegli pārskatāmu.
+
+**Tests:**
+Kāds ir ātrākais veids, kā saglabāt Excel failu? (Atbilde: Noklikšķiniet uz disketes ikonas augšējā kreisajā stūrī vai izmantojiet īsinājumtaustiņus Ctrl + S.)
+
+### Dialogi reālās dzīves situācijās
+
+**WhatsApp saruna:**
+- Jūs: "Sveiks, vai esi saņēmis pēdējo Excel failu ar klientu datiem?"
+- Kolēģis: "Jā, esmu. Paldies! Viss izskatās kārtībā."
+
+**Telegram saruna:**
+- Jūs: "Vai varam šodien apspriesties par Excel faila analīzi pulksten 15:00?"
+- Kolēģis: "Der! Pieslēgšos Zoom."
+
+**Zoom saruna:**
+- Jūs: "Sveiki visiem, šodien mēs apskatīsim mūsu jaunākos datus Excel failā un pārrunāsim, kā tos varam izmantot mārketinga stratēģijās."
+
+**E-pasts:**
+- Temats: "Excel Faila Atjauninājums"
+- "Labdien, lūdzu, apskatiet pievienoto Excel failu ar atjaunotajiem datiem. Jūsu komentāri būs ļoti vērtīgi."
+
+### Biežāk pieļautās kļūdas un to novēršana
+
+Viens no biežākajiem iesācēju kļūdām ir datu ievadīšana nepareizās šūnās vai aizmirst izmantot saglabāšanas funkciju. Lai to novērstu, regulāri saglabājiet savu darbu un vienmēr pārbaudiet, vai dati ir ievadīti pareizi.
+
+### Starptautiskā Biznesa Kultūra
+
+Izprotot Excel un tā izmantošanu network marketing jomā, ir svarīgi arī izprast starptautisko biznesa kultūru. Piemēram, dažādās valstīs var būt atšķirīgas datu prezentācijas un analīzes pieejas, tāpēc ir būtiski būt elastīgam un atvērtam jaunām metodēm.
+
+### Noslēgumā
+
+Šis modulis piedāvā stabilu pamatu Excel izmantošanai biznesā, īpaši network marketing sfērā. Turpmākajos moduļos mēs padziļināti izpētīsim sarežģītākas funkcijas un analīzes rīkus, kas palīdzēs jums veiksmīgāk pārvaldīt savus datus un pieņemt informētus lēmumus.

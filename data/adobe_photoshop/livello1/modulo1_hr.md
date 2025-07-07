@@ -1,0 +1,61 @@
+# ### Modul 1: Uvod u Adobe Photoshop za Digitalni Marketing i Network Marketing
+
+Dobrodošli na prvi modul našeg tečaja Adobe Photoshop, posebno prilagođenog za potrebe network marketinga i digitalnog poslovanja. U ovom modulu, fokusirat ćemo se na osnove Photoshopa, te kako ga koristiti za stvaranje vizualnog sadržaja koji će pojačati vašu marketinšku strategiju. 
+
+#### Teorija i Praksa
+
+**Što je Adobe Photoshop?**
+
+Adobe Photoshop je moćan alat za uređivanje i stvaranje digitalnih slika. Koristi se u raznim industrijama, uključujući marketing, dizajn i fotografiju. Njegova svestranost omogućava korisnicima da manipuliraju slikama, stvaraju grafiku i pripremaju vizuale za različite medije.
+
+**Zašto koristiti Photoshop u Network Marketingu?**
+
+U network marketingu, vizualni sadržaj igra ključnu ulogu u privlačenju i zadržavanju publike. Korištenjem Photoshopa, možete kreirati profesionalne bannere, prilagođene slike za društvene mreže i prezentacije koje će istaknuti vaš brend i proizvode.
+
+#### Praktični Primjer: Izrada Promotivnog Bannera
+
+1. **Pokretanje Photoshopa**: Otvorite Adobe Photoshop i odaberite "New File" (Nova datoteka). Unesite dimenzije koje odgovaraju vašim potrebama za banner (npr., 1200x628 piksela za Facebook oglas).
+
+2. **Dodavanje Pozadine**: U "Layers" panelu, kliknite na "Create New Layer". Odaberite alat "Paint Bucket" i ispunite pozadinu bojom po izboru. Preporučuje se koristiti boje koje su u skladu s vašim brendom.
+
+3. **Dodavanje Teksta**: Koristite alat "Text" (T) da dodate tekst. Kliknite na banner i unesite promotivnu poruku. Možete prilagoditi font, veličinu i boju teksta kroz "Character" panel.
+
+4. **Umetanje Slika**: Povucite i ispustite slike proizvoda na radno područje. Koristite alat "Move" (V) za pozicioniranje slika. Ako su slike prevelike ili premale, koristite "Free Transform" (Ctrl+T) za prilagodbu veličine.
+
+5. **Spremanje i Izvoz**: Kada završite, spremite datoteku u .psd formatu za buduće izmjene. Za dijeljenje na društvenim mrežama, izvezite datoteku kao .jpeg ili .png putem "File" > "Export" > "Export As".
+
+#### Esercizi i Quizovi
+
+*Vježba 1*: Kreirajte banner za zamišljeni proizvod koristeći korake gore navedene. Pokušajte koristiti različite fontove i boje kako biste postigli različite emocionalne učinke.
+
+*Quiz Pitanje 1*: Koja je kombinacija tipki za brzo pozivanje "Free Transform" alata?
+- a) Ctrl+T
+- b) Alt+F
+- c) Shift+M
+
+**Rješenje**: a) Ctrl+T
+
+#### Dijalozi za Komunikaciju
+
+**WhatsApp i Telegram**: 
+- "Hej, možeš li mi poslati Photoshop datoteku onog bannera koji smo radili jučer? Trebam napraviti par izmjena prije nego što ga objavimo."
+
+**Email**:
+- "Poštovani [Ime], u prilogu vam šaljem .psd datoteku našeg najnovijeg bannera. Molim vas da pregledate i javite ima li izmjena. Hvala!"
+
+**Zoom**:
+- "Prije nego krenemo s prezentacijom, želim vam pokazati kako sam koristio Photoshop za kreiranje vizuala koje ćemo danas vidjeti."
+
+#### Uobičajene Pogreške i Kako Ih Izbjeći
+
+Jedna od najčešćih pogrešaka je rad na sloju "Background" bez stvaranja novih slojeva. To može dovesti do problema pri uređivanju jer se izmjene primjenjuju neposredno na originalnu sliku. Uvijek započnite s novim slojem kako biste zadržali fleksibilnost.
+
+Druga česta greška je nerezolutne slike. Prilikom unosa slika u Photoshop, provjerite njihovu rezoluciju kako bi izbjegli pikselizaciju prilikom ispisa ili objavljivanja na mreži.
+
+#### Kultura Poslovnog Svijeta
+
+U međunarodnom poslovanju, vizualni sadržaj često prelazi jezične barijere. Kvalitetan dizajn može prenijeti profesionalnost i posvećenost detaljima. U network marketingu, to može biti presudno prilikom stvaranja prvog dojma kod potencijalnih klijenata ili partnera.
+
+Povezivanje s publikom kroz vizualne elemente koji su kulturološki relevantni za specifične regije može poboljšati angažman i stvoriti osjećaj povjerenja.
+
+Nadam se da će vam ovaj modul pomoći da započnete svoju avanturu s Adobe Photoshopom i da ćete ga uspješno koristiti za poboljšanje svojih marketinških napora. U sljedećem modulu, istražit ćemo naprednije alate i tehnike.

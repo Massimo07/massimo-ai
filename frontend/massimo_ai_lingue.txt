@@ -1,0 +1,7 @@
+const translations = {
+  "af": { title: "Kies jou taal", button: "Bevestig", placeholder: "Kies 'n taal" },
+  "sq": { title: "Zgjidh gjuhën tënde", button: "Konfirmo", placeholder: "Zgjidh një gjuhë" },
+  "am": { title: "ቋንቋዎን ይምረጡ", button: "አረጋግጥ", placeholder: "ቋንቋ ይምረጡ" },
+  "ar": { title: "اختر لغتك", button: "تأكيد", placeholder: "اختر لغة" },
+  "hy": { title: "Ընտրեք ձեր լեզուն", button: "Հաստատել", placeholder: "Ընտրեք լեզու" },
+};

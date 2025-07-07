@@ -1,0 +1,59 @@
+**Modul 1: Uvod v Adobe Photoshop za Network Marketing in Digitalni Posel**
+
+Dobrodošli v prvem modulu našega tečaja Adobe Photoshop, namenjenega posebej za potrebe network marketinga in digitalnega poslovanja. V tem modulu bomo podrobno raziskali osnove Photoshopa in kako ga lahko uporabimo za izboljšanje vizualne predstavitve v poslovnem svetu. Čeprav je ta modul zasnovan za začetnike, bomo uporabili profesionalen jezik, da boste pripravljeni na resnične poslovne izzive.
+
+**Teoretični Uvod v Adobe Photoshop**
+
+Adobe Photoshop je eno izmed vodilnih orodij za urejanje slik, ki omogoča ustvarjanje in manipulacijo vizualnih vsebin. Njegova vsestranskost je ključna za uspeh v digitalnem marketingu, kjer vizualni elementi igrajo ključno vlogo pri privabljanju in zadrževanju strank. V network marketingu, kjer je osebna znamka ključna, lahko z uporabo Photoshopa ustvarimo kakovostne slike, ki odražajo profesionalnost in kreativnost.
+
+**Praktična Uporaba v Network Marketingu**
+
+Recimo, da promovirate izdelek Live On Plus. S Photoshopom lahko ustvarite privlačne grafike za družbena omrežja, kot so Instagram, Facebook ali LinkedIn. Začnemo z osnovnim projektom: ustvarjanje privlačnega oglasnega transparenta.
+
+1. **Odprite Photoshop** in izberite "File" > "New" (Datoteka > Novo). Nastavite dimenzije primerne za platformo, npr. 1080 x 1080 px za Instagram objavo.
+2. **Uporabite orodje za besedilo (T)**, da dodate ime izdelka, kot je "Live On Plus", in vključite ključne prednosti.
+3. **Dodajte sliko izdelka** s funkcijo "Place Embedded" (Vstavi vgrajeno). Prilagodite velikost in položaj slike, da se ujema z vašo obliko.
+4. **Uporabite sloje (Layers)** za organizacijo elementov. Poskrbite, da so besedilo, slike in ozadje na ločenih slojih za lažje urejanje.
+5. **Uporabite filtre** za izboljšanje vizualne privlačnosti. Na primer, lahko uporabite filter za ostrenje, da izdelek izstopa.
+
+**Primeri Resničnega Sveta**
+
+Pri oblikovanju oglasnega materiala za Live On Plus lahko uporabite resnične primere, kot so pričevanja uporabnikov. Uporabite Photoshop za ustvarjanje pred in po slik, ki prikazujejo učinkovitost izdelka. Uporabite funkcijo 'Before/After' s prekrivanjem slik in maskami, da prikažete dramatične rezultate.
+
+**Esercizi in Kvizi z Rešitvami**
+
+Izvedite naslednji praktični projekt: Oblikujte oglas za novo promocijo Live On Plus.
+
+- **Vaja:** Ustvarite grafiko, ki vključuje sliko izdelka, slogan in klic k akciji, kot je "Naroči zdaj in prihrani 20%!"
+- **Rešitev:** Preverite, ali so vsi elementi na pravih slojih, besedilo je berljivo in slika izdelka izstopa.
+
+**Dialogi za Komunikacijo**
+
+*WhatsApp:*
+Uporabnik: "Kako lahko izboljšam kakovost svojih slik za Instagram?"
+Vi: "Poskusite uporabiti funkcijo 'Sharpen' v Photoshopu za bolj jasne slike. Prav tako lahko prilagodite svetlost in kontrast za boljšo vidljivost."
+
+*Telegram:*
+Uporabnik: "Ali lahko s Photoshopom ustvarim animacije?"
+Vi: "Čeprav Photoshop ni primarno orodje za animacije, lahko ustvarite preproste GIF animacije z uporabo orodja 'Timeline'."
+
+*Zoom:*
+Vi: "Danes bomo obravnavali, kako ustvariti učinkovite oglasne transparentne. Prepričajte se, da so vaše slike visoke ločljivosti, da boste dosegli najboljše rezultate."
+
+*Email:*
+Zadeva: "Nasveti za izboljšanje vizualij v vaših oglasih"
+Vsebina: "Pozdravljeni, upamo, da vam naš tečaj pomaga pri ustvarjanju boljših vizualnih vsebin. Ne pozabite na pomembnost slojev in mask za profesionalno urejanje."
+
+**Pogoste Napake in Kako se Jim Izogniti**
+
+- **Napaka:** Uporaba nizke ločljivosti slik, kar povzroča zamegljenost.
+  - **Rešitev:** Vedno uporabite slike visoke ločljivosti in preverite nastavitve dokumenta.
+  
+- **Napaka:** Nepravilna uporaba slojev, kar otežuje urejanje.
+  - **Rešitev:** Organizirajte sloje z imenovanjem in uporabo skupin.
+
+**Kultura Mednarodnega Poslovanja**
+
+V mednarodnem poslovnem okolju je pozornost do vizualnih podrobnosti ključna. Različne kulture imajo različne preference glede barv in postavitev, zato je pomembno razumeti svojo ciljno publiko. V Aziji so na primer svetle barve in minimalizem pogosto bolj cenjeni kot v zahodnih državah, kjer so priljubljene drznejše barve in kompleksnejše postavitve.
+
+S tem modulom ste pridobili osnovno razumevanje Photoshopa in kako ga uporabiti za izboljšanje vašega digitalnega poslovanja. V naslednjih modulih se bomo poglobili v napredne tehnike oblikovanja in urejanja. Prosim, preglejte današnje naloge in se pripravite na nadaljnje učenje.

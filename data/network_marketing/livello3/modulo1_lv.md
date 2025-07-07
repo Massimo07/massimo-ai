@@ -1,0 +1,13 @@
+# Profesionālā tīkla mārketinga kurss tiešraidē plus, koncentrējoties uz tīkla izaugsmi, vervēšanu, pārdošanu, kopēšanu, vadību, starptautisko komandu vadību un biznesa apmācību.
+
+
+[3. līmenis / 1. modulis / valoda: latviešu]
+
+Didaktiskie mērķi: Total padziļināšana - detalizēts skaidrojums, gramatika (ja nepieciešams), reāla darbplūsma tīkla mārketingam.
+
+Teorija, prakse, reāli dialogi, praktiski vingrinājumi, verifikācijas viktorīna, kopīgas kļūdas, labākā prakse, vārdu krājums un starptautiskā kultūra.
+
+
+(Paplašināts saturs, kas šeit jāveido, izmantojot AI vai ar rokām. Katram modulim jābūt pilnīgam, profesionālam un jāpaskaidro, kā reālā universitātes kursā ir pielāgots tiešraides plus / starptautiskajam tīkla mārketinga biznesam.)
+
+---

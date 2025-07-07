@@ -1,0 +1,108 @@
+import os
+import time
+import json
+import requests
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+from dotenv import load_dotenv
+
+# Carica variabili d'ambiente
+load_dotenv()
+USER = os.getenv("LIVEONPLUS_USER")
+PWD = os.getenv("LIVEONPLUS_PASSWORD")
+
+BASE_URL = "https://liveonplus.it/"
+OUTPUT_DIR = "data/scraper_all/"
+CRAWLED_URLS = set()
+MAX_DEPTH = 4  # Cambia se vuoi andare più in profondità
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def get_driver():
+    svc = Service(executable_path="chromedriver.exe")
+    opts = webdriver.ChromeOptions()
+    opts.add_argument("--headless=new")
+    opts.add_argument("--disable-gpu")
+    opts.add_argument("--window-size=1920,1080")
+    return webdriver.Chrome(service=svc, options=opts)
+
+def login(driver):
+    login_url = "https://liveonplus.it/index.php?route=account/login"
+    driver.get(login_url)
+    time.sleep(2)
+    try:
+        # Accetta cookie
+        cookie_btn = driver.find_element(By.XPATH, "//button[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'accetta') or contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'),'accept')]")
+        cookie_btn.click()
+        time.sleep(1)
+    except Exception:
+        pass
+    # Compila form login
+    driver.find_element(By.NAME, "email").send_keys(USER)
+    driver.find_element(By.NAME, "password").send_keys(PWD)
+    driver.find_element(By.XPATH, "//input[@type='submit' or @value='Login']").click()
+    time.sleep(3)
+
+def is_internal(url):
+    return url.startswith(BASE_URL) or url.startswith("/")
+
+def save_content(url, html, meta):
+    url_slug = url.replace(BASE_URL, "").replace("/", "_")[:100]
+    with open(f"{OUTPUT_DIR}/{url_slug}.json", "w", encoding="utf-8") as f:
+        json.dump({"url": url, "meta": meta, "html": html}, f, ensure_ascii=False, indent=2)
+
+def crawl_url(driver, url, depth=0):
+    if url in CRAWLED_URLS or depth > MAX_DEPTH or not is_internal(url):
+        return
+    try:
+        driver.get(url)
+        time.sleep(2)
+        html = driver.page_source
+        soup = BeautifulSoup(html, "html.parser")
+
+        meta = {}
+        meta["title"] = soup.title.text if soup.title else ""
+        meta["text"] = soup.get_text(separator="\n", strip=True)
+        meta["images"] = [urljoin(url, img["src"]) for img in soup.find_all("img") if img.get("src")]
+        meta["pdf"] = [urljoin(url, a["href"]) for a in soup.find_all("a") if a.get("href", "").endswith(".pdf")]
+        meta["links"] = [urljoin(url, a["href"]) for a in soup.find_all("a") if a.get("href")]
+
+        save_content(url, html, meta)
+        CRAWLED_URLS.add(url)
+
+        # Scarica PDF
+        for pdf_link in meta["pdf"]:
+            pdf_name = os.path.basename(pdf_link)
+            try:
+                r = requests.get(pdf_link, timeout=10)
+                with open(f"{OUTPUT_DIR}/{pdf_name}", "wb") as f:
+                    f.write(r.content)
+            except Exception:
+                pass
+        # Scarica immagini
+        for img_link in meta["images"]:
+            img_name = os.path.basename(img_link)
+            try:
+                r = requests.get(img_link, timeout=10)
+                with open(f"{OUTPUT_DIR}/{img_name}", "wb") as f:
+                    f.write(r.content)
+            except Exception:
+                pass
+
+        # Ricorsione su tutti i link interni non ancora visitati
+        for link in meta["links"]:
+            if is_internal(link) and link not in CRAWLED_URLS:
+                crawl_url(driver, link, depth+1)
+
+    except Exception as e:
+        print(f"Errore su {url}: {e}")
+
+if __name__ == "__main__":
+    driver = get_driver()
+    login(driver)  # Login obbligatorio
+    crawl_url(driver, BASE_URL)
+    driver.quit()
+    print("SCRAPER COMPLETATO!")

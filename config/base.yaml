@@ -1,0 +1,9 @@
+DEBUG: false
+DATABASE_URL: "sqlite:///massimo_ai.db"
+SECRET_KEY: "metti-qui-una-key-forte"
+EMAIL_HOST: "smtp.yourdomain.com"
+EMAIL_PORT: 587
+EMAIL_USER: "mail@yourdomain.com"
+EMAIL_PASS: "inserire_qua_ma_maiuscola"
+STRIPE_KEY: ""
+PAYPAL_KEY: ""

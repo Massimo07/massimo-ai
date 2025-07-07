@@ -1,0 +1,66 @@
+Q: Come ci si registra a Live On Plus?
+La registrazione è gratuita. Servono nome, cognome, codice fiscale, email e telefono.
+
+Q: Quali tipi di iscrizione ci sono?
+Puoi iscriverti come Customer e avere fino al 60% di sconto sui prodotti.
+
+Q: Cos’è Shop 1?
+Shop 1 è il negozio principale: puoi acquistare tutti i prodotti con lo sconto massimo previsto per il tuo livello.
+
+Q: Cos’è Shop 2?
+Shop 2 è un secondo negozio esclusivo. Per accedervi devi aver fatto almeno 10 punti su Shop 1. Puoi acquistare su Shop 2 fino al 20% in più dei punti che hai fatto su Shop 1.
+
+Q: Come si ottiene l’accesso a Shop 2?
+Devi aver raggiunto almeno 10 punti su Shop 1.
+
+Q: Cos’è il PT?
+Il PT è il Punto Team. 1 PT = 1€ di acquisto su Shop 1 (IVA esclusa).
+
+Q: Cos’è il PTA?
+Il PTA è il Punto Attività. Ogni 10€ di acquisto su Shop 2 ottieni 2 PTA (1 PTA ogni 5€).
+
+Q: A cosa servono PT e PTA?
+PT e PTA sono la base per le qualifiche di carriera, i bonus e i premi.
+
+Q: Come funziona il sistema Unilevel?
+Ricevi una percentuale sul fatturato di tutta la tua rete, fino a 20 livelli, con percentuali dal 10% allo 0,2%. Serve avere almeno 10 PTA attivi per ciascun collaboratore per ogni livello.
+
+Q: Quali sono le qualifiche e i bonus attività?
+Junior: 50 € (600 PT, 10 PTA, 3 linee min., regola 60/40)
+Visor: 75 € (2.000 PT, 10 PTA, 3 linee min., regola 60/40)
+Supervisor: 100 € (4.200 PT, 10 PTA, 3 linee min., regola 60/40)
+Ambassador: 150 € (7.800 PT, 10 PTA, 3 linee min., regola 60/40)
+Orchidea e livelli manageriali: da 150 € a 20.000 € e oltre (vedi tabella completa nel materiale marketing)
+
+Q: Customer riceve bonus attività?
+No, la qualifica Customer non prevede bonus attività.
+
+Q: Cos’è la regola 60/40?
+Solo il 40% dei tuoi punti può arrivare dalla linea più forte. Il 60% deve essere generato dalle altre linee.
+
+Q: Cos’è lo Spillover?
+È il supporto che ricevi dalle attività della tua upline su alcune linee, utile a raggiungere i minimi richiesti.
+
+Q: Come si guadagna con l’Unilevel?
+L’Unilevel paga fino al 20° livello con percentuali dal 10% allo 0,2%. Per ogni collaboratore attivo con almeno 10 PTA su ogni livello ricevi la tua percentuale.
+
+Q: Quali dati vengono raccolti durante la registrazione?
+Nome, cognome, email, telefono, codice fiscale, provincia, stato, data di nascita.
+
+Q: Cos’è il funnel Massimo AI?
+È il percorso automatico che accoglie i nuovi utenti, raccoglie i dati, segmenta i bisogni (info, risparmio, guadagno), offre formazione e quiz, invia follow-up automatici e sblocca i contenuti avanzati solo dopo la formazione.
+
+Q: Come si aggiunge un modulo extra (WhatsApp, email, social, pagamenti)?
+Consulta il file README incluso: basta attivare la funzione e inserire la tua API key (istruzioni passo passo).
+
+Q: È possibile personalizzare i testi delle risposte?
+Sì, tutte le FAQ e i messaggi quiz sono modificabili aprendo i file .txt corrispondenti.
+
+Q: Come funziona la gestione dei livelli?
+Ogni livello si sblocca solo dopo quiz/formazione superata. Più avanzi, più strumenti e info sblocchi nel bot.
+
+Q: Come funziona il backup dei dati?
+Tutti i dati (registrazioni, quiz, CRM) vengono salvati su file CSV nella cartella del bot. Puoi esportare e importare quando vuoi.
+
+Q: È possibile avere il bot in più lingue?
+Sì, puoi attivare la modalità multilingua modificando i file faq_xx.txt e quiz_xx.txt per ogni lingua che vuoi supportare.

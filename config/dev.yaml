@@ -1,0 +1,3 @@
+DEBUG: true
+DATABASE_URL: "sqlite:///massimo_ai_dev.db"
+SECRET_KEY: "dev-key"

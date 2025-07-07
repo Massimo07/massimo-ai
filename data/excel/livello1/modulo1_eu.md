@@ -1,0 +1,82 @@
+# ## Excel Ikastaroa: 1. maila, 1. modulua
+
+### Sarrera Excel-era
+
+Excel Microsoft Office paketean dagoen kalkulu-orria da, eta datu kudeaketarako eta analisi estatistikoetarako tresna oso indartsua da. Network marketing eta business digitalaren esparruan, Excel erabilgarria da kontaktuen jarraipena egiteko, salmentak erregistratzeko, eta bestelako datu analitikoak kudeatzeko.
+
+### Teoria: Excel-en Oinarrizko Kontzeptuak
+
+Excel-en oinarrizko kontzeptuak ulertzea ezinbestekoa da tresna hau modu eraginkorrean erabiltzeko:
+
+1. **Kalkulu-orriak**: Excel dokumentuak kalkulu-orrietan banatuta daude. Kalkulu-orri bakoitza gelaxka sare batez osatuta dago, eta gelaxka bakoitza zutabe eta errenkaden bidez identifikatzen da (adibidez, A1, B2).
+
+2. **Gelaxka**: Hauxe da datuak sartzen diren oinarrizko unitatea. Gelaxka bakoitza testu, zenbaki edo formula bat eduki dezake.
+
+3. **Formula eta Funtzioak**: Formulak datuak kalkulatzeko erabiltzen dira, eta funtzioak eragiketa konplexuagoak egiteko aurrez definitutako instrukzioak dira (adibidez, SUMA, BATEZBESTE).
+
+4. **Grafikoak**: Datuak bisualki irudikatzeko aukera ematen dute, informazioa azkarrago ulertzeko.
+
+### Praktika: Excel-en Aplikazioa Network Marketing-en
+
+Network marketing-en, Excel erabiltzea oso eraginkorra izan daiteke zure kontaktuak eta salmentak antolatzeko. Adibide bat aztertuko dugu:
+
+#### Adibidea: Kontaktuen Jarraipena
+
+1. **Kontaktuen Zerrenda Sortzea**: Sortu kalkulu-orri berri bat eta izendatu "Kontaktuen Zerrenda" bezala. Zutabeak sortu: Izena, Abizenak, Telefonoa, Emaila, Harreman Data.
+
+2. **Datuak Sartzea**: Idatzi zure kontaktuen datuak gelaxketan. Hau oinarrizko datu-base bat sortzea bezala da, eta gero eta gehiago betetzen joango zara.
+
+3. **Funtzioak Erabiliz**: Erabili COUNT funtzioa kontaktu kopurua zenbatzeko. Adibidez, =COUNT(B2:B50).
+
+4. **Grafikoak Sortzea**: Datuen irudikapen bisuala lortzeko, sortu grafiko bat harreman dataren arabera. Hautatu datuak eta sakatu "Txertatu" > "Grafikoa".
+
+### Eserketak eta Quiz-ak
+
+#### Eserketa 1: Kontaktuen Zerrenda
+
+1. Sortu Excel kalkulu-orri berri bat.
+2. Gehitu zutabeak: Izena, Abizenak, Telefonoa, Emaila, Harreman Data.
+3. Sartu 10 kontakturen datuak.
+4. Erabili COUNT funtzioa zure kontaktu kopurua kalkulatzeko.
+
+#### Quiz-a
+
+1. Zein da gelaxka baten funtzioa Excel-en?
+2. Nola identifikatzen dira gelaxkak?
+3. Zer da formula bat?
+
+#### Soluzioak
+
+1. Gelaxka bat datuak sartzeko oinarrizko unitatea da.
+2. Gelaxkak zutabe eta errenkada bidez identifikatzen dira (adibidez, A1).
+3. Formula bat datuak kalkulatzeko erabiltzen dugun adierazpena da.
+
+### Komunikazio Tresnak: WhatsApp, Telegram, Zoom, Email
+
+#### WhatsApp eta Telegram
+
+- **Adibidea**: "Kaixo [Izena], zure kontaktua gure Excel zerrendan gehitu dut. Eguneratzeak emango dizkizut noizbehinka".
+
+#### Zoom
+
+- **Adibidea**: "Gure hurrengo bileran, zure kontaktuen jarraipena nola egiten dudan erakutsiko dizut Excel erabiliz".
+
+#### Email
+
+- **Adibidea**: "Gaia: Excel-en bidez kontaktuak antolatzea. Mezua: Eguerdion, Excel kalkulu-orri bat sortu dut gure kontaktuekin. Mesedez, begiratu atxikitako fitxategia eta esan zure iritzia".
+
+### Erroriak eta Nola Ekidin
+
+1. **Datuen Galdutako Gelaxkak**: Ziurtatu datuak beti gordetzen dituzula aldaketak egin ondoren. Egin klik "Fitxategia" > "Gorde".
+
+2. **Formula Okerrak**: Ziurtatu formuletan gelaxka erreferentziak zuzenak direla. Erabil ezazu "Formula Ikuskatzea" tresna.
+
+3. **Datuen Inkoherentziak**: Datuak sartu aurretik, formatu egokia hautatu (adibidez, zenbakiak, datak).
+
+### Kulturaren Aipamena
+
+Munduko hainbat herrialdetan, Excel tresna estandarra da datuen kudeaketarako. Adibidez, AEBetan, Excel erabiltzen da finantza txostenak egiteko, eta Japonian, fabrikazio prozesuak kontrolatzeko. Excel-en ulermena eta erabilera mundu mailako negozioetan ezinbesteko trebetasuna da.
+
+### Ondorioa
+
+Excel-en oinarrizko kontzeptuak eta praktikak ulertuz, zure network marketing jarduerak eraginkorragoak eta antolatuagoak izango dira. Modulua amaitu ondoren, zure kontaktuak hobeto kudeatzeko eta azkarrago erantzuteko gai izango zara, eta horrek zure negozio digitala hazten lagunduko dizu.

@@ -1,0 +1,54 @@
+# ### Moduuli 1: Adobe Photoshop - Teoria ja Käytännön Sovellukset
+
+**Teoria ja Käytännön Soveltaminen**
+
+Adobe Photoshop on yksi maailman tunnetuimmista ja käytetyimmistä kuvankäsittelyohjelmista. Sen avulla voit muokata kuvia, luoda grafiikkaa ja parantaa visuaalista viestintääsi. Tässä moduulissa keskitymme Photoshopin perustoimintoihin, joita voidaan soveltaa erityisesti verkkokauppaan ja Live On Plus -sovelluksiin.
+
+Photoshopin käyttöliittymä on jaettu useisiin osiin, joista tärkeimmät ovat työkaluvalikko, kerrospaneeli ja työtilat. Työkaluvalikosta löydät kaikki tarvittavat työkalut kuvien muokkaamiseen, kuten valintatyökalut, siveltimet ja tekstityökalut. Kerrospaneeli puolestaan mahdollistaa monimutkaisten kuvien luomisen eri elementeistä, joita voit käsitellä erikseen.
+
+**Reaali-Esimerkkejä Verkkomarkkinoinnista ja Live On Plusista**
+
+Kuvittele, että olet luomassa visuaalista sisältöä verkkokauppasi tuotteille. Photoshopin avulla voit luoda houkuttelevia tuotekuvia, jotka kiinnittävät potentiaalisten asiakkaiden huomion. Esimerkiksi voit käyttää "Healing Brush" -työkalua poistaaksesi pieniä virheitä tuotekuvista tai "Clone Stamp" -työkalua korostaaksesi tuotteen parhaita ominaisuuksia.
+
+Live On Plus -ympäristössä visuaalinen sisältö on keskeisessä roolissa, sillä se voi vaikuttaa suoraan käyttäjän päätöksiin. Voit käyttää Photoshopia luodaksesi räätälöityjä graafisia elementtejä, kuten bannereita ja mainoksia, jotka sopivat brändisi ilmeeseen.
+
+**Harjoituksia ja Kyselyjä Ratkaisuineen**
+
+1. Harjoitus: Avaa Photoshop ja lataa tuotekuva. Käytä "Crop Tool" -työkalua rajataksesi kuvan siten, että tuote on kuvan keskipisteessä. Tallenna kuva JPEG-muodossa.
+
+   **Ratkaisu:** Valitse Crop Tool työkalupalkista, säädä rajaus ja paina Enter. Valitse File > Save As, ja tallenna kuva JPEG-muodossa.
+
+2. Kysely: Mikä työkalu Photoshopissa käytetään värien säätämiseen kuvassa?
+   
+   **Ratkaisu:** "Hue/Saturation" -työkalu.
+
+**Todellisia Dialogeja WhatsAppissa, Telegramissa, Zoomissa ja Sähköpostissa**
+
+**WhatsApp:**
+
+- Asiakas: "Hei, miten voin parantaa tuotekuvieni laatua nopeasti?"
+- Sinä: "Kokeile käyttää Photoshopin 'Auto Tone' -toimintoa, joka säätää kuvan värit ja kontrastin automaattisesti."
+
+**Telegram:**
+
+- Kollega: "Tarvitsen apua bannereiden suunnittelussa."
+- Sinä: "Voimme käyttää Zoomia, jotta voin näyttää sinulle Photoshopin parhaat käytännöt."
+
+**Zoom:**
+
+- Sinä: "Aloitetaan esittelemällä Photoshopin kerrospaneeli, joka on tärkeä monimutkaisempien projektien hallinnassa."
+
+**Sähköposti:**
+
+- Aihe: Photoshop Vinkkejä
+- "Hei [Nimi], tässä on muutamia vinkkejä Photoshopin käyttöön tuotteidesi esittelyssä..."
+
+**Yleiset Virheet ja Kuinka Välttää Ne**
+
+Yksi yleisimmistä virheistä on kuvien liiallinen muokkaaminen, mikä voi johtaa epärealistiseen lopputulokseen. Vältä tätä käyttämällä "History" -paneelia, jonka avulla voit palata aiempiin versioihin. Toinen yleinen virhe on matalaresoluutioisten kuvien käyttö, mikä heikentää lopputuloksen laatua. Varmista aina, että käytät korkearesoluutioisia kuvia.
+
+**Kansainväliset Liiketoimintakulttuurit ja Photoshop**
+
+Kansainvälisessä liiketoiminnassa visuaalinen viestintä voi vaihdella kulttuurien välillä. Esimerkiksi minimalistinen tyyli voi olla suosittu Pohjoismaissa, kun taas eloisammat värit voivat olla suositumpia Aasiassa. Photoshopin avulla voit helposti mukauttaa visuaalisen sisällön kohdemarkkinoiden kulttuuriin.
+
+Tämä moduuli antaa sinulle perustan Adobe Photoshopin käytölle erityisesti verkkokaupassa ja Live On Plus -ympäristöissä. Seuraavissa moduuleissa syvennymme edistyneempiin tekniikoihin ja strategioihin, jotka auttavat sinua saavuttamaan liiketoimintatavoitteesi tehokkaammin.

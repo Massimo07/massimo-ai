@@ -1,0 +1,30 @@
+import React, { useState } from "react";
+import AdaptiveLayout from "../components/AdaptiveLayout";
+import VoiceInput from "../components/VoiceInput";
+import ARButton from "../components/ARButton";
+import GestureDetector from "../components/GestureDetector";
+
+const AIExperience = () => {
+  const [message, setMessage] = useState("");
+
+  return (
+    <AdaptiveLayout>
+      <h1 className="font-bold text-3xl mb-6">Massimo AI Experience</h1>
+      <VoiceInput onResult={setMessage} lang="it-IT" />
+      <ARButton onClick={() => alert("Funzione AR in arrivo!")} />
+      <GestureDetector
+        onSwipeLeft={() => alert("Swipe sinistra!")}
+        onSwipeRight={() => alert("Swipe destra!")}
+      >
+        <div className="mt-10 p-4 border rounded-xl">
+          <p className="text-xl">Risultato: {message}</p>
+          <p className="text-xs text-gray-300">
+            (Prova a parlare, swipare, cliccare AR!)
+          </p>
+        </div>
+      </GestureDetector>
+    </AdaptiveLayout>
+  );
+};
+
+export default AIExperience;

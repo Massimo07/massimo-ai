@@ -1,0 +1,65 @@
+**Modul 1: Uvod u Canva za Digitalni Marketing i Mrežni Marketing**
+
+Dobrodošli u prvi modul našeg kursa "Canva" na nivou 2. Ovaj modul će vas uvesti u osnove korišćenja Canve, posebno fokusirajući se na primenu u digitalnom marketingu i mrežnom marketingu. Naučićemo kako da koristimo ovaj alat za stvaranje vizualnog sadržaja koji će poboljšati vaše poslovne strategije na platformama kao što su Live On Plus.
+
+**Teorija i Praksa Canve u Digitalnom Marketingu**
+
+Canva je online alat za grafički dizajn koji omogućava kreiranje vizualno privlačnog sadržaja bez potrebe za prethodnim iskustvom u dizajnu. To je savršen alat za mrežni marketing jer omogućava brzo i jednostavno kreiranje profesionalnog sadržaja koji može poboljšati vašu online prisutnost.
+
+**Kako Početi Koristiti Canvu**
+
+1. **Registracija i Prijava:**
+   - Idite na web stranicu www.canva.com.
+   - Kliknite na "Sign up" (Registruj se) ako nemate nalog, ili "Log in" (Prijavi se) ako već imate nalog.
+   - Možete se prijaviti putem Google naloga, Facebook naloga ili email adrese.
+
+2. **Upoznavanje sa Interfejsom:**
+   - Kada se prijavite, dočekaće vas početna stranica sa različitim opcijama dizajna.
+   - U gornjem delu ekrana, videćete opcije kao što su "Templates" (Šabloni), "Elements" (Elementi), "Uploads" (Otpremanja), itd.
+
+3. **Kreiranje Prvog Dizajna:**
+   - Kliknite na "Create a design" (Kreiraj dizajn) i odaberite tip dizajna koji želite, na primer, "Instagram Post", "Facebook Cover", itd.
+   - Koristite šablone kao početnu tačku ili počnite od nule.
+
+**Praktični Primeri za Mrežni Marketing**
+
+Zamislite da promovirate novi proizvod preko Live On Plus. Možete kreirati atraktivan Instagram post koristeći Canvu:
+
+1. **Odaberite Šablon:**
+   - Izaberite šablon koji odgovara estetici vašeg brenda. Na primer, šablon sa svetlim bojama i modernim fontovima za mladalačku publiku.
+
+2. **Prilagodite Tekst:**
+   - Kliknite na tekstualna polja i unesite relevantne informacije o proizvodu, kao što su ključne prednosti i poziv na akciju (CTA).
+
+3. **Dodajte Vizualne Elemente:**
+   - Ubacite slike proizvoda koristeći opciju "Uploads" (Otpremanja).
+   - Dodajte ikone ili grafike koje poboljšavaju vizualnu privlačnost posta.
+
+**Esercizi i Kviz Sa Rešenjima**
+
+Esercizio 1: Kreirajte Instagram post za promociju proizvoda koristeći Canva. Prilagodite šablon sa slikama i tekstom relevantnim za vaš brend.
+
+Rešenje: Koristite šablon sa svetlim bojama, dodajte sliku proizvoda preko opcije "Uploads", i unesite tekst sa ključnim prednostima proizvoda i CTA.
+
+Kviz: Koja je funkcija opcije "Elements" na Canvi?
+a) Kreiranje novih naloga
+b) Dodavanje grafičkih elemenata
+c) Uređivanje teksta
+
+Odgovor: b) Dodavanje grafičkih elemenata
+
+**Dijalozi za WhatsApp, Telegram, Zoom, Email**
+
+**WhatsApp Primer:**
+Korisnik: "Kako mogu brzo da napravim vizual za moju kampanju?"
+Vi: "Preporučujem da koristiš Canvu! Možeš brzo izabrati šablon, prilagoditi ga svojim potrebama i podeliti ga direktno sa timom."
+
+**Greške i Kako Ih Izbeći**
+
+Jedna od uobičajenih grešaka je pretrpavanje dizajna informacijama. Da biste to izbegli, fokusirajte se na ključnu poruku i koristite prostor efikasno. Druga greška je zanemarivanje konzistentnosti brenda – uvek koristite boje i fontove koji odgovaraju vašem brendu.
+
+**Kultura i Poslovna Praksa**
+
+U međunarodnom poslovanju, vizualni sadržaj je ključan za privlačenje pažnje globalne publike. Canva omogućava lako prilagođavanje dizajna kako bi odgovarao različitim kulturnim preferencijama. Na primer, boje i simboli koji su popularni u jednoj kulturi mogu imati različito značenje u drugoj, pa je važno istražiti i prilagoditi vaše vizuale u skladu s tim.
+
+Kroz ovaj modul, nadam se da ste stekli osnovno razumevanje kako koristiti Canvu za unapređenje vašeg digitalnog i mrežnog marketinga. U narednim modulima, produbićemo vaše veštine i istražiti naprednije funkcije.

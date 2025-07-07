@@ -1,0 +1,56 @@
+### Modul 1: Introduktion til Adobe Photoshop for begyndere
+
+Velkommen til det første modul i vores kursus om Adobe Photoshop. I dette modul vil vi fokusere på at forstå grundlæggende teori og praksis i Photoshop, med særligt henblik på anvendelser inden for netværksmarkedsføring og digitalt forretning. Vi vil begynde med de mest grundlæggende funktioner, så du kan opbygge et solidt fundament.
+
+#### Teori og Praksis
+
+Adobe Photoshop er et kraftfuldt værktøj til billedredigering, der anvendes bredt inden for forskellige brancher, herunder netværksmarkedsføring. Photoshop giver dig mulighed for at manipulere billeder, skabe grafikker og designe materialer, der kan tiltrække og fastholde kundernes opmærksomhed.
+
+For at forstå Photoshop skal vi først se på brugerfladen:
+
+1. **Arbejdsmiljøet**: Når du åbner Photoshop, ser du en række paneler og værktøjslinjer. Øverst finder du menuen, hvor du kan få adgang til forskellige funktioner som 'Fil', 'Rediger', 'Billede', 'Lag' osv. Til venstre har du værktøjslinjen, hvor du finder værktøjer til at male, tegne, klippe og meget mere.
+
+2. **Lag**: Lag er en af de mest kraftfulde funktioner i Photoshop. Tænk på lag som gennemsigtige ark, der ligger oven på hinanden. Du kan ændre hvert lag uden at påvirke de andre, hvilket giver dig stor fleksibilitet i redigeringen.
+
+3. **Værktøjsvalg**: De mest almindelige værktøjer omfatter 'Flytteværktøj', 'Lassoværktøj', 'Penselværktøj', 'Tekstværktøj' og 'Viskelæderværktøj'. Hvert værktøj har sine egne indstillinger, som du kan justere for at tilpasse det til dine behov.
+
+#### Praktisk Anvendelse i Netværksmarkedsføring
+
+Lad os anvende disse grundlæggende elementer i en netværksmarkedsføringssammenhæng. Forestil dig, at du vil skabe en iøjnefaldende flyer for at promovere et nyt produkt på Live On Plus. Her er en trinvis guide:
+
+1. **Opret et nyt dokument**: Gå til 'Fil' > 'Ny'. Vælg en passende størrelse for din flyer, f.eks. A4, og indstil opløsningen til 300 dpi for printmaterialer.
+
+2. **Baggrund**: Vælg 'Malingsspandværktøjet' fra værktøjslinjen og vælg en baggrundsfarve, der passer til dit brand.
+
+3. **Tilføj tekst**: Brug 'Tekstværktøjet' til at tilføje en fængende overskrift og beskrivelse af produktet. Vælg skrifttyper, der er letlæselige og iøjnefaldende.
+
+4. **Indsæt billeder**: Træk billeder af produktet ind i dokumentet. Brug 'Flytteværktøjet' til at placere dem strategisk. Du kan også tilføje skygger eller justere lysstyrken ved at gå til 'Lag' > 'Lagstil' > 'Skygge'.
+
+#### Eksampler og Øvelser
+
+**Øvelse 1**: Opret en simpel social media annonce for et produkt. Fokusér på at bruge farver og tekst effektivt. Eksporter det færdige produkt som en JPEG-fil.
+
+**Løsning**: Sørg for at bruge kontrastfarver til baggrund og tekst for at gøre annoncen letlæselig. Brug 'Lag' til at tilføje og justere elementer uden at påvirke andre dele af annoncen.
+
+#### Kommunikationseksempler
+
+**WhatsApp-dialog**:
+- **Bruger**: "Hej! Hvordan kan jeg forbedre kvaliteten af mine billeder i Photoshop?"
+- **Svar**: "Hej! Du kan forbedre billedkvaliteten ved at bruge 'Billede' > 'Justeringer' > 'Lysstyrke/Kontrast'. Dette giver dig mulighed for at justere lys og skygger i billedet."
+
+**Email-dialog**:
+- **Emne**: Hjælp med Photoshop
+- **Indhold**: "Hej [Navn], jeg har problemer med at bruge lag i Photoshop. Kan du guide mig?"
+- **Svar**: "Hej [Navn], selvfølgelig! Lag kan være tricky i starten. Husk at vælge det lag, du vil arbejde med i lagpanelet, før du begynder at redigere."
+
+#### Almindelige Fejl og Hvordan Man Undgår Dem
+
+1. **Glemt at gemme arbejdet**: En af de mest almindelige fejl er at glemme at gemme arbejdet regelmæssigt. Brug genvejen Ctrl+S (Cmd+S på Mac) for at gemme ofte.
+
+2. **Arbejde på det forkerte lag**: Sørg altid for, at du har valgt det korrekte lag i lagpanelet, før du foretager ændringer.
+
+#### Kulturforståelse i International Business
+
+I international forretningskultur er det vigtigt at præsentere professionelle og kulturelt tilpassede materialer. Photoshop giver dig mulighed for at tilpasse dine designs til forskellige kulturelle præferencer ved at justere farver, tekst og billeder, så de passer til forskellige målgrupper.
+
+Ved at afslutte dette modul har du nu en grundlæggende forståelse af Adobe Photoshop og hvordan du kan anvende det i netværksmarkedsføring. Øvelse gør mester, så fortsæt med at udforske og eksperimentere med de mange funktioner, Photoshop tilbyder.

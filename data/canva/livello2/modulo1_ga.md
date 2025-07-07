@@ -1,0 +1,50 @@
+# **Modúl 1: Canva don Líonrú Margaíochta agus Ghnó Digiteach**
+
+Fáilte chuig an Modúl 1 de chúrsa Canva ag Leibhéal 2. Sa mhodúl seo, díreoimid ar úsáid Canva sa chomhthéacs margaíochta líonra agus Live On Plus. Cuirfidh mé síos ar an teoiric agus ar an gcleachtas, tabharfaidh mé samplaí fíorshaol, agus cuirfidh mé cleachtaí ar fáil chun do thuiscint a dhaingniú. Déanfaimid plé ar earráidí coitianta le seachaint agus cuirfidh mé léargas ar fáil ar an gcultúr gnó idirnáisiúnta.
+
+**Teoiric agus Cleachtas Canva**
+
+Is uirlis dhearaidh grafach é Canva atá thar a bheith úsáideach do dhaoine i ngnó digiteach agus margaíocht líonra. Ligeann sé duit ábhar amhairc tarraingteach a chruthú gan gá le scileanna dearaidh gairmiúla. Cuideoidh sé seo le do bhranda a chur chun cinn, idirghníomhaíocht a fheabhsú, agus do lucht féachana a mhealladh.
+
+Chun tús a chur le Canva, ní mór duit cuntas a chruthú. Téigh go dtí www.canva.com agus roghnaigh "Sign Up". Is féidir leat clárú le do r-phost nó trí chuntas Google nó Facebook. Nuair atá tú logáilte isteach, beidh tú in ann rochtain a fháil ar leabharlann leathan teimpléid agus uirlisí eagarthóireachta.
+
+**Samplaí Fíorshaol i Margaíocht Líonra**
+
+1. **Cruthú Poist Meán Sóisialta**: Úsáid Canva chun grafaicí a chruthú do do phostálacha ar na meáin shóisialta. Roghnaigh teimpléad atá oiriúnach do Snapchat nó Instagram. Cuir téacs agus íomhánna a léiríonn do tháirgí nó seirbhísí ar fáil. Mar shampla, má tá tú ag cur chun cinn táirge Live On Plus, is féidir leat an dath agus an t-ábhar a mheaitseáil leis an gcaighdeán branda.
+
+2. **Preasráiteas**: Úsáid Canva chun preasráitis a dhearadh. Roghnaigh teimpléad a cheadaíonn duit do logos agus do phictiúir a chur isteach. Déan cinnte go bhfuil an téacs soiléir agus gairmiúil.
+
+**Cleachtaí agus Quiz**
+
+1. **Cleachtadh**: Cruthaigh dearadh póstaer ag baint úsáide as Canva chun táirge nua a chur chun cinn le do ghrúpa margaíochta. Úsáid dathanna agus clónna a léiríonn do bhranda.
+
+2. **Quiz**: Cad iad na trí phríomhghné de Canva a fhágann go bhfuil sé úsáideach i margaíocht líonra? 
+   - a) Simplíocht úsáid
+   - b) Costas ard
+   - c) Rochtain ar leabharlann íomhánna
+   - d) Uirlisí eagarthóireachta cumhachtacha
+
+**Réitigh**: a), c), d)
+
+**Dialógaí Fíorshaol do WhatsApp, Telegram, Zoom, Email**
+
+1. **WhatsApp**: 
+   - Tú: "Dia dhuit, tá grafach nua cruthaithe agam ar Canva don fheachtas atá le teacht. An féidir leat féachaint air agus do thuairim a roinnt?"
+   - Comhghleacaí: "Cinnte, seol chugam é le do thoil. Táim ag tnúth le breathnú air."
+
+2. **Zoom**:
+   - Tú: "Inniu, taispeánfaidh mé daoibh conas is féidir linn Canva a úsáid chun ár bhfeachtais a fheabhsú. Tabharfaidh mé turas gairid ar na huirlisí is tábhachtaí."
+
+**Earráidí Coitianta agus Conas Iad a Sheachaint**
+
+- **Earráid**: Ag baint úsáide as ró-ualach téacs i ndearadh.
+  - **Conas a Sheachaint**: Coinnigh do theachtaireacht simplí agus díreach. Úsáid spás bán go héifeachtach chun an dearadh a dhéanamh níos éasca le léamh.
+
+- **Earráid**: Neamhaird a dhéanamh ar chomhsheasmhacht branda.
+  - **Conas a Sheachaint**: Déan cinnte go n-úsáideann tú dathanna, clónna, agus stíleanna atá aontaithe le do bhranda i ngach dearadh.
+
+**Cultúr Gnó Idirnáisiúnta**
+
+Tá sé tábhachtach tuiscint a fháil ar na difríochtaí cultúrtha i margaíocht idirnáisiúnta. Cé go bhféadfadh stíl áirithe oibriú go maith i margadh amháin, d’fhéadfadh sé a bheith neamhéifeachtach nó mí-oiriúnach i margadh eile. Bain úsáid as Canva chun margaíocht a shaincheapadh do lucht féachana éagsúil trí íomhánna agus téamaí a roghnú a bhfuil tábhacht chultúrtha leo i margaí sprice éagsúla.
+
+Leis an eolas seo, tá tú réidh le dul i ngleic le Canva ar bhealach a fheabhsóidh do straitéisí margaíochta líonra agus a thacóidh le do ghnó digiteach. Bíodh foighne agat agus bain taitneamh as an bpróiseas cruthaitheach!

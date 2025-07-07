@@ -1,0 +1,75 @@
+# **Módulo 1: Introdución ao Uso de Office no Network Marketing**
+
+Benvido ao Módulo 1 do curso de Office, nivel 2. Este módulo está deseñado para introducirte no uso de ferramentas de Office aplicadas ao network marketing, con exemplos reais e exercicios prácticos. Imos explorar como podes utilizar Office para mellorar a túa eficiencia e organización no ámbito do marketing dixital e o network marketing, especialmente coa plataforma Live On Plus.
+
+**Teoría e Práctica de Office**
+
+Para comezar, é esencial entender que Microsoft Office é un conxunto de aplicacións que inclúe Word, Excel, PowerPoint, entre outros. Estas ferramentas son fundamentais para crear documentos profesionais, xestionar datos e presentar información de maneira atractiva.
+
+1. **Microsoft Word no Network Marketing:**
+   Word é a ferramenta ideal para crear documentos textuais, como propostas de negocio, contratos ou boletíns informativos. No contexto do network marketing, podes usalo para preparar presentacións de produtos, redactar correos electrónicos profesionais ou elaborar manuais de formación para o teu equipo.
+
+   **Exemplo Práctico:**
+   Supoñamos que queres enviar unha proposta de colaboración a un novo socio potencial. En Word, crearás un documento co seguinte contido:
+   
+   - Introdución á túa empresa e ao teu produto.
+   - Beneficios da colaboración.
+   - Testemuños de clientes ou socios actuais.
+   - Información de contacto para seguir a conversa.
+
+2. **Microsoft Excel para o Seguimento de Datos:**
+   Excel é unha ferramenta poderosa para xestionar e analizar datos. No network marketing, podes usar Excel para seguir o rendemento das vendas, xestionar listas de contactos e analizar tendencias de mercado.
+
+   **Exemplo Práctico:**
+   Imos crear unha folla de cálculo para seguir as túas vendas mensuais. Inclúe columnas para a data da venda, o nome do cliente, o produto vendido e o importe da venda. Ao longo do tempo, poderás usar as funcións de Excel para xerar gráficos que che axuden a visualizar o teu rendemento.
+
+3. **Microsoft PowerPoint para Presentacións Efectivas:**
+   PowerPoint é ideal para crear presentacións visuais que atraian a atención do teu público. Úsao para presentar os teus produtos en reunións de equipo ou eventos de marketing.
+
+   **Exemplo Práctico:**
+   Elabora unha presentación de PowerPoint con diapositivas que inclúan:
+   
+   - A misión e visión da túa empresa.
+   - Unha descrición dos produtos ou servizos que ofreces.
+   - Gráficos que mostren o crecemento da empresa ou os logros alcanzados.
+
+**Exercicios e Quiz**
+
+**Exercicio 1: Creación dun Documento en Word**
+Crea un documento en Word que sexa unha carta de presentación para un novo cliente. Inclúe un breve resumo do teu produto e unha chamada á acción para unha reunión de seguimento.
+
+**Quiz:**
+1. Cal é a principal función de Microsoft Excel no network marketing?
+   a) Crear diapositivas
+   b) Xestionar datos
+   c) Redactar documentos textuais
+
+**Solución:**
+1. b) Xestionar datos
+
+**Diálogos Reais para Comunicación en Network Marketing**
+
+1. **WhatsApp:**
+   - Usuario: "Ola, gustaríame saber máis sobre os teus produtos."
+   - Ti: "Ola! Moitas grazas polo teu interese. Podo enviarche un documento con toda a información detallada. Cal é o teu correo electrónico?"
+
+2. **Email:**
+   - Asunto: "Colaboración Potencial"
+   - Corpo: "Estimado [Nome], 
+     Son [O teu Nome], representante de [Nome da Empresa]. Gustaríame explorar a posibilidade de colaborar no ámbito do network marketing. Achégoche un documento con máis detalles. Agardo a túa resposta."
+
+**Erros Comúns e Como Evitalos**
+
+1. **Erro Común: Non Gardar o Traballo Regularmente**
+   - Solución: Asegúrate de activar a opción de autogardado en Office e garda manualmente o teu traballo despois de facer cambios importantes.
+
+2. **Erro Común: Usar Demasiado Texto en PowerPoint**
+   - Solución: Limita o texto en cada diapositiva e usa imaxes ou gráficos para comunicar as túas ideas de forma máis visual.
+
+**Cultura Business Internacional**
+
+Ao traballar no ámbito do network marketing, é importante comprender que as prácticas empresariais poden variar segundo a cultura. Por exemplo, mentres que en países occidentais é común ir directo ao punto nas comunicacións comerciais, en culturas asiáticas pode ser necesario establecer unha relación persoal antes de entrar en detalles de negocio.
+
+**Conclusión**
+
+Neste módulo, exploramos como usar ferramentas de Office para mellorar a túa eficiencia no network marketing. Practica os exemplos proporcionados e realiza os exercicios para consolidar o teu aprendizaxe. No seguinte módulo, profundaremos no uso avanzado de Excel para análise de datos.

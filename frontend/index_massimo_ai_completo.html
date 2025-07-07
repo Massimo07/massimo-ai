@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Massimo AI – Seleziona lingua</title>
+  <meta name="description" content="Massimo AI – Seleziona la tua lingua e inizia a usare la piattaforma di intelligenza artificiale per il network marketing, multilingue e personalizzata." />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+  <style>
+    :root {
+      --black: #000000;
+      --violet: #8B5CFF;
+      --copper: #FF8F00;
+      --gold: #FFD700;
+      --white: #FFFFFF;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      height: 100%; font-family: 'Montserrat', sans-serif;
+      background-color: var(--black); color: var(--white);
+      display: flex; flex-direction: column;
+      justify-content: center; align-items: center;
+      overflow: hidden; position: relative;
+    }
+    body::before {
+      content: ''; position: absolute; top: 0; left: 0;
+      width: 100%; height: 100%; z-index: -1;
+      background:
+        radial-gradient(circle at 10% 50%, rgba(139, 92, 255, 0.28) 0%, transparent 50%),
+        radial-gradient(circle at 90% 50%, rgba(255, 143, 0, 0.22) 0%, transparent 50%);
+      background-color: #000000;
+      background-blend-mode: screen;
+      filter: blur(100px);
+    }
+    .logo {
+      width: 1000px; max-width: 90vw;
+      margin-bottom: 20px; margin-top: 60px;
+    }
+    .kitt-bar {
+      display: flex;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+    .light {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #550000;
+      opacity: 0.3;
+      transition: all 0.3s ease;
+    }
+    .parla .light {
+      animation: kitt 1.2s infinite ease-in-out;
+      background: radial-gradient(circle, #ff0000 30%, #800000 90%);
+      opacity: 1;
+      box-shadow: 0 0 15px red;
+    }
+    .parla .light:nth-child(1) { animation-delay: 0s; }
+    .parla .light:nth-child(2) { animation-delay: 0.1s; }
+    .parla .light:nth-child(3) { animation-delay: 0.2s; }
+    .parla .light:nth-child(4) { animation-delay: 0.3s; }
+    .parla .light:nth-child(5) { animation-delay: 0.4s; }
+    .parla .light:nth-child(6) { animation-delay: 0.5s; }
+    .parla .light:nth-child(7) { animation-delay: 0.6s; }
+    .parla .light:nth-child(8) { animation-delay: 0.7s; }
+    @keyframes kitt {
+      0%, 100% {
+        transform: scale(0.7);
+        opacity: 0.5;
+      }
+      50% {
+        transform: scale(1.4);
+        opacity: 1;
+      }
+    }
+    .box {
+      background: rgba(0,0,0,0.7);
+      backdrop-filter: blur(8px);
+      border: 1px solid rgba(255,255,255,0.05);
+      padding: 40px 45px; border-radius: 20px;
+      text-align: center;
+      box-shadow: 0 0 40px 10px rgba(255,215,0,0.1);
+      max-width: 480px; width: 90vw;
+    }
+    .box h1 { font-size: 1.8rem; font-weight: 600; margin-bottom: 26px; }
+    .select2-container { width: 100% !important; }
+    .select2-selection {
+      background: #121212 !important; color: #fff !important;
+      border: 1px solid #444 !important; border-radius: 12px !important;
+      min-height: 52px !important; font-size: 1.03rem !important;
+      padding: 6px 10px !important;
+    }
+    .select2-selection__arrow b { border-color: #fff transparent transparent transparent !important; }
+    .select2-dropdown { background: #222 !important; color: #fff !important; border-radius:0 0 12px 12px; }
+    .select2-results__option { color: #fff !important; font-size:1.02em; }
+    .select2-results__option--highlighted[aria-selected] { background: rgba(139,92,255,0.13) !important; color: #fff !important; }
+    .privacy-link { color: #fff; font-size: 0.9em; opacity: 0.6; margin-top: 14px; display: inline-block; }
+    .privacy-link:hover { color: var(--gold); opacity: 1; }
+  </style>
+</head>
+<body>
+  <img src="images/copertina1.png" alt="Massimo AI Logo" class="logo" />
+
+  <div id="kittBar" class="kitt-bar">
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+  </div>
+
+  <!-- Resto HTML: select lingue, script, etc. (non modificato qui per brevità) -->
+
+  <script>
+    const kitt = document.getElementById("kittBar");
+    function parla() { kitt.classList.add("parla"); }
+    function ascolta() { kitt.classList.remove("parla"); }
+
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    const recognition = new SpeechRecognition();
+    recognition.lang = 'it-IT';
+    recognition.continuous = false;
+    recognition.interimResults = false;
+
+    recognition.onstart = () => { ascolta(); console.log("🎙️ In ascolto..."); };
+    recognition.onresult = (event) => {
+      const testo = event.results[0][0].transcript;
+      console.log("Hai detto:", testo);
+      rispondi(testo);
+    };
+    recognition.onerror = (event) => { console.error("Errore microfono:", event.error); };
+    recognition.onend = () => { recognition.start(); };
+
+    function rispondi(testo) {
+      const msg = new SpeechSynthesisUtterance();
+      msg.text = `Hai detto: ${testo}. Benvenuto in Massimo AI.`;
+      msg.lang = 'it-IT';
+      msg.pitch = 1.05;
+      msg.rate = 1;
+      msg.onstart = () => { parla(); console.log("🗣️ Parlo..."); };
+      msg.onend = () => { ascolta(); console.log("🔇 Fine parlato, torno in ascolto"); };
+      speechSynthesis.speak(msg);
+    }
+
+    recognition.start();
+  </script>
+</body>
+</html>

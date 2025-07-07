@@ -1,0 +1,16 @@
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+async async async def corso_youtube_livello_5_handler(update, context):
+
+    user = update.effective_user
+
+    text = (
+
+        "📺 *YouTube Mastery – Livello 5*\n\n"
+
+        "YouTube Studio Pro, analytics avanzati, monetizzazione, strategie di crescita, partnership."
+
+    )
+
+    await context.bot.send_message(chat_id=user.id, text=text)
+

@@ -1,0 +1,86 @@
+# === CORE MASSIMO AI ===
+python-telegram-bot==22.1
+openai==1.35.13
+python-dotenv==1.0.1
+SQLAlchemy==2.0.30
+apscheduler==3.10.4
+flask==3.0.3
+requests==2.31.0
+
+# === GENERAZIONE DOCUMENTI E IMMAGINI ===
+fpdf2==2.7.8
+python-docx==1.1.0
+python-pptx==0.6.23
+Pillow==10.3.0
+PyPDF2==3.0.1
+reportlab==4.2.0
+
+# === SCRAPING & AUTOMAZIONE ===
+beautifulsoup4==4.12.3
+selenium==4.21.0
+tqdm==4.66.4
+
+# === TRADUZIONE ===
+deep-translator==1.11.4
+
+# === PAGAMENTI ===
+stripe==12.2.0
+
+# === DATABASE E VARI ===
+pandas==2.2.2
+numpy==1.26.4
+
+# === INTELLIGENZA ARTIFICIALE ===
+scikit-learn==1.4.2
+transformers==4.41.2
+langchain==0.1.16
+langchain-community==0.0.35
+langchain-openai==0.0.3
+chromadb==0.5.3
+
+# === AUDIO/VOCE (opzionali, solo se ti servono queste funzioni) ===
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+gTTS==2.5.1
+elevenlabs
+pydub
+
+# === WEBSERVER E FASTAPI ===
+fastapi==0.111.0
+uvicorn==0.29.0
+pydantic
+Werkzeug==3.0.3
+aiohttp==3.9.5
+webpush==1.0.2
+python-multipart
+aiofiles
+
+# === SICUREZZA, EMAIL, ETC ===
+passlib[bcrypt]
+email-validator
+
+# === VARIE ===
+pytest
+loguru
+jinja2
+schedule
+qrcode==7.4.2
+lxml==5.2.2
+faiss-cpu
+psycopg2-binary
+python-telegram-bot==22.1  # Usa SOLO una versione, scegli la più nuova stabile (evita doppioni)
+flask==3.0.3
+stripe==12.2.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+scikit-learn==1.4.2
+transformers==4.41.2   # Usa la versione più aggiornata
+python-dotenv==1.0.1
+apscheduler==3.10.4
+streamlit==1.35.0
+SQLAlchemy==2.0.30
+unittest2==1.1.0
+
+# (rimuovi tutto quello che sai non ti serve!)
+
+# (aggiungi librerie solo se usate da Massimo AI)

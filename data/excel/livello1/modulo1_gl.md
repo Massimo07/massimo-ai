@@ -1,0 +1,58 @@
+# **Módulo 1: Introdución a Excel para Network Marketing e Business Dixital**
+
+Benvido ao primeiro módulo do noso curso de Excel. Neste módulo, aprenderás os conceptos básicos de Excel, unha ferramenta indispensable para calquera profesional no campo do network marketing e business dixital. A nosa meta é guiarte a través das funcións esenciais de Excel, axudándote a comprender como podes aplicar estas técnicas para mellorar a túa eficiencia e produtividade.
+
+**Teoría e Práctica**
+
+Excel é un programa de follas de cálculo desenvolvido por Microsoft que permite realizar diversas tarefas como a organización de datos, cálculos matemáticos, análise de información e creación de gráficos. No contexto do network marketing, Excel pode ser utilizado para xestionar listas de contactos, rastrexar vendas, calcular comisións e moito máis.
+
+Para comenzar, imos abrir Excel. Cando inicias o programa, verás unha pantalla con diferentes opcións de plantillas. Para este módulo, seleccionaremos unha folla de cálculo en branco. Unha folla de cálculo en Excel está composta por celas organizadas en filas (numeradas) e columnas (letradas). Cada cela pode conter texto, números ou fórmulas.
+
+**Exemplo Real: Xestión de Contactos en Network Marketing**
+
+Supón que tes unha lista de contactos cos que queres facer un seguimento no teu negocio de network marketing. Poderías crear unha folla de cálculo con columnas como "Nome", "Correo Electrónico", "Teléfono", "Data de Último Contacto" e "Estado". Para engadir un contacto, simplemente escribe cada dato na súa respectiva cela. 
+
+Imos practicar engadindo os seguintes datos:
+
+1. Nome: Ana Pérez
+2. Correo Electrónico: ana.perez@example.com
+3. Teléfono: 123456789
+4. Data de Último Contacto: 01/10/2023
+5. Estado: Potencial Cliente
+
+Introduce estes datos na primeira fila despois dos encabezados. Unha vez feito isto, terás a túa primeira entrada de contacto.
+
+**Esercicios e Quiz**
+
+**Exercicio 1:** Crea unha folla de cálculo con 5 contactos ficticios seguindo o exemplo anterior. Engade unha columna adicional chamada "Nota Persoal" e inclúe unha breve nota para cada contacto.
+
+**Quiz:** 
+1. Que é unha cela en Excel?
+2. Como se denomina a intersección entre unha fila e unha columna?
+
+**Solucións:**
+1. Unha cela é a unidade básica de almacenamento de datos en Excel, onde se poden introducir texto, números ou fórmulas.
+2. A intersección entre unha fila e unha columna tamén se denomina cela.
+
+**Diálogos Reais para Comunicación Profesional**
+
+**WhatsApp/Telegram:**
+- "Ola [Nome], revisei os teus datos e engadínche á miña lista de contactos en Excel para facer un seguimento mellor. Estás interesado/a en coñecer máis sobre as nosas oportunidades de negocio?"
+
+**Zoom:**
+- "Durante a nosa reunión de hoxe, compartiréi a pantalla para mostrarche como organizo os meus contactos en Excel. Isto axúdame a manter un rexistro eficiente e a non perder ningunha oportunidade de seguimento."
+
+**Email:**
+- "Estimado/a [Nome], como parte do meu seguimento profesional, adxúntoche un documento de Excel co resumo do noso último contacto. Este método permíteme asegurar que ningún detalle se perda."
+
+**Erros Comúns e Como Evitalos**
+
+Un erro común é non gardar o traballo regularmente. En Excel, é importante afacerse a gardar os cambios frecuentemente para evitar a perda de datos. Podes facelo rapidamente premendo "Ctrl + S".
+
+Outro erro é a introdución incorrecta de fórmulas. Asegúrate de comezar as fórmulas cun signo igual (=) e verifica que as referencias de celas sexan correctas.
+
+**Cultura Business Internacional**
+
+No contexto internacional, Excel é unha ferramenta estándar que se utiliza en todo o mundo. Comprender Excel non só mellora a túa eficiencia persoal, senón que tamén che proporciona unha vantaxe competitiva ao colaborar con equipos de todo o mundo. Moitas empresas internacionais esixen coñecementos básicos de Excel como parte das súas competencias profesionais.
+
+Con este módulo, agora tes unha base sólida para comezar a explorar Excel. No seguinte módulo, profundaremos en funcións avanzadas e como aplicalas especificamente no teu negocio de network marketing. Sigue practicando e non dubides en contactar se tes algunha pregunta ou necesites axuda adicional.

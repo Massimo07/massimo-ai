@@ -1,0 +1,55 @@
+# **Modul 1: Pokročilé techniky v Adobe Photoshop pro Network Marketing**
+
+Vítejte v prvním modulu kurzu pokročilého používání Adobe Photoshopu zaměřeného na potřeby network marketingu a platformy Live On Plus. V tomto modulu se zaměříme na některé pokročilé techniky, které vám pomohou vytvářet vizuální obsah, který zaujme a efektivně komunikuje vaši značku.
+
+**Teorie a praxe:**
+
+Adobe Photoshop je mocný nástroj pro úpravu a vytváření grafiky. Základy jste si již osvojili, nyní se podíváme na pokročilejší techniky. Začneme s vrstvami, které jsou klíčem k efektivní práci v Photoshopu. Vrstvy umožňují pracovat na různých částech obrázku samostatně, aniž byste ovlivnili celý obraz.
+
+1. **Práce s vrstvami:**
+   - Otevřete si projekt v Photoshopu a podívejte se na panel vrstev (Layers). Každá nová úprava by měla být na nové vrstvě.
+   - Vytvořte novou vrstvu kliknutím na ikonu "Nová vrstva" ve spodní části panelu vrstev. Pojmenujte vrstvy podle jejich funkce, např. "Pozadí", "Logo", "Text".
+
+2. **Použití masek vrstev:**
+   - Masky vrstev umožňují skrýt nebo zobrazit části vrstvy bez trvalé změny.
+   - Přidejte masku vrstvy kliknutím na ikonu "Přidat masku vrstvy". Použijte černou barvu na masku k zakrytí částí vrstvy a bílou k jejich zobrazení.
+
+**Příklady reálného použití:**
+
+Představte si, že vytváříte reklamní grafiku pro produkt na platformě Live On Plus. Můžete použít vrstvy k přidání atraktivního pozadí, vložení fotografie produktu a přidání textu s klíčovými výhodami. Masky vrstev pak využijete k jemnému doladění vzhledu, např. pro vylepšení osvětlení nebo odstranění nežádoucích prvků z fotografie.
+
+**Cvičení a kvíz:**
+
+*Úkol:* Vytvořte grafiku pro sociální média propagující nový produkt. Použijte vrstvy pro oddělené úpravy textu, obrázku a pozadí. Experimentujte s maskami vrstev pro dosažení profesionálního vzhledu.
+
+*Kvíz:*
+1. Jaký je hlavní účel vrstev v Photoshopu?
+2. Jak se přidává maska vrstvy a co umožňuje?
+
+*Řešení:*
+1. Vrstvy umožňují pracovat na různých částech obrázku nezávisle.
+2. Maska vrstvy se přidává kliknutím na ikonu "Přidat masku vrstvy" a umožňuje skrýt nebo zobrazit části vrstvy.
+
+**Dialogy pro WhatsApp, Telegram, Zoom, email:**
+
+*WhatsApp:*
+- Klient: "Potřebuji rychlou úpravu naší nové produktové fotografie. Můžete to udělat?"
+- Vy: "Ano, samozřejmě! Použiji masky vrstev v Photoshopu, abych zachoval původní obrázek a jen upravil detaily."
+
+*Email:*
+- Předmět: "Grafická úprava pro naši kampaň"
+- Obsah: "Dobrý den, právě jsem dokončil úpravy vaší produktové fotografie pomocí vrstev a masek v Photoshopu. Přikládám výsledný soubor pro vaše schválení."
+
+**Časté chyby a jak se jim vyhnout:**
+
+1. **Nepracovat s vrstvami:**
+   - Mnoho začátečníků pracuje pouze na jedné vrstvě, což může vést ke ztrátě flexibility při úpravách. Vždy používejte vrstvy pro různé prvky grafiky.
+
+2. **Zapomínání na pojmenování vrstev:**
+   - Nepojmenované vrstvy mohou způsobit zmatek, zejména v komplexních projektech. Pojmenovávejte každou vrstvu podle jejího obsahu nebo funkce.
+
+**Kultura mezinárodního businessu:**
+
+V globalizovaném podnikatelském prostředí je vizuální komunikace klíčová. Různé kultury mohou mít různé preference ohledně barev a designu. Například, zatímco bílá barva je v západních kulturách symbolem čistoty, v některých východních kulturách může být spojena se smutkem. Při návrhu grafiky pro mezinárodní publikum je důležité zohlednit tyto kulturní rozdíly.
+
+Tento modul vám poskytl základní znalosti o pokročilých technikách v Adobe Photoshopu. Procvičováním a aplikací těchto dovedností ve vašich projektech pro network marketing a platformu Live On Plus získáte profesionální výsledek, který podpoří vaši značku na mezinárodní úrovni.

@@ -1,0 +1,32 @@
+{
+  "Generale": [
+    {
+      "q": "Cos'è Massimo AI?",
+      "a": "Massimo AI è il tuo assistente virtuale intelligente per la crescita in LIVE ON+. È progettato per guidarti dal livello 'Info Free' fino a 'Network Leggendario' e oltre, fornendoti formazione, risposte specifiche e strumenti per la gestione del tuo team."
+    },
+    {
+      "q": "Come posso contattare il supporto?",
+      "a": "Puoi contattare il supporto tecnico o per domande generali cliccando sul pulsante 'Contatta Supporto' nel menu principale del bot, oppure visitando il nostro sito web ufficiale."
+    }
+  ],
+  "Livelli e Abbonamenti": [
+    {
+      "q": "Come funziona la gestione dei livelli?",
+      "a": "Massimo AI offre 8 livelli di abbonamento (da Info Free a Network Leggendario), ognuno sblocca contenuti, strumenti e funzionalità avanzate. Puoi visualizzare i tuoi livelli attuali e sbloccare nuovi livelli tramite il menu 'I miei Livelli' o 'Scopri i Livelli'."
+    },
+    {
+      "q": "Posso cambiare livello in qualsiasi momento?",
+      "a": "Sì, puoi passare a un livello superiore in qualsiasi momento acquistando l'abbonamento corrispondente. Ogni livello sbloccato è tuo per sempre, e puoi sempre decidere di investire nella tua crescita."
+    }
+  ],
+  "Piano Marketing": [
+    {
+      "q": "Cosa sono i PTA (Punti Team Attivi)?",
+      "a": "I PTA sono i Punti generati dalle attività e dagli acquisti del tuo team. Sono cruciali per le qualifiche di carriera e per accedere a bonus e incentivi."
+    },
+    {
+      "q": "Che differenza c'è tra Shop 1 e Shop 2?",
+      "a": "Lo Shop 1 è accessibile a tutti e i prodotti generano il loro valore provvigionale massimo consentito. Lo Shop 2 è accessibile dopo la registrazione come 'Customer' e offre prodotti con diverse condizioni e opportunità."
+    }
+  ]
+}

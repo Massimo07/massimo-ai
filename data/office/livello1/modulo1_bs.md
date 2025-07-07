@@ -1,0 +1,97 @@
+# **Modul 1: Osnove Office alata u kontekstu Network Marketinga i Digitalnog Poslovanja**
+
+Dobrodošli na prvi modul našeg kursa "Office." Ovaj modul je dizajniran da vam pruži osnovno razumijevanje kako koristiti Office alate u kontekstu network marketinga i digitalnog poslovanja, posebno s naglaskom na platformu Live On Plus.
+
+### Teorijski dio
+
+**Uvod u Office alate**
+
+Office alati su suštinski dio svakog modernog poslovanja, uključujući i network marketing. Oni omogućavaju kreiranje dokumenata, tabela, prezentacija i analiza koje su ključne za uspješno vođenje poslovanja.
+
+1. **Microsoft Word**: Koristi se za kreiranje dokumenata kao što su poslovni planovi, bilješke sa sastanaka i ugovori. U kontekstu network marketinga, možete ga koristiti za izradu pisama dobrodošlice novim članovima.
+
+2. **Microsoft Excel**: Excel je nezamjenjiv za vođenje evidencije i analizu podataka. U network marketingu, možete pratiti performanse vašeg tima, obim prodaje, i izračunavati provizije.
+
+3. **Microsoft PowerPoint**: Ovaj alat je ključan za kreiranje prezentacija koje možete koristiti u online sastancima ili webinarima. Možete dizajnirati atraktivne prezentacije kako biste predstavili proizvode ili poslovne mogućnosti.
+
+### Praktični dio
+
+**Primjena Office alata u network marketingu**
+
+Sada ćemo proći kroz praktičnu primjenu ovih alata. Zamislite da ste dio tima na platformi Live On Plus i želite kreirati izvještaj i prezentaciju za svoj tim.
+
+**Korištenje Microsoft Worda**
+
+1. Otvorite Microsoft Word i započnite novi dokument.
+2. Unesite naslov "Izvještaj za Tim" i formatirajte ga kao naslov koristeći opciju "Naslov 1".
+3. Napišite uvodni paragraf koji opisuje svrhu izvještaja.
+4. Dodajte podnaslove kao što su "Prodajni Rezultati", "Ciljevi za Sljedeći Mjesec", i "Zaključci".
+5. U svakom odjeljku unesite relevantne informacije koristeći liste s grafičkim oznakama za bolju organizaciju.
+
+**Korištenje Microsoft Excela**
+
+1. Otvorite Excel i stvorite novu tabelu.
+2. U prvu kolonu unesite imena članova tima.
+3. U drugu kolonu unesite ostvareni promet za svaki član.
+4. Koristite funkciju SUM za izračunavanje ukupnog prometa vašeg tima.
+5. Kreirajte grafikon koji vizualno prikazuje performanse tima.
+
+**Korištenje Microsoft PowerPointa**
+
+1. Otvorite PowerPoint i kreirajte novu prezentaciju.
+2. Na prvoj strani unesite naslov prezentacije i svoje ime.
+3. Dodajte slajdove za svaki odjeljak izvještaja kreiranog u Wordu.
+4. Ubacite grafikone iz Excela kako biste ilustrirali podatke.
+5. Iskoristite slike i grafike za poboljšanje vizualne privlačnosti prezentacije.
+
+### Esercizi i kvizovi
+
+**Esercizi**
+
+1. Kreirajte dokument u Wordu koji sadrži plan aktivnosti za vaš tim za naredni mjesec.
+2. Unesite podatke o prodaji vašeg tima u Excel i stvorite grafikon koji prikazuje rast prodaje.
+3. Pripremite prezentaciju u PowerPointu koja će predstaviti vaš plan za naredni kvartal.
+
+**Kviz**
+
+1. Koji alat biste koristili za kreiranje poslovnog plana?
+   - A) Excel
+   - B) Word
+   - C) PowerPoint
+
+2. Kako biste izračunali ukupni promet tima u Excelu?
+   - A) Koristeći grafikon
+   - B) Koristeći funkciju SUM
+   - C) Koristeći tablicu
+
+**Rješenja:**
+1. B) Word
+2. B) Koristeći funkciju SUM
+
+### Dijalozi
+
+**WhatsApp/Telegram**
+
+"Zdravo [Ime], vidim da si zainteresovan za naš tim. Pripremio sam nekoliko dokumenata koji će ti pomoći da shvatiš naš poslovni model, mogu ti ih poslati putem e-maila?"
+
+**Zoom**
+
+"Na današnjem sastanku ćemo proći kroz prezentaciju koja objašnjava naš plan za sljedeći kvartal. Molim vas da otvorite PowerPoint prezentaciju koju sam podijelio."
+
+**E-mail**
+
+"Poštovani [Ime], u prilogu ovog e-maila možete pronaći Excel tabelu sa podacima o prodaji za prošli mjesec. Molimo vas da je pregledate prije našeg sastanka."
+
+### Uobičajene greške i kako ih izbjeći
+
+1. **Nelogična struktura dokumenta**: Uvijek krenite sa jasnom strukturom i koristite naslove i podnaslove.
+
+2. **Netačni podaci u Excelu**: Provjerite sve formule i upotrijebite funkcije kao što je SUM za tačne izračune.
+
+3. **Pretrpani slajdovi u PowerPointu**: Koristite sažet jezik i vizuale kako biste zadržali pažnju publike.
+
+### Kulturni aspekti u međunarodnom poslovanju
+
+U međunarodnom poslovanju, važno je razumjeti kulturološke razlike. Na primjer, u nekim kulturama e-mailovi trebaju biti formalniji, dok u drugima može biti prihvatljivo koristiti opušteniji ton. Prilagodite svoj pristup prema kulturi s kojom komunicirate kako biste izgradili bolje poslovne odnose.
+
+Ovim završavamo naš prvi modul. Nadam se da ste stekli osnovno razumijevanje kako koristiti Office alate u network marketingu i digitalnom poslovanju. Nastavite vježbati i istraživati kako biste usavršili svoje vještine.

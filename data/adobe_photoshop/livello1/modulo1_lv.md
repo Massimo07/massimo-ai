@@ -1,0 +1,53 @@
+# Protams, šis ir ļoti plašs uzdevums, bet es tevi atbalstīšu, izveidojot satura plānu, kas varētu būt iezīme pilnvērtīgā modulī "Adobe Photoshop" kursam. Ņemot vērā, ka šis ir iesācēju līmenis, mēs sāksim ar pamatiem un soli pa solim virzīsimies uz priekšu.
+
+---
+
+**Adobe Photoshop Modulis 1: Ievads un pamati**
+
+**Teorija un prakse:**
+
+Adobe Photoshop ir viens no pasaulē populārākajiem grafiskās dizaina un attēlu rediģēšanas rīkiem. Tas ir īpaši noderīgs digitālajā mārketingā un network marketing jomā, jo tas ļauj izveidot profesionālus attēlus un vizuālos materiālus, kas var palielināt zīmola atpazīstamību.
+
+*Galvenie jēdzieni:*
+- **Slāņi (Layers):** Slāņi ļauj jums veidot attēlu pa daļām, kas ir viegli rediģējamas. Varat mainīt katra slāņa izmēru, krāsu, neietekmējot citus slāņus.
+- **Izvēles rīki (Selection Tools):** Tie ļauj izvēlēties noteiktas attēla daļas, lai tās rediģētu atsevišķi.
+- **Filtri (Filters):** Tie ir iepriekš sagatavoti efekti, kas var piešķirt jūsu attēliem unikālu izskatu.
+
+**Praktisks piemērs: Network Marketing un Live On Plus**
+
+Iedomājieties, ka jūs strādājat Live On Plus, un jums ir nepieciešams izveidot reklāmas attēlu jaunam produktam. Jūs varat izmantot Photoshop, lai izveidotu pievilcīgu vizuālo materiālu, kas piesaistīs potenciālos klientus. Piemēram, jūs varat apvienot produktu attēlus ar pievilcīgu fonu, izmantojot slāņus, un pielietot filtrus, lai padarītu attēlu izteiksmīgāku.
+
+**Esercizi un quiz ar risinājumiem:**
+
+*Uzdevums 1:* Atveriet Adobe Photoshop un izveidojiet jaunu dokumentu ar izmēru 800x600 pikseļi. Eksperimentējiet, pievienojot trīs dažādus slāņus un mainot to krāsas.
+
+*Risinājums:* 
+1. Atveriet Photoshop un dodieties uz "File" > "New". 
+2. Ievadiet izmērus 800x600 pikseļi un nospiediet "OK".
+3. Izmantojot rīku "Brush Tool", pievienojiet krāsu katram slānim. Lai pievienotu jaunu slāni, dodieties uz "Layer" > "New" > "Layer".
+
+*Quiz jautājums:* Kāda ir slāņa galvenā priekšrocība Photoshop?
+- A) Tas palielina faila izmēru
+- B) Tas ļauj rediģēt attēlu pa daļām
+- C) Tas automātiski saglabā attēlu
+
+*Pareizā atbilde:* B) Tas ļauj rediģēt attēlu pa daļām.
+
+**Dialogi reālajām situācijām:**
+
+*WhatsApp saruna:*
+Klients: "Sveiki, vai varat izveidot reklāmas attēlu mūsu jaunajam produktam?"
+Jūs: "Protams! Vai ir kādas konkrētas krāsas vai stils, ko vēlaties izmantot?"
+
+*Zoom zvans:*
+Jūs: "Sveiki, šodien mēs runāsim par to, kā izmantot Photoshop, lai izveidotu pievilcīgus vizuālos materiālus jūsu kampaņai."
+
+**Biežākie kļūdas un kā tās novērst:**
+
+Viena no biežākajām kļūdām, ko iesācēji pieļauj, ir attēlu saglabāšana nepareizā formātā. Lai izvairītos no kvalitātes zuduma, vienmēr saglabājiet darba failus .PSD formātā un eksportējiet galaproduktu .JPEG vai .PNG formātā.
+
+**Starptautiskā biznesa kultūras padziļinājums:**
+
+Izpratne par kultūras atšķirībām ir svarīga, strādājot starptautiskā vidē. Piemēram, krāsu simbolika var atšķirties dažādās kultūrās. Photoshop ļauj viegli mainīt krāsas, lai tās atbilstu jūsu mērķa auditorijas kultūras normām.
+
+Ar šo moduļa mācību saturu jūs esat guvis pamatzināšanas par Adobe Photoshop, kas ir būtiskas tālākai attīstībai digitālā un network marketing jomā. Turpinot praktizēt un eksperimentēt ar dažādiem rīkiem, jūs varēsiet izveidot arvien sarežģītākus un pievilcīgākus vizuālos materiālus.

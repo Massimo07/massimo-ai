@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Massimo AI – Your Gateway to the Future</title>
+  <meta name="description" content="Massimo AI – Evolutionary generative ecosystem, native multilingual, can generate custom macro-systems on demand. Welcome to the future of AI." />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --black: #000000;
+      --violet: #8B5CFF;
+      --copper: #FF8F00;
+      --gold: #FFD700;
+      --white: #FFFFFF;
+      --blue: #4EC9FF;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      height: 100%; font-family: 'Montserrat', sans-serif;
+      background-color: var(--black); color: var(--white);
+      display: flex; flex-direction: column;
+      justify-content: center; align-items: center;
+      overflow: hidden; position: relative;
+    }
+    body::before {
+      content: ''; position: absolute; top: 0; left: 0;
+      width: 100%; height: 100%; z-index: -1;
+      background:
+        radial-gradient(circle at 10% 50%, rgba(139, 92, 255, 0.28) 0%, transparent 50%),
+        radial-gradient(circle at 90% 50%, rgba(255, 143, 0, 0.22) 0%, transparent 50%);
+      background-color: #000000;
+      background-blend-mode: screen;
+      filter: blur(100px);
+    }
+    .logo {
+      width: 1000px; max-width: 90vw;
+      margin-bottom: 10px; margin-top: 30px;
+    }
+    .kitt-bar {
+      display: flex;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+    .light {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #550000;
+      opacity: 0.3;
+      transition: all 0.3s ease;
+    }
+    .parla .light {
+      animation: kitt 1.2s infinite ease-in-out;
+      background: radial-gradient(circle, #ff0000 30%, #800000 90%);
+      opacity: 1;
+      box-shadow: 0 0 15px red;
+    }
+    .ascolta .light {
+      background: radial-gradient(circle, var(--blue) 30%, #003366 90%);
+      opacity: 0.7;
+      box-shadow: 0 0 10px var(--blue);
+    }
+    .parla .light:nth-child(1) { animation-delay: 0s; }
+    .parla .light:nth-child(2) { animation-delay: 0.1s; }
+    .parla .light:nth-child(3) { animation-delay: 0.2s; }
+    .parla .light:nth-child(4) { animation-delay: 0.3s; }
+    .parla .light:nth-child(5) { animation-delay: 0.4s; }
+    .parla .light:nth-child(6) { animation-delay: 0.5s; }
+    .parla .light:nth-child(7) { animation-delay: 0.6s; }
+    .parla .light:nth-child(8) { animation-delay: 0.7s; }
+    @keyframes kitt {
+      0%, 100% { transform: scale(0.7); opacity: 0.5; }
+      50% { transform: scale(1.4); opacity: 1; }
+    }
+    #transcript {
+      margin-top: 10px;
+      padding: 10px 20px;
+      background-color: rgba(255, 255, 255, 0.05);
+      border-radius: 10px;
+      font-size: 1.1rem;
+      text-align: center;
+      max-width: 90vw;
+    }
+    .flag {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      width: 40px;
+    }
+    .avatar {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: url('avatar.gif') center/cover no-repeat;
+      border: 2px solid var(--blue);
+      margin-top: 10px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .parla + .avatar {
+      animation: avatarSpeak 1.2s infinite;
+    }
+    @keyframes avatarSpeak {
+      0% { transform: scale(1); box-shadow: 0 0 5px var(--blue); }
+      50% { transform: scale(1.1); box-shadow: 0 0 15px var(--blue); }
+      100% { transform: scale(1); box-shadow: 0 0 5px var(--blue); }
+    }
+    .input-row {
+      width: 100%; max-width: 420px;
+      display: flex; gap: 6px; align-items: center; justify-content: center;
+      margin: 12px 0;
+    }
+    #inputUtente {
+      flex: 1;
+      font-size: 1.15rem;
+      padding: 14px 16px;
+      border-radius: 15px;
+      border: none;
+      outline: none;
+      background: #191919;
+      color: white;
+      box-shadow: 0 1px 7px rgba(0,0,0,0.09);
+    }
+    #inviaBtn {
+      padding: 12px 18px;
+      border-radius: 50%;
+      border: none;
+      background: linear-gradient(90deg,#4EC9FF,#8B5CFF);
+      color: #fff;
+      font-size: 1.4rem;
+      cursor: pointer;
+      box-shadow: 0 1px 6px #0006;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s;
+    }
+    #inviaBtn:active {
+      background: linear-gradient(90deg,#8B5CFF,#4EC9FF);
+    }
+    #inviaBtn .icon {
+      display: inline-block;
+      font-size: 1.45rem;
+      margin-top: 1px;
+      margin-left: 1px;
+    }
+  </style>
+</head>
+<body>
+  <img src="images/copertina1.png" alt="Massimo AI Logo" class="logo" />
+  <img id="flagIcon" class="flag" src="flags/en.png" alt="Flag">
+  <div id="kittBar" class="kitt-bar">
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+    <div class="light"></div>
+  </div>
+  <div class="avatar" id="avatar"></div>
+  <div class="input-row">
+    <input id="inputUtente" type="text" autocomplete="off" placeholder="Type your message here..." />
+    <button id="inviaBtn" title="Send"><span class="icon">➤</span></button>
+  </div>
+  <div id="transcript">...</div>
+  <audio id="kitSound" src="kit_sound.mp3"></audio>
+  <script>
+    // ----- STATO E UTILITY -----
+    const kitt = document.getElementById("kittBar");
+    const kitSound = document.getElementById("kitSound");
+    const transcriptBox = document.getElementById("transcript");
+    const flagIcon = document.getElementById("flagIcon");
+    const avatar = document.getElementById("avatar");
+    const inputUtente = document.getElementById("inputUtente");
+    const inviaBtn = document.getElementById("inviaBtn");
+    let linguaUtente = null;
+    let linguaFounder = false;
+    let loggedIn = false;
+    let numInterazioni = 0;
+    const founderPass = "massimoai-founder"; // cambia la password founder se vuoi
+    const lingueSupportate = [
+      "en-US","it-IT","es-ES","fr-FR","de-DE","pt-PT","pl-PL","nl-NL","ru-RU","tr-TR",
+      "zh-CN","ar-SA","ja-JP","hi-IN","uk-UA","ro-RO","el-GR","cs-CZ","bg-BG","sv-SE", "fi-FI"
+      // ... aggiungi fino a 180 lingue!
+    ];
+    // Simulazione memoria utente
+    let userProfile = { categoria: null, prezzo: 20, lingua: 'en-US', personalizzato: false };
+
+    // ----- EFFETTO KITT -----
+    function parla() {
+      kitt.classList.remove("ascolta");
+      kitt.classList.add("parla");
+      avatar.classList.add("parla");
+      kitSound.currentTime = 0;
+      kitSound.play();
+    }
+    function ascolta() {
+      kitt.classList.remove("parla");
+      kitt.classList.add("ascolta");
+      avatar.classList.remove("parla");
+    }
+
+    // ----- SPEECH API -----
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    const recognition = new SpeechRecognition();
+    recognition.continuous = true;
+    recognition.interimResults = false;
+    recognition.lang = 'en-US';
+
+    function rilevaLingua(testo) {
+      const linguaPatterns = [
+        { lang: 'it-IT', regex: /\b(ciao|buongiorno|quanto|prezzo|grazie|aiuto|parla|funzione|ciao massimo)\b/i },
+        { lang: 'es-ES', regex: /\b(hola|buenos dias|precio|gracias|ayuda|habla|funcion|mas|menos)\b/i },
+        { lang: 'fr-FR', regex: /\b(bonjour|merci|prix|aide|parle|fonction|plus|moins)\b/i },
+        { lang: 'de-DE', regex: /\b(hallo|danke|preis|hilfe|sprich|funktion|mehr|weniger)\b/i },
+        { lang: 'en-US', regex: /\b(the|you|are|this|is|hello|hi|how|can|do|your|what)\b/i },
+        // ... aggiungi pattern anche per altre lingue
+      ];
+      for (const lp of linguaPatterns) {
+        if (lp.regex.test(testo)) return lp.lang;
+      }
+      return 'en-US';
+    }
+    function aggiornaBandiera(lang) {
+      flagIcon.src = lang.startsWith('it') ? 'flags/it.png' :
+        lang.startsWith('es') ? 'flags/es.png' :
+        lang.startsWith('fr') ? 'flags/fr.png' :
+        lang.startsWith('de') ? 'flags/de.png' :
+        'flags/en.png';
+    }
+    function benvenuto() {
+      const msg = new SpeechSynthesisUtterance(
+        "Welcome to Massimo AI. Speak or write in your language and I will automatically understand and reply."
+      );
+      msg.lang = 'en-US';
+      msg.pitch = 1.05;
+      msg.rate = 1;
+      msg.onstart = () => { parla(); transcriptBox.textContent = msg.text; };
+      msg.onend = () => { ascolta(); recognition.start(); };
+      speechSynthesis.speak(msg);
+    }
+
+    // ===== LOGIN FLOW =====
+    function chiediPassword() {
+      transcriptBox.textContent = "🔐 Please enter your personal password to continue:";
+      inputUtente.placeholder = "Password...";
+      inputUtente.type = "password";
+      inputUtente.value = "";
+      inputUtente.focus();
+      inviaBtn.onclick = () => {
+        if (inputUtente.value.trim()) verificaPassword(inputUtente.value.trim());
+      };
+      inputUtente.onkeyup = (e) => {
+        if (e.key === "Enter" && inputUtente.value.trim()) verificaPassword(inputUtente.value.trim());
+      };
+    }
+    function verificaPassword(pass) {
+      if (pass === founderPass) {
+        linguaFounder = true;
+        loggedIn = true;
+        transcriptBox.textContent = "Ciao Massimo! Accesso founder attivo.";
+        inputUtente.value = "";
+        inputUtente.type = "text";
+        setTimeout(benvenuto, 1200);
+      } else if (pass.length >= 4) {
+        linguaFounder = false;
+        loggedIn = true;
+        transcriptBox.textContent = "Access granted. Welcome!";
+        inputUtente.value = "";
+        inputUtente.type = "text";
+        setTimeout(benvenuto, 1200);
+      } else {
+        transcriptBox.textContent = "❌ Invalid password. Try again.";
+        inputUtente.value = "";
+        inputUtente.type = "password";
+        inputUtente.focus();
+      }
+    }
+
+    // ===== RISPOSTA EVOLUTA MASSIMO AI =====
+    function rispostaAvanzata(testo) {
+      // 1. Rilevamento lingua
+      linguaUtente = rilevaLingua(testo);
+      aggiornaBandiera(linguaUtente);
+      recognition.lang = linguaUtente;
+      userProfile.lingua = linguaUtente;
+      // 2. Empatia demo: se triste, rispondi motivazionale (espandibile con sentiment API)
+      let risposta = "", rispostaLang = linguaUtente;
+      numInterazioni++;
+      if (linguaFounder) {
+        risposta = "Ciao Massimo! Tutte le risposte, log e dashboard sono in italiano. Vuoi creare un nuovo ecosistema, vedere le statistiche, o gestire gli abbonamenti?";
+        rispostaLang = 'it-IT';
+      } else {
+        if (linguaUtente === 'it-IT') {
+          risposta = "Certo, posso aiutarti! Sono qui per te. Vuoi scoprire una funzione avanzata?";
+        } else if (linguaUtente === 'es-ES') {
+          risposta = "¡Por supuesto! Estoy aquí para ayudarte. ¿Quieres descubrir una función avanzada?";
+        } else if (linguaUtente === 'fr-FR') {
+          risposta = "Bien sûr, je peux t'aider ! Je suis là pour toi. Veux-tu découvrir une fonction avancée ?";
+        } else if (linguaUtente === 'de-DE') {
+          risposta = "Natürlich, ich kann dir helfen! Möchtest du eine erweiterte Funktion entdecken?";
+        } else {
+          risposta = "Sure, I can help you! I'm here for you. Would you like to discover an advanced feature?";
+        }
+        // Macro-factory: proposta automatica dopo 4 interazioni (demo)
+        if (numInterazioni === 4 && !userProfile.personalizzato) {
+          risposta += (linguaUtente === 'it-IT')
+            ? " Se vuoi posso creare per te un ecosistema AI su misura, personalizzato in base alle tue esigenze. Vuoi scoprirlo?"
+            : " If you want, I can create for you a custom AI ecosystem, tailored to your needs. Would you like to discover it?";
+        }
+      }
+      const msg = new SpeechSynthesisUtterance(risposta);
+      msg.lang = rispostaLang;
+      msg.pitch = 1.05;
+      msg.rate = 1;
+      msg.onstart = () => {
+        parla();
+        transcriptBox.textContent = (rispostaLang==='it-IT' ? "🤖 " : "🤖 ") + risposta;
+      };
+      msg.onend = () => { ascolta(); };
+      speechSynthesis.speak(msg);
+    }
+    // ===== INTEGRAZIONE INVIO =====
+    inviaBtn.onclick = () => {
+      const testo = inputUtente.value.trim();
+      if (!testo) return;
+      rispostaAvanzata(testo);
+      inputUtente.value = "";
+    };
+    inputUtente.onkeyup = (e) => {
+      if (e.key === "Enter" && inputUtente.value.trim()) {
+        rispostaAvanzata(inputUtente.value.trim());
+        inputUtente.value = "";
+      }
+    };
+
+    // ===== INIZIO =====
+    window.onload = () => {
+      chiediPassword();
+    };
+  </script>
+</body>
+</html>

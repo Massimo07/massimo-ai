@@ -1,0 +1,16 @@
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+async async async def corso_office_livello_2_handler(update, context):
+
+    user = update.effective_user
+
+    text = (
+
+        "💻 *Microsoft Office – Livello 2*\n\n"
+
+        "Word: formattazione avanzata e inserimento immagini. Excel: prime formule e grafici. PowerPoint: animazioni. Outlook: allegati e filtri base."
+
+    )
+
+    await context.bot.send_message(chat_id=user.id, text=text)
+

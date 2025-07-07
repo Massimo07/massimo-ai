@@ -1,0 +1,57 @@
+**Modulo 1 - Argomento Importante del Corso Adobe: Introduzione ad Adobe Photoshop**
+
+Benvenuti al Modulo 1 del nostro corso Adobe di livello 2, dove ci concentreremo su Adobe Photoshop, uno dei software di editing grafico più potenti e diffusi al mondo. Questo modulo è progettato per fornire una comprensione approfondita delle funzionalità avanzate di Photoshop, permettendoti di migliorare le tue competenze e applicarle in contesti professionali.
+
+### Introduzione ad Adobe Photoshop
+
+Adobe Photoshop è uno strumento essenziale per designer, fotografi e creativi di ogni settore. La sua versatilità permette di realizzare progetti che spaziano dalla semplice ritocchi fotografici alla creazione di complesse illustrazioni digitali. In questo modulo, esploreremo alcune delle funzionalità più avanzate che ti consentiranno di sfruttare appieno il potenziale di Photoshop.
+
+### Funzionalità Avanzate
+
+#### 1. **Livelli e Maschere di Livello**
+
+I livelli sono fondamentali per lavorare in modo non distruttivo. Permettono di modificare singole parti di un'immagine senza alterare l'intero progetto. Le maschere di livello, invece, consentono di nascondere o rivelare parti di un livello, offrendo un controllo preciso sulle modifiche.
+
+**Esempio Pratico:** 
+Immagina di voler sostituire il cielo in una fotografia. Creando un nuovo livello con l'immagine del cielo desiderato e applicando una maschera di livello, puoi facilmente fondere il nuovo cielo con il paesaggio sottostante, mantenendo intatti i dettagli originali.
+
+#### 2. **Strumento Penna**
+
+Lo strumento penna è essenziale per creare tracciati vettoriali precisi. È particolarmente utile per ritagliare oggetti complessi o creare forme personalizzate.
+
+**Esercizio:** 
+Ritaglia un oggetto complesso, come un albero con molte foglie, utilizzando lo strumento penna. Questo esercizio migliorerà la tua precisione e la tua capacità di gestire i tracciati.
+
+#### 3. **Filtri Avanzati**
+
+I filtri di Photoshop possono trasformare un'immagine con pochi clic. Dal miglioramento della nitidezza alla creazione di effetti artistici, i filtri avanzati offrono infinite possibilità creative.
+
+**Quiz:** 
+Quale filtro utilizzeresti per simulare l'effetto di un dipinto ad olio su una fotografia? 
+A. Sfocatura Gaussiana 
+B. Stilizzazione 
+C. Disturbo
+
+### Glossario Specifico
+
+- **Livello:** Un singolo strato in un progetto di Photoshop che può contenere immagini, testo o effetti.
+- **Maschera di Livello:** Uno strumento per nascondere o rivelare parti di un livello.
+- **Tracciato:** Un contorno vettoriale creato con lo strumento penna.
+
+### Checklist
+
+- [ ] Comprendere l'uso dei livelli e delle maschere di livello.
+- [ ] Essere in grado di utilizzare lo strumento penna per creare tracciati precisi.
+- [ ] Applicare filtri avanzati per migliorare le immagini.
+
+### Box Motivazione
+
+L'apprendimento delle funzionalità avanzate di Photoshop non solo migliorerà la qualità dei tuoi progetti, ma ti renderà anche più competitivo nel mercato del lavoro. La padronanza di questi strumenti è un investimento nel tuo futuro creativo.
+
+### Caso Studio Reale
+
+*Progetto di Restauro Fotografico:*
+
+Un fotografo professionista ha ricevuto l'incarico di restaurare una collezione di fotografie d'epoca danneggiate. Utilizzando Photoshop, ha creato nuovi livelli per correggere le imperfezioni e ha applicato filtri per migliorare la nitidezza e i dettagli. Grazie alle maschere di livello, è riuscito a preservare le caratteristiche originali delle immagini, consegnando un lavoro che ha riportato in vita i ricordi di un'epoca passata.
+
+Concludiamo questo modulo con l'invito a esplorare ulteriormente queste tecniche nei tuoi progetti personali. L'esperienza pratica è la chiave per diventare un esperto di Adobe Photoshop. Buon lavoro!

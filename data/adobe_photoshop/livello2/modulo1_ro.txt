@@ -1,0 +1,79 @@
+**Modulul 1: Introducere în Adobe Photoshop pentru Marketing în Rețea și Business Digital**
+
+Bine ați venit la Modulul 1 al cursului "Adobe Photoshop" la nivel intermediar. În acest modul, ne vom concentra pe utilizarea Adobe Photoshop ca instrument esențial pentru crearea de conținut vizual atractiv, specific pentru marketingul în rețea și platforma Live On Plus. Vom explora funcționalități de bază și avansate, cu exemple și exerciții practice adaptate nevoilor dumneavoastră profesionale.
+
+### **Teorie: Fundamentele Adobe Photoshop**
+
+Adobe Photoshop este un software de editare a imaginilor dezvoltat de Adobe Systems, folosit pe scară largă în design grafic, fotografie și marketing digital. Înțelegerea interfeței și a instrumentelor sale este esențială pentru a putea crea imagini profesionale care să atragă și să rețină atenția publicului țintă.
+
+**Interfața Photoshop:**
+
+1. **Bara de Instrumente:** Localizată de obicei pe partea stângă a ecranului, aceasta conține instrumente pentru selecție, retușare, desen și editare.
+   
+2. **Panoul de Stratificare (Layers):** Situat în dreapta, permite gestionarea diferitelor elemente ale imaginii pe straturi separate, oferind flexibilitate și control asupra editărilor.
+
+3. **Meniul de Opțiuni:** Aici găsiți setările personalizate pentru fiecare instrument selectat, situat sub bara de meniu principală.
+
+**Practica: Crearea unui Vizual pentru Campania de Network Marketing**
+
+Să presupunem că trebuie să creați o imagine pentru o campanie Live On Plus. Vom folosi Adobe Photoshop pentru a adăuga un text promoțional peste o imagine de fundal atractivă.
+
+**Pas cu Pas:**
+
+1. **Deschiderea unei Imagini:**
+   - Lansați Adobe Photoshop.
+   - Selectați "File" > "Open" și alegeți imaginea dorită de pe computer.
+
+2. **Adăugarea Textului:**
+   - Selectați instrumentul "Text" (T) din bara de instrumente.
+   - Faceți clic pe imagine unde doriți să adăugați textul și introduceți mesajul dorit, de exemplu, "Nu ratați oferta noastră exclusivă!"
+
+3. **Personalizarea Textului:**
+   - În panoul de opțiuni, ajustați fontul, dimensiunea și culoarea textului pentru a se potrivi cu brandul dumneavoastră.
+   - Utilizați instrumentul "Move" (V) pentru a poziționa textul pe imagine.
+
+4. **Salvarea Imaginilor:**
+   - Mergeți la "File" > "Save As" și alegeți formatul de fișier dorit, cum ar fi JPEG pentru utilizare web.
+
+### **Exemple Reale:**
+
+Imaginați-vă că trebuie să promovați un webinar pe Telegram. Utilizați Photoshop pentru a crea un banner care să includă titlul webinarului, data și ora, și elemente vizuale care să reflecte tema evenimentului. Acesta poate fi distribuit pe canalele de social media pentru a atrage participanți.
+
+### **Eserciții și Quiz:**
+
+**Esercițiu Practic:**
+Creați o grafică pentru un anunț de recrutare pentru echipa dvs. de marketing în rețea, utilizând text și elemente vizuale care să evidențieze beneficiile participării.
+
+**Quiz:**
+1. Care este funcția principală a panoului de stratificare?
+2. Cum puteți schimba culoarea unui text în Photoshop?
+
+**Soluții:**
+1. Panoul de stratificare permite gestionarea diferitelor elemente ale imaginii pe straturi separate.
+2. Pentru a schimba culoarea unui text, selectați textul cu instrumentul "Text" și ajustați culoarea din panoul de opțiuni.
+
+### **Dialoguri Reale pentru Comunicarea Digitală:**
+
+**WhatsApp/Telegram:**
+- Client: "Salut, am nevoie de un banner pentru evenimentul nostru de săptămâna viitoare."
+- Designer: "Desigur, am câteva idei. Îmi puteți spune tema și mesajul principal?"
+
+**Zoom:**
+- Instructor: "Astăzi vom învăța cum să folosim Photoshop pentru a crea grafică eficientă în marketingul digital."
+- Student: "Am un proiect în derulare și aș dori să aplic aceste tehnici. Cum pot începe?"
+
+**Email:**
+- Subiect: "Design Grafic pentru Campania de Primăvară"
+- Mesaj: "Bună echipă, atașez designul propus pentru campania de primăvară. Aștept feedback-ul vostru."
+
+### **Erori Comune și Cum să le Evitați:**
+
+1. **Ignorarea Stratificării (Layers):** Mulți începători editează imaginile fără a folosi straturi, ceea ce poate complica procesul de editare. Asigurați-vă că fiecare element grafic este pe un strat separat.
+
+2. **Calitatea Imaginii:** Folosirea unor imagini de calitate scăzută poate afecta percepția profesionalismului. Întotdeauna verificați rezoluția înainte de a începe lucrul.
+
+### **Cultura Business Internațională:**
+
+În marketingul în rețea și businessul digital, este important să înțelegeți cum diferite culturi percep și reacționează la elementele vizuale. De exemplu, culorile au semnificații diferite în diferite culturi, așa că adaptarea designului vizual la publicul țintă internațional poate îmbunătăți semnificativ eficacitatea campaniilor dumneavoastră.
+
+Acest modul a fost conceput pentru a vă oferi o bază solidă în utilizarea Adobe Photoshop în contextul specific al marketingului digital și al platformelor de afaceri online. Prin exerciții practice și exemple concrete, veți dobândi abilități esențiale necesare pentru a crea conținut vizual de impact.

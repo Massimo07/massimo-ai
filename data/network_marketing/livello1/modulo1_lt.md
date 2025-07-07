@@ -1,0 +1,57 @@
+# ## 1 Modulis: Įvadas į Tinklinę Rinkodarą ir "Live On Plus"
+
+### Teorinė dalis
+
+Tinklinė rinkodara, dar žinoma kaip daugialygė rinkodara (angl. MLM), yra verslo modelis, kuriame pajamos gaunamos ne tik iš tiesioginių pardavimų, bet ir iš kitų žmonių, kuriuos pritraukiate į verslą, pardavimų. "Live On Plus" yra viena iš kompanijų, kurioje galite pritaikyti šį modelį. Šiame modulyje išnagrinėsime pagrindinius tinklinės rinkodaros aspektus, įskaitant augimą, verbavimą, pardavimą, dubliavimą, lyderystę bei tarptautinės komandos valdymą.
+
+### Praktinė dalis
+
+#### 1. Tinklo augimas ir verbavimas
+
+Augimas prasideda nuo supratimo, kad tinklinė rinkodara yra apie santykių kūrimą. Pirmiausia nustatykite savo tikslinę auditoriją. Tai gali būti žmonės, kurie domisi sveikatingumu, finansine laisve ar asmeniniu tobulėjimu – tai dažnai sutampa su "Live On Plus" vertybėmis.
+
+**Pavyzdys:** Jūs esate sveikatos entuziastas ir nuolat dalijatės sveikos gyvensenos patarimais socialiniuose tinkluose. Pastebėjote, kad daug žmonių domisi jūsų rekomendacijomis. Tai gali būti jūsų potenciali auditorija "Live On Plus" produktams.
+
+#### 2. Pardavimas ir dubliavimas
+
+Pardavimas tinklinėje rinkodaroje reikalauja autentiškumo. Svarbiausia yra asmeniškai naudoti produktus, kad galėtumėte tiksliai ir nuoširdžiai juos rekomenduoti kitiems. Dubliavimas yra procesas, kuriuo jūsų komandos nariai kartoja jūsų sėkmingus veiksmus.
+
+**Pavyzdys:** Naudojate "Live On Plus" produktus ir matote teigiamus rezultatus. Dalijatės savo patirtimi su kitais ir mokote savo komandos narius daryti tą patį.
+
+#### 3. Lyderystė ir komandos valdymas
+
+Efektyvus lyderis įkvepia ir motyvuoja savo komandą. Tai apima reguliarius susitikimus, tikslų nustatymą ir pagalbą komandos nariams siekti savo tikslų.
+
+**Pavyzdys:** Kiekvieną savaitę organizuojate susitikimus su komandos nariais per Zoom, kur aptariate tikslus ir dalijatės sėkmės istorijomis.
+
+### Esercizi e quiz
+
+**Užduotis:** Parašykite 200 žodžių apie tai, kaip jūs pradėtumėte verbavimo procesą savo tinklui. Įtraukti konkrečius veiksmus ir tikslinę auditoriją.
+
+**Klausimas:** Kas yra svarbiausia tinklinės rinkodaros pardavimo procese?
+
+**Sprendimas:** Autentiškumas ir asmeninė patirtis su produktais.
+
+### Dialogai realiems scenarijams
+
+**WhatsApp dialogas:**
+
+- Jūs: "Labas, kaip sekasi? Aš pradėjau dirbti su nauju sveikatos produktu, kuris man labai padėjo. Ar norėtum išgirsti daugiau?"
+- Draugas: "Žinoma, įdomu, ką naudoji?"
+
+**Telegram dialogas:**
+
+- Jūs: "Sveiki, komanda! Ar visi turite laiko susitikimui šį trečiadienį 18:00 per Zoom? Aptarsime mėnesio tikslus ir strategijas."
+- Komandos narys: "Taip, bus puiku susitikti ir pasidalinti idėjomis."
+
+### Dažniausios klaidos ir kaip jų išvengti
+
+1. **Per daug spaudimo:** Būkite natūralūs ir venkite agresyvaus pardavimo. Verslas turėtų būti apie santykių kūrimą, o ne tik apie pardavimų skaičių.
+
+2. **Nepakankamas mokymas:** Užtikrinkite, kad jūsų komanda turi visas reikiamas žinias ir įrankius sėkmei pasiekti.
+
+### Tarptautinio verslo kultūros ypatumai
+
+Vykdant verslą tarptautinėje rinkoje, svarbu suprasti kultūrinius skirtumus. Pavyzdžiui, kai kuriose šalyse asmeniniai ryšiai ir pasitikėjimas yra svarbesni nei kitose. Todėl skirkite laiko kultūrai pažinti ir gerbkite vietinius papročius.
+
+Šis modulis turėtų suteikti jums pagrindines žinias ir įrankius, kaip pradėti savo kelionę tinklinėje rinkodaroje su "Live On Plus". Kiekvienas žingsnis yra svarbus, ir jūsų sėkmė priklauso nuo to, kaip gerai pritaikote šias žinias praktiškai.

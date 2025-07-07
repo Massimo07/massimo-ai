@@ -1,0 +1,16 @@
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+async async async def corso_gamification_livello_4_handler(update, context):
+
+    user = update.effective_user
+
+    text = (
+
+        "🎯 *Gamification – Livello 4*\n\n"
+
+        "Automazione delle ricompense: plugin badge, collegamento con CRM, ranking live, notifiche automatiche."
+
+    )
+
+    await context.bot.send_message(chat_id=user.id, text=text)
+

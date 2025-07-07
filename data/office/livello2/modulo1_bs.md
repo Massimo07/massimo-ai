@@ -1,0 +1,68 @@
+# ## Modul 1: Osnove Office-a za Digitalni Poslovni Svijet
+
+### Uvod u Office Alate
+
+U današnjem digitalnom dobu, poznavanje Office alata je ključno za uspjeh u network marketingu i digitalnom poslovanju. U ovom modulu fokusirat ćemo se na osnovne alate kao što su Microsoft Word, Excel i PowerPoint, te kako ih koristiti u kontekstu network marketinga i platforme Live On Plus.
+
+### Microsoft Word: Teorija i Praksa
+
+**Teorija:** Microsoft Word je alat za obradu teksta koji vam omogućava kreiranje profesionalnih dokumenata. U network marketingu, možete koristiti Word za izradu prezentacija, izvještaja i poslovnih planova.
+
+**Praksa:** Zamislite da trebate poslati informativni email potencijalnom klijentu. Otvorite Word, napišite tekst, formatirajte ga koristeći različite stilove naslova i teksta, i spremite kao PDF za lakše dijeljenje putem emaila.
+
+### Primjer iz Stvarnog Svijeta
+
+Pretpostavimo da radite za Live On Plus i trebate poslati ponudu potencijalnom partneru. Koristite Word da napišete uvodni paragraf, uključite detalje o uslugama, i završite sa pozivom na akciju. Na primjer:
+
+"Poštovani [Ime Klijenta],
+
+Radujemo se mogućnosti da surađujemo sa vama. Naša platforma, Live On Plus, omogućava vam da..."
+
+### Microsoft Excel: Teorija i Praksa
+
+**Teorija:** Excel je alat za upravljanje podacima i analizu. Omogućava vam praćenje prodaje, analizu trendova i upravljanje kontaktima.
+
+**Praksa:** Kreirajte tabelu u Excelu za praćenje potencijalnih klijenata. Dodajte kolone za ime, email, status prodaje, i datum posljednjeg kontakta. Ovo će vam pomoći da efikasno pratite napredak i planirate buduće korake.
+
+### Esercizi i Testovi
+
+**Zadatak:** Kreirajte Word dokument sa naslovom "Strategija za 2023" i uključite tri ključna cilja za vašu mrežu.
+
+**Rješenje:** 
+1. Otvorite Word i kliknite na "Novi dokument".
+2. Upišite naslov "Strategija za 2023".
+3. Koristite stilove naslova za formatiranje.
+4. Napišite tri cilja koristeći popis sa oznakama.
+
+**Test Pitanje:** Kako Excel može pomoći u analizi tržišta?
+- A) Omogućava slanje emailova
+- B) Omogućava analizu podataka putem grafikona
+- C) Omogućava kreiranje prezentacija
+
+**Točan Odgovor:** B
+
+### Dialogi za Komunikaciju
+
+**WhatsApp:** 
+- Vi: "Zdravo [Ime], kako ste? Želio bih razgovarati o mogućnostima suradnje s Live On Plus."
+- Klijent: "Zdravo, zvuči zanimljivo! Možemo li se čuti putem Zoom-a?"
+
+**Email:**
+- Predmet: Mogućnost Suradnje
+- Poruka: "Poštovani [Ime], Nadamo se da ste dobro. Pišem vam u vezi mogućnosti suradnje..."
+
+### Česte Greške i Kako Ih Izbjeći
+
+**Greška:** Nepravilno formatiranje dokumenata u Wordu.
+**Rješenje:** Uvijek koristite stilove za dosljednost i profesionalizam.
+
+**Greška:** Nepraćenje podataka u Excelu.
+**Rješenje:** Redovno ažurirajte tabele i koristite formule za analizu.
+
+### Kultura Međunarodnog Poslovanja
+
+U međunarodnom poslovanju, razumijevanje kulturnih razlika je ključno. Prilikom komunikacije s partnerima iz različitih zemalja, uvijek budite svjesni kulturnih normi i prilagodite svoj pristup. Na primjer, u nekim kulturama formalnost je važna, dok je u drugima poželjna neformalnija komunikacija.
+
+### Zaključak
+
+Ovaj modul vam je pružio osnovno razumijevanje Office alata i kako ih primijeniti u network marketingu. Kroz praksu i primjere naučili ste kako kreirati i upravljati dokumentima, analizirati podatke i komunicirati s klijentima. Preporučujemo da nastavite s vježbanjem kako biste postali još učinkovitiji u korištenju ovih alata.

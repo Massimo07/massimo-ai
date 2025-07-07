@@ -1,0 +1,72 @@
+## Modul 1: Uvod u Canva za Network Marketing
+
+### Uvod u Canva
+
+Canva je online alat za grafički dizajn koji omogućuje korisnicima stvaranje vizualno privlačnih sadržaja bez potrebe za naprednim znanjem dizajna. Posebno je koristan za osobe u network marketingu jer omogućuje brzo i jednostavno kreiranje profesionalnih materijala poput infografika, postova za društvene mreže, i prezentacija. U ovom modulu, naučit ćemo kako koristiti Canva za poboljšanje komunikacije i promocije vašeg poslovanja, s posebnim naglaskom na Live On Plus platformu.
+
+### Prvi koraci s Canvom
+
+1. **Registracija i prijava**: Posjetite web stranicu Canva (www.canva.com). Možete se prijaviti putem e-mail adrese, Google računa ili Facebook profila. Ako ste novi korisnik, preporučujemo korištenje Google računa zbog jednostavnosti.
+
+2. **Istraživanje sučelja**: Nakon prijave, istražite početnu stranicu. Na vrhu, vidjet ćete traku izbornika s opcijama poput "Home", "Templates", "Projects", i "Tools". Lijeva strana sadrži bočnu traku s kategorijama dizajna.
+
+3. **Odabir predložaka**: Canva nudi tisuće besplatnih predložaka. Za početak, kliknite na "Templates" i odaberite kategoriju "Social Media". Primjerice, odaberite predložak za Instagram post koji ćete koristiti za promociju proizvoda na Live On Plus.
+
+### Kreiranje vizuala za Network Marketing
+
+1. **Prilagodba predloška**: Kliknite na željeni predložak. Otvorit će se u uređivaču gdje možete mijenjati tekst, boje, slike i druge elemente. Kliknite na tekstualno polje da biste promijenili tekst. Upišite poruku koju želite prenijeti svojim potencijalnim klijentima, primjerice: "Pridružite se našoj uspješnoj mreži s Live On Plus!"
+
+2. **Dodavanje logotipa i slika**: Kliknite na "Uploads" u lijevom izborniku da biste dodali vlastite slike i logotipe. Učitajte logotip vaše tvrtke i povucite ga na dizajn. Prilagodite veličinu i položaj prema potrebi.
+
+3. **Korištenje elemenata i ikona**: Canva ima bogatu biblioteku elemenata koje možete koristiti za poboljšanje vizuala. Kliknite na "Elements" i potražite ikone vezane uz vašu industriju, kao što su grafovi za prodajne rezultate ili ikone novca za prikaz zarade.
+
+### Primjena u stvarnim situacijama
+
+#### Primjer: Promotivna kampanja za Live On Plus
+
+Imate novi proizvod ili uslugu koju želite promovirati putem Live On Plus. Koristite Canvu za dizajniranje serije postova na društvenim mrežama:
+
+- **Instagram post**: Koristite privlačne slike i jasne poruke kako biste privukli pozornost. Dodajte poziv na akciju (CTA) poput "Saznajte više" ili "Pridružite se sada".
+
+- **Facebook banner**: Dizajnirajte banner koji jasno komunicira prednosti vašeg proizvoda. Uključite slike zadovoljnih korisnika ili recenzije.
+
+- **Prezentacija za Zoom webinar**: Kreirajte profesionalnu prezentaciju koja će vas voditi kroz glavne točke vašeg webinara. Uključite grafike i slike koje će pomoći u vizualizaciji vaših poruka.
+
+### Esercizi i kviz
+
+- **Esercizio 1**: Kreirajte jednostavan Instagram post koristeći Canvu za najavu novog proizvoda ili usluge. Prilagodite boje i tekst da odgovaraju vašem brandu.
+
+- **Esercizio 2**: Dizajnirajte Facebook oglas koji uključuje poziv na akciju i privlačan vizual. Uključite logotip i ključne informacije o ponudi.
+
+**Kviz**:
+1. Što je Canva i zašto je korisna u network marketingu?
+2. Nabrojite tri elementa koje možete prilagoditi u Canvi.
+3. Kako možete koristiti Canvu za poboljšanje komunikacije s vašom mrežom?
+
+### Rješenja:
+
+1. Canva je alat za grafički dizajn koji omogućuje jednostavno kreiranje vizualnih materijala. Korisna je u network marketingu jer omogućuje brzo stvaranje profesionalnih dizajna za promociju i komunikaciju.
+2. Tri elementa koja možete prilagoditi su tekst, slike, i boje.
+3. Možete koristiti Canvu za kreiranje vizualno privlačnih postova, prezentacija i marketinških materijala koji olakšavaju prenošenje poruka i privlačenje potencijalnih klijenata.
+
+### Dijalozi za komunikaciju
+
+- **WhatsApp/Telegram**: "Pozdrav [Ime], upravo sam kreirao super vizual za našu novu kampanju na Canvi. Pogledaj i reci mi što misliš! [Link do dizajna]"
+
+- **Email**: "Dragi [Ime], u privitku šaljem našu najnoviju prezentaciju dizajniranu u Canvi. Pogledaj i javi ako imaš povratne informacije ili prijedloge za poboljšanja."
+
+- **Zoom**: "Hvala svima što ste se pridružili našem webinaru. Kao što možete vidjeti, koristili smo Canvu za izradu ovih vizualno privlačnih slajdova koji pomažu u razumijevanju našeg proizvoda."
+
+### Uobičajene greške i kako ih izbjeći
+
+- **Pretrpavanje dizajna**: Pokušajte ne pretrpavati dizajn previše tekstom ili slikama. Cilj je imati jasan i jednostavan dizajn koji brzo prenosi poruku.
+
+- **Korištenje neusklađenih boja**: Pazite da koristite boje koje su u skladu s vašim brandom. Previše šarenila može zbuniti gledatelja.
+
+- **Nedostatak poziva na akciju**: Uvijek uključite jasnu i direktnu akciju koju želite da publika poduzme nakon što vidi vaš dizajn.
+
+### Kulturni aspekti međunarodnog poslovanja
+
+U međunarodnom poslovanju, vizualna komunikacija igra ključnu ulogu. Prilikom kreiranja materijala za različite kulture, važno je uzeti u obzir kulturne razlike u percepciji boja, simbola, i vizualnih stilova. Canva omogućuje lako prilagođavanje dizajna kako bi se zadovoljile potrebe različitih tržišta, što je ključno za uspjeh u globalnom okruženju.
+
+Na kraju ovog modula, trebali biste imati solidno razumijevanje osnovnih funkcionalnosti Canve i kako ih primijeniti u network marketingu. Sljedeći modul proširit će vaše znanje i vještine, omogućujući vam da postanete još učinkovitiji u svojoj komunikaciji i promociji.

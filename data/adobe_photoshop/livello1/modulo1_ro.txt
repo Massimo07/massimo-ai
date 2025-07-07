@@ -1,0 +1,64 @@
+## Modulul 1: Introducere în Adobe Photoshop pentru Network Marketing și Business Digital
+
+### Introducere în Adobe Photoshop
+
+Adobe Photoshop este un software de editare grafică extrem de versatil, utilizat pentru crearea și manipularea imaginilor. În contextul network marketingului și al business-ului digital, Photoshop poate fi un instrument esențial pentru crearea de conținut vizual atractiv, care poate ajuta la atragerea și reținerea clienților. Acest modul are scopul de a vă introduce în Photoshop, explicându-vă cum să utilizați acest instrument pentru a vă îmbunătăți strategiile de marketing digital.
+
+### Teoria: Noțiuni de Bază
+
+Photoshop funcționează pe principiul manipulării pixelilor, permițându-vă să editați fiecare mic element al unei imagini. Este important să înțelegeți câteva concepte esențiale:
+
+1. **Layerele (Straturile)**: Gândiți-vă la layere ca la foi transparente suprapuse. Fiecare layer poate conține o parte din imagine, permițându-vă să editați porțiuni separate fără a afecta restul imaginii.
+   
+2. **Rezoluția**: Aceasta se referă la claritatea și detaliile unei imagini. În marketingul digital, este esențial să folosiți imagini de înaltă rezoluție pentru a asigura profesionalism și claritate.
+
+3. **Instrumentele de selecție**: Acestea vă permit să alegeți părți specifice ale unei imagini pentru a le modifica. De exemplu, dacă doriți să schimbați culoarea unui produs într-o imagine, puteți folosi instrumentele de selecție pentru a izola doar acea parte.
+
+### Practica: Crearea de Conținut Vizual
+
+Să trecem la practică și să vedem cum puteți crea un banner pentru o campanie de marketing digital folosind Photoshop.
+
+1. **Deschiderea Photoshop**: Lansați aplicația și selectați "File" > "New" pentru a crea un document nou. Alegeți dimensiunile potrivite pentru platforma pe care doriți să postați (de exemplu, 1080x1080 pixeli pentru Instagram).
+
+2. **Adăugarea unui Layer de Fundal**: Selectați un layer nou și umpleți-l cu o culoare de fundal folosind instrumentul "Paint Bucket". 
+
+3. **Importarea Imaginilor**: Mergeți la "File" > "Place Embedded" pentru a adăuga imagini de produs sau logo-uri. Acestea vor apărea ca layere separate.
+
+4. **Editarea Textului**: Utilizați instrumentul "Text" pentru a adăuga un mesaj promoțional. Asigurați-vă că textul este lizibil și se potrivește cu stilul general al campaniei.
+
+5. **Salvarea Fișierului**: După ce sunteți mulțumit de design, salvați fișierul în formatul dorit. Pentru utilizare online, PNG sau JPEG sunt cele mai comune formate.
+
+### Exemple Reale în Network Marketing
+
+Imaginați-vă că sunteți parte a unei echipe de network marketing pentru Live On Plus. Trebuie să creați un banner pentru un nou supliment alimentar. Folosind pașii de mai sus, puteți crea un design atrăgător care să evidențieze beneficiile produsului, folosind culori vibrante și texte clare.
+
+### Esercizi și Quiz
+
+**Exercițiu 1**: Creați un flyer digital pentru un webinar de marketing folosind layere multiple și text.
+
+**Quiz**:
+1. Ce este un layer în Photoshop?
+   - a) O imagine completă
+   - b) Un strat pe care puteți edita fără a afecta restul imaginii
+
+**Răspuns**: b) Un strat pe care puteți edita fără a afecta restul imaginii
+
+### Dialoguri Realistice
+
+**WhatsApp**:
+- Tu: Salut, echipă! Am creat un nou banner în Photoshop pentru campania noastră Live On Plus. Îl puteți verifica pentru feedback?
+- Coleg: Arată grozav! Poate ar trebui să facem textul mai mare pentru a fi mai vizibil.
+
+**Email**:
+- Subiect: Banner Nou pentru Campania de Marketing
+- Mesaj: Bună echipă, am atașat versiunea finală a bannerului nostru. Vă rog să-mi spuneți dacă sunt necesare modificări.
+
+### Erori Comune și Cum să le Evitați
+
+Unul dintre cele mai frecvente greșeli este să uitați să salvați fișierul în formatul corect. Asigurați-vă că salvați întotdeauna o copie PSD pentru editări viitoare și o versiune finală în format PNG sau JPEG.
+
+### Cultura Business Internațională
+
+În contextul internațional, este esențial să adaptați conținutul vizual la diferite culturi. Culorile, simbolurile și textul pot avea semnificații diferite în diverse culturi. De exemplu, roșul poate simboliza norocul în cultura chineză, dar poate fi perceput ca un semn de avertizare în alte culturi.
+
+Acest modul a oferit o introducere detaliată în utilizarea Adobe Photoshop pentru crearea de conținut vizual în cadrul network marketingului și business-ului digital. Practicați regulat și explorați mai multe funcționalități pentru a deveni un expert în crearea de materiale de marketing vizual.

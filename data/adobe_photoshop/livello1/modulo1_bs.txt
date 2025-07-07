@@ -1,0 +1,76 @@
+Naslov: Uvod u Adobe Photoshop za Network Marketing i Digitalni Biznis
+
+Dobrodošli na prvi modul kursa "Adobe Photoshop - nivo 1". Ovaj modul je dizajniran da vas uvede u osnove Adobe Photoshopa, s posebnim naglaskom na primjene u network marketingu i digitalnom biznisu, kao što je Live On Plus. Cilj nam je da vam omogućimo da steknete osnovna znanja i vještine koje će vam pomoći u kreiranju vizualno privlačnih sadržaja.
+
+### Teorija i Praksa
+
+**Šta je Adobe Photoshop?**
+
+Adobe Photoshop je moćan alat za uređivanje slika i grafički dizajn, koji se koristi širom svijeta. U kontekstu network marketinga, moći ćete koristiti Photoshop za kreiranje promotivnih materijala, vizualnih sadržaja za društvene mreže, kao i za personalizaciju vašeg brenda.
+
+**Osnovni Pojmovi**
+
+1. **Interfejs Photoshopa:**
+   - Kada prvi put otvorite Photoshop, vidjet ćete radno okruženje koje se sastoji od alatne trake, panela i radnog prostora. Važno je da se upoznate sa svakim dijelom interfejsa kako biste mogli efikasno koristiti program.
+
+2. **Dokumenti:**
+   - U Photoshopu, radite sa dokumentima. Da biste započeli, kliknite na "File" -> "New" i kreirajte novi dokument. Postavite dimenzije prema potrebi vašeg projekta, npr. za Instagram post odaberite 1080x1080 piksela.
+
+3. **Slojevi:**
+   - Slojevi su najvažniji koncept u Photoshopu. Zamislite ih kao prozirne folije koje možete uređivati pojedinačno. Kliknite na "Layer" -> "New" -> "Layer" da biste dodali novi sloj. Ovo vam omogućava da radite na različitim elementima bez uticaja na druge dijelove vašeg dizajna.
+
+### Primjena u Network Marketingu
+
+**Kreiranje Vizuala za Kampanje**
+
+Primjer: Recimo da radite za Live On Plus i želite kreirati promo sliku za novu kampanju. Možete koristiti alat "Text" da dodate tekstualne informacije o proizvodu, a alat "Brush" za dodavanje kreativnih elemenata.
+
+1. **Dodavanje Teksta:**
+   - Odaberite alat "Text" s alatne trake, kliknite na željeno mjesto na slici i počnite tipkati. Podesite veličinu, font i boju teksta u gornjoj traci opcija.
+
+2. **Uređivanje Slika:**
+   - Učitajte sliku proizvoda: "File" -> "Place Embedded" i odaberite sliku s vašeg računala. Koristite alat "Move" za pozicioniranje slike unutar dokumenta.
+
+### Esercizi i Kviza
+
+**Zadatak: Kreirajte Promo Sliku**
+
+1. Otvorite novi dokument veličine 1080x1080 piksela.
+2. Dodajte pozadinsku boju po izboru.
+3. Uložite sliku proizvoda Live On Plus.
+4. Dodajte tekstualni element s promotivnom porukom.
+5. Sačuvajte dokument kao JPEG.
+
+**Kviz:**
+
+1. Koji alat koristite za dodavanje teksta?
+   - Rješenje: Alat "Text".
+
+2. Šta su slojevi u Photoshopu?
+   - Rješenje: Slojevi su različite prozirne folije koje omogućavaju nezavisno uređivanje elemenata.
+
+### Komunikacija
+
+**Primjeri Dijaloga**
+
+**WhatsApp:**
+- Klijent: "Kako mogu poboljšati izgled svojih promo slika?"
+- Vi: "Preporučujem korištenje Photoshopa za dodavanje profesionalnih elemenata i teksta. Mogu vam pokazati osnovne korake."
+
+**Email:**
+- Poštovani [Ime Klijenta],
+  U prilogu su osnovni koraci za kreiranje promo slike u Photoshopu. Ukoliko imate pitanja, slobodno me kontaktirajte.
+
+### Uobičajene Greške i Kako ih Izbjeći
+
+1. **Zaboravljanje na Slojeve:**
+   - Uvijek provjerite na kojem sloju radite. Pogrešan sloj može dovesti do neželjenih promjena.
+
+2. **Nepravilno Spremanje:**
+   - Spremite radni dokument u PSD formatu za kasnije izmjene, i u JPEG za konačnu verziju.
+
+### Kultura Biznisa
+
+U međunarodnom poslovanju, vizualna komunikacija je ključna. Profesionalno izrađeni vizuali mogu povećati prepoznatljivost brenda i povjerenje klijenata. U network marketingu, gdje je lični kontakt često ograničen, moćne slike mogu prenijeti vašu poruku efikasno i brzo.
+
+Ovaj modul postavlja temelje za vaše dalje učenje i primjenu Photoshopa u poslovne svrhe. Nastavite istraživati i vježbati da biste postali vještiji u korištenju ovog moćnog alata.

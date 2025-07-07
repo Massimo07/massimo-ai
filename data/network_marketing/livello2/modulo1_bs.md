@@ -1,0 +1,68 @@
+# ### Modul 1: Osnove Network Marketinga za Live On Plus
+
+Dobrodošli u "Kurs profesionalnog Network Marketinga za Live On Plus", nivo 2, modul 1. U ovom modulu ćemo se fokusirati na ključne aspekte koji su neophodni za uspješno vođenje mrežnog marketinga: rast mreže, regrutovanje, prodaju, duplikaciju, liderstvo i upravljanje međunarodnim timom.
+
+#### Uvod u Teoriju Network Marketinga
+
+Network marketing, također poznat kao višerazinski marketing (MLM), je poslovni model u kojem direktni prodavači zarađuju proviziju ne samo od prodaje koju sami obave, već i od prodaje koju obave njihovi regrutovani članovi. Ovaj model omogućava brz rast i širenje mreže prodavača.
+
+**Primjer iz prakse: Live On Plus**
+
+Pretpostavimo da ste dio Live On Plus kompanije, koja prodaje wellness proizvode. Kao dio ove mreže, vaš zadatak je da prodajete proizvode, ali i da regrutujete nove članove koji će raditi isto. Vaš uspjeh zavisi od vaših vještina u prodaji i regrutovanju.
+
+#### Koraci za Uspješno Regrutovanje
+
+1. **Identifikacija potencijalnih članova**: Počnite s istraživanjem tržišta kako biste identificirali ljude koji bi mogli biti zainteresirani za proizvode ili poslovnu priliku.
+2. **Pristupanje potencijalnim članovima**: Koristite društvene mreže, email ili direktne poruke kao što su WhatsApp i Telegram za početni kontakt.
+3. **Prezentacija proizvoda i poslovne prilike**: Pripremite jasnu i sažetu prezentaciju koju možete održati putem Zoom-a ili uživo.
+4. **Praćenje i podrška**: Nakon inicijalnog kontakta, budite dostupni za pitanja i dodatne informacije.
+
+**Primjer dijaloga za WhatsApp:**
+
+- Vi: "Zdravo [ime], primijetio/la sam da te zanimaju wellness proizvodi. Jesi li već čuo/la za Live On Plus? Volio/la bih podijeliti više informacija s tobom."
+- Potencijalni član: "Zdravo! Nisam čuo/la, reci mi više."
+- Vi: "Live On Plus nudi visokokvalitetne wellness proizvode. Također, postoji sjajna prilika za zaradu kroz naš program. Možemo li dogovoriti kratki sastanak na Zoom-u?"
+
+#### Tehnike Prodaje
+
+Prodaja u network marketingu nije samo o proizvodima, već o izgradnji odnosa i povjerenja. Fokusirajte se na sljedeće:
+
+- **Razumijevanje potreba klijenta**: Postavljajte pitanja kako biste razumjeli šta klijent stvarno želi.
+- **Prilagođavanje ponude**: Predstavite proizvode koji najbolje odgovaraju potrebama klijenta.
+- **Efikasno zatvaranje prodaje**: Kada klijent pokaže interes, pomozite mu da donese odluku o kupovini.
+
+#### Duplikacija i Liderstvo
+
+Duplikacija je proces u kojem vaši članovi mreže postaju jednako uspješni kao i vi. Ovo se postiže kroz:
+
+- **Edukaciju i obuku**: Redovno organizirajte treninge za svoj tim.
+- **Motivaciju i podršku**: Održavajte pozitivan duh i pružajte podršku članovima tima.
+- **Razvoj liderstva**: Prepoznajte i razvijajte liderske vještine u članovima tima.
+
+#### Upravljanje Međunarodnim Timom
+
+Kada vaš tim postane međunarodni, suočit ćete se s izazovima kao što su jezičke barijere i kulturne razlike. Evo kako to možete savladati:
+
+- **Komunikacija**: Koristite višejezične alate za komunikaciju i osigurajte da su svi članovi informirani.
+- **Razumijevanje kulturnih razlika**: Uložite vrijeme u učenje o različitim kulturama kako biste izbjegli nesporazume.
+
+#### Uobičajene Greške i Kako Ih Izbjeći
+
+- **Previše agresivno regrutovanje**: Fokusirajte se na izgradnju odnosa, a ne samo na broj članova.
+- **Nedostatak obuke**: Uvijek obezbijedite adekvatnu obuku i resurse za nove članove.
+- **Neprilagođena komunikacija**: Uvijek prilagodite stil komunikacije prema osobi s kojom razgovarate.
+
+#### Vježbe i Kviz
+
+**Vježba**: Pripremite prezentaciju za potencijalnog člana i izvedite je uživo pred prijateljem ili kolegom.
+
+**Kviz**:
+
+1. Šta je duplikacija u network marketingu?
+   - a) Proces regrutovanja novih članova
+   - b) Proces u kojem članovi postaju jednako uspješni
+   - c) Proces prodaje proizvoda
+
+**Rješenje**: b) Proces u kojem članovi postaju jednako uspješni
+
+Ovim završavamo modul 1. Vaša domaća zadaća je da primijenite naučene tehnike i strategije u vašem svakodnevnom radu s Live On Plus. Radujemo se što ćemo vas voditi kroz sljedeće module gdje ćemo dublje istražiti napredne strategije i tehnike.

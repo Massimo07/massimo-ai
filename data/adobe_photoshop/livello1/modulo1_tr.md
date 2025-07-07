@@ -1,0 +1,51 @@
+# **Adobe Photoshop Kursu: Seviye 1, Modül 1**
+
+Merhaba! Bu modülde, Adobe Photoshop'un temellerini öğrenmeye başlayacağız. Photoshop, görüntü düzenleme ve grafik tasarım için kullanılan güçlü bir araçtır ve özellikle network marketing ve dijital iş dünyasında etkili görseller oluşturmak için oldukça faydalıdır. Bu ders, Photoshop'u hiç kullanmamış olanlar için tasarlanmıştır, bu yüzden her adımı detaylı bir şekilde açıklayacağız. Hazırsanız, başlayalım!
+
+**Teorik Bilgi: Photoshop'un Temel Kavramları**
+
+Photoshop, piksel tabanlı bir görüntü düzenleme yazılımıdır. Bu, her görüntünün küçük kare birimlerden, yani piksellerden oluştuğu anlamına gelir. Photoshop'un temel işlevleri arasında kesme, kopyalama, yapıştırma, katmanlarla çalışma, renk ayarlamaları ve filtreler bulunur. 
+
+İlk olarak, Photoshop arayüzünü tanıyalım. Üstteki menü çubuğu, dosya açma ve kaydetme gibi temel işlemler için kullanılır. Sol tarafta araç çubuğunu göreceksiniz; burada seçim araçları, fırçalar ve silgi gibi araçlar yer alır. Sağ tarafta ise katmanlar paneli bulunur. Katmanlar, bir görüntünün farklı bileşenlerini ayrı ayrı düzenlemenize olanak tanır.
+
+**Pratik Uygulama: Basit Bir Görsel Oluşturma**
+
+Başlangıç olarak, yeni bir belge oluşturalım. "Dosya" menüsünden "Yeni"yi seçin. A4 boyutlarında bir belge oluşturun. Bu, standart bir kağıt boyutudur ve başlangıçta çalışmak için idealdir. 
+
+1. **Arka Planı Boyama**: Araç çubuğundan "Boya Kovası" aracını seçin. Üstteki renk kutusuna tıklayarak bir renk seçin ve belgeye tıklayarak arka planı boyayın.
+
+2. **Metin Ekleme**: Araç çubuğundan "T" simgesiyle gösterilen metin aracını seçin. Belgenin üzerine tıklayın ve "Hoş Geldiniz" yazın. Üst kısımdaki seçeneklerden yazı tipini ve boyutunu değiştirebilirsiniz.
+
+3. **Görsel Ekleyin**: "Dosya" menüsünden "Aç"ı seçerek bilgisayarınızdaki bir resmi ekleyin. Resim belgenize eklendikten sonra, köşelerinden tutarak boyutunu ayarlayabilirsiniz.
+
+**Network Marketing için Gerçek Hayat Örneği**
+
+Örneğin, Live On Plus için bir tanıtım görseli oluşturuyorsunuz. Ürün resmini merkeze yerleştirin ve etrafına çekici bir slogan ekleyin. Photoshop'un metin araçları ile yazıyı eğebilir veya renklerini değiştirebilirsiniz. 
+
+**Eğitsel Alıştırmalar ve Çözümler**
+
+1. **Alıştırma**: Yeni bir belge oluşturun ve bir ürün resmi ekleyin. Resmin etrafına bir çerçeve ekleyin.
+   
+   **Çözüm**: "Dikdörtgen Çizim Aracı"nı seçin ve resmin etrafına bir dikdörtgen çizin. Üstteki renk seçeneklerinden kenarlık rengini değiştirin.
+
+2. **Alıştırma**: Metin aracını kullanarak bir slogan ekleyin ve sloganı eğik hale getirin.
+
+   **Çözüm**: Metin aracını kullanarak sloganı yazın. "Düzenle" menüsünden "Dönüştür" ve ardından "Eğ" seçeneğini seçin.
+
+**Diyalog Örnekleri**
+
+- **WhatsApp/Telegram**: "Merhaba, ürünümüzün tanıtım görselini oluşturmak için Photoshop kullanıyorum. Renk seçiminde yardıma ihtiyacım var, öneriniz var mı?"
+  
+- **Zoom Toplantısı**: "Bugün Photoshop'ta katmanlarla çalışmayı öğreneceğiz. Herkes ekranını paylaşabilir ve birlikte çalışabiliriz."
+
+- **Email**: "Merhaba, ekli dosyada son Photoshop çalışmamı bulabilirsiniz. Görüşlerinizi paylaşabilir misiniz?"
+
+**Ortak Hatalar ve Nasıl Kaçınılır**
+
+Yeni başlayanların sık yaptığı bir hata, katmanları karıştırmaktır. Her yeni öğe için yeni bir katman oluşturmayı unutmayın. Böylece her öğeyi ayrı ayrı düzenleyebilirsiniz. Bir diğer yaygın hata ise dosyayı kaydetmemektir. Çalışmanızı sık sık kaydetmek için "Ctrl + S" kısayolunu kullanın.
+
+**Kültürel İş Dünyası İncelemeleri**
+
+Photoshop, dünya çapında grafik tasarımcılar ve pazarlamacılar arasında yaygın olarak kullanılmaktadır. Uluslararası bir iş yaparken, farklı kültürel algıları göz önünde bulundurmalısınız. Örneğin, renklerin farklı kültürlerde farklı anlamları olabilir. Bu nedenle, hedef kitlenizin kültürel arka planını araştırmak önemlidir.
+
+Bu modül, Photoshop'un temel kavramlarını anlamanızı sağlamalıdır. Unutmayın, pratik yaparak öğrendikleriniz pekişecektir. Bir sonraki modülde daha ileri tekniklerle çalışacağız. Başarılar dilerim!

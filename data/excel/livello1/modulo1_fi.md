@@ -1,0 +1,58 @@
+# **Excel-kurssi: Taso 1, Moduuli 1**
+
+Tervetuloa Excel-kurssillemme! Tässä moduulissa keskitymme perusasioihin, jotka ovat erityisen hyödyllisiä network marketingissa ja digitaalisen liiketoiminnan hallinnassa. Aloitamme Excelin perusteista ja etenemme vaiheittain kohti käytännön esimerkkejä ja harjoituksia.
+
+**Osa 1: Excelin Teoria ja Perusasiat**
+
+Excel on laskentataulukko-ohjelma, joka on osa Microsoft Office -ohjelmistopakettia. Se on suunniteltu tietojen organisointiin, analysointiin ja visualisointiin. Yksi Excelin suurimmista eduista on sen kyky käsitellä suuria datamääriä tehokkaasti.
+
+Excelissä työskennellään työkirjoissa, jotka sisältävät useita laskentataulukoita. Jokainen laskentataulukko koostuu soluista, jotka ovat järjestetty riveihin ja sarakkeisiin. Soluihin voi syöttää tietoja, kuten numeroita, tekstiä tai kaavoja.
+
+**Osa 2: Käytännön Esimerkit Network Marketingissa**
+
+Kuvittele, että olet Live On Plus -yrityksen verkostomarkkinoija. Sinulla on lista potentiaalisista asiakkaista, heidän yhteystietonsa ja kiinnostuksen kohteensa. Excelin avulla voit järjestää nämä tiedot taulukkoon, mikä helpottaa niiden hallintaa ja analysointia.
+
+1. **Tietojen Syöttäminen:**
+   - Avaa uusi Excel-työkirja.
+   - Nimeä ensimmäinen laskentataulukko "Asiakkaat".
+   - Kirjoita sarakeotsikot ensimmäiselle riville: "Nimi", "Sähköposti", "Puhelin", "Kiinnostuksen kohde".
+   - Syötä asiakastietosi vastaaviin sarakkeisiin.
+
+2. **Tietojen Lajittelu ja Suodatus:**
+   - Jos haluat nähdä kaikki asiakkaat, jotka ovat kiinnostuneita tietystä tuotteesta, voit käyttää suodatusominaisuutta.
+   - Valitse sarakeotsikko "Kiinnostuksen kohde" ja klikkaa "Lajittele ja Suodata" -painiketta.
+   - Valitse haluamasi suodatuskriteeri nähdäksesi vain kyseiset asiakkaat.
+
+**Osa 3: Harjoitukset ja Kysymykset**
+
+**Harjoitus 1:**
+Luo uusi taulukko, jossa on lista tuotteistasi, niiden hinnat ja myyntimäärät. Laske kaavan avulla, mikä on kunkin tuotteen kokonaismyynti (hinta * myyntimäärä).
+
+**Harjoitus 2:**
+Käytä luomaasi asiakastaulukkoa ja kokeile suodattaa asiakkaita, jotka ovat tehneet ostoksia viimeisen kuukauden aikana.
+
+**Kysymys 1:**
+Miten voit Excelissä varmistaa, että syöttämäsi tiedot ovat oikein ja virheettömiä?
+
+**Osa 4: Todelliset Keskustelut**
+
+**WhatsApp**:
+- Verkostomarkkinoija: "Hei Tiina! Löysin uuden tavan järjestää asiakastiedot Excelissä. Haluatko, että näytän sinulle miten se toimii?"
+- Tiina: "Kyllä, se olisi hienoa. Olen aina halunnut oppia Excelin käytöstä enemmän."
+
+**Zoom**:
+- Verkostokokous: "Tänään käymme läpi, miten Excelin suodatusominaisuutta käytetään tehokkaasti. Tämä helpottaa asiakkaidemme segmentointia ja kohdentamista."
+
+**Osa 5: Yleiset Virheet ja Niiden Välttäminen**
+
+Yksi yleisimmistä virheistä Excelissä on kaavojen virheellinen syöttäminen. Varmista, että käytät oikeita soluviittauksia ja tarkista kaavat ennen niiden soveltamista.
+
+Toinen virhe on tietojen syöttäminen väärään soluun. Käytä aina selkeitä sarakeotsikoita ja varmista, että syötät tiedot oikeisiin paikkoihin.
+
+**Osa 6: Kansainvälisen Liiketoiminnan Kulttuuri**
+
+Kansainvälisessä liiketoiminnassa Excelin käyttö on laajalle levinnyttä. Se on työkalu, jota monet yritykset ympäri maailmaa käyttävät päivittäisessä toiminnassaan. Excelin hallitseminen voi parantaa viestintää ja yhteistyötä kansainvälisten kumppaneiden kanssa.
+
+**Yhteenveto**
+
+Tässä moduulissa olemme oppineet Excelin perusasioita, jotka ovat olennaisia digitaalisen liiketoiminnan hallinnassa. Harjoittelemalla näitä taitoja voit parantaa tehokkuuttasi ja tarkkuuttasi liiketoiminnassasi. Jatka harjoittelua ja älä epäröi ottaa yhteyttä, jos tarvitset apua.

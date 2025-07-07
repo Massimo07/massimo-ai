@@ -1,0 +1,53 @@
+# **Moduł 1: Wprowadzenie do Adobe Photoshop w Kontekście Marketingu Sieciowego i Biznesu Cyfrowego**
+
+*Teoria i Praktyka*
+
+Adobe Photoshop jest jednym z najpotężniejszych narzędzi do edycji graficznej dostępnych na rynku. Jego możliwości są niemal nieograniczone, co czyni go idealnym narzędziem dla osób zajmujących się marketingiem sieciowym i biznesem cyfrowym. W tym module zapoznamy się z podstawowymi funkcjami Photoshopa, które pozwolą ci na tworzenie profesjonalnych grafik, które przyciągną uwagę potencjalnych klientów.
+
+Pierwszym krokiem jest zrozumienie interfejsu użytkownika. Po uruchomieniu programu zauważysz, że składa się on z kilku głównych elementów: pasek narzędzi po lewej stronie, pasek opcji u góry, panele po prawej stronie oraz obszar roboczy w centrum. Pasek narzędzi zawiera podstawowe narzędzia do edycji i tworzenia, takie jak pędzel, narzędzie zaznaczania czy gumka. Pasek opcji zmienia się w zależności od wybranego narzędzia, oferując dodatkowe ustawienia dla każdej funkcji. Panele po prawej stronie, takie jak Warstwy, Kolory czy Historia, pozwalają na zarządzanie różnymi aspektami projektu.
+
+*Przykłady w Kontekście Marketingu Sieciowego i Live On Plus*
+
+Wyobraź sobie, że promujesz produkt Live On Plus i chcesz stworzyć atrakcyjny post na media społecznościowe. Możesz użyć Photoshopa do stworzenia grafiki, która przyciągnie wzrok i zachęci do interakcji. Na przykład, możesz użyć narzędzia tekstowego, aby dodać chwytliwy tytuł, a następnie zastosować efekty warstw, takie jak cienie czy poświaty, aby tekst stał się bardziej widoczny. Możesz również użyć narzędzi do edycji zdjęć, aby poprawić jakość obrazu produktu, podkreślając jego najważniejsze cechy.
+
+*Ćwiczenia i Quizy z Rozwiązaniami*
+
+Ćwiczenie 1: Otwórz nowe płótno o wymiarach 1080x1080 pikseli (rozmiar idealny dla postów na Instagramie). Użyj narzędzia Tekst, aby dodać nazwę produktu. Zmieniaj czcionkę i kolory, aby stworzyć kilka różnych wersji. Zapisz każdą z nich jako osobny plik JPEG.
+
+Rozwiązanie: To ćwiczenie pomoże ci zapoznać się z tworzeniem i edytowaniem tekstu, a także z zapisywaniem plików w różnych formatach.
+
+Quiz 1: Które narzędzie w Photoshopie pozwala na usuwanie tła z obrazu?
+a) Pędzel
+b) Lasso
+c) Gumka tła
+d) Kadrowanie
+
+Rozwiązanie: c) Gumka tła.
+
+*Dialogi dla WhatsApp, Telegram, Zoom, Email*
+
+WhatsApp:
+Osoba A: "Hej, czy mogłabyś wysłać mi ten plik PSD, nad którym pracowaliśmy w Photoshopie?"
+Osoba B: "Jasne, już wysyłam! Pamiętaj, żeby sprawdzić warstwy zanim zaczniesz edytować."
+
+Telegram:
+Osoba A: "Jak mogę poprawić jakość tego obrazu w Photoshopie?"
+Osoba B: "Spróbuj użyć narzędzia 'Filtr' i wybierz 'Wyostrz'. To powinno pomóc!"
+
+Zoom:
+Osoba A: "Czy możesz pokazać mi, jak dodawać cienie do tekstu w Photoshopie?"
+Osoba B: "Oczywiście, możesz użyć opcji 'Efekty warstw' i wybrać 'Cień'. Pokażę ci teraz krok po kroku."
+
+Email:
+Temat: Pomoc z projektem w Photoshopie
+Treść: "Cześć, mam problem z edytowaniem jednego z plików PSD. Czy mogłabyś mi pomóc? Załączam plik w załączniku."
+
+*Typowe Błędy i Jak Ich Unikać*
+
+Jednym z najczęstszych błędów początkujących użytkowników Photoshopa jest niezrozumienie działania warstw. Pamiętaj, że każda zmiana w Photoshopie odbywa się na wybranej warstwie. Jeśli chcesz edytować tekst, musisz najpierw zaznaczyć odpowiednią warstwę tekstową. Innym częstym błędem jest zapominanie o zapisaniu pracy w formacie PSD, co umożliwia późniejszą edycję.
+
+*Zrozumienie Kultury Biznesu Międzynarodowego*
+
+W kontekście międzynarodowego marketingu i biznesu cyfrowego, zrozumienie różnic kulturowych jest kluczowe. Tworząc grafiki w Photoshopie, pamiętaj o różnorodności kulturowej swoich odbiorców. Kolory, symbole i obrazy mogą mieć różne znaczenia w różnych kulturach. Na przykład, kolor biały jest często kojarzony z czystością w kulturach zachodnich, ale w niektórych krajach azjatyckich może symbolizować żałobę.
+
+Podsumowując, opanowanie podstawowych funkcji Adobe Photoshop pozwoli ci na tworzenie profesjonalnych i atrakcyjnych wizualnie materiałów marketingowych, które mogą znacznie zwiększyć skuteczność twoich działań w biznesie cyfrowym i marketingu sieciowym. Ucz się krok po kroku, praktykuj regularnie, a wkrótce staniesz się ekspertem w tworzeniu wizualnych treści, które przyciągną uwagę i zainteresowanie twoich klientów.

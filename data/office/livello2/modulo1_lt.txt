@@ -1,0 +1,66 @@
+**1 modulis: Office programų naudojimas verslo tinkle ir skaitmeniniame versle**
+
+**Teorija ir praktika**
+
+Pradėkime nuo pagrindų. "Microsoft Office" yra programų paketas, kuris dažnai naudojamas įvairiose verslo srityse, įskaitant ir tinklinį marketingą. Šiame modulyje mes susitelksime į "Word", "Excel" ir "PowerPoint" naudojimą tinklinio marketingo kontekste. Šios programos padės jums kurti profesionaliai atrodantį turinį, tvarkyti duomenis ir efektyviai bendrauti su komanda.
+
+**Microsoft Word**
+
+"Word" yra tekstų redagavimo programa, kuri leidžia kurti įvairius dokumentus: nuo paprastų laiškų iki sudėtingų ataskaitų. Tinklinio marketingo specialistams svarbu mokėti sukurti aiškius ir patrauklius tekstus. Pavyzdžiui, galite naudoti "Word" rašydami el. laiškus potencialiems klientams arba kurdami informacinius biuletenius jūsų komandai.
+
+**Praktinė užduotis:**
+
+1. Atidarykite "Microsoft Word".
+2. Sukurkite naują dokumentą.
+3. Parašykite 200 žodžių tekstą apie savo produktą arba paslaugą, kurią norite pasiūlyti klientams.
+4. Naudokite skirtingus šriftus ir spalvas, kad pasiūlymas atrodytų patraukliau.
+
+**Microsoft Excel**
+
+"Excel" yra skaičiuoklės programa, kuri padeda tvarkyti ir analizuoti duomenis. Tinklinio marketingo kontekste galite naudoti "Excel" stebėdami pardavimų statistiką, analizuodami rinkodaros kampanijų efektyvumą ir planuodami biudžetą.
+
+**Praktinė užduotis:**
+
+1. Atidarykite "Microsoft Excel".
+2. Sukurkite lentelę, kurioje surašykite savo produktus, jų kainas ir parduotų vienetų skaičių.
+3. Naudokite funkcijas SUM ir AVERAGE apskaičiuodami bendras pajamas ir vidutinę vieneto kainą.
+
+**Microsoft PowerPoint**
+
+"PowerPoint" leidžia kurti įspūdingas prezentacijas, kurios gali būti naudojamos produktų pristatymuose arba mokymuose jūsų komandai. Vizualiai patrauklios skaidrės padeda geriau perteikti informaciją ir išlaikyti auditorijos dėmesį.
+
+**Praktinė užduotis:**
+
+1. Atidarykite "Microsoft PowerPoint".
+2. Sukurkite penkių skaidrių prezentaciją apie savo verslo galimybes.
+3. Naudokite vaizdus, grafiką ir animacijas, kad prezentacija būtų įdomesnė.
+
+**Emailio ir žinučių pavyzdžiai**
+
+Emaile: 
+Tema: Nauja verslo galimybė su Live On Plus
+
+Sveiki, [Vardas],
+
+Tikiuosi, kad šis laiškas jus randa gerai nusiteikusį. Norėčiau pasidalinti su jumis apie nuostabią galimybę, kurią siūlo Live On Plus. Tai unikali platforma, leidžianti jums... (toliau tekstas).
+
+Pagarbiai,
+[Jūsų Vardas]
+
+WhatsApp:
+
+Labas, [Vardas]! Ar girdėjai apie naują Live On Plus produktą? Tai gali būti puiki galimybė mums abiem. Ar galime susitikti Zoom pokalbiui? 
+
+**Dažniausios klaidos ir kaip jų išvengti**
+
+1. Per daug informacijos vienoje skaidrėje: Tai gali apsunkinti supratimą. Naudokite trumpus punktus ir vizualus.
+2. Neaiškūs skaičiavimai "Excel": Prisiminkite, kad formulės turi būti aiškios ir tiksliai apibrėžtos.
+3. Neformalus stilius "Word": Verslui skirtoje komunikacijoje naudokite profesionalų toną.
+
+**Kultūriniai verslo aspektai**
+
+Dirbant tarptautinėje aplinkoje, svarbu suprasti kultūrinius skirtumus. Pavyzdžiui, verslo susitikimuose Vakarų šalyse dažnai vertinamas tiesioginis ir nuoširdus bendravimas, o Azijos šalyse gali būti svarbiau išlaikyti harmoniją ir vengti tiesioginių konfliktų.
+
+**Išvados**
+
+Šis modulis suteikė jums pagrindus, kaip efektyviai naudoti "Office" programas tinklinio marketingo kontekste. Atlikdami praktines užduotis ir gilindamiesi į realius pavyzdžius, įgijote įgūdžių, kurie padės jums sėkmingai plėtoti savo verslą.

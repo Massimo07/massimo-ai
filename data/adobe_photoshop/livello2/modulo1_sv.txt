@@ -1,0 +1,54 @@
+### Modul 1: Introduktion till Adobe Photoshop för Network Marketing och Digital Business
+
+#### Teori och Praktik
+
+Adobe Photoshop är ett kraftfullt verktyg för bildredigering och design som används över hela världen inom olika branscher, inklusive network marketing och digital affärsutveckling. I denna modul kommer vi att utforska grunderna i Photoshop och hur dessa kan tillämpas för att förbättra din närvaro och effektivitet inom network marketing.
+
+För att börja, låt oss förstå vad Photoshop är. Det är ett program som låter användare skapa och redigera bilder och grafik. Inom network marketing kan Photoshop användas för att skapa engagerande visuellt innehåll, som annonser, logotyper och sociala medieinlägg.
+
+#### Exempel på Användning i Network Marketing
+
+Låt oss säga att du arbetar med ett företag som heter Live On Plus, och du behöver skapa en attraktiv reklamkampanj för sociala medier. Du kan använda Photoshop för att designa en affisch som presenterar företagets senaste produkt. Genom att använda funktioner som lager, masker och textverktyg kan du skapa en professionell och inbjudande design som fångar potentiella kunders uppmärksamhet.
+
+#### Esercizi och Quiz med Lösningar
+
+**Övning 1: Skapa en Enkel Annons**
+1. Öppna Photoshop och skapa ett nytt dokument (Ctrl + N).
+2. Välj en storlek som passar sociala medier, exempelvis 1080x1080 pixlar.
+3. Använd verktyget för rektangulär markering (M) för att skapa en bakgrundsfärg.
+4. Använd textverktyget (T) för att lägga till en slogan för Live On Plus.
+5. Importera en produktbild genom att dra den till ditt dokument och justera storleken med fri transformering (Ctrl + T).
+
+**Quiz:**
+1. Vilket verktyg används för att beskära en bild?  
+   **Svar:** Beskärningsverktyget (C).
+
+2. Hur kan du spara en bild för webben?  
+   **Svar:** Använd "Spara för webben" (Shift + Ctrl + Alt + S) för att optimera bilden.
+
+#### Dialoger för Kommunikation
+
+**WhatsApp/Telegram:**
+- Du: "Hej team! Jag har just skapat en ny affisch för vår senaste kampanj med Photoshop. Kolla in den!"
+- Kollegan: "Wow, den ser fantastisk ut! Kan du visa mig hur du gjorde det?"
+
+**Zoom:**
+- Du: "Låt oss gå igenom stegen för att skapa en snygg social media post i Photoshop. Ni kan ställa frågor när som helst."
+
+**Email:**
+- Ämne: "Ny Photoshop Design för Live On Plus"
+- Innehåll: "Hej team, bifogat finner ni den senaste designen jag skapade med Photoshop för vår kommande kampanj. Feedback uppskattas!"
+
+#### Vanliga Fel och Hur Man Undviker Dem
+
+1. **Felaktiga dimensioner:** Kontrollera alltid dimensionerna innan du börjar designa. Använd "Bildstorlek" för att säkerställa att din grafik passar den tänkta plattformen.
+
+2. **Överdriven användning av filter:** Medan filter kan förbättra en bild, kan överdriven användning göra att den ser oprofessionell ut. Använd dem sparsamt.
+
+3. **Glömma att spara arbete:** Använd kortkommandot Ctrl + S regelbundet för att spara ditt arbete och undvika dataförlust.
+
+#### Internationell Affärskultur
+
+Inom den internationella affärskulturen är det viktigt att förstå och anpassa sig till olika marknader. Photoshop kan hjälpa dig att skapa visuella element som är kulturellt relevanta och engagerande. När du designar för olika marknader, överväg färgval, symboler och text för att säkerställa att ditt budskap är lämpligt och effektivt.
+
+Genom att förstå och använda Photoshop effektivt kan du förbättra din förmåga att kommunicera och marknadsföra produkter på en global skala. Denna modul har gett dig en grundläggande inblick i hur du kan använda Photoshop i ditt arbete med network marketing och digitala affärer. Fortsätt öva och experimentera för att utveckla dina färdigheter ytterligare.

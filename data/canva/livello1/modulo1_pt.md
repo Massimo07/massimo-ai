@@ -1,0 +1,64 @@
+# **Módulo 1: Introdução ao Canva no Contexto de Network Marketing e Business Digital**
+
+**1. Teoria e Prática do Canva**
+
+O Canva é uma ferramenta de design gráfico online que permite criar materiais visuais de forma intuitiva, mesmo sem experiência prévia em design. É especialmente útil no network marketing e em negócios digitais, onde a comunicação visual eficaz é crucial. No nível 1 do curso de Canva, vamos explorar os fundamentos dessa plataforma, começando pela criação de uma conta e explorando a interface básica.
+
+Para começar, acesse o site do Canva (www.canva.com) e crie uma conta gratuita usando seu e-mail ou conectando-se através do Google ou Facebook. Após o login, você será direcionado ao painel principal, onde poderá escolher entre diversos tipos de design, como postagens para redes sociais, apresentações, cartazes e mais.
+
+**2. Aplicação Prática no Network Marketing e Live On Plus**
+
+No contexto de network marketing, a criação de materiais atraentes é essencial para atrair e engajar seu público. Por exemplo, ao promover produtos da Live On Plus, você pode usar o Canva para criar posts para redes sociais que destacam os benefícios dos produtos, banners para campanhas promocionais ou até mesmo apresentações para webinars.
+
+Um exemplo prático seria criar um post no Instagram que destaca um produto da Live On Plus. Para isso, escolha o tipo de design "Post para Instagram" no Canva. Utilize as ferramentas de texto para adicionar informações sobre o produto, como benefícios e preço, e inclua imagens de alta qualidade do produto, que podem ser carregadas diretamente para o Canva.
+
+**3. Exercícios e Quiz**
+
+**Exercício Prático:**
+
+Crie um post no Instagram para promover um produto da Live On Plus. Inclua:
+- Uma imagem do produto
+- Texto que descreva pelo menos três benefícios do produto
+- Um call-to-action (CTA) convidando as pessoas a saberem mais ou a comprarem
+
+**Quiz:**
+
+1. Qual é a função principal do Canva no marketing digital?
+   - a) Criar conteúdo de vídeo
+   - b) Desenvolver aplicativos móveis
+   - c) Criar materiais visuais atraentes
+
+   **Resposta:** c) Criar materiais visuais atraentes
+
+2. O que você deve considerar ao criar um post no Canva para uma campanha de network marketing?
+   - a) A cor do post
+   - b) A qualidade da imagem e a clareza da mensagem
+   - c) O tamanho do texto
+
+   **Resposta:** b) A qualidade da imagem e a clareza da mensagem
+
+**4. Diálogos Reais para WhatsApp, Telegram, Zoom, Email**
+
+**WhatsApp:**
+"Oi, Maria! Tudo bem? Criei um novo post no Canva para a promoção do nosso produto da Live On Plus. Dá uma olhada e me diz o que acha. Acho que vai engajar bem nosso público!"
+
+**Telegram:**
+"Equipe, precisamos de designs atraentes para a nova campanha. Usem o Canva para criar posts que destaquem os benefícios dos produtos. Vamos revisar juntos na reunião de amanhã."
+
+**Zoom:**
+"Durante a apresentação de hoje, vou compartilhar minha tela para mostrar como podemos usar o Canva para criar materiais visuais impactantes. Prestem atenção nos elementos que uso para chamar a atenção do público."
+
+**Email:**
+"Prezados parceiros, estou compartilhando um guia passo a passo sobre como usar o Canva para criar materiais de marketing eficazes. Acredito que isso pode ajudar a aumentar nosso alcance e engajamento."
+
+**5. Erros Comuns e Como Evitá-los**
+
+Um erro comum ao usar o Canva é sobrecarregar o design com muita informação ou elementos visuais. Para evitar isso, siga o princípio KISS (Keep It Simple, Stupid). Mantenha seus designs limpos e focados, use espaços em branco de forma eficaz e assegure-se de que o texto seja legível.
+
+Outro erro é não adaptar os designs ao público-alvo. Sempre tenha em mente as preferências e interesses do seu público ao escolher cores, imagens e tons de comunicação.
+
+**6. Cultura de Negócios Internacional**
+
+Entender a cultura de negócios internacional é vital no network marketing, especialmente quando você opera em mercados globais. O visual dos materiais de marketing deve respeitar as sensibilidades culturais e as preferências estéticas do público internacional. Por exemplo, enquanto cores vibrantes podem atrair em uma cultura, em outra podem ser vistas como excessivas. Use o Canva para experimentar diferentes paletas de cores e estilos que ressoem com diversos públicos.
+
+Ao concluir este módulo, você deve ter uma compreensão básica de como usar o Canva para criar materiais visuais eficazes no contexto de network marketing. Pratique regularmente para aprimorar suas habilidades e explorar as infinitas possibilidades criativas que o Canva oferece.

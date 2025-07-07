@@ -1,0 +1,76 @@
+# **Modul 1: Uvod v Canva za Network Marketing in Poslovanje Digitalno**
+
+Dobrodošli v prvem modulu našega tečaja o uporabi Canve, orodja, ki je postalo nepogrešljiv del digitalnega marketinga in poslovanja. Cilj tega modula je, da vas popeljemo skozi osnovne funkcionalnosti Canve, zlasti kako jih uporabiti v kontekstu network marketinga in platforme Live On Plus. Ta modul je prilagojen popolnim začetnikom, zato bomo šli korak za korakom.
+
+### Teorija in Praksa
+
+**Kaj je Canva?**
+
+Canva je spletno orodje za grafično oblikovanje, ki omogoča enostavno ustvarjanje vizualnih vsebin, kot so plakate, objave na socialnih omrežjih, prezentacije in še mnogo več. Njena prednost je, da ne zahteva predhodnega znanja o grafičnem oblikovanju. To je izredno koristno v network marketingu, kjer vizualna predstavitev pogosto igra ključno vlogo pri privabljanju in ohranjanju strank ter partnerjev.
+
+**Zakaj je Canva pomembna za Network Marketing?**
+
+V network marketingu je vizualna komunikacija ključnega pomena. Canva vam omogoča, da ustvarite profesionalne vizualne materiale, ki poudarjajo vašo blagovno znamko in sporočilo. To lahko vključuje personalizirane objave na socialnih omrežjih, privlačne brošure in infografike, ki pojasnjujejo vaše izdelke ali storitve.
+
+### Primeri iz Prakse
+
+**Ustvarjanje objave na socialnih omrežjih za Live On Plus**
+
+1. **Registracija in Ustvarjanje Računa**:
+   - Obiščite spletno stran www.canva.com.
+   - Kliknite na "Sign Up" in izberite način prijave (Google, Facebook ali email).
+   - Po prijavi boste preusmerjeni na nadzorno ploščo.
+
+2. **Izbira predloge**:
+   - V iskalno vrstico vnesite "Social Media Post".
+   - Izberite predlogo, ki vam je vizualno privlačna.
+
+3. **Prilagajanje predloge**:
+   - Kliknite na besedilo v predlogi, da ga uredite. Vnesite vaše sporočilo, npr. "Pridruži se naši Live On Plus skupnosti danes!"
+   - Dodajte logotip vaše blagovne znamke. Kliknite na "Uploads", naložite sliko logotipa in jo povlecite na predlogo.
+   - Spremenite barve, da se ujemajo z vašo blagovno znamko, tako da kliknete na elemente in izberete nove barve.
+
+4. **Shranjevanje in deljenje**:
+   - Kliknite na "Download" zgoraj desno in izberite format datoteke (JPEG, PNG).
+   - Shranite na vaš računalnik in delite na vaših socialnih omrežjih.
+
+### Esercizi in Kvizi s Soluzijami
+
+**Vaja**: Ustvarite infografiko, ki prikazuje korake za uspešno pridružitev Live On Plus.
+
+**Kvizi**:
+1. Kaj je glavna prednost uporabe Canve v network marketingu?
+   - a) Potrebuje veliko časa za učenje
+   - b) Omogoča enostavno in hitro ustvarjanje profesionalnih vizualnih vsebin
+   - c) Je drago orodje
+
+**Rešitev**: b) Omogoča enostavno in hitro ustvarjanje profesionalnih vizualnih vsebin
+
+### Dialogi za Komunikacijo
+
+**WhatsApp/Telegram**:
+
+"Živjo [Ime], upam, da si dobro! Ustvaril sem novo objavo na Canvi za našo Live On Plus skupnost. Bi si jo želel ogledati in mi povedati svoje mnenje? Tukaj je povezava: [povezava]. Veselim se tvojega odziva!"
+
+**Email**:
+
+"Pozdravljeni [Ime],
+
+Nedavno sem uporabil Canva za pripravo nekaj vizualnih materialov za našo Live On Plus platformo. Priloženo najdete infografiko, ki prikazuje korake za pridružitev. Vaše povratne informacije bi bile zelo cenjene.
+
+Lep pozdrav,
+[Tvoje ime]"
+
+### Pogosti Napaki in Kako jih Izognete
+
+**Napaka**: Uporaba preveč besedila v dizajnu.
+- **Kako se izogniti**: Držite se načela "manj je več". Uporabite kratka, jasna sporočila in jih podkrepite z vizualnimi elementi.
+
+**Napaka**: Ignoriranje blagovne znamke.
+- **Kako se izogniti**: Vedno vključite barve in logotipe, povezane z vašo blagovno znamko, da ohranite doslednost.
+
+### Kulturni Vidiki Mednarodnega Poslovanja
+
+V mednarodnem poslovanju je pomembno razumeti kulturne razlike. Canva vam omogoča, da prilagodite svoje vizualne vsebine za različne trge. Na primer, barve imajo lahko različne pomene v različnih kulturah. Vzemite si čas za raziskovanje ciljnega trga in prilagodite svoje vizualne materiale tako, da bodo kar najbolj učinkoviti.
+
+Z zaključkom tega modula bi morali imeti osnovno razumevanje, kako uporabiti Canvo za izboljšanje vašega network marketinga in poslovanja na Live On Plus. V naslednjih modulih bomo raziskali naprednejše funkcije Canve, ki vam bodo pomagale še bolj izstopati.

@@ -1,0 +1,57 @@
+# **Modul 1: Osnove Office-a za Digitalni Marketing i Network Marketing**
+
+**Uvod u Office paket**
+
+Office paket je skup alata koji vam omogućuju upravljanje dokumentima, prezentacijama, proračunskim tablicama i još mnogo toga. U kontekstu digitalnog i network marketinga, ovi alati su ključni za organizaciju, planiranje i komunikaciju s vašim timom i klijentima. U ovom modulu, fokusirat ćemo se na osnovne funkcije Office paketa koje su relevantne za vašu svakodnevnu praksu.
+
+**Teorija: Osnove Microsoft Word-a**
+
+Microsoft Word je alat za obradu teksta koji vam omogućuje stvaranje dokumenata poput izvještaja, ugovora i newslettera. U network marketingu, Word je idealan za izradu profesionalnih dokumenata koje možete dijeliti sa svojim timom ili potencijalnim klijentima.
+
+Počnite s otvaranjem Word dokumenta. Na početnom ekranu vidjet ćete razne predloške. Odaberite "Prazni dokument" za početak. Na vrhu ekrana nalazi se vrpca s alatima. Tu možete pronaći opcije za oblikovanje teksta, umetanje slika, tablica i još mnogo toga.
+
+**Praktičan primjer: Izrada Newslettera za Live On Plus**
+
+Zamislite da želite stvoriti newsletter za svoj tim u Live On Plus. Prvo, otvorite Word i odaberite "Prazni dokument". Započnite s unosom naslova, npr. "Mjesečne novosti Live On Plus". Koristite alat za oblikovanje teksta kako biste povećali veličinu fonta i dodali podebljanje za naglašavanje.
+
+Dodajte odjeljke poput "Novosti iz industrije", "Savjeti za uspjeh" i "Nadolazeći događaji". U svaki odjeljak unesite relevantne informacije i koristite grafike ili slike kako biste vizualno obogatili sadržaj.
+
+**Esercizi: Vježbajte s Word-om**
+
+1. Otvorite novi Word dokument i stvorite jednostavan izvještaj o jednom proizvodu iz Live On Plus asortimana. Uključite naslov, podnaslove i kratki opis proizvoda.
+   
+2. Dodajte tabelu u dokument s informacijama o cijenama i dostupnim varijantama proizvoda.
+
+**Rješenja za vježbu**
+
+Za prvi zadatak, vaš dokument bi trebao sadržavati osnovne elemente poput naslova i podnaslova. Provjerite jeste li pravilno oblikovali tekst i dodali sve tražene informacije.
+
+Za drugi zadatak, koristite opciju "Umetni tabelu" kako biste stvorili tabelu s najmanje dva stupca i nekoliko redaka za različite varijante i cijene.
+
+**Komunikacija: Primjeri dijaloga**
+
+**WhatsApp primjer:**
+
+*Vi:* "Pozdrav Ana, jeste li imali priliku pogledati najnoviji newsletter koji sam poslao? Volio bih čuti vaše mišljenje."
+
+*Ana:* "Zdravo! Da, upravo sam ga pročitala. Izgleda odlično, posebno mi se sviđa dio s nadolazećim događajima."
+
+**Email primjer:**
+
+Predmet: Novosti i nadolazeći događaji u Live On Plus
+
+"Dragi tim,
+
+Uzbuđeni smo što vam donosimo najnovije informacije i događaje vezane uz Live On Plus. U ovom newsletteru pronaći ćete sve što trebate znati o našim proizvodima i savjetima za uspjeh. Molimo vas da se obratite s bilo kakvim pitanjima.
+
+Srdačno, [Vaše ime]"
+
+**Uobičajene pogreške i kako ih izbjeći**
+
+Jedna od najčešćih pogrešaka je neprovjeravanje pravopisa prije slanja dokumenta. Uvijek koristite opciju "Provjeri pravopis" u Wordu kako biste osigurali da je vaš tekst besprijekoran.
+
+**Kultura poslovanja: Međunarodni aspekti**
+
+U međunarodnom poslovanju, profesionalna komunikacija je ključna. Korištenje alata poput Worda omogućuje vam stvaranje dokumenata koji zadovoljavaju međunarodne standarde i očekivanja. Obratite pažnju na kulturne razlike u komunikaciji i prilagodite svoj stil prema publici kojoj se obraćate.
+
+Kroz ovaj modul ste naučili osnovne funkcije Microsoft Worda i kako ih primijeniti u kontekstu network marketinga i digitalnog poslovanja. Vježbajte redovito kako biste usavršili svoje vještine i postali učinkovitiji u svakodnevnim zadacima.

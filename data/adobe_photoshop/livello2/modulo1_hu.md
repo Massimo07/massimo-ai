@@ -1,0 +1,58 @@
+# ### Modul 1: Adobe Photoshop alkalmazása a Network Marketing és Digitális Üzlet kontextusában
+
+#### Bevezetés
+
+Ebben a modulban az Adobe Photoshop alapvető eszközeit fogjuk megvizsgálni, különös tekintettel arra, hogyan alkalmazhatók ezek a technikák a network marketing és a digitális üzlet területén, például a Live On Plus platform használatával. Célunk, hogy megértsük, hogyan lehet vizuálisan vonzó tartalmakat létrehozni, amelyek támogatják az üzleti tevékenységeket és növelik az online jelenlétet.
+
+#### Teória és Gyakorlat
+
+Az Adobe Photoshop egy képszerkesztő szoftver, amely lehetővé teszi a felhasználók számára, hogy képeket módosítsanak, retusáljanak és különféle kreatív projektet hozzanak létre. A network marketingben fontos az első benyomás, amelyet sokszor a vizuális elemek határoznak meg. Az attraktív és professzionális megjelenésű tartalmak segítenek abban, hogy az üzenetünk célba érjen.
+
+A Photoshop alapvető eszközei közé tartozik a rétegkezelés, a vágóeszköz, a színkorrekció és különféle ecsetek. Ezeket az eszközöket fogjuk részletesen megvizsgálni, és bemutatjuk, hogyan alkalmazhatók ezek az eszközök a mindennapi üzleti gyakorlatban.
+
+#### Gyakorlati Példa: Facebook Hirdetés Készítése
+
+**1. lépés**: Nyissuk meg a Photoshopot, és hozzunk létre egy új dokumentumot. Állítsuk be a méreteket úgy, hogy azok megfeleljenek a Facebook hirdetések ajánlott méreteinek, például 1200x628 pixel.
+
+**2. lépés**: Importáljuk a cég logóját és egy háttérképet a számítógépről. Helyezzük el a logót a kép tetején, hogy az jól látható legyen.
+
+**3. lépés**: Használjuk a "Text Tool"-t, hogy feliratozzuk a képet egy vonzó üzenettel, amely tükrözi a kampány célját.
+
+**4. lépés**: Alkalmazzunk színkorrekciót a "Adjustment Layers" segítségével, hogy a kép színei harmonizáljanak a márka arculatával.
+
+**5. lépés**: Mentés és exportálás a megfelelő formátumban (pl. JPEG), amelyet közvetlenül feltölthetünk a Facebook hirdetési platformjára.
+
+#### Esettanulmány: Live On Plus
+
+A Live On Plus platform felhasználói számára készítettünk egy kampányt, amely különleges ajánlatokat kommunikál. A Photoshop segítségével készített banner képeket használtunk, amelyeken a termékek kiemelten, vonzó színekben és elrendezésben jelentek meg. Az ilyen vizuálisan vonzó tartalmak növelik az elköteleződést és a kattintási arányt.
+
+#### Esettanulmány alapján készített gyakorlat
+
+**Feladat**: Készíts egy promóciós képet egy választott termékedről, figyelembe véve a célközönséged igényeit és a márka arculati elemeit.
+
+**Megoldási javaslat**: Gondolj az üzenetre, amit közvetíteni szeretnél, válassz megfelelő színeket és képeket, és használd a Photoshop eszközeit a kívánt hatás eléréséhez.
+
+#### Kommunikációs Dialógusok
+
+**WhatsApp**: 
+- Üzleti partner: "Milyen formátumban küldjem a logót a hirdetéshez?"
+- Válasz: "Kérlek, küldd el PNG formátumban, átlátszó háttérrel, hogy könnyen beilleszthessem a Photoshop projektbe."
+
+**Zoom**:
+- Te: "A Photoshopban készült hirdetésünk segítségével 20%-kal növeltük az elérést az előző hónaphoz képest."
+
+#### Gyakori hibák és elkerülésük
+
+1. **Túl sok szöveg**: Ne zsúfoljuk tele a képet szöveggel. Használjunk rövid, figyelemfelkeltő üzeneteket.
+   
+2. **Színek harmóniájának figyelmen kívül hagyása**: Fontos, hogy a színek összhangban legyenek a márka arculatával. Használjunk színpalettát.
+
+3. **Képek rossz felbontása**: Ügyeljünk arra, hogy a képek minősége megfelelő legyen, különben a hirdetés nem fog professzionálisnak tűnni.
+
+#### Nemzetközi Üzleti Kultúra
+
+A különböző országokban és kultúrákban eltérő lehet a vizuális kommunikációhoz való hozzáállás. Például, míg egyes piacokon a minimalista dizájn előnyösebb, más piacokon a gazdagabb, részletgazdag képi világ lehet hatékonyabb. Fontos, hogy megértsük ezeket a különbségeket, amikor nemzetközi közönséget célzunk meg.
+
+#### Összefoglaló
+
+Az Adobe Photoshop használata elengedhetetlen eszköz a network marketing és a digitális üzlet világában. A vizuálisan vonzó tartalmak létrehozása segíthet kitűnni a versenytársak közül, növelheti a márka ismertségét és támogathatja az üzleti növekedést. A következő modulokban mélyebben belemélyedünk a Photoshop összetettebb funkcióiba.

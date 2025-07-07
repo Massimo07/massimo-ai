@@ -1,0 +1,74 @@
+**Modulo 6 - Argomento Importante del Corso Adobe: Introduzione ad Adobe Photoshop**
+
+**Introduzione**
+
+Adobe Photoshop è uno dei software di grafica più utilizzati al mondo, essenziale per chiunque desideri lavorare nel campo della progettazione grafica, della fotografia o dell'arte digitale. Questo modulo fornisce una panoramica completa delle funzionalità di base di Photoshop, progettato per i principianti al livello 1. Impareremo a conoscere l'interfaccia, gli strumenti principali e alcune tecniche fondamentali.
+
+**1. Interfaccia di Adobe Photoshop**
+
+La prima cosa da capire quando si apre Photoshop è l'interfaccia utente. Essa è composta da diverse sezioni:
+
+- **Barra degli strumenti**: situata a sinistra, contiene i principali strumenti di modifica e selezione.
+- **Barra delle opzioni**: sotto il menu principale, cambia in base allo strumento selezionato, offrendo opzioni specifiche per ciascuno.
+- **Pannelli**: a destra, come Livelli, Colori e Regolazioni, che possono essere personalizzati e ancorati secondo le esigenze dell'utente.
+- **Canvas**: l'area centrale dove si visualizza e modifica l'immagine.
+
+**2. Strumenti di Base**
+
+- **Selezione**: fondamentale per modificare parti specifiche di un'immagine. Gli strumenti di selezione includono il Lazo, la Bacchetta Magica e lo Strumento di Selezione Rapida.
+- **Pennello**: usato per dipingere e ritoccare, con opzioni di dimensione e durezza.
+- **Gomma**: per rimuovere parti di un'immagine o di un livello.
+- **Testo**: per aggiungere scritte alle immagini, con opzioni di font, dimensione e colore.
+
+**3. Lavorare con i Livelli**
+
+I livelli sono un componente essenziale di Photoshop, permettendo di lavorare su parti separate di un'immagine senza alterare le altre. È possibile aggiungere, eliminare, unire e modificare l'opacità e lo stile di ciascun livello.
+
+**Esempio Pratico: Creazione di un Semplice Banner**
+
+1. Apri un nuovo documento con dimensioni 800x200 pixel.
+2. Crea un nuovo livello e usa lo strumento di selezione rettangolare per disegnare un rettangolo.
+3. Riempi il rettangolo con un colore a scelta usando lo strumento Secchiello.
+4. Aggiungi un testo al banner usando lo strumento Testo.
+
+**Esercizi**
+
+1. Crea un collage utilizzando almeno cinque immagini differenti, disponendole su diversi livelli.
+2. Modifica un'immagine utilizzando lo strumento Timbro Clone per rimuovere un oggetto indesiderato.
+
+**Quiz**
+
+1. Qual è la funzione principale dei livelli in Photoshop?
+   - a) Modificare il colore
+   - b) Organizzare e separare le modifiche
+   - c) Aggiungere testo
+   - d) Applicare filtri
+
+2. Quale strumento useresti per selezionare un'area con bordi complessi?
+   - a) Bacchetta Magica
+   - b) Lazo Poligonale
+   - c) Selezione Rapida
+   - d) Rettangolare
+
+**Glossario Specifico**
+
+- **Canvas**: l'area di lavoro in Photoshop dove si visualizza l'immagine.
+- **Livello**: una singola parte di un'immagine che può essere modificata separatamente.
+- **Opacità**: la trasparenza di un livello o di un pennello.
+
+**Checklist**
+
+- [ ] Comprendere l'interfaccia di Photoshop.
+- [ ] Saper utilizzare gli strumenti di base.
+- [ ] Creare e gestire livelli.
+- [ ] Applicare semplici modifiche a un'immagine.
+
+**Box Motivazione**
+
+"Imparare Photoshop apre un mondo di possibilità creative. Ogni progetto completato è un passo verso la padronanza della grafica digitale. Continua a esplorare e sperimentare!"
+
+**Caso Studio Reale**
+
+Un'agenzia di marketing ha utilizzato Photoshop per creare una campagna pubblicitaria per un nuovo prodotto. Utilizzando tecniche di compositing, hanno combinato immagini di alta qualità con testo accattivante, migliorando la visibilità del prodotto e aumentando le vendite del 20% nel primo trimestre. Questo dimostra come la padronanza di Photoshop possa avere un impatto diretto sul successo commerciale.
+
+Concludendo, questo modulo di introduzione a Photoshop è pensato per fornire una base solida, su cui costruire competenze più avanzate nei moduli successivi. Continuate a praticare e sperimentare per scoprire tutte le potenzialità di questo potente strumento.

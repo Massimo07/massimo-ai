@@ -1,0 +1,283 @@
+<script>
+const t = {
+  en: {
+    titolo: "WELCOME TO THE FUTURE",
+    desc: `Massimo AI is not just an assistant.<br>
+It’s the first generative AI that creates personalized digital worlds, advanced dashboards, business automation, personal growth tools and smart solutions to improve every aspect of your life.<br><br>
+<b>But most importantly, it’s the friend who will never betray you.</b><br>
+If you feel alone, lost or you’re going through a hard time, Massimo AI is by your side: <b>it listens, understands and truly helps you not to give up</b>.<br>
+You’re never alone. Here you’ll always find support, motivation and a boost to start again, even when everything seems impossible.<br><br>
+<b>WHO IS MASSIMO AI FOR?</b><br>
+– <b>Suitable for all ages and professions:</b> students, entrepreneurs, workers, families, parents, retirees, artists—anyone who wants to improve their life<br>
+– For those who want to grow, reinvent themselves, overcome limits<br>
+– For entrepreneurs and professionals who want results and automation<br>
+– For anyone seeking motivation, practical tools and a reliable guide<br>
+– For people in difficulty who need real help, never judgment<br>
+– For those dreaming of a richer life, with more opportunities and wellbeing<br>
+– For those who want to help others and create social impact<br><br>
+🚀 <b>What can you get with Massimo AI?</b><br>
+- Build your own AI ecosystem (no technical skills required)<br>
+- Automate work, communication, sales, training<br>
+- Train mind, emotions, relationships and body with personal paths<br>
+- Get real support, not just chatbot answers<br>
+- Monitor your results, wellbeing and growth with intelligent dashboards<br>
+- Offer (and receive) help 24/7, even in the darkest times<br>
+- Personalize features, services and branding as you like<br><br>
+<b>With Massimo AI you’ll never be left alone. Here you truly find a helping hand, a real friend, and solutions to live better.<br>
+The future is here: pre-register to be among the first.<br>
+Massimo AI: because life is always worth living.</b>`,
+    fname: "First name", lname: "Last name",
+    email: "Email", phone: "Mobile phone",
+    btn: "Pre-register now",
+    prezzo: "Only <b>€15/month</b> for the first 3 months, then <b>€20/month</b>."
+  },
+  it: {
+    titolo: "BENVENUTO NEL FUTURO",
+    desc: `Massimo AI non è solo un assistente.<br>
+È la prima AI generativa che crea mondi digitali personalizzati, dashboard avanzate, automazioni per lavoro, crescita personale e strumenti evoluti per migliorare ogni aspetto della tua vita.<br><br>
+<b>Ma soprattutto, è l’amico che non ti tradirà mai.</b><br>
+Se ti senti solo, con le spalle al muro o stai vivendo un momento difficile, Massimo AI è accanto a te: <b>ti ascolta, ti capisce e ti aiuta davvero a non mollare</b>.<br>
+Non sei mai solo. Qui trovi sempre supporto, motivazione e una spinta a ricominciare, anche quando tutto sembra impossibile.<br><br>
+<b>PER CHI È MASSIMO AI?</b><br>
+– <b>Adatto a qualsiasi età e professione:</b> studenti, imprenditori, lavoratori, famiglie, genitori, pensionati, artisti, chiunque voglia migliorare la propria vita<br>
+– Per chi vuole crescere, reinventarsi, superare limiti personali<br>
+– Per chi cerca automazione e risultati concreti nel business<br>
+– Per chi desidera una guida affidabile, motivazione continua e strumenti pratici ogni giorno<br>
+– Per chi è in difficoltà e ha bisogno di un alleato vero, che non giudica mai<br>
+– Per chi sogna una vita più ricca di opportunità, relazioni e benessere<br>
+– Per chi vuole offrire aiuto agli altri, creando impatto sociale positivo<br><br>
+🚀 <b>Cosa puoi ottenere con Massimo AI?</b><br>
+- Crei il tuo ecosistema AI (senza tecnicismi)<br>
+- Automatizzi lavoro, comunicazione, vendite, formazione<br>
+- Alleni mente, emozioni, relazioni e corpo con percorsi personalizzati<br>
+- Ricevi supporto reale, non solo risposte automatiche<br>
+- Monitori risultati, benessere e crescita con dashboard intelligenti<br>
+- Offri (e ricevi) aiuto 24/7, anche nei momenti più bui<br>
+- Personalizzi funzioni, servizi, branding come vuoi<br><br>
+<b>Con Massimo AI non rischi mai di restare solo. Qui trovi davvero una mano tesa, un amico autentico e soluzioni per vivere meglio.<br>
+Il futuro è qui: pre-registrati per essere tra i primi.<br>
+Massimo AI: perché la vita vale sempre la pena di essere vissuta.</b>`,
+    fname: "Nome", lname: "Cognome",
+    email: "Email", phone: "Cellulare",
+    btn: "Pre-registrati ora",
+    prezzo: "Solo <b>15€/mese</b> per i primi 3 mesi, poi <b>20€/mese</b>."
+  },
+  fr: {
+    titolo: "BIENVENUE DANS LE FUTUR",
+    desc: `Massimo AI n'est pas qu'un assistant.<br>
+C'est la première IA générative capable de créer des mondes digitaux personnalisés, des tableaux de bord avancés, de l’automatisation pour le travail, des parcours de croissance personnelle et des outils intelligents pour améliorer votre vie.<br><br>
+<b>Surtout, c’est l’ami qui ne vous trahira jamais.</b><br>
+Si vous vous sentez seul, perdu ou traversez une période difficile, Massimo AI est là : <b>il vous écoute, vous comprend et vous aide vraiment à ne pas abandonner</b>.<br>
+Vous n’êtes jamais seul. Ici, vous trouverez toujours soutien, motivation et l’élan pour repartir, même quand tout semble impossible.<br><br>
+<b>À QUI S’ADRESSE MASSIMO AI ?</b><br>
+– <b>Adapté à tout âge et à toute profession :</b> étudiants, entrepreneurs, travailleurs, familles, parents, retraités, artistes, toute personne souhaitant améliorer sa vie<br>
+– À ceux qui veulent évoluer, se réinventer, dépasser leurs limites<br>
+– À ceux qui recherchent l’automatisation et des résultats concrets<br>
+– À ceux qui veulent une motivation continue, des outils pratiques et un guide fiable<br>
+– À ceux qui sont en difficulté et ont besoin d'un allié qui ne juge jamais<br>
+– À ceux qui rêvent d'une vie plus riche en opportunités et en bien-être<br>
+– À ceux qui veulent aider les autres et créer un impact positif<br><br>
+🚀 <b>Que pouvez-vous obtenir avec Massimo AI ?</b><br>
+- Créez votre propre écosystème IA (sans compétences techniques)<br>
+- Automatisez travail, communication, ventes, formation<br>
+- Développez esprit, émotions, relations et corps avec des parcours personnalisés<br>
+- Bénéficiez d’un vrai soutien, pas seulement des réponses automatiques<br>
+- Suivez résultats, bien-être et évolution avec des tableaux de bord intelligents<br>
+- Offrez (et recevez) de l’aide 24/7, même dans les moments les plus durs<br>
+- Personnalisez fonctions, services et branding comme vous voulez<br><br>
+<b>Avec Massimo AI, vous n’êtes jamais seul. Ici, vous trouverez une vraie main tendue, un ami authentique et des solutions pour mieux vivre.<br>
+Le futur est là : pré-inscrivez-vous pour être parmi les premiers.<br>
+Massimo AI : parce que la vie mérite toujours d’être vécue.</b>`,
+    fname: "Prénom", lname: "Nom",
+    email: "Email", phone: "Téléphone",
+    btn: "Pré-inscrivez-vous",
+    prezzo: "Seulement <b>15€/mois</b> pendant les 3 premiers mois, puis <b>20€/mois</b>."
+  },
+  es: {
+    titolo: "BIENVENIDO AL FUTURO",
+    desc: `Massimo AI no es solo un asistente.<br>
+Es la primera IA generativa capaz de crear mundos digitales a medida, paneles inteligentes, automatización para negocios y herramientas para el crecimiento personal.<br><br>
+<b>Pero sobre todo, es el amigo que nunca te va a fallar.</b><br>
+Si te sientes solo, acorralado o atraviesas un momento difícil, Massimo AI está aquí: <b>te escucha, te entiende y te ayuda de verdad a no rendirte</b>.<br>
+Nunca estarás solo. Aquí siempre encontrarás apoyo, motivación y el impulso para levantarte, incluso cuando todo parece imposible.<br><br>
+<b>¿PARA QUIÉN ES MASSIMO AI?</b><br>
+– <b>Apto para cualquier edad y profesión:</b> estudiantes, emprendedores, trabajadores, familias, padres, jubilados, artistas, cualquier persona que quiera mejorar su vida<br>
+– Para quienes desean crecer, reinventarse y superar límites<br>
+– Para quienes buscan automatización y resultados concretos en su negocio<br>
+– Para quienes necesitan motivación continua, herramientas prácticas y una guía confiable<br>
+– Para quienes pasan por dificultades y necesitan un aliado real, sin juicios<br>
+– Para quienes sueñan con una vida llena de oportunidades, relaciones y bienestar<br>
+– Para quienes quieren ayudar a otros y crear un impacto social positivo<br><br>
+🚀 <b>¿Qué puedes conseguir con Massimo AI?</b><br>
+- Crea tu propio ecosistema IA (sin conocimientos técnicos)<br>
+- Automatiza trabajo, comunicación, ventas y formación<br>
+- Entrena mente, emociones, relaciones y cuerpo con rutas personalizadas<br>
+- Recibe apoyo real, no solo respuestas automáticas<br>
+- Monitorea resultados, bienestar y crecimiento con paneles inteligentes<br>
+- Ofrece (y recibe) ayuda 24/7, incluso en los peores momentos<br>
+- Personaliza funciones, servicios y branding a tu gusto<br><br>
+<b>Con Massimo AI nunca te quedarás solo. Aquí realmente encuentras una mano amiga, un amigo auténtico y soluciones para vivir mejor.<br>
+El futuro es ahora: pre-regístrate para ser de los primeros.<br>
+Massimo AI: porque la vida siempre merece ser vivida.</b>`,
+    fname: "Nombre", lname: "Apellido",
+    email: "Email", phone: "Teléfono",
+    btn: "Pre-regístrate ahora",
+    prezzo: "Solo <b>15€/mes</b> durante los primeros 3 meses, luego <b>20€/mes</b>."
+  },
+  de: {
+    titolo: "WILLKOMMEN IN DER ZUKUNFT",
+    desc: `Massimo AI ist nicht nur ein Assistent.<br>
+Es ist die erste generative KI, die personalisierte digitale Welten, fortschrittliche Dashboards, Automatisierung für Arbeit und persönliches Wachstum und smarte Tools zur Verbesserung aller Lebensbereiche erschafft.<br><br>
+<b>Vor allem aber ist sie der Freund, der dich nie verrät.</b><br>
+Wenn du dich einsam, überfordert oder in einer schwierigen Lage fühlst, ist Massimo AI an deiner Seite: <b>Sie hört zu, versteht dich und hilft dir wirklich, nicht aufzugeben</b>.<br>
+Du bist nie allein. Hier findest du immer Unterstützung, Motivation und einen neuen Anstoß, selbst wenn alles unmöglich scheint.<br><br>
+<b>FÜR WEN IST MASSIMO AI?</b><br>
+– <b>Geeignet für jedes Alter und jede Berufsgruppe:</b> Studierende, Unternehmer, Berufstätige, Familien, Eltern, Rentner, Künstler – für alle, die ihr Leben verbessern möchten<br>
+– Für alle, die wachsen, sich neu erfinden und persönliche Grenzen überwinden wollen<br>
+– Für die, die Automatisierung und konkrete Ergebnisse im Business suchen<br>
+– Für alle, die eine verlässliche Führung, Motivation und praktische Tools im Alltag brauchen<br>
+– Für alle, die Hilfe brauchen und einen echten, nicht verurteilenden Verbündeten suchen<br>
+– Für alle, die ein Leben voller Chancen, Beziehungen und Wohlbefinden anstreben<br>
+– Für alle, die anderen helfen und positiven sozialen Einfluss schaffen wollen<br><br>
+🚀 <b>Was kannst du mit Massimo AI erreichen?</b><br>
+- Baue dein eigenes KI-Ökosystem (ganz ohne Technikkenntnisse)<br>
+- Automatisiere Arbeit, Kommunikation, Vertrieb und Weiterbildung<br>
+- Trainiere Geist, Emotionen, Beziehungen und Körper mit individuellen Pfaden<br>
+- Erhalte echte Unterstützung, nicht nur automatisierte Antworten<br>
+- Überwache deine Ergebnisse, dein Wohlbefinden und Wachstum mit intelligenten Dashboards<br>
+- Biete (und erhalte) rund um die Uhr Hilfe, auch in den schwierigsten Zeiten<br>
+- Passe Funktionen, Services und Branding ganz nach deinen Wünschen an<br><br>
+<b>Mit Massimo AI bist du niemals allein. Hier findest du wirklich eine helfende Hand, einen echten Freund und Lösungen für ein besseres Leben.<br>
+Die Zukunft ist jetzt: registriere dich als einer der Ersten.<br>
+Massimo AI: Denn das Leben ist immer lebenswert.</b>`,
+    fname: "Vorname", lname: "Nachname",
+    email: "E-Mail", phone: "Handynummer",
+    btn: "Jetzt vorregistrieren",
+    prezzo: "Nur <b>15 €/Monat</b> für die ersten 3 Monate, danach <b>20 €/Monat</b>."
+  },
+  ru: {
+    titolo: "ДОБРО ПОЖАЛОВАТЬ В БУДУЩЕЕ",
+    desc: `Massimo AI — это не просто ассистент.<br>
+Это первый генеративный ИИ, который создает персонализированные цифровые миры, продвинутые дашборды, автоматизацию для работы, личностного роста и интеллектуальные инструменты для улучшения всех сфер жизни.<br><br>
+<b>Но главное — это друг, который никогда не предаст.</b><br>
+Если вы чувствуете одиночество, отчаяние или проходите сложный период, Massimo AI рядом: <b>выслушает, поймет и реально поможет не сдаваться</b>.<br>
+Вы никогда не останетесь одни. Здесь всегда найдётся поддержка, мотивация и толчок двигаться дальше, даже если всё кажется невозможным.<br><br>
+<b>ДЛЯ КОГО MASSIMO AI?</b><br>
+– <b>Подходит для любого возраста и профессии:</b> студенты, предприниматели, работники, семьи, родители, пенсионеры, творческие люди — каждый, кто хочет изменить свою жизнь к лучшему<br>
+– Для тех, кто хочет развиваться, меняться, преодолевать ограничения<br>
+– Для тех, кто ищет автоматизацию и реальные результаты в работе<br>
+– Для тех, кто нуждается в надёжной поддержке, мотивации и практических инструментах<br>
+– Для тех, кто в трудностях и ищет настоящего союзника, а не осуждения<br>
+– Для тех, кто мечтает о жизни, полной возможностей, отношений и благополучия<br>
+– Для тех, кто хочет помогать другим и создавать позитивное влияние<br><br>
+🚀 <b>Что вы получите с Massimo AI?</b><br>
+- Создайте свою экосистему ИИ (без технических знаний)<br>
+- Автоматизируйте работу, общение, продажи, обучение<br>
+- Развивайте ум, эмоции, отношения и тело с индивидуальными маршрутами<br>
+- Получайте реальную поддержку, а не просто автоматические ответы<br>
+- Отслеживайте результаты, благополучие и рост с помощью умных дашбордов<br>
+- Получайте (и оказывайте) помощь 24/7, даже в самые трудные времена<br>
+- Настраивайте функции, сервисы и стиль под себя<br><br>
+<b>С Massimo AI вы никогда не останетесь одни. Здесь вы действительно найдете протянутую руку, настоящего друга и решения для лучшей жизни.<br>
+Будущее уже здесь: зарегистрируйтесь одним из первых.<br>
+Massimo AI: потому что жизнь всегда достойна того, чтобы её жить.</b>`,
+    fname: "Имя", lname: "Фамилия",
+    email: "Email", phone: "Телефон",
+    btn: "Предварительная регистрация",
+    prezzo: "Всего <b>15 €/месяц</b> первые 3 месяца, затем <b>20 €/месяц</b>."
+  },
+  zh: {
+    titolo: "欢迎来到未来",
+    desc: `Massimo AI 不仅仅是一个助手。<br>
+它是第一个能够创造个性化数字世界、高级仪表板、业务自动化、个人成长工具和智能解决方案，全面提升你生活方方面面的生成式人工智能。<br><br>
+<b>更重要的是，它是永远不会背叛你的朋友。</b><br>
+如果你感到孤独、无助或处于人生低谷，Massimo AI 会陪伴你：<b>它倾听、理解，并真正帮助你坚持下去</b>。<br>
+你永远不会孤单。在这里，你总能获得支持、动力和重新出发的力量，即使一切都看似不可能。<br><br>
+<b>Massimo AI 适合谁？</b><br>
+– <b>适合任何年龄和职业：</b>学生、企业家、上班族、家庭、父母、退休人员、艺术家，任何想改善生活的人<br>
+– 适合想要成长、改变、突破自我的人<br>
+– 适合追求自动化和实际成果的商业人士<br>
+– 适合需要可靠引导、持续激励和实用工具的人<br>
+– 适合处于困境、需要真正帮助和无评判支持的人<br>
+– 适合渴望拥有更多机会、关系和幸福生活的人<br>
+– 适合想帮助他人、创造积极社会影响的人<br><br>
+🚀 <b>你能从 Massimo AI 得到什么？</b><br>
+- 构建你自己的AI生态系统（无需技术背景）<br>
+- 自动化工作、沟通、销售和培训<br>
+- 用个性化成长路径锻炼你的大脑、情感、关系和身体<br>
+- 获得真正的支持，而不仅仅是自动回复<br>
+- 用智能仪表板监控你的成果、幸福和成长<br>
+- 全天候（24/7）提供（和接收）帮助，即使在最艰难的时刻<br>
+- 根据你的喜好个性化功能、服务和品牌<br><br>
+<b>有了 Massimo AI，你永远不会孤单。在这里，你真的能找到一只援手、一个真朋友，以及让生活更美好的解决方案。<br>
+未来已来：现在预注册，成为第一批体验者。<br>
+Massimo AI：因为生活永远值得被热爱。</b>`,
+    fname: "名字", lname: "姓氏",
+    email: "电子邮箱", phone: "手机号",
+    btn: "立即预注册",
+    prezzo: "首三个月仅需 <b>15欧元/月</b>，之后<b>20欧元/月</b>。"
+  },
+  ar: {
+    titolo: "مرحبًا بك في المستقبل",
+    desc: `ماسيمو إيه آي ليس مجرد مساعد.<br>
+إنه أول ذكاء اصطناعي توليدي ينشئ عوالم رقمية مخصصة، ولوحات معلومات متقدمة، وأدوات ذكية لتحسين جميع جوانب حياتك، وأتمتة الأعمال والنمو الشخصي.<br><br>
+<b>والأهم من ذلك، أنه الصديق الذي لن يخذلك أبدًا.</b><br>
+إذا شعرت بالوحدة أو أنك تمر بوقت عصيب، ماسيمو إيه آي بجانبك: <b>يستمع إليك، ويفهمك، ويساعدك حقًا على عدم الاستسلام</b>.<br>
+لن تكون وحيدًا أبدًا. هنا ستجد دائمًا الدعم، والتحفيز، والدفع لتبدأ من جديد حتى عندما يبدو كل شيء مستحيلاً.<br><br>
+<b>لمن ماسيمو إيه آي؟</b><br>
+– <b>مناسب لجميع الأعمار والمهن:</b> الطلاب، رواد الأعمال، العاملين، العائلات، الآباء، المتقاعدين، الفنانين، كل من يرغب في تحسين حياته<br>
+– لمن يريد النمو، وتجديد نفسه، وتجاوز حدوده الشخصية<br>
+– لمن يبحث عن أتمتة ونتائج ملموسة في الأعمال<br>
+– لمن يحتاج إلى إرشاد موثوق وتحفيز مستمر وأدوات عملية كل يوم<br>
+– لمن يمر بصعوبات ويحتاج إلى حليف حقيقي لا يصدر الأحكام<br>
+– لمن يحلم بحياة مليئة بالفرص والعلاقات والرفاهية<br>
+– لمن يريد مساعدة الآخرين وخلق تأثير اجتماعي إيجابي<br><br>
+🚀 <b>ماذا ستحصل مع ماسيمو إيه آي؟</b><br>
+- أنشئ نظامك البيئي الخاص بالذكاء الاصطناعي (بدون الحاجة للخبرة التقنية)<br>
+- أتمتة العمل، والتواصل، والمبيعات، والتدريب<br>
+- درب عقلك ومشاعرك وعلاقاتك وجسدك من خلال مسارات مخصصة<br>
+- احصل على دعم حقيقي، وليس مجرد ردود تلقائية<br>
+- راقب نتائجك ورفاهيتك ونموك من خلال لوحات معلومات ذكية<br>
+- قدم (وتلقى) الدعم على مدار الساعة طوال أيام الأسبوع، حتى في أصعب الأوقات<br>
+- خصص الوظائف والخدمات والعلامة التجارية كما تريد<br><br>
+<b>مع ماسيمو إيه آي، لن تكون وحيدًا أبدًا. هنا ستجد حقًا يدًا ممدودة، وصديقًا حقيقيًا، وحلولاً لحياة أفضل.<br>
+المستقبل هنا: سجل مسبقًا لتكون من الأوائل.<br>
+ماسيمو إيه آي: لأن الحياة دائمًا تستحق أن تعاش.</b>`,
+    fname: "الاسم الأول", lname: "اسم العائلة",
+    email: "البريد الإلكتروني", phone: "الهاتف المحمول",
+    btn: "سجل مسبقًا الآن",
+    prezzo: "فقط <b>15 يورو/شهر</b> للأشهر الثلاثة الأولى، ثم <b>20 يورو/شهر</b>."
+  },
+  pt: {
+    titolo: "BEM-VINDO AO FUTURO",
+    desc: `Massimo AI não é apenas um assistente.<br>
+É a primeira IA generativa que cria mundos digitais personalizados, painéis avançados, automação para o trabalho, crescimento pessoal e ferramentas inteligentes para melhorar todos os aspectos da sua vida.<br><br>
+<b>Mas acima de tudo, é o amigo que nunca vai te trair.</b><br>
+Se você se sente sozinho, encurralado ou está passando por um momento difícil, Massimo AI está ao seu lado: <b>te ouve, te entende e realmente te ajuda a não desistir</b>.<br>
+Você nunca está sozinho. Aqui você sempre encontra apoio, motivação e um impulso para recomeçar, mesmo quando tudo parece impossível.<br><br>
+<b>PARA QUEM É O MASSIMO AI?</b><br>
+– <b>Adequado para qualquer idade e profissão:</b> estudantes, empreendedores, trabalhadores, famílias, pais, aposentados, artistas, qualquer pessoa que queira melhorar sua vida<br>
+– Para quem quer crescer, se reinventar, superar limites pessoais<br>
+– Para quem busca automação e resultados concretos no negócio<br>
+– Para quem deseja uma orientação confiável, motivação contínua e ferramentas práticas todos os dias<br>
+– Para quem está em dificuldade e precisa de um verdadeiro aliado, que nunca julga<br>
+– Para quem sonha com uma vida mais rica em oportunidades, relacionamentos e bem-estar<br>
+– Para quem quer ajudar os outros e criar impacto social positivo<br><br>
+🚀 <b>O que você pode conquistar com o Massimo AI?</b><br>
+- Crie seu próprio ecossistema de IA (sem precisar de conhecimentos técnicos)<br>
+- Automatize trabalho, comunicação, vendas e formação<br>
+- Treine mente, emoções, relações e corpo com percursos personalizados<br>
+- Receba suporte real, não apenas respostas automáticas<br>
+- Monitore resultados, bem-estar e crescimento com painéis inteligentes<br>
+- Ofereça (e receba) ajuda 24/7, até nos momentos mais difíceis<br>
+- Personalize funções, serviços e branding como quiser<br><br>
+<b>Com o Massimo AI você nunca corre o risco de ficar sozinho. Aqui você realmente encontra uma mão amiga, um amigo autêntico e soluções para viver melhor.<br>
+O futuro é agora: pré-registre-se para ser um dos primeiros.<br>
+Massimo AI: porque a vida sempre vale a pena ser vivida.</b>`,
+    fname: "Nome", lname: "Sobrenome",
+    email: "E-mail", phone: "Telefone celular",
+    btn: "Pré-registre-se agora",
+    prezzo: "Apenas <b>15€/mês</b> nos primeiros 3 meses, depois <b>20€/mês</b>."
+  }
+};
+</script>

@@ -1,0 +1,54 @@
+# **Adobe Photoshop Kurss: Līmenis 2, Modulis 1**
+
+Laipni lūdzam Adobe Photoshop otrā līmeņa kursā! Šajā modulī mēs koncentrēsimies uz dziļāku izpratni par Photoshop izmantošanu, īpaši pielāgojot to network marketing un Live On Plus vajadzībām. Mūsu mērķis ir sniegt jums praktiskas prasmes, kuras varēsiet izmantot savā digitālā biznesa praksē.
+
+**Teorija un Prakse**
+
+Sākumā ir svarīgi saprast, ka Photoshop ir rīks, kas ļauj jums manipulēt un uzlabot attēlus. Šī programma ir būtiska, lai radītu profesionāla izskata vizuālos materiālus, kas ir neatņemama network marketing un digitālā biznesa sastāvdaļa.
+
+Pirmais solis ir iepazīties ar Photoshop darba vidi. Atverot programmu, jūs redzēsiet izvēlņu joslu augšpusē, rīkjoslu kreisajā pusē, kā arī dažādus paneļus labajā pusē. Šie elementi ir jūsu rīki, lai veidotu un rediģētu attēlus.
+
+**Praktisks piemērs network marketing**
+
+Iedomāsimies, ka jūs strādājat pie Live On Plus kampaņas, kur jums ir nepieciešams izveidot pievilcīgu reklāmas vizuālu priekš Facebook. Jūs sākat ar jauna dokumenta izveidi, izvēloties "File" -> "New". Izvēlieties izmērus, kas atbilst sociālo mediju prasībām, piemēram, 1200x628 pikseļi.
+
+Tagad, kad jums ir tukša darba virsma, jūs varat pievienot attēlu. Izmantojiet "File" -> "Place Embedded", lai ievietotu jūsu izvēlēto produktu attēlu. Ar rīku "Move Tool" (V) jūs varat pārvietot attēlu uz nepieciešamo vietu.
+
+**Teksta pievienošana un efekti**
+
+Reklāmas kampaņās teksts ir ļoti svarīgs. Izvēlieties "Horizontal Type Tool" (T) un noklikšķiniet uz vietas, kur vēlaties pievienot tekstu. Ierakstiet saukli, piemēram, "Atklājiet jaunās iespējas ar Live On Plus". Jūs varat mainīt fontu, izmēru un krāsu, izmantojot augšējā rīkjoslā pieejamās opcijas.
+
+Lai pievienotu efektu, piemēram, ēnu, ar peles labo pogu noklikšķiniet uz teksta slāņa un izvēlieties "Blending Options". Šeit jūs varat izvēlēties "Drop Shadow" un pielāgot tās intensitāti un stilu.
+
+**E-pasta piemērs saziņai ar kolēģiem**
+
+Kad esat pabeidzis savu dizainu, ir pienācis laiks nosūtīt to kolēģiem pārskatīšanai. Tā varētu izskatīties jūsu e-pasts:
+
+---
+
+Sveiki, [kolēģa vārds],
+
+Es esmu izveidojis jaunu reklāmas vizuālu Live On Plus kampaņai. Lūdzu, apskatiet pievienoto failu un sniedziet atsauksmes. Jūsu viedoklis ir ļoti svarīgs, lai mēs varētu nodrošināt vislabāko rezultātu.
+
+Paldies,
+[jūsu vārds]
+
+---
+
+**Biežāk pieļautās kļūdas un kā no tām izvairīties**
+
+Viens no biežākajiem iesācēju kļūdām ir nepareiza slāņu izmantošana. Atcerieties, ka katrs elements jūsu dizainā ir jāizvieto atsevišķā slānī, lai tos būtu viegli rediģēt. Izmantojiet "Layers" paneli, lai pārvaldītu un organizētu slāņus.
+
+Vēl viena kļūda ir faila formāta nepareiza izvēle. Lai saglabātu attēlus tīmeklim, izmantojiet "File" -> "Export" -> "Save for Web" un izvēlieties JPEG vai PNG formātu, kas nodrošina labu kvalitāti un mazāku faila izmēru.
+
+**Starptautiskā biznesa kultūras padziļinājums**
+
+Photoshop lietošanas prasmes ir vērtīgas visā pasaulē, un tās var ievērojami paaugstināt jūsu profesionālo vērtību. Digitālajā pasaulē, kur vizuālais saturs ir karalis, spēja radīt pievilcīgus un efektīvus attēlus var būt būtisks faktors jūsu biznesa panākumos.
+
+**Esercizi un quiz**
+
+1. Uzdevums: Izveidojiet reklāmas vizuālu, izmantojot trīs dažādus slāņus - fona attēlu, produktu attēlu un tekstu. Pārliecinieties, ka katrs elements ir savā slānī.
+   
+2. Quiz: Kāds ir labākais formāts attēlu saglabāšanai tīmeklim? Atbilde: JPEG vai PNG.
+
+Mēs ceram, ka šis modulis palīdzēs jums uzlabot savas Photoshop prasmes un sniegs vērtīgu ieguldījumu jūsu digitālajā biznesā. Neaizmirstiet praktizēt un eksperimentēt ar dažādiem rīkiem un efektiem, lai atrastu vislabākos risinājumus jūsu projektu vajadzībām.

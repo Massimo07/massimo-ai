@@ -1,0 +1,49 @@
+# Žinoma, pradedame su "Adobe Photoshop" kurso, pavadinimu "adobe_photoshop, lygis 1, modulis 1". Šis modulis skirtas pradedantiesiems, todėl mes eisim per kiekvieną žingsnį labai detaliai. 
+
+**Teorija ir praktika:**
+
+Pirmiausia, ką turėtumėte žinoti apie Adobe Photoshop - tai yra galinga vaizdų redagavimo programa, naudojama tiek pradedantiesiems, tiek profesionalams. Šio modulio tikslas yra supažindinti jus su pagrindinėmis funkcijomis, kad galėtumėte pradėti kurti ir redaguoti vaizdus, ypatingai pritaikant prie tinklinės rinkodaros ir Live On Plus verslo konteksto.
+
+Pirmasis žingsnis yra suprasti pagrindinę darbo sritį - kai atidarote Photoshop, pamatysite meniu juostą viršuje, įrankių juostą kairėje, o dešinėje - sluoksnių ir kitų nustatymų skydelius. Svarbu suprasti, kad sluoksniai yra pagrindinis Photoshopo elementas. Jie leidžia redaguoti vaizdo dalis atskirai, neprarandant kitų vaizdo dalių kokybės.
+
+**Praktinis pavyzdys:**
+
+Įsivaizduokite, kad dirbate tinklinės rinkodaros srityje ir norite sukurti reklamą savo produktui. Galite pradėti nuo tuščio dokumento sukūrimo: eikite į "File" > "New" ir pasirinkite norimą dydį. Tarkime, norite sukurti kvadratą socialiniams tinklams, pasirinkite 1080x1080 pikselių dydį.
+
+Antras žingsnis - įdėkite produkto nuotrauką. Eikite į "File" > "Place Embedded" ir pasirinkite norimą vaizdą iš savo kompiuterio. Vaizdas bus pridėtas kaip naujas sluoksnis. Naudodamiesi įrankių juostoje esančiu perkėlimo įrankiu (Move Tool), galite jį perkelti ir pakeisti dydį.
+
+**Esercizai ir viktorinos su sprendimais:**
+
+1. Sukurkite naują dokumentą 1920x1080 pikselių dydžio.
+   - Sprendimas: Eikite į "File" > "New", nustatykite plotį 1920 ir aukštį 1080 pikselių.
+
+2. Įterpkite tekstą į savo projektą.
+   - Sprendimas: Pasirinkite "Horizontal Type Tool" iš įrankių juostos, spustelėkite ant savo dokumento ir pradėkite rašyti.
+
+**Dialogai:**
+
+WhatsApp:
+- Klientas: "Sveiki, norėčiau sužinoti, kaip galiu redaguoti savo produkto nuotrauką."
+- Jūs: "Sveiki! Galite pradėti naudodami Adobe Photoshop. Ar jau esate bandę šią programą?"
+
+Telegram:
+- Klientas: "Kaip pridėti tekstą mano reklaminėje nuotraukoje?"
+- Jūs: "Pasirinkite 'Horizontal Type Tool' ir spustelėkite ant vaizdo, kur norite pridėti tekstą."
+
+Zoom:
+- Klientas: "Galiu pamatyti, kaip jūs redaguojate savo reklaminius vaizdus?"
+- Jūs: "Žinoma, pradėkime nuo pagrindinio vaizdo sukūrimo ir kelių sluoksnių pridėjimo."
+
+Email:
+- Klientas: "Ar galite atsiųsti man žingsnis po žingsnio vadovą?"
+- Jūs: "Žinoma, pridedu vadovą, kuris padės jums pradėti su Adobe Photoshop."
+
+**Bendros klaidos ir kaip jų išvengti:**
+
+Viena iš dažniausiai pasitaikančių klaidų yra dirbti tiesiai su originaliu failu. Visada pasidarykite kopiją ir dirbkite su ja, kad išvengtumėte originalaus failo sugadinimo. Taip pat, būtinai naudokite sluoksnius, kad galėtumėte lengvai redaguoti skirtingas vaizdo dalis.
+
+**Tarptautinio verslo kultūros įžvalgos:**
+
+Naudojant Photoshop tinklinėje rinkodaroje, svarbu suprasti savo auditoriją. Skirtingose kultūrose spalvų ir vaizdų suvokimas gali skirtis. Pvz., raudona spalva gali būti siejama su aistra ir energija vakaruose, tačiau kai kuriose Azijos šalyse ji gali reikšti sėkmę ir džiaugsmą.
+
+Šis modulis turėtų suteikti jums tvirtą pagrindą pradėti naudoti Adobe Photoshop tinklinėje rinkodaroje ir kituose verslo projektuose. Sekančiuose moduliuose gilinsimės į sudėtingesnes funkcijas ir technikas.

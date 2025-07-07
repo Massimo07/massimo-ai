@@ -1,0 +1,75 @@
+# Tá fáilte romhat chuig an gcúrsa "Adobe Photoshop" (cúrsa: adobe_photoshop, leibhéal 1, modúl 1). Sa mhodúl seo, díreoimid ar bhunghnéithe Adobe Photoshop, atá ríthábhachtach do gach duine atá ag iarraidh a gcuid scileanna sa mhargaíocht líonra agus sa ghnó digiteach a fheabhsú. Ag deireadh an mhodúil seo, beidh tú in ann íomhánna a chur in eagar agus a chruthú a thacóidh le do thionscnaimh ghnó ar líne.
+
+### Teoiric agus Cleachtas
+
+**Teoiric:**
+
+Is uirlis chumhachtach é Adobe Photoshop a úsáidtear go forleathan i ndearadh grafach, grianghrafadóireacht, agus margaíocht dhigiteach. Ceann de na prionsabail bhunúsacha atá le tuiscint ná an coincheap de "shraitheanna" (layers). Is cosúil le leatháin thrédhearcacha iad sraitheanna gur féidir leat a chur i bhfoirm sheicheamhach chun íomhá ilchodach a chruthú. Is féidir leat sraitheanna éagsúla a chur le chéile, a chur in eagar, agus a athrú gan tionchar a bheith acu ar an iomlán.
+
+**Cleachtas:**
+
+- **Oscailt Comhaid:** Nuair a osclaíonn tú Photoshop, téigh go dtí "File" sa bharra roghchláir agus roghnaigh "Open" chun comhad íomhá a roghnú. 
+- **Sraitheanna a Bhainistiú:** Téigh go dtí an painéal sraitheanna de ghnáth suite ar thaobh na láimhe deise den scáileán. Trí cheart-cliceáil ar shraith, is féidir leat roghanna éagsúla a fháil mar chóipeáil, scrios, nó sraitheanna nua a chruthú.
+- **Uirlis Bhunúsach - An Scuab (Brush Tool):** Chun an uirlis scuab a úsáid, brúigh "B" ar do mhéarchlár nó roghnaigh an deilbhín scuab ar an mbarra uirlisí. Trí pharaiméadair mar mhéid agus cruas an scuab a choigeartú, is féidir leat éifeachtaí éagsúla a chruthú ar do shraitheanna.
+
+### Samplaí Fíor-Shaoil
+
+**Margaíocht Líonra agus Live On Plus:**
+
+Sampla 1: Má tá tú ag cruthú ábhar do fheachtas margaíochta líonra, d'fhéadfá íomhá den táirge a úsáid mar an cúlra. Le sraitheanna, is féidir leat téacsanna éagsúla a chur isteach go héasca, mar shampla tairiscintí speisialta nó sonraí teagmhála.
+
+Sampla 2: Chun ábhar a chruthú do Live On Plus, d'fhéadfá íomhánna úsáideoirí sásta a chur ar shraitheanna éagsúla agus iad a chur le chéile chun coláiste de thástálacha a chruthú a thaispeánann an taithí dearfach atá ag daoine eile leis an tseirbhís.
+
+### Cleachtaí agus Tráth na gCeist
+
+**Cleachtadh:** Cruthaigh íomhá simplí ag baint úsáide as trí shraith: cúlra daite, íomhá táirge, agus téacs cur síosach. Sábháil an comhad i bhformáid PSD chun na sraitheanna a choinneáil.
+
+**Tráth na gCeist:**
+
+1. Cad is brí le sraith i Photoshop?
+2. Conas a osclaíonn tú comhad nua i Photoshop?
+3. Cad iad na céimeanna chun uirlis scuab a roghnú?
+
+**Réitigh:**
+
+1. Is éard is sraith ann ná leibhéal trédhearcach i do dhoiciméad ina bhfuil eilimintí singil a d'fhéadfaí a chur in eagar gan tionchar a bheith acu ar shraitheanna eile.
+2. Téigh go "File" > "Open" chun comhad nua a oscailt.
+3. Brúigh "B" nó roghnaigh an deilbhín scuab ar an mbarra uirlisí.
+
+### Comhráite Fíor-Shaoil
+
+**WhatsApp/Telegram:**
+
+- Comhghleacaí: "Tá mé ag obair ar an íomhá don fheachtas nua. An féidir leat a sheiceáil an bhfuil an téacs ar an sraith ceart?"
+- Tú: "Cinnte, seol chugam é. Déan cinnte go bhfuil an téacs ar shraith ar leith ionas gur féidir linn é a bhogadh gan fadhbanna."
+
+**Zoom:**
+
+- Tú: "Anois, féachaimid ar an bpainéal sraitheanna. An bhfeiceann tú an tsraith nua atá cruthaithe againn don táirge?"
+- Mac Léinn: "Sea, feicim é. Cén chaoi a n-athraím an t-ord sraitheanna?"
+- Tú: "Tarraing an tsraith suas nó síos sa phainéal chun a suíomh a athrú."
+
+**Ríomhphost:**
+
+Ábhar: Ceisteanna faoi Sraitheanna i Photoshop
+
+Dia duit [Ainm],
+
+Tá ceisteanna agam faoi shraitheanna i Photoshop. Táim ag iarraidh a chinntiú go bhfuil mé ag úsáid sraitheanna ar an mbealach is fearr le haghaidh mo thionscadal margaíochta. An bhfuil aon acmhainní nó leideanna agat a d'fhéadfadh cabhrú liom?
+
+Go raibh maith agat,
+[Do Ainm]
+
+### Botúin Choitianta agus Conas Iad a Sheachaint
+
+- **Botún:** Sraitheanna a chur le chéile go neamhbheartaithe.
+  **Réiteach:** Bí cúramach agus tú ag roghnú roghanna sraitheanna, agus bí cinnte go sábhálann tú cóip bhunaidh den chomhad.
+
+- **Botún:** Gan ainmneacha a thabhairt do shraitheanna.
+  **Réiteach:** Ainmnigh gach sraith de réir a n-ábhar nó a bhfeidhm, ionas gur féidir iad a aithint go héasca.
+
+### Léargais ar Chultúr Gnó Idirnáisiúnta
+
+Tuigfidh tú go bhfuil úsáid uirlisí cosúil le Photoshop ríthábhachtach i ngnóthaí digiteacha ar fud an domhain. Sa mhargaíocht líonra, tá sé tábhachtach íomhánna a chruthú a fhéadfaidh aird a tharraingt go héifeachtach agus branda a bhunú go domhanda. Tá cultúir ghnó éagsúla ag glacadh le cumhacht na híomhá chun a gcuid scéalta branda a chur in iúl. 
+
+Trí na bunscileanna seo a fhoghlaim, beidh tú níos ullmhaithe le haghaidh rathúlachta i saol an ghnó dhigitigh. Guímid gach rath ort agus tú ag tosú ar do thuras le Adobe Photoshop!

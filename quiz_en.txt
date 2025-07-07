@@ -1,0 +1,13 @@
+Q: What data is required to register for Live On Plus?
+A: Name and surname only
+A: Name, surname, fiscal code, email, phone
+A: Email only
+A: Phone only
+C: 1
+
+Q: What is the maximum discount for a Customer on Shop 1?
+A: 30%
+A: 40%
+A: 50%
+A: 60%
+C: 3

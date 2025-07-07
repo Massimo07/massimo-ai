@@ -1,0 +1,49 @@
+# **Modul 1: Uvod u Canva za Network Marketing**
+
+Dobrodošli na prvi modul našeg kursa o korištenju Canve za network marketing i poslovanje na digitalnim platformama. Cilj ovog modula je da vas upozna s osnovama Canve, alata koji će vam omogućiti da kreirate privlačne vizuale za vašu marketinšku strategiju.
+
+**Teorijski dio: Šta je Canva i zašto je važna za Network Marketing?**
+
+Canva je online alat za grafički dizajn koji omogućava korisnicima da kreiraju visokokvalitetne vizuale bez potrebe za naprednim vještinama dizajna. Posebno je koristan za network marketing jer omogućava korisnicima da brzo i lako kreiraju promotivne materijale, kao što su postovi za društvene mreže, prezentacije, letci, i mnogo više. U network marketingu, vizuali igraju ključnu ulogu u privlačenju pažnje i komunikaciji s potencijalnim klijentima ili partnerima.
+
+**Praktični dio: Prvi koraci u Canvi**
+
+1. **Registracija i Prijava**: Posjetite web stranicu canva.com. Ako već nemate račun, registrirajte se koristeći vašu email adresu. Ako već imate račun, jednostavno se prijavite.
+
+2. **Kreiranje Novog Dizajna**: Nakon prijave, kliknite na dugme "Create a design" (Kreiraj dizajn). Bit će vam ponuđene razne opcije, kao što su Instagram post, Facebook cover, prezentacija, itd. Za početak, odaberite "Instagram post".
+
+3. **Izbor Šablona**: Canva nudi stotine besplatnih šablona koje možete koristiti kao osnovu za vaš dizajn. Pretražite šablone i odaberite onaj koji vam se najviše sviđa.
+
+4. **Prilagođavanje Dizajna**: Kliknite na tekst, slike ili druge elemente na šablonu da ih prilagodite. Možete promijeniti tekst, boje, dodati nove elemente, ili zamijeniti slike. Kliknite na "Uploads" (Prijenosi) da dodate vlastite slike.
+
+5. **Spremanje i Dijeljenje**: Kada ste zadovoljni vašim dizajnom, kliknite na dugme "Download" (Preuzmi) da ga spremite na vaš računar ili podijelite direktno na društvenim mrežama.
+
+**Primjer iz prakse: Kreiranje posta za Live On Plus**
+
+Zamislite da želite kreirati post za promociju "Live On Plus" proizvoda. Odaberite šablon koji ima profesionalni izgled i prilagodite ga tako da sadrži sliku proizvoda, kratki opis njegovih prednosti, i poziv na akciju (npr. "Saznajte više").
+
+**Esercizi i kvizovi sa rješenjima**
+
+- **Vježba 1**: Kreirajte Instagram post koristeći Canva za vaš omiljeni proizvod. Uključite sliku, tekst i poziv na akciju. 
+  **Rješenje**: Pregledajte šablone, odaberite odgovarajući, dodajte sliku proizvoda, napišite zanimljiv opis i poziv na akciju poput "Kupite sada".
+
+- **Kviz pitanje**: Koja je glavna prednost korištenja Canve u network marketingu?
+  **Rješenje**: Omogućava brzo i jednostavno kreiranje vizuala visokog kvaliteta bez potrebe za naprednim vještinama dizajna.
+
+**Dijalozi za komunikaciju**
+
+- **WhatsApp/Telegram**: "Hej [ime], upravo sam završio dizajn u Canvi za naš novi proizvod. Pogledaj ovo [link/screenshot] i reci mi šta misliš!"
+
+- **Email**: "Poštovani [ime], kreirao sam novi promotivni materijal koristeći Canvu. U prilogu se nalazi dizajn. Molim vas da ga pregledate i javite mi vaše mišljenje."
+
+- **Zoom**: "Dobrodošli na naš sastanak. Prije nego što počnemo, želim vam pokazati kako koristiti Canvu za kreiranje privlačnih vizuala. Dijelit ću svoj ekran da vam pokažem proces."
+
+**Uobičajene greške i kako ih izbjeći**
+
+Jedna od najčešćih grešaka je pretrpavanje dizajna informacijama. Uvijek se sjetite da jednostavnost često donosi bolji vizualni efekt. Druga greška je neusklađenost boja i fontova - koristite Canva-ina uputstva za boje i fontove kako biste osigurali profesionalan izgled.
+
+**Kultura poslovanja na međunarodnom nivou**
+
+U međunarodnom poslovanju, vizuali su univerzalni jezik. Prilagodite svoj dizajn kulturnim preferencijama ciljane publike. Na primjer, boje imaju različita značenja u različitim kulturama; crvena može simbolizirati sreću u Kini, ali opasnost u zapadnoj kulturi.
+
+Nadam se da vam je ovaj modul pružio solidne osnove za korištenje Canve u vašem network marketing poslovanju. U sljedećem modulu ćemo istražiti napredne funkcije Canve i kako ih primijeniti za još bolje rezultate.

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Massimo AI – Seleziona lingua</title>
+
+  <!-- Font elegante -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --black: #000000;
+      --blue: #00BFFF;
+      --violet: #8A2BE2;
+      --orange: #FF6F00;
+      --gold: #FFD700;
+      --white: #FFFFFF;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      font-family: 'Montserrat', sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: var(--black);
+      color: var(--white);
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* Effetto venature viola/ramate */
+    body::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      z-index: -1;
+      background:
+        radial-gradient(circle at 10% 50%, rgba(138, 43, 226, 0.2), transparent 50%),
+        radial-gradient(circle at 90% 50%, rgba(255, 111, 0, 0.18), transparent 50%);
+      filter: blur(140px);
+    }
+
+    .logo {
+      width: 300px;
+      max-width: 80vw;
+      margin-bottom: 24px;
+    }
+
+    .welcome {
+      font-size: 1.8rem;
+      font-weight: 600;
+      margin-bottom: 18px;
+      color: var(--gold);
+      text-align: center;
+      text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+    }
+
+    .box {
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 46px 52px;
+      border-radius: 24px;
+      text-align: center;
+      box-shadow: 0 0 50px 10px rgba(0, 191, 255, 0.12);
+      max-width: 520px;
+      width: 90vw;
+    }
+
+    .box h1 {
+      font-size: 1.9rem;
+      font-weight: 600;
+      margin-bottom: 26px;
+    }
+
+    select,
+    button {
+      width: 100%;
+      padding: 15px 18px;
+      font-size: 1rem;
+      border: none;
+      border-radius: 12px;
+      margin: 14px 0 22px;
+    }
+
+    select {
+      background: #0e0e0e;
+      color: var(--white);
+      border: 1px solid rgba(255, 255, 255, 0.25);
+    }
+
+    button {
+      background: var(--orange);
+      color: var(--white);
+      font-weight: 700;
+      cursor: pointer;
+      transition: 0.2s all;
+    }
+
+    button:hover {
+      background: var(--gold);
+      color: var(--black);
+      box-shadow: 0 8px 16px rgba(255, 215, 0, 0.3);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="welcome">WELCOME TO MASSIMO AI</div>
+  <img src="images/massimo_ai_logo.png" alt="Massimo AI Logo" class="logo" />
+
+  <section class="box">
+    <h1>Scegli la tua lingua / Choose your language</h1>
+
+    <select id="languageSelect">
+      <option value="">— Seleziona una lingua —</option>
+    </select>
+
+    <button onclick="submitSelection()">Conferma</button>
+  </section>
+
+  <script>
+    const languages = [
+      { "name": "Italian", "code": "it" },
+      { "name": "English", "code": "en" },
+      { "name": "French", "code": "fr" },
+      { "name": "German", "code": "de" },
+      { "name": "Spanish", "code": "es" },
+      { "name": "Romanian", "code": "ro" },
+      { "name": "Portuguese", "code": "pt" },
+      { "name": "Dutch", "code": "nl" },
+      { "name": "Greek", "code": "el" },
+      { "name": "Arabic", "code": "ar" },
+      { "name": "Chinese", "code": "zh" }
+    ];
+
+    const sel = document.getElementById('languageSelect');
+    languages.forEach(l => {
+      const o = document.createElement('option');
+      o.value = l.code;
+      o.textContent = l.name;
+      sel.appendChild(o);
+    });
+
+    function submitSelection() {
+      const lang = sel.value;
+      if (!lang) {
+        alert('Seleziona una lingua');
+        return;
+      }
+      alert('Lingua selezionata: ' + lang);
+    }
+  </script>
+</body>
+</html>

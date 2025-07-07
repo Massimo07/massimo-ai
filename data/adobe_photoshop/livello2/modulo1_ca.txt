@@ -1,0 +1,59 @@
+### Mòdul 1: Introducció Avançada a Adobe Photoshop pel Network Marketing
+
+Benvinguts al Mòdul 1 del curs Adobe Photoshop, nivell 2. Aquest mòdul està dissenyat per ajudar-vos a comprendre com utilitzar Photoshop no només com una eina de disseny gràfic, sinó també com una eina poderosa en el camp del màrqueting digital i, específicament, en el network marketing i Live On Plus.
+
+#### Teoria i Pràctica
+
+**Teoria:**
+
+Adobe Photoshop és un programa d’edició d’imatges que permet als usuaris crear i modificar imatges digitals. En el context del màrqueting digital, Photoshop és essencial per crear imatges atractives que poden augmentar la visibilitat i l’atractiu de les vostres campanyes de màrqueting. Començant amb els conceptes bàsics de capes, eines de selecció, i ajustos de color, podreu construir una base sòlida per crear materials visuals impactants.
+
+**Pràctica:**
+
+1. **Capes**: Les capes són fonamentals en Photoshop i us permeten treballar en diferents elements d’una imatge de manera independent. Penseu en les capes com fulls de paper transparents apilats. Podeu moure, modificar o eliminar cadascun d’aquests fulls sense afectar els altres. Per crear una nova capa, aneu a "Capa" > "Nova" > "Capa".
+
+2. **Eines de Selecció**: Aquestes eines us permeten seleccionar una part específica d’una imatge per modificar-la. L’eina de selecció ràpida i la vareta màgica són molt útils per a aquesta tasca. Practiqueu seleccionant un logotip d’una imatge i copiant-lo en una altra.
+
+3. **Ajustos de Color**: Les eines d’ajust de color, com ara la saturació i el contrast, us ajudaran a fer que les imatges siguin més vibrants. Aneu a "Imatge" > "Ajustos" per començar a experimentar.
+
+#### Exemples Reals en Network Marketing i Live On Plus
+
+Per exemple, suposem que esteu treballant en una campanya per a un nou producte en Live On Plus. Podeu utilitzar Photoshop per crear un banner atractiu que mostri el producte de manera professional. Utilitzeu les capes per afegir un fons atractiu i col·loqueu el producte en primer pla. Això no només farà que el producte destaqui, sinó que també donarà una aparença més professional a la vostra campanya.
+
+#### Exercicis i Quiz
+
+**Exercici 1:** Creeu una imatge amb tres capes: un fons de color, un text amb el nom de la vostra empresa, i una imatge del producte. Practiqueu ajustant l'opacitat de cada capa.
+
+**Solució:**
+1. Creeu una nova capa de color i ompliu-la amb el color desitjat.
+2. Afegiu una capa de text amb l'eina de text i escriviu el nom de l'empresa.
+3. Importeu la imatge del producte a una nova capa.
+
+**Quiz:**
+1. Quina és la funció principal de les capes en Photoshop?
+   - a) Permeten afegir filtres
+   - b) Permeten treballar amb diferents elements de manera independent
+   - c) Permeten canviar el format de la imatge
+
+**Resposta Correcta:** b) Permeten treballar amb diferents elements de manera independent
+
+#### Diàlegs Reals per a WhatsApp, Telegram, Zoom, Email
+
+**WhatsApp:**
+- Usuari: "Hola, com puc fer que la meva imatge de producte destaqui més?"
+- Professor: "Hola! Pots utilitzar l'eina de capes per afegir un fons atractiu i augmentar la saturació del color del producte per fer-lo més vibrant."
+
+**Email:**
+- Assumpte: Duda sobre el ús de capes en Photoshop
+- Contingut: "Hola, estic intentant crear una imatge promocional i tinc problemes amb les capes. Podries ajudar-me amb alguns consells?"
+- Resposta: "Hola, clar que sí! Recorda que les capes et permeten treballar de manera independent amb cada element. Prova afegint una capa de text per al títol i ajusta l'opacitat perquè es vegi millor sobre el fons."
+
+#### Errors Comuns i Com Evitar-los
+
+Un error comú és no utilitzar capes correctament, cosa que pot portar a desfer-se de canvis de manera innecessària. Sempre assegureu-vos de treballar amb capes separades per a cada element. Un altre error és no guardar el treball en format PSD (que conserva les capes) abans d’exportar-lo com a JPEG o PNG.
+
+#### Aproximació a la Cultura de Negoci Internacional
+
+En el context del màrqueting digital internacional, és important entendre que els gustos visuals poden variar molt d’un país a un altre. Allò que funciona en un mercat local pot no ser tan efectiu en un mercat internacional. Utilitzeu Photoshop per crear diverses versions dels vostres materials visuals i testejar quina ressona millor amb el públic objectiu.
+
+Amb aquests fonaments, esteu ben preparats per començar a explorar les capacitats avançades de Photoshop en el context del màrqueting digital. Aquest mòdul us hauria d’haver proporcionat una base sòlida per experimentar i aplicar el que heu après a projectes reals.

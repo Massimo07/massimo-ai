@@ -1,0 +1,65 @@
+# **Canva Ikastaroa - Maila 1, Modulu 1: Sarrera eta Oinarriak**
+
+**1. Sarrera**
+
+Canva tresna digitala da, eta bereziki erabilgarria network marketing eta negozio digitalen arloan. Argi eta garbi azalduko dizut nola erabili Canva zure marketin estrategiak hobetzeko eta zure negozioan baliabide bisual erakargarriak sortzeko. Modulu honetan, Canvaren oinarriak ikasiko ditugu, eta nola aplikatu Live On Plus bezalako plataformetan.
+
+**2. Canva zer den eta nola funtzionatzen duen**
+
+Canva tresna intuitiboa eta erabilerraza da, eta diseinu grafikoak sortzeko aukera ematen du. Ez duzu diseinu esperientzia handirik behar, tresna honek txantiloiak eta erremintak eskaintzen baititu zure sormena askatzeko. Canvan, irudiak, testuak, eta bestelako elementu grafikoak konbinatu ditzakezu diseinu profesionalak sortzeko.
+
+**3. Praktika: Canvan lehen urratsak**
+
+Hasteko, Canvan kontu bat sortu beharko duzu. Honela egingo dugu:
+- Joan Canva webgunera (www.canva.com).
+- Egin klik "Izena eman" botoian. Aukeratu zure posta elektronikoa edo zure Facebook/Google kontua erabiltzeko.
+- Ondoren, bete zure izena eta sortu pasahitz bat.
+
+Kontua sortu ondoren, Canvaren hasiera orrian aurkituko zara. Bertan, hainbat txantiloi mota ikusiko dituzu, hala nola, sare sozialetarako irudiak, aurkezpenak, eta marketin materialak. Adibidez, network marketing kanpaina bat sortzeko, "Sare Sozialetarako Postak" atala aukeratu dezakezu.
+
+**4. Adibide praktikoa: Live On Plus promozio bat diseinatzea**
+
+Demagun Live On Plus plataforma sustatu nahi duzula. Horrela egingo dugu:
+- Egin klik "Sare Sozialetarako Postak" aukeran.
+- Aukeratu txantiloi bat. Adibidez, "Promozio" izeneko txantiloia.
+- Editatu testua zure marketin mezua sartuz, adibidez: "Ez galdu aukera Live On Plus ezagutzeko!"
+- Gehitu zure marka nortasuna islatzen duten koloreak eta logotipoa.
+
+**5. Esercizioa eta Quiz-a**
+
+**Esercizioa:**
+Sortu Instagramerako post bat Canva erabiliz zure negozioa sustatzeko. Erabili txantiloi bat eta aldatu testua eta irudiak zure beharretara egokitzeko.
+
+**Quiz-a:**
+1. Zer da Canva?
+2. Nola ireki dezakezu Canva kontu bat?
+3. Zein motatako txantiloiak aurki ditzakezu Canvan?
+
+**Soluzioak:**
+1. Canva diseinu tresna digitala da, irudi eta diseinu grafikoak sortzeko.
+2. Canva kontu bat ireki dezakezu posta elektronikoarekin edo Facebook/Google kontuekin.
+3. Canvan sare sozialetarako irudiak, aurkezpenak eta marketin materialak aurki ditzakezu.
+
+**6. Komunikazio ereduak: WhatsApp, Telegram, Zoom eta email**
+
+**WhatsApp adibidea:**
+A: "Kaixo, taldekideak! Gaur Canvan diseinu berria sortu dut gure kanpainarako. Uste dut erakargarria geratu dela. Begiratu eta esan zer iruditzen zaizuen."
+
+**Telegram adibidea:**
+B: "Egun on! Canva erabiliz Live On Plus sustatzeko diseinu batzuk prestatu ditut. Hemen dituzue irudiak. Zuen iritzia jakin nahi nuke!"
+
+**Zoom bilera adibidea:**
+C: "Gaurko bileran, Canvan nola sortu ditudan diseinuak erakutsiko dizkizuet. Pausoz pauso azalduko dut, eta zuen galderak erantzungo ditut."
+
+**Email adibidea:**
+D: "Kaixo [Izena], Canvan sortu dudan diseinu berria atxikita bidaltzen dizut. Mesedez, begiratu eta eman zure iritzia. Eskerrik asko!"
+
+**7. Akats arruntak eta nola saihestu**
+
+Akats arrunt bat da txantiloiak gehiegi betetzea edo kolore paleta inkongruenteak erabiltzea. Saihesteko, erabili kolore paleta koherente bat eta ziurtatu testua irakurgarria dela. Beti gogoratu ikusizko materialek zure markaren mezua eta balioak islatzen dituztela.
+
+**8. Nazioarteko negozio kultura**
+
+Nazioarteko merkatuetan, kultura bisualak anitzak dira. Canva erabiliz, zure diseinuak kulturalki sentikorrak izan daitezen, ikertu zure helburu merkatuaren gustuak eta lehentasunak. Kolore eta irudiak hautatzerakoan, kontuz ibili, desberdintasun kulturalek eragina izan dezaketelako nola interpretatzen diren.
+
+Horrela, zure negozio digitala eta network marketing estrategiak Canvaren bidez indartuko dituzu, modu eraginkor eta erakargarrian. Prest zaude ikasten jarraitzeko?

@@ -1,0 +1,59 @@
+**Modulo 1 - Introduzione ad Adobe Photoshop: Strumenti di Base e Concetti Fondamentali**
+
+**Introduzione**
+
+Adobe Photoshop è uno dei software di editing di immagini più potenti e utilizzati al mondo. In questo primo modulo del corso di livello 1, ci concentreremo sull'acquisizione delle competenze di base necessarie per navigare e utilizzare efficacemente l'interfaccia di Photoshop. Questo modulo è fondamentale per costruire una solida base su cui sviluppare abilità più avanzate nei successivi moduli del corso.
+
+**Strumenti di Base**
+
+1. **Interfaccia Utente**
+   - **Panoramica:** La prima cosa che noterai aprendo Photoshop è la sua interfaccia complessa. È importante familiarizzare con i pannelli principali: il pannello degli strumenti, il pannello delle proprietà e il pannello dei livelli.
+   - **Esercizio Pratico:** Apri un'immagine a tua scelta. Identifica e descrivi verbalmente le diverse sezioni dell'interfaccia. Prova a spostare un pannello e a personalizzare l'area di lavoro.
+
+2. **Strumenti di Selezione**
+   - **Strumenti Principali:** Rettangolare, Ellittico, Lazo, Bacchetta Magica. Questi strumenti consentono di selezionare specifiche aree di un'immagine per modificarle.
+   - **Esempio Pratico:** Utilizza lo strumento Lazo per selezionare un oggetto in un'immagine, quindi copia e incolla l'oggetto in un nuovo livello.
+
+3. **Livelli**
+   - **Concetto di Livelli:** I livelli sono come fogli trasparenti sovrapposti. Ogni immagine o parte di immagine può trovarsi su un livello separato.
+   - **Esercizio Pratico:** Crea un nuovo documento e aggiungi almeno tre livelli. Prova a spostare, nascondere e modificare l'ordine dei livelli per vedere come cambia l'immagine complessiva.
+
+**Esempi Pratici**
+
+- **Correzione del Colore:** Apri un'immagine e utilizza lo strumento di regolazione dei livelli per migliorare il contrasto e la luminosità. Prova anche a usare lo strumento "Bilanciamento colore" per vedere come cambiano i toni.
+- **Ritocco di Base:** Usa lo strumento Timbro Clone per rimuovere imperfezioni o oggetti indesiderati da una foto.
+
+**Quiz**
+
+1. Quale strumento useresti per selezionare rapidamente un cielo blu in una foto?
+   - A) Strumento Rettangolare
+   - B) Bacchetta Magica
+   - C) Strumento Lazo
+
+2. Cosa rappresentano i livelli in Photoshop?
+   - A) Sezioni di un'immagine che possono essere modificate indipendentemente
+   - B) Una serie di filtri applicati globalmente
+   - C) Un'unica immagine piatta senza possibilità di modifica
+
+**Glossario Specifico**
+
+- **Interfaccia Utente:** L'insieme di strumenti e pannelli con cui interagisci in Photoshop.
+- **Livello:** Un elemento separato di un documento di Photoshop, che può contenere immagini, testo o effetti.
+- **Strumento Timbro Clone:** Uno strumento utilizzato per duplicare parti di un'immagine.
+
+**Checklist**
+
+- [ ] Comprendere l'interfaccia di Photoshop
+- [ ] Utilizzare strumenti di selezione di base
+- [ ] Manipolare i livelli
+- [ ] Applicare correzioni di colore
+
+**Box Motivazione**
+
+Ricorda che padroneggiare gli strumenti di base di Photoshop ti aprirà infinite possibilità creative. Ogni progetto che completi, per quanto piccolo, è un passo verso la padronanza del software. Ogni errore è un'opportunità di apprendimento.
+
+**Caso Studio Reale**
+
+Consideriamo un progetto di un fotografo professionista che ha bisogno di preparare immagini per una rivista. Utilizzando gli strumenti di selezione e i livelli, il fotografo può isolare i soggetti principali e applicare correzioni di colore per garantire che le immagini siano perfette per la stampa. Questo processo dimostra l'importanza di una solida comprensione dei concetti di base per ottenere risultati di alta qualità.
+
+Concludendo, questo modulo ha fornito una panoramica completa degli strumenti e dei concetti fondamentali di Adobe Photoshop. Acquisire padronanza su questi aspetti ti permetterà di affrontare con sicurezza le sfide creative nei moduli successivi.

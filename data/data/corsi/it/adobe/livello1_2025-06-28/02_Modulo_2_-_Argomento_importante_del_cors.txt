@@ -1,0 +1,46 @@
+**Modulo 2 - Argomento Importante del Corso Adobe: Introduzione ad Adobe Photoshop**
+
+**Introduzione:**
+Adobe Photoshop è uno dei software di editing grafico più potenti e utilizzati al mondo. Questo modulo mira a fornire una comprensione approfondita delle funzionalità di base di Photoshop, permettendo agli studenti di creare e modificare immagini con competenza. Affronteremo strumenti essenziali, tecniche di base e alcune delle migliori pratiche per lavorare in modo efficiente con questo software.
+
+**1. Panoramica di Adobe Photoshop:**
+Adobe Photoshop è un software di grafica raster sviluppato da Adobe Inc. Utilizzato principalmente per l'editing di immagini e la grafica digitale, Photoshop offre una vasta gamma di strumenti per manipolare fotografie e creare opere d'arte digitali. La sua interfaccia è costituita da un'area di lavoro dove si possono trovare pannelli, strumenti e menu che permettono di accedere a tutte le funzionalità del programma.
+
+**2. Strumenti di Base:**
+- **Strumento Selezione:** Consente di selezionare parti specifiche di un'immagine per modificarle senza alterare il resto. Gli strumenti di selezione includono il Lazo, il Rettangolo e la Bacchetta Magica.
+- **Pennello e Gomma:** Permettono di dipingere e cancellare parti dell'immagine. La dimensione e l’opacità possono essere regolate per adattarsi alle esigenze specifiche.
+- **Livelli:** Un concetto fondamentale in Photoshop, i livelli permettono di lavorare su parti diverse di un'immagine senza compromettere l'intero progetto. Ogni elemento può essere modificato singolarmente.
+  
+**3. Tecniche di Base:**
+- **Ritocco Fotografico:** Utilizzo dello strumento Timbro Clone per correggere imperfezioni nelle immagini, come macchie o oggetti indesiderati.
+- **Correzione del Colore:** Regolazione del bilanciamento del bianco, contrasto e saturazione per migliorare la qualità visiva delle immagini.
+- **Uso delle Maschere:** Le maschere permettono di nascondere o mostrare parti di un livello. Sono essenziali per creare composizioni complesse e rifinite.
+
+**Esempi Pratici:**
+- **Esercizio 1:** Aprire un'immagine e utilizzare lo strumento Selezione Rapida per isolare un soggetto dal suo sfondo.
+- **Esercizio 2:** Applicare una correzione del colore a un'immagine sbiadita utilizzando il pannello Regolazioni.
+
+**Quiz:**
+1. Qual è la funzione principale dello strumento Lazo?
+2. Come si può regolare l'opacità di un pennello in Photoshop?
+3. Spiega la differenza tra livelli e maschere.
+
+**Glossario Specifico:**
+- **Raster:** Tipo di grafica basato su pixel, utilizzata principalmente per fotografie.
+- **Livello:** Strato individuale in un file di Photoshop su cui si possono apportare modifiche.
+- **Maschera:** Strumento che permette di nascondere o rivelare parti di un livello senza eliminarle.
+
+**Checklist:**
+- [ ] Comprendere l'interfaccia di Photoshop
+- [ ] Saper utilizzare gli strumenti di selezione
+- [ ] Essere in grado di ritoccare un'immagine
+- [ ] Applicare correzioni di colore di base
+- [ ] Utilizzare livelli e maschere efficacemente
+
+**Box Motivazione:**
+"Photoshop è come una tela digitale infinita. Ogni strumento è un pennello con cui puoi esprimere la tua creatività senza limiti. Imparare a padroneggiarlo significa avere il potere di trasformare la tua visione in realtà."
+
+**Caso Studio Reale:**
+Un fotografo professionista, Luca, utilizza Photoshop per migliorare le sue foto di paesaggi. Scatta in formato RAW per mantenere la massima qualità e utilizza Photoshop per correggere l'esposizione e il bilanciamento del colore. Usando le maschere, Luca può migliorare il cielo senza alterare il paesaggio sottostante, ottenendo immagini che rispecchiano esattamente la sua visione artistica.
+
+In sintesi, questo modulo fornisce le competenze necessarie per muovere i primi passi in Adobe Photoshop. Con la pratica e la dedizione, gli studenti saranno in grado di creare e modificare immagini con crescente abilità e creatività.

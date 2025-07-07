@@ -1,0 +1,13 @@
+# Kurz profesionálního síťového marketingu pro Live On Plus, zaměřený na růst sítě, náboru, prodej, duplicita, vedení, mezinárodní správu týmů a obchodní školení.
+
+
+[Úroveň 3 / Modul 3 / Jazyk: Čech]
+
+Didaktické cíle: úplné prohloubení - podrobné vysvětlení, gramatika (v případě potřeby), skutečný pracovní postup pro síťový marketing.
+
+Teorie, praxe, skutečné dialogy, praktická cvičení, kvíz ověření, běžné chyby, osvědčené postupy, slovní zásoba a mezinárodní kultura.
+
+
+(Rozšířený obsah, který má být zde generován prostřednictvím AI nebo ručně. Každý modul musí být úplný, profesionální a vysvětlil, jak v reálném univerzitním kurzu, přizpůsobeném živému / mezinárodnímu podnikání v oblasti síťového marketingu.)
+
+---

@@ -1,0 +1,13 @@
+# Professional network marketing course for Live On Plus, focused on the growth of the network, recruiting, sale, duplication, leadership, international team management and business training.
+
+
+[Level 1 / Module 2 / Language: English]
+
+Didactic objectives: total deepening - detailed explanation, grammar (if needed), real workflow for network marketing.
+
+Theory, practice, real dialogues, practical exercises, verification quiz, common errors, best practices, vocabulary and international culture.
+
+
+(Extended content to be generated here via Ai or by hand. Each module must be complete, professional and explained how in a real university course, adapted to the Live On Plus / International Network Marketing Business.)
+
+---

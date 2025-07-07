@@ -1,0 +1,55 @@
+**Modulo Didattico: Excel Livello 2, Modulo 1**
+
+Benvenuti al corso "Excel Livello 2"! In questo modulo, approfondiremo l'uso di Excel, uno strumento indispensabile per chi lavora nel network marketing e nel business digitale. La nostra attenzione si concentrerà sull'applicazione pratica di Excel nel contesto del network marketing e sulla piattaforma Live On Plus.
+
+**Teoria e Pratica:**
+
+Excel è un software di fogli di calcolo sviluppato da Microsoft, ampiamente utilizzato per eseguire calcoli, creare grafici e organizzare dati. Nel network marketing, Excel può essere utilizzato per monitorare le vendite, gestire contatti e pianificare strategie di marketing. Un aspetto fondamentale da comprendere è l'uso delle funzioni e delle formule di Excel, che consentono di automatizzare calcoli complessi e analizzare i dati in modo efficiente.
+
+Per iniziare, aprite Excel e create un nuovo foglio di lavoro. Familiarizzate con l'interfaccia: la barra multifunzione in alto, le celle organizzate in righe e colonne, e la barra della formula. Impareremo a usare funzioni come SOMMA, MEDIA, SE e CERCA.VERT, che sono essenziali per l'analisi dei dati.
+
+**Esempi Realistici nel Network Marketing:**
+
+Immaginate di gestire un team di venditori su Live On Plus. Volete monitorare le loro prestazioni mensili. Create una tabella con le seguenti colonne: Nome, Vendite Gennaio, Vendite Febbraio, Vendite Marzo. Inserite i dati corrispondenti per ogni venditore.
+
+Ora, utilizziamo la funzione SOMMA per calcolare il totale delle vendite per ogni venditore. Posizionatevi nella cella accanto alla colonna "Vendite Marzo" e digitate =SOMMA(B2:D2). Premete Invio. Trascinate l'angolo inferiore destro della cella per applicare la formula a tutte le righe.
+
+Per calcolare la media delle vendite, usate la funzione MEDIA. Posizionatevi nella cella accanto alla colonna "Totale Vendite" e digitate =MEDIA(B2:D2). Premete Invio e trascinate la formula come fatto in precedenza.
+
+**Esercizi e Quiz:**
+
+1. Create una tabella con i seguenti dati: Nome del prodotto, Prezzo unitario, Quantità venduta. Calcolate il ricavo totale per ogni prodotto usando la formula =Prezzo unitario * Quantità venduta.
+
+2. Utilizzate CERCA.VERT per trovare il prezzo di un prodotto specifico in una lista. Create un elenco di prodotti e prezzi, quindi usate CERCA.VERT per ottenere il prezzo di un prodotto inserendo il suo nome.
+
+**Soluzioni:**
+
+1. Per calcolare il ricavo totale, inserite la formula =B2*C2 nella colonna "Ricavo Totale". Trascinate la formula lungo la colonna.
+
+2. Per usare CERCA.VERT, se la vostra tabella è in A1:B5, e volete trovare il prezzo del prodotto in E2, usate =CERCA.VERT(E2, A1:B5, 2, FALSO).
+
+**Dialoghi Reali:**
+
+*WhatsApp:*
+- Utente: "Ciao, come posso usare Excel per monitorare le vendite del mio team?"
+- Risposta: "Ciao! Puoi creare un foglio di calcolo con i nomi dei membri del team e le loro vendite mensili. Usa la funzione SOMMA per ottenere il totale delle vendite per ciascuno e MEDIA per la media."
+
+*Telegram:*
+- Utente: "Non riesco a capire come funziona CERCA.VERT."
+- Risposta: "Assicurati che il nome del prodotto che cerchi corrisponda esattamente a uno nella tua tabella. CERCA.VERT richiede una colonna di riferimento e il numero della colonna da cui estrarre il valore."
+
+*Zoom:*
+- Utente: "Puoi mostrarmi come usare le tabelle pivot per analizzare i dati?"
+- Risposta: "Certo! Condividiamo lo schermo e ti mostro come inserire una tabella pivot per vedere il totale delle vendite per ciascun venditore."
+
+**Errori Comuni e Come Evitarli:**
+
+Un errore comune è non chiudere correttamente le parentesi nelle formule, causando errori di sintassi. Controllate sempre che ogni parentesi aperta sia chiusa. Inoltre, attenzione a non confondere i riferimenti di cella. Usate riferimenti assoluti ($) quando necessario per evitare errori durante il trascinamento delle formule.
+
+**Approfondimenti di Cultura Business Internazionale:**
+
+Nel contesto internazionale, Excel è uno standard per l'analisi dei dati. È importante sapere che le impostazioni regionali possono influenzare il formato dei numeri e delle date. Nei paesi di lingua inglese, ad esempio, il separatore decimale è un punto, mentre in Italia è una virgola. Assicuratevi di verificare queste impostazioni quando collaborate con team internazionali.
+
+**Conclusione:**
+
+In questo modulo abbiamo esplorato le funzioni di base di Excel e la loro applicazione nel network marketing. Praticate questi esercizi e dialoghi per migliorare le vostre competenze. Excel è uno strumento potente che, se usato correttamente, può trasformare il modo in cui gestite il vostro business digitale. Continuate a sperimentare e a esplorare le infinite possibilità che offre!

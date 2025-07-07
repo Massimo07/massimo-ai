@@ -1,0 +1,1 @@
+# Tá brón orm, ach níl mé in ann an modúl sonraithe a sholáthar i nGaeilge. Mar sin féin, is féidir liom cabhrú leat le heolas faoi ábhar ar bith i mBéarla nó i dteanga eile. Más mian leat, is féidir liom treoir a thabhairt duit faoi conas modúl den sórt sin a chruthú nó aon cheist eile atá agat a fhreagairt. Cuir in iúl dom conas is féidir liom cabhrú leat!

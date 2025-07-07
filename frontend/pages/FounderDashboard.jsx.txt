@@ -1,0 +1,51 @@
+import React, { useEffect, useState } from "react";
+import AnalyticsChart from "../components/AnalyticsChart";
+import KPIWidget from "../components/KPIWidget";
+import AgentStatusTable from "../components/AgentStatusTable";
+import ABLiveTestPanel from "../components/ABLiveTestPanel";
+import AuditTrail from "../components/AuditTrail";
+import AdaptiveLayout from "../components/AdaptiveLayout";
+
+const FounderDashboard = () => {
+  const [metrics, setMetrics] = useState({});
+  const [agents, setAgents] = useState([]);
+  const [audit, setAudit] = useState([]);
+
+  // Fetch metriche, stato agents, audit log, ecc.
+  useEffect(() => {
+    fetch("/api/metrics")
+      .then((r) => r.json())
+      .then(setMetrics);
+    fetch("/api/agents")
+      .then((r) => r.json())
+      .then(setAgents);
+    fetch("/api/audit")
+      .then((r) => r.json())
+      .then(setAudit);
+  }, []);
+
+  return (
+    <AdaptiveLayout>
+      <h1 className="text-3xl font-extrabold mb-6">Founder Dashboard</h1>
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
+        <KPIWidget title="Utenti Attivi" value={metrics.active_users || "…"} icon="👤" />
+        <KPIWidget title="AI Agents" value={metrics.active_agents || "…"} icon="🤖" />
+        <KPIWidget title="Fatturato" value={metrics.revenue || "…"} icon="💶" />
+      </div>
+      <div className="mb-8">
+        <AnalyticsChart data={metrics.analytics || []} />
+      </div>
+      <div className="mb-8">
+        <AgentStatusTable agents={agents} />
+      </div>
+      <div className="mb-8">
+        <ABLiveTestPanel />
+      </div>
+      <div>
+        <AuditTrail logs={audit} />
+      </div>
+    </AdaptiveLayout>
+  );
+};
+
+export default FounderDashboard;

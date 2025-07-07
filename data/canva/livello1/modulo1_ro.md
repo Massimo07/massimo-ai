@@ -1,0 +1,64 @@
+# Modul Didactic: Introducere în Canva pentru Network Marketing
+
+**Introducere în Canva: Teorie și Practică**
+
+Canva este un instrument de design grafic online, accesibil și intuitiv, ideal pentru crearea de materiale vizuale atrăgătoare. În contextul network marketing și al platformei Live On Plus, Canva poate fi utilizat pentru a crea prezentări, postări pe rețelele sociale, materiale promoționale și multe altele. Acest modul se va concentra pe înțelegerea funcțiilor de bază ale Canva, astfel încât să poți începe să creezi conținut eficient pentru afacerea ta.
+
+**Pasul 1: Crearea unui cont Canva**
+
+Primul pas pentru a utiliza Canva este să îți creezi un cont. Accesează site-ul Canva și dă click pe "Sign up". Ai opțiunea de a te înregistra folosind adresa de email, contul de Google sau Facebook. Alege opțiunea care îți este mai convenabilă și completează informațiile necesare.
+
+**Pasul 2: Explorarea interfeței Canva**
+
+Odată ce ai accesat Canva, vei observa o interfață simplă și prietenoasă. În partea de sus, ai bara de căutare unde poți introduce tipul de design pe care dorești să-l creezi, cum ar fi "postare Instagram" sau "prezentare". În partea laterală, vei vedea diverse categorii de proiecte și șabloane pe care le poți folosi.
+
+**Pasul 3: Crearea primului design**
+
+Să presupunem că dorești să creezi o postare pentru Instagram pentru a promova un nou produs Live On Plus. Începe prin a selecta "Instagram Post" din șabloanele disponibile. Canva îți va oferi o varietate de șabloane predefinite. Alege unul care se potrivește cu stilul tău și cu mesajul pe care vrei să-l transmiți.
+
+**Pasul 4: Personalizarea designului**
+
+Acum că ai ales un șablon, este momentul să-l personalizezi. Poți schimba textul făcând click pe caseta de text existentă și tastând mesajul tău. De exemplu, înlocuiește textul generat de Canva cu "Descoperă noul nostru produs revoluționar!".
+
+Pentru a adăuga imagini, poți încărca propriile fotografii sau alege din biblioteca vastă de imagini oferită de Canva. Asigură-te că imaginile sunt relevante pentru produsul tău și că sunt de înaltă calitate.
+
+**Exemplu practic pentru Network Marketing**
+
+Imaginează-ți că dorești să promovezi un webinar despre produsele Live On Plus. Creează un afiș care să includă data, ora și un link de înscriere. Utilizează culori care reflectă brandul și asigură-te că textul este clar și lizibil.
+
+**Esercizii și Quiz**
+
+1. Creează o postare de Instagram folosind un șablon Canva. Schimbă textul și imaginea pentru a promova un produs specific Live On Plus.
+
+2. Realizează un afiș pentru un eveniment online, asigurându-te că include toate informațiile necesare.
+
+**Quiz:**
+
+Q1: Ce funcție din Canva îți permite să adaugi imagini în designul tău?
+- a) Bara de căutare
+- b) Biblioteca de imagini
+- c) Caseta de text
+
+Răspuns: b) Biblioteca de imagini
+
+**Dialoguri reale pentru comunicare**
+
+*WhatsApp:*
+
+- Persoană A: Salut! Ai reușit să termini designul pentru postarea de Instagram?
+- Persoană B: Da, am folosit Canva și sunt foarte mulțumit de rezultat. Arată foarte profesionist!
+
+*Email:*
+
+- Subiect: Prezentare Canva finalizată
+- Mesaj: Bună, echipă! Am finalizat prezentarea pentru webinarul de săptămâna viitoare folosind Canva. Vă rog să verificați și să-mi dați feedback.
+
+**Erori comune și cum să le eviți**
+
+Unul dintre cele mai frecvente greșeli este utilizarea prea multor fonturi diferite într-un singur design. Acest lucru poate face ca materialul să pară dezordonat. Limitează-te la 1-2 fonturi complementare pentru a menține coerența vizuală.
+
+**Cultură business internațională**
+
+Înțelegerea culturilor de afaceri internaționale este esențială atunci când creezi materiale de marketing. Diferite piețe pot avea preferințe de design diferite. De exemplu, în unele culturi, culorile vibrante sunt apreciate, în timp ce în altele, un design minimalist este preferat. Asigură-te că îți adaptezi designurile în funcție de audiența țintă.
+
+Acest modul a oferit o introducere detaliată în Canva, axată pe aplicabilitatea sa în network marketing și Live On Plus. Practicând și experimentând cu diferite funcții, vei putea crea materiale vizuale care să atragă și să informeze eficient audiența ta.

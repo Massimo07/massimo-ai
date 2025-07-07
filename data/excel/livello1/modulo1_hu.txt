@@ -1,0 +1,67 @@
+**Modul 1: Excel Alapjai - Bevezetés a Digitális Üzletbe**
+
+**Bevezetés**
+
+Üdvözöljük az Excel alapjait bemutató modulban! Ebben a részben lépésről lépésre bemutatjuk az Excel használatának alapvető fogalmait és gyakorlati alkalmazásait, különös tekintettel a hálózati marketingre és a Live On Plus platformra. Célunk, hogy Ön magabiztosan tudja kezelni az Excel táblázatkezelőt, amely elengedhetetlen eszköz a digitális üzleti világban.
+
+**Teória és Gyakorlat: Az Excel Alapjai**
+
+Az Excel egy táblázatkezelő program, amelyet adatok tárolására, rendezésére és elemzésére használnak. Alapvető részei a munkafüzetek, amelyek munkalapokból állnak. Minden munkalap cellákból áll, amelyeket sorok és oszlopok alkotnak.
+
+**Gyakorlat: Munkafüzet létrehozása**
+
+1. Nyissa meg az Excel programot.
+2. Válassza az „Üres munkafüzet” lehetőséget az új dokumentum létrehozásához.
+3. A képernyőn megjelenik egy rács, amely sorokból (számokkal jelölve) és oszlopokból (betűkkel jelölve) áll. Minden metszéspont egy cella.
+
+**Példa a Hálózati Marketingben: Ügyféladatbázis létrehozása**
+
+Képzelje el, hogy egy hálózati marketing cég számára dolgozik, és létre kell hoznia egy ügyféladatbázist. Ez az adatbázis segít nyomon követni az ügyfelek adatait, vásárlási előzményeit és a kapcsolatfelvételi információkat.
+
+1. A munkalap első sorába írja be a következő oszlopfejléceket: „Név”, „Email”, „Telefonszám”, „Vásárlási Előzmények”.
+2. Töltsön ki néhány fiktív adatot az alábbi módon:
+   - A2 cella: „Kovács Anna”
+   - B2 cella: „anna.kovacs@email.com”
+   - C2 cella: „+36123456789”
+   - D2 cella: „2023-01-15: 50€, 2023-02-03: 30€”
+
+**E-mail Kommunikáció Minta:**
+
+**Tárgy:** Ügyféladatbázis frissítése
+
+**Kedves Csapat,**
+
+Kérlek, frissítsétek az ügyféladatbázist az Excelben a legfrissebb vásárlási adatokkal. Az új Excel fájl a csatolmányban található. Kérdés esetén állok rendelkezésetekre.
+
+Üdvözlettel,
+[Jelentkező neve]
+
+**Gyakori Hibák és Hogyan Kerüljük El Őket**
+
+1. **Elgépelés a cellákban:** Mindig ellenőrizze kétszer az adatok bevitelét, hogy elkerülje az elírásokat.
+2. **Formázási hibák:** Győződjön meg róla, hogy a számokat megfelelő formátumban írja be (pl. dátumok, pénznemek).
+3. **Adatvesztés:** Mindig mentse a munkáját rendszeresen, és készítsen biztonsági másolatot a fájlokról.
+
+**Nemzetközi Üzleti Kultúra Megértése**
+
+Az Excel univerzális eszköz, amelyet világszerte használnak. Fontos, hogy megértse az üzleti kultúrákat, amikor különböző országokban dolgozik. Például:
+
+- **Időzónák kezelése:** Amikor nemzetközi partnerekkel dolgozik, vegye figyelembe az időzónákat az Excel naptárában.
+- **Nyelvi különbségek:** Ha többnyelvű csapattal dolgozik, fontolja meg az Excel többnyelvű használatát, hogy mindenki számára érthető legyen.
+
+**Gyakorlat: Egyszerű Képletek Használata**
+
+Az Excel egyik legnagyobb előnye a képletek használata. Kezdjük egy egyszerű összesítéssel.
+
+1. Írjon be néhány számot az A oszlopba, például: A1 – 10, A2 – 20, A3 – 30.
+2. Az A4 cellába írja be: `=SZUM(A1:A3)`, majd nyomja meg az Entert. Az Excel automatikusan kiszámítja a megadott tartomány összegét, ami 60 lesz.
+
+**Quiz és Megoldások:**
+
+**Kérdés:** Mi a különbség a munkafüzet és a munkalap között az Excelben?
+
+**Válasz:** A munkafüzet egy teljes Excel fájl, amely több munkalapot tartalmazhat. A munkalap pedig egy egyedi oldal a munkafüzeten belül, ahol az adatok tárolásra kerülnek.
+
+**Összefoglalás**
+
+Ebben a modulban megismerkedtünk az Excel alapjaival, a munkafüzetek és munkalapok létrehozásával, valamint az adatok bevitelének alapvető lépéseivel. Gyakoroltuk egy egyszerű ügyféladatbázis létrehozását, amely alapvető az üzleti elemzésekhez, és megvizsgáltuk a nemzetközi üzleti kultúra néhány fontos aspektusát. A következő modulban tovább mélyítjük tudásunkat az Excel haladó funkcióival kapcsolatban.

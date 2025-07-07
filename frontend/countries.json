@@ -1,0 +1,52 @@
+[
+  {
+    "code": "IT",
+    "name": "Italia",
+    "flag": "\ud83c\uddee\ud83c\uddf9"
+  },
+  {
+    "code": "ES",
+    "name": "Spagna",
+    "flag": "\ud83c\uddea\ud83c\uddf8"
+  },
+  {
+    "code": "FR",
+    "name": "Francia",
+    "flag": "\ud83c\uddeb\ud83c\uddf7"
+  },
+  {
+    "code": "DE",
+    "name": "Germania",
+    "flag": "\ud83c\udde9\ud83c\uddea"
+  },
+  {
+    "code": "PT",
+    "name": "Portogallo",
+    "flag": "\ud83c\uddf5\ud83c\uddf9"
+  },
+  {
+    "code": "US",
+    "name": "Stati Uniti",
+    "flag": "\ud83c\uddfa\ud83c\uddf8"
+  },
+  {
+    "code": "GB",
+    "name": "Regno Unito",
+    "flag": "\ud83c\uddec\ud83c\udde7"
+  },
+  {
+    "code": "BR",
+    "name": "Brasile",
+    "flag": "\ud83c\udde7\ud83c\uddf7"
+  },
+  {
+    "code": "CN",
+    "name": "Cina",
+    "flag": "\ud83c\udde8\ud83c\uddf3"
+  },
+  {
+    "code": "JP",
+    "name": "Giappone",
+    "flag": "\ud83c\uddef\ud83c\uddf5"
+  }
+]

@@ -1,0 +1,85 @@
+# **Modulu Didaktikoa: Office eta Network Marketing**
+
+**Sarrera**
+
+Ongi etorri "Office" ikastaroko bigarren mailako lehenengo modulura. Modulu honetan, Office tresnen erabilera eta aplikazioa aztertuko dugu, network marketingaren eta Live On Plus bezalako plataformen testuinguruan. Helburua da tresna hauek nola erabili ikastea zure negozio digitala kudeatzeko eta sareko marketin estrategiak optimizatzeko.
+
+**Teoria eta Praktika**
+
+Office tresnak, hala nola Word, Excel eta PowerPoint, ezinbestekoak dira dokumentuak sortzeko, datuak kudeatzeko eta aurkezpen profesionalak egiteko. Modulu honetan, tresna hauek nola erabili ikasiko dugu, zure negozio digitala eraginkortasunez kudeatzeko.
+
+**Microsoft Word:**
+
+1. **Dokumentuak sortu eta editatu:**
+   - Ireki Word eta sortu dokumentu berria. Hasieran, sareko marketinari buruzko txosten bat idazten ari zarela pentsa dezakezu.
+   - Erabili estiloak eta formatuak zure dokumentua profesionala izan dadin. Adibidez, izenburuak letra lodiaz eta gorputz testua letra arruntez.
+
+2. **Txantiloiak erabiliz:**
+   - Word-ek txantiloi aukerak eskaintzen ditu. Adibidez, Live On Plus-eko aurkezpen bat prestatzeko, aurrez definitutako diseinu bat erabil dezakezu.
+
+**Microsoft Excel:**
+
+1. **Datuen kudeaketa:**
+   - Excel erabil dezakezu zure sareko marketinaren KPIak (Key Performance Indicators) jarraitzeko. Sortu taula bat zure bezeroen kontaktu informazioa, salmentak eta konbertsio tasak erregistratzeko.
+   - Erabili formulak datuak automatikoki kalkulatzeko. Adibidez, =SUM(B2:B10) formula erabil dezakezu salmenten batura kalkulatzeko.
+
+2. **Grafikoak sortu:**
+   - Zure datuak bisualizatzeko, grafikoak sor ditzakezu. Salmenten bilakaera erakusteko, zutabe-grafiko bat izan liteke aproposa.
+
+**Microsoft PowerPoint:**
+
+1. **Aurkezpenak sortu:**
+   - PowerPoint aurkezpenak erabil ditzakezu zure produktuak edo negozio aukerak aurkezteko. Sortu diapositiba bakoitzean gai zehatz bat azalduz.
+   - Erabili irudi eta grafikoak zure mezua indartzeko.
+
+2. **Diseinu koherentea mantendu:**
+   - Diapositiba guztietan diseinu koherentea mantentzea garrantzitsua da. Erabili kolore paleta bat eta letra tipo koherente bat.
+
+**Eredu Errealak Network Marketingerako**
+
+Adibidez, zure taldekideei astero emailez bidaltzen dizkiegun txostenak Word-en sortu ditzakezu. Excel erabil dezakezu zure sareko marketinaren errendimendua kontrolatzeko, eta PowerPoint erabil dezakezu zure taldearekin Zoom bidez aurkezpenak egiteko.
+
+**Eserbiziak eta Galderak**
+
+1. **Eserbizioa:**
+   - Sortu Word dokumentu bat zure sareko marketin helburuak deskribatuz. Erabili gutxienez hiru estilo ezberdin.
+
+2. **Galdera:**
+   - Nola erabiliko zenuke Excel zure marketin estrategiaren arrakasta neurtzeko?
+
+**Soluzioak:**
+- Word dokumentuaren kasuan, izenburuak, azpi-izenburuak eta gorputz testua nabarmentzea gomendatzen da estiloekin.
+- Excel-en, KPIak kontrolatzeko taulak eta grafikoak erabil ditzakezu.
+
+**Elkarrizketa Ereduak**
+
+**WhatsApp/Telegram:**
+
+- **Zure Taldearekin:**
+  - "Kaixo [Izena], gaurko bilera 15:00etan Zoom bidez egingo dugu. Aurkezpena prestatu dut, eta PowerPoint erabiliko dut gure helburuak azaltzeko."
+
+**Zoom:**
+
+- **Bilera Hasi Aurretik:**
+  - "Kaixo guztioi, bilera hasi aurretik, mesedez, prestatu zure PowerPoint aurkezpena partekatzeko."
+
+**Emaila:**
+
+- **Bezeroei Bidaltzeko:**
+  - "Kaixo [Bezeroaren Izena], atxikita aurkituko duzu zuretzako prestatu dudan txostena. Word dokumentu honetan, gure azken promozioen xehetasun guztiak aurkituko dituzu."
+
+**Errore Ohikoenak eta Nola Saihestu**
+
+1. **Formatu gabeziak Word-en:**
+   - Dokumentuak formatu gabe aurkeztea profesionaltasun falta erakusten du. Erabili beti estiloak eta diseinu koherentea.
+
+2. **Datuak gaizki kalkulatzea Excel-en:**
+   - Formula okerrak erabiltzea datu okerrak ematen ditu. Ziurtatu formulak behar bezala aplikatzen dituzula.
+
+**Nazioarteko Business Kulturaren Sakontzea**
+
+Munduko merkatuetan arrakasta izateko, kultura desberdinen ulermena garrantzitsua da. Adibidez, herrialde bakoitzak bere komunikazio estiloa du, eta hori aintzat hartu behar duzu zure marketin estrategiak garatzerakoan.
+
+**Ondorioa**
+
+Modulu honetan Office tresnak nola erabili ikasi dugu, sareko marketinaren ingurunean. Word, Excel eta PowerPoint tresnak ezinbestekoak dira zure negozio digitala eraginkortasunez kudeatzeko. Praktikatu eta aplikatu ikasitakoa zure eguneroko lanean, eta ikusiko duzu nola hobetzen den zure produktibitatea eta eragina.

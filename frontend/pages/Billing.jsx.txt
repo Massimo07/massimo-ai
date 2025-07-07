@@ -1,0 +1,54 @@
+import React, { useEffect, useState } from "react";
+import AdaptiveLayout from "../components/AdaptiveLayout";
+
+const Billing = ({ userId }) => {
+  const [subs, setSubs] = useState([]);
+  const [plans, setPlans] = useState([]);
+  const [selected, setSelected] = useState("");
+
+  useEffect(() => {
+    fetch(`/api/subscriptions?user_id=${userId}`).then(r => r.json()).then(setSubs);
+    fetch("/api/plans").then(r => r.json()).then(setPlans);
+  }, [userId]);
+
+  const startSub = async () => {
+    await fetch("/api/subscriptions/start", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ user_id: userId, plan_id: selected }),
+    });
+    window.location.reload();
+  };
+
+  return (
+    <AdaptiveLayout>
+      <h1 className="text-2xl text-gold mb-6">Abbonamenti & Pagamenti</h1>
+      <div className="mb-4">
+        <h2 className="text-lg text-cyan-400">Piani disponibili</h2>
+        <select value={selected} onChange={e => setSelected(e.target.value)}>
+          <option value="">Scegli piano…</option>
+          {plans.map(p => (
+            <option value={p.id} key={p.id}>
+              {p.name} – €{p.price} / {p.duration_days} giorni
+            </option>
+          ))}
+        </select>
+        <button className="btn ml-2" onClick={startSub} disabled={!selected}>
+          Attiva
+        </button>
+      </div>
+      <div>
+        <h2 className="text-lg text-gold mb-2">I tuoi abbonamenti</h2>
+        <ul>
+          {subs.map(s => (
+            <li key={s.id} className="mb-2">
+              Piano: <b>{s.plan_id}</b> – Stato: {s.status} – Scadenza: {new Date(s.expires_at).toLocaleDateString()}
+            </li>
+          ))}
+        </ul>
+      </div>
+    </AdaptiveLayout>
+  );
+};
+
+export default Billing;

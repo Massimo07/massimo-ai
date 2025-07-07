@@ -1,0 +1,59 @@
+## Modul 1: Osnove Excela za Digitalni Marketing i Network Marketing
+
+Dobrodošli na prvi modul našeg kursa "Excel". Ovaj modul je osmišljen kako bi vas proveo kroz osnovne koncepte Excela, s posebnim fokusom na praktične primjene u kontekstu network marketinga i poslovanja putem platforme kao što je Live On Plus. Detaljno ćemo pokriti teoriju, primjenu kroz primjere, te uključiti vježbe koje će vam pomoći da učvrstite svoje znanje.
+
+### Uvod u Excel
+
+Excel je moćan alat za proračunske tablice koji omogućava korisnicima da organiziraju podatke, analiziraju ih i vizualiziraju na jednostavan način. U kontekstu network marketinga, Excel se koristi za praćenje prodaje, upravljanje kontaktima, analizu tržišta i još mnogo toga. 
+
+### Osnovni Pojmovi u Excelu
+
+1. **Ćelija**: Osnovna jedinica u Excelu gdje unosite podatke. Svaka ćelija ima jedinstvenu adresu, npr. A1, B2, itd.
+2. **Radni list (Sheet)**: Svaki Excel dokument može imati više radnih listova, koji se nalaze na dnu prozora Excela.
+3. **Formula**: Matematički izrazi koji omogućavaju izračunavanje vrijednosti na osnovu podataka iz ćelija.
+
+### Kreiranje i Upravljanje Podacima
+
+Započnimo s osnovama. Otvorite Excel i kreirajte novi radni list. Unesite sljedeće podatke u prve tri kolone:
+
+- A1: "Ime"
+- B1: "Prodaja"
+- C1: "Provizija"
+
+U ćelije ispod unesite sljedeće podatke, koji simuliraju prodajne rezultate vašeg tima:
+
+- A2: "Ana"
+- B2: "200"
+- C2: "=B2*0.1" (ovo je formula koja izračunava proviziju kao 10% od prodaje)
+
+Ponovite unos podataka za još nekoliko članova tima.
+
+### Primjer: Praćenje Prodaje
+
+Pretpostavimo da ste menadžer u Live On Plus i želite pratiti prodaju vašeg tima. Koristeći formule, možete automatski izračunati provizije, sumirati ukupne prodaje i generirati izvještaje.
+
+1. **Zbrajanje Prodaje**: U ćeliji B10 unesite formulu `=SUM(B2:B9)` kako biste izračunali ukupnu prodaju.
+2. **Grafički Prikaz**: Označite ćelije iz A1 do B9, kliknite na "Insert" u glavnom meniju, a zatim izaberite "Chart" kako biste kreirali grafikon koji prikazuje prodajne rezultate.
+
+### Vježba za Studente
+
+Kreirajte radni list s podacima o prodaji za vaš tim. Koristite formule za izračunavanje provizija i ukupne prodaje. Kreirajte grafikon koji vizualizira podatke. 
+
+### E-mail i Komunikacija putem Platformi
+
+U network marketingu, komunikacija je ključna. Evo primjera kako možete koristiti Excel za pripremu podataka za komunikaciju putem emaila:
+
+- **Email Šablon**: Kreirajte email šablon u kojem ćete koristiti podatke iz Excela. Na primjer, "Poštovani [Ime], vaša trenutna prodaja iznosi [Prodaja] KM, a vaša provizija je [Provizija] KM."
+
+### Česti Greške i Kako ih Izbjeći
+
+1. **Pogrešne Formule**: Uvijek provjerite ispravnost formula. Jedna od najčešćih grešaka je korištenje pogrešnih referenci ćelija.
+2. **Neispravni Podaci**: Pazite na tipove podataka koje unosite. Brojevi moraju biti u numeričkom formatu kako bi formule ispravno radile.
+
+### Kulturni Aspekti u Međunarodnom Poslovanju
+
+U međunarodnom poslovanju, Excel se koristi širom svijeta, ali je važno razumjeti kulturne razlike u pristupu podacima i izvještavanju. Na primjer, u nekim kulturama je uobičajeno prikazivati podatke s decimalnim zarezima, dok se u drugima koriste tačke. Budite svjesni ovih razlika prilikom dijeljenja Excel dokumenata s međunarodnim timovima.
+
+### Zaključak i Dalji Koraci
+
+Ovaj modul vam je pružio osnovne alate i tehnike za korištenje Excela u kontekstu network marketinga. Preporučujemo vam da nastavite s vježbama kako biste dodatno usavršili svoje vještine i pripremili se za složenije izazove u narednim modulima. Koristite ove alate za analizu i optimizaciju vašeg poslovanja, te ostanite otvoreni za učenje novih funkcionalnosti koje Excel nudi.

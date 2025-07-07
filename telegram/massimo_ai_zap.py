@@ -1,0 +1,105 @@
+import os
+import sys
+import subprocess
+import re
+import shutil
+import glob
+from datetime import datetime
+
+# === BACKUP ===
+def backup_file(path):
+    if not os.path.exists('backup'): os.makedirs('backup')
+    shutil.copy2(path, f'backup/{os.path.basename(path)}_{datetime.now().strftime("%Y%m%d%H%M%S")}')
+
+# === PATCHER ===
+def patch_all_py():
+    print("🔄 Scansione e patch file Python...")
+    for file in glob.glob("**/*.py", recursive=True):
+        if "venv" in file or "backup" in file: continue
+        backup_file(file)
+        with open(file, encoding="utf-8", errors="ignore") as f:
+            code = f.read()
+        orig = code
+        # 1. Correggi doppi async def
+        code = re.sub(r'async\s+async\s+def', 'async def', code)
+        # 2. Correggi import telegram.ext vecchio
+        code = re.sub(
+            r'from telegram\.ext import \(\s*([^\)]+)\)',
+            lambda m: 'from telegram.ext import ' + ', '.join(x.strip() for x in m.group(1).replace('\n', '').split(',')),
+            code)
+        # 3. Import filters (compatibilità PTB 20+)
+        code = re.sub(r'from telegram\.ext import filters', 'from telegram.ext import filters', code)
+        # 4. Inserisci import CommandHandler/ContextTypes se mancano
+        if 'CommandHandler' not in code:
+            code = 'from telegram.ext import CommandHandler\n' + code
+        if 'ContextTypes' not in code:
+            code = 'from telegram.ext import ContextTypes\n' + code
+        # 5. Patch await mancanti nei message.reply_text
+        code = re.sub(r'(\W)update\.message\.reply_text\(', r'\1await await update.message.reply_text(', code)
+        # 6. Correggi handler async
+        code = re.sub(r'def (\w+_handler)\(', r'async def \1(', code)
+        # 7. Correggi fallback async
+        code = re.sub(r'def fallback_handler\(', r'async async def fallback_handler(', code)
+        # 8. Catch-all a fine file, se manca
+        if 'async def catch_all' not in code:
+            code += '''
+async def catch_all(update, context):
+    await await update.message.reply_text("🙋‍♂️ Scrivi /start per cominciare oppure scegli una delle opzioni dal menu.")
+'''
+        # 9. Elimina doppie import o errori evidenti noti
+        code = re.sub(r'async def ', 'async def ', code)
+        # Write only if changed
+        if code != orig:
+            with open(file, "w", encoding="utf-8") as f:
+                f.write(code)
+            print(f"✅ Patchato: {file}")
+    print("🟢 Patch completata!\n")
+
+# === ENV CHECK ===
+def check_env():
+    envfile = ".env"
+    if not os.path.exists(envfile):
+        with open(envfile, "w") as f:
+            f.write("TELEGRAM_TOKEN=\nOPENAI_KEY=\nSTRIPE_SECRET_KEY=\nSTRIPE_PUB_KEY=\n")
+        print("⚠️  .env creato, compila i valori segreti!")
+        return False
+    ok = True
+    with open(envfile) as f:
+        env = f.read()
+        for key in ["TELEGRAM_TOKEN", "STRIPE_SECRET_KEY", "STRIPE_PUB_KEY"]:
+            if f"{key}=" not in env:
+                print(f"⚠️  Variabile mancante: {key}")
+                ok = False
+    return ok
+
+# === LIBRERIE ===
+def pip_install_all():
+    pkgs = [
+        "python-telegram-bot==22.1",
+        "python-dotenv", "SQLAlchemy", "unittest2", "scikit-learn", "beautifulsoup4",
+        "Pillow", "SpeechRecognition", "Werkzeug"
+    ]
+    for pkg in pkgs:
+        subprocess.call([sys.executable, "-m", "pip", "install", pkg])
+
+# === AVVIO BOT ===
+def avvia_bot():
+    print("\n🚀 Avvio Massimo AI (main.py) ...")
+    res = subprocess.call([sys.executable, "main.py"])
+    if res != 0:
+        print("❌ MASSIMO AI si è fermato con codice", res)
+        print("Controlla il log sopra. Puoi riprovare a lanciare lo script dopo aver corretto eventuali errori bloccanti.")
+    else:
+        print("✅ MASSIMO AI avviato correttamente!")
+
+# === MAIN ===
+if __name__ == "__main__":
+    print("=============================================")
+    print("======== MASSIMO AI ZERO PROBLEMI ===========")
+    print("=============================================")
+    pip_install_all()
+    patch_all_py()
+    if not check_env():
+        print("⚠️  Correggi .env e rilancia lo script!")
+        sys.exit(1)
+    avvia_bot()

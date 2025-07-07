@@ -1,0 +1,72 @@
+### Modul 1: Introduktion till Adobe Photoshop
+
+#### Teori och Praktik
+
+Adobe Photoshop är ett kraftfullt verktyg inom digital bildbehandling och design. För nybörjare kan det verka överväldigande, men med rätt vägledning kan du snabbt bemästra de grundläggande funktionerna. I den här modulen kommer vi att fokusera på hur Photoshop kan användas inom nätverksmarknadsföring och digitala affärer, speciellt med plattformar som Live On Plus.
+
+##### Gränssnittet
+
+När du först öppnar Photoshop, kommer du att mötas av ett användargränssnitt som består av flera huvudkomponenter: verktygspanelen till vänster, alternativfältet längst upp, och panelområdet till höger där du hittar lager, färger och andra viktiga funktioner.
+
+**Steg-för-steg**:
+1. **Starta Photoshop**: Dubbelklicka på ikonen för att starta programmet.
+2. **Utforska arbetsytan**: Ta några minuter för att klicka runt och bekanta dig med var de olika verktygen och panelerna finns.
+3. **Anpassa arbetsytan**: Du kan dra och släppa paneler för att anpassa arbetsytan efter dina behov.
+
+##### Lager och deras Betydelse
+
+Lager är en central del av Photoshop och fungerar som transparenta ark som kan staplas ovanpå varandra. Detta gör det lättare att redigera enskilda delar av din design utan att påverka resten av bilden.
+
+**Exempel inom nätverksmarknadsföring**: Om du skapar en reklambanner för Live On Plus, kan du ha en bakgrundsbild i ett lager, företagets logotyp i ett annat och text i ett tredje. Detta ger flexibilitet att ändra texten eller logotypen utan att behöva börja om från början.
+
+**Steg-för-steg**:
+1. **Skapa ett nytt lager**: Gå till Lager-menyn och välj "Nytt" > "Lager".
+2. **Namnge lagret**: Ge det ett tydligt namn som beskriver dess innehåll, till exempel "Logotyp".
+3. **Använd lagerpanelens funktioner**: Här kan du justera opacitet, fyllning och blandningslägen.
+
+#### Praktiska Övningar och Quiz
+
+Nu när du har en grundläggande förståelse för gränssnittet och lager, är det dags att tillämpa dessa kunskaper i praktiken.
+
+**Övning 1: Skapa en Enkel Reklambanner**
+1. **Öppna ett nytt dokument**: Gå till "Arkiv" > "Ny" och välj en relevant storlek för din banner.
+2. **Lägg till en bakgrund**: Använd färgverktyget eller importera en bild.
+3. **Infoga text**: Använd textverktyget för att skriva ett budskap som "Bli en del av Live On Plus idag!".
+
+**Quiz**:
+1. Vad är ett lager och varför är det viktigt i Photoshop?
+2. Hur kan lager användas för att effektivt hantera olika element i en design?
+
+**Lösningar**:
+1. Ett lager är som ett transparent ark där du kan placera bilder eller text utan att påverka andra element. Det är viktigt eftersom det ger flexibilitet och kontroll.
+2. Lager gör det möjligt att ändra, flytta eller ta bort enskilda element utan att påverka hela designen.
+
+#### Dialoger för Kommunikation
+
+När du arbetar med team eller klienter, är det viktigt att kunna kommunicera effektivt. Här är några exempel på hur du kan diskutera designändringar med en klient via olika digitala plattformar.
+
+**WhatsApp**:
+- "Hej! Jag har just lagt till en ny text på bannern. Kan du kolla om det ser bra ut?"
+
+**Telegram**:
+- "Kan du skicka logotypen i högre upplösning? Den nuvarande ser suddig ut när jag förstorar den."
+
+**Zoom**:
+- "Låt oss gå igenom designen tillsammans. Jag delar min skärm så att vi kan göra ändringar i realtid."
+
+**Email**:
+- "Hej [Kundens namn], jag bifogar den senaste versionen av bannern. Låt mig veta om det finns något du vill ändra."
+
+#### Vanliga Misstag och Hur Man Undviker Dem
+
+Många nybörjare gör misstaget att arbeta direkt på bakgrundslagret. Detta kan leda till att du omedvetet förstör originalbilden.
+
+**Lösning**: Skapa alltid en kopia av bakgrundslagret innan du gör några ändringar. Högerklicka på bakgrundslagret och välj "Duplicera lager".
+
+#### Kultur och Internationella Affärer
+
+I den globala affärsvärlden är det viktigt att förstå kulturella skillnader. När du skapar marknadsföringsmaterial för en internationell publik, tänk på att färger och bilder kan ha olika betydelser i olika kulturer. I Sverige kan till exempel blått symbolisera lugn och tillförlitlighet, medan det i andra kulturer kan ha andra konnotationer.
+
+Genom att förstå och respektera dessa kulturella skillnader kan du skapa mer effektiva och inkluderande marknadsföringsmaterial.
+
+Genom den här modulen har vi tagit våra första steg i att använda Adobe Photoshop som ett verktyg för digitala affärer och nätverksmarknadsföring. Fortsätt öva och experimentera, och snart kommer du att känna dig mer självsäker i dina designfärdigheter.

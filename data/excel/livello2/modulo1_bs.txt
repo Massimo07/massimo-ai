@@ -1,0 +1,48 @@
+**Modul 1: Excel za Network Marketing i Digitalni Biznis**
+
+Dobrodošli u prvi modul našeg naprednog kursa Excel-a, prilagođenog specifičnim potrebama network marketinga i digitalnog biznisa. U ovom modulu ćemo se fokusirati na osnove korištenja Excel-a sa praktičnim primjerima koji će vam pomoći u svakodnevnom poslovanju.
+
+**Teorija i praksa Excel-a**
+
+Excel je moćan alat za obradu podataka koji omogućava analizu, vizualizaciju i prezentaciju poslovnih podataka. U network marketingu, Excel se koristi za praćenje performansi, analizu prodaje i menadžment timova. Na početku, važno je razumjeti osnovne elemente Excel-a: radne listove, ćelije, redove i kolone.
+
+1. **Radni listovi**: Svaki Excel fajl se sastoji od jednog ili više radnih listova. Ovo su osnovne 'stranice' unutar vašeg Excel dokumenta gdje se podaci unose i analiziraju.
+   
+2. **Ćelije**: Osnovne jedinice za unos podataka. Svaka ćelija ima svoju adresu (npr. A1, B2) koja se koristi za referenciranje podataka unutar formula.
+
+3. **Redovi i kolone**: Ćelije su organizirane u redove (horizontalno) i kolone (vertikalno). Razumijevanje kako se kretati kroz ove elemente je ključno za efikasno korištenje Excel-a.
+
+**Praktičan primjer u network marketingu**
+
+Zamislite da radite za Live On Plus i trebate pratiti prodajne performanse vašeg tima. Možete kreirati Excel tabelu sa sljedećim kolonama: Ime člana tima, Proizvod prodan, Količina, Ukupan prihod. 
+
+Uradite sljedeće:
+
+- Otvorite novi Excel dokument.
+- U prvom redu, unesite naslove: "Ime Člana Tima", "Proizvod Prodan", "Količina", "Ukupan Prihod".
+- Unesite nekoliko primjera podataka u sljedeće redove. Na primjer: "Ana", "Proizvod A", "10", "1000".
+
+**Esercizi i kvizovi**
+
+Eserciz 1: Napravite tabelu sa podacima o prodaji za vaš tim, uključujući barem pet članova tima i tri različita proizvoda. Koristite jednostavne formule za izračunavanje ukupnog prihoda.
+
+Kviz pitanje: Koja funkcija u Excel-u se koristi za sumiranje brojeva u koloni?
+Rješenje: Funkcija SUM().
+
+**Dijalozi za komunikaciju**
+
+- **WhatsApp/Telegram**: "Zdravo, tim! Molim vas da unesete svoje sedmične prodajne rezultate u Excel tabelu do petka. Ako trebate pomoć, tu sam da vam objasnim kako koristiti formule."
+  
+- **Email**: "Poštovani, u prilogu se nalazi Excel fajl sa podacima o našim mjesečnim performansama. Molimo vas da pregledate i javite ako imate pitanja."
+
+- **Zoom**: "Na današnjem sastanku, proći ćemo kroz Excel analizu prodajnih trendova i identificirati ključne oblasti za poboljšanje."
+
+**Uobičajene greške i kako ih izbjeći**
+
+Jedna od najčešćih grešaka u Excel-u je pogrešno referenciranje ćelija u formulama. Na primjer, ako pokušavate zbrojiti vrijednosti u ćelijama A1 do A5, formula bi trebala biti =SUM(A1:A5). Pazite na korištenje dvotačke (:) za specificiranje raspona.
+
+**Kultura poslovanja na međunarodnom nivou**
+
+U globalnom kontekstu, Excel je univerzalni alat u poslovanju, ali je važno razumjeti kulturne razlike u poslovnoj komunikaciji. Na primjer, dok je u nekim kulturama direktna komunikacija cijenjena, u drugim se više cijeni formalnost i indirektnost. Prilikom dijeljenja Excel analiza, uvijek imajte na umu kulturološke norme vaših poslovnih partnera.
+
+Ovaj modul vam je pružio osnovni uvod u Excel sa fokusom na primjenu u network marketingu. Slobodno eksperimentišite sa različitim funkcijama i formulama kako biste poboljšali svoje vještine i efikasnost. Sretno u daljnjem učenju!

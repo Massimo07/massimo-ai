@@ -1,0 +1,74 @@
+[
+  {
+    "nome": "Nome1",
+    "cognome": "Cognome1",
+    "codice": "LOP00001",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  },
+  {
+    "nome": "Nome2",
+    "cognome": "Cognome2",
+    "codice": "LOP00002",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  },
+  {
+    "nome": "Nome3",
+    "cognome": "Cognome3",
+    "codice": "LOP00003",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  },
+  {
+    "nome": "Nome4",
+    "cognome": "Cognome4",
+    "codice": "LOP00004",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  },
+  {
+    "nome": "Nome5",
+    "cognome": "Cognome5",
+    "codice": "LOP00005",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  },
+  {
+    "nome": "Nome6",
+    "cognome": "Cognome6",
+    "codice": "LOP00006",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  },
+  {
+    "nome": "Nome7",
+    "cognome": "Cognome7",
+    "codice": "LOP00007",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  },
+  {
+    "nome": "Nome8",
+    "cognome": "Cognome8",
+    "codice": "LOP00008",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  },
+  {
+    "nome": "Nome9",
+    "cognome": "Cognome9",
+    "codice": "LOP00009",
+    "provincia": "PA",
+    "città": "Palermo",
+    "telefono": "3200000000"
+  }
+]

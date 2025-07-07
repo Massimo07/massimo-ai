@@ -1,0 +1,55 @@
+# Tá fáilte romhat chuig an modúl tosaigh ar chúrsa Excel, atá deartha go sonrach le haghaidh tosaitheoirí atá ag iarraidh a gcuid scileanna i margadh líonra agus gnó digiteach a fheabhsú. Sa mhodúl seo, cuirfimid tús le bunghnéithe Excel agus conas is féidir leis a bheith ina uirlis fhíorluachmhar i do chuid oibre laethúla. Tabharfaidh muid samplaí praiticiúla, cleachtaí, agus fiú comhráite samplacha le húsáid i gcásanna fíorshaoil. 
+
+**Teoiric agus Cleachtas Excel**
+
+Is feidhmchlár scarbhileoige é Excel a chabhraíonn leat sonraí a bhailiú, a eagrú, a anailísiú, agus a chur i láthair. Is féidir leat Excel a úsáid chun liostaí custaiméirí a choinneáil, díolacháin a rianú, tuarascálacha a chruthú, agus níos mó fós. Is féidir le gnólachtaí a bhíonn páirteach i margadh líonra é a úsáid chun éifeachtúlacht a mhéadú agus cinntí eolasacha a dhéanamh.
+
+**Tús a chur le Excel**
+
+**Céim 1: Oscail Excel** – Nuair a osclaíonn tú Excel, feicfidh tú leabhar oibre nua, nó is féidir leabhar oibre atá ann cheana a oscailt. Tá leabhar oibre comhdhéanta de bhileoga oibre, agus is féidir leat bileoga oibre iolracha a bheith agat i leabhar oibre amháin.
+
+**Céim 2: Eagar na Cille** – Tá bileog oibre comhdhéanta de chealla eagraithe i sraitheanna agus colúin. Is é an t-ainm atá ar gach ceall ná a litir cholúin agus a uimhir sraithe, mar shampla A1. Is féidir sonraí, foirmlí, agus formáid a chur isteach i gcealla.
+
+**Sampla Prátaíceach:**
+
+**Tasc** – Cruthaigh liosta de chustaiméirí féideartha do do ghnó Live On Plus.
+
+1. **Cuir isteach na sonraí seo a leanas i gcealla:**
+   - A1: "Ainm"
+   - B1: "Ríomhphost"
+   - C1: "Uimhir Gutha"
+   - A2: "Seán Ó hÉalaí"
+   - B2: "sean@example.com"
+   - C2: "123456789"
+   
+2. **Formáid na Cealla** – Roghnaigh na cealla A1 go C1 agus cliceáil ar an gcnaipe "Bold" chun iad a dhéanamh níos suntasaí. 
+
+3. **Sábháil an Comhad** – Téigh go "File" agus roghnaigh "Save As" chun do leabhar oibre a shábháil le hainm mar "Liosta Custaiméirí".
+
+**Earráidí Coitianta agus Conas Iad a Sheachaint**
+
+- **Earráid: Sonraí a Scriosadh de Thaisme** – Déan cinnte go sábhálann tú do chuid oibre go rialta. Má scriosann tú rud éigin de thaisme, is féidir leat cliceáil ar "Undo" nó Ctrl + Z a bhrú.
+- **Earráid: Foirmlí míchearta** – Bí cúramach agus tú ag úsáid foirmlí. Seiceáil go bhfuil gach tagairt cille ceart agus ná húsáid spásanna breise.
+
+**Comhráite Samplacha le haghaidh WhatsApp, Telegram, Zoom, agus Ríomhphost**
+
+- **WhatsApp**: "Dia duit, táim ag obair ar mo liosta custaiméirí i Excel. An bhfuil aon mholtaí agat le haghaidh foirmlí úsáideacha?"
+- **Telegram**: "Ar Zoom anois ag tabhairt treoir do mo fhoireann ar conas sonraí díolacháin a bhainistiú in Excel. Bígí linn!"
+- **Ríomhphost**: "A chara [Ainm], tá an tuarascáil Excel ceangailte thíos. Táim sásta aon cheisteanna a fhreagairt, más gá."
+
+**Cultúr Gnó Idirnáisiúnta**
+
+Tá úsáid Excel forleathan ar fud an domhain, agus is féidir le scileanna Excel d’ionchais fostaíochta a fheabhsú go mór. Go hidirnáisiúnta, úsáidtear Excel i mbeagnach gach tionscal ó airgeadas go margaíocht, rud a fhágann gur scil luachmhar í i margadh an iomaíochais dhomhanda.
+
+**Tasc Cleachtais**
+
+Cruthaigh leabhar oibre nua agus cuir isteach sonraí díolacháin míosúla do do tháirgí. Úsáid foirmle shimplí chun an t-ioncam iomlán a ríomh: 
+
+1. Sa chill D2, cuir isteach: =SUM(B2:B13) chun an díolachán iomlán a fháil.
+2. Déan cinnte go bhfuil gach colún formáidithe i gceart le haghaidh uimhreacha agus airgeadra.
+
+**Réiteach**
+
+Má tá tú i do thosaitheoir, ná bíodh imní ort. Tóg do chuid ama chun tuiscint a fháil ar bhunghnéithe Excel. Le cleachtadh, beidh tú níos muiníní agus ábalta úsáid éifeachtach a bhaint as Excel i do ghníomhaíochtaí gnó laethúla. Coinnigh ag foghlaim agus bain triail as rudaí nua go rialta.
+
+Tá súil agam go mbainfidh tú taitneamh as an modúl seo agus go mbeidh tú ullamh le haghaidh na modúl níos airde a leanann!

@@ -1,0 +1,1 @@
+def risposte_elite(testo): return 'Funzionalità ELITE in arrivo.'

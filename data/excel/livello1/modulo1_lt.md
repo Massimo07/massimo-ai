@@ -1,0 +1,59 @@
+# **Excel Pagrindai: Modulis 1 - Pradmenys ir Pritaikymas Tinklelio Marketinge**
+
+**Įvadas į Excel**
+
+Sveiki atvykę į mūsų pirmąjį Excel modulį. Šis modulis skirtas pradedantiesiems, todėl pradėsime nuo pačių pagrindų. Excel yra galinga įrankis, padedantis tvarkyti duomenis, atlikti skaičiavimus ir analizuoti informaciją. Šis įrankis yra neatsiejamas nuo šiuolaikinio verslo, įskaitant tinklų marketingą.
+
+**Teorinė dalis**
+
+Excel yra skaičiuoklės programa, leidžianti kurti lenteles, grafikus ir atlikti įvairias analizes. Pagrindinė Excel struktūra yra sudaryta iš darbo knygų (angl. workbooks), kurios savo ruožtu susideda iš darbo lapų (angl. worksheets). Kiekvienas darbo lapas yra sudarytas iš langelių (angl. cells), kurie yra suskirstyti į eilutes ir stulpelius.
+
+**Praktinė dalis**
+
+1. **Excel Paleidimas ir Pirmojo Dokumento Sukūrimas**
+   - Atidarykite Excel programą. Pamatysite tuščią darbo knygą su pavadinimu „Book1“.
+   - Viršuje pastebėsite meniu juostą su įvairiais funkcijų skirtukais, tokiais kaip „Home“, „Insert“, „Page Layout“ ir kt. Pasirinkite „File“, tada „Save As“, kad išsaugotumėte savo darbo knygą su nauju pavadinimu, pvz., „TinklelioMarketingas.xlsx“.
+
+2. **Duomenų Įvedimas**
+   - Pasirinkite langelį A1 ir įrašykite „Vardas“. A2 langelyje įrašykite savo vardą. B1 langelyje įrašykite „Pardavimai“, o B2 langelyje – jūsų pardavimų sumą, pvz., „1500“.
+
+3. **Formulės ir Skaičiavimai**
+   - Norėdami apskaičiuoti bendrą pardavimų sumą, įrašykite „=SUM(B2)“ į B3 langelį. Tai parodys jūsų pardavimus (šiuo atveju paprasta formulė, nes yra tik vienas duomenų įrašas).
+
+**Realūs Pavyzdžiai**
+
+Tarkime, jūs dirbate „Live On Plus“ tinklelio marketingo platformoje ir norite sekti savo komandos narių veiklą. Galite sukurti Excel lentelę, kurioje būtų nurodyti komandos narių vardai, pardavimų kiekiai ir premijos. Tai padės stebėti jūsų komandos rezultatus ir identifikuoti galimybes tobulėti.
+
+**Esercijos ir Kvizai**
+
+1. **Esercijos**
+   - Sukurkite lentelę, kurioje būtų trijų jūsų komandos narių vardai ir jų pardavimų rezultatai.
+   - Naudokite SUM funkciją apskaičiuoti bendrą pardavimų sumą.
+
+2. **Kvizas**
+   - Kas yra Excel darbo knyga?
+   - Kaip naudoti SUM funkciją?
+
+**Dialogai ir Komunikacija**
+
+- **WhatsApp Pavyzdys:**
+  - Tu: „Labas, galiu tau padėti su Excel, kad geriau sektum savo pardavimus?“
+  - Kolega: „Sveiki, ačiū! Kaip galiu pradėti įvesti duomenis?“
+
+- **Email Pavyzdys:**
+  - Tema: „Excel pagalba“
+  - Turinys: „Sveiki, norėčiau sužinoti, kaip naudoti Excel mano Live On Plus veiklai. Ar galėtumėte pasidalinti keliais patarimais?“
+
+**Dažnos Klaidos ir Kaip Jų Išvengti**
+
+- **Klaida:** Neteisingai įvestos formulės.
+  - **Sprendimas:** Įsitikinkite, kad formulėse nėra rašybos klaidų ir langelių nuorodos yra teisingos.
+
+- **Klaida:** Netvarkinga duomenų struktūra.
+  - **Sprendimas:** Visada naudokite aiškius stulpelių pavadinimus ir tvarkingai įveskite duomenis.
+
+**Kultūriniai Verslo Aspektai**
+
+Tarptautiniame versle Excel naudojimas gali skirtis priklausomai nuo kultūrinių ypatumų. Pavyzdžiui, kai kuriose šalyse gali būti įprasta naudoti skirtingus skaičių formatus arba datas rašyti kitokia tvarka. Todėl svarbu būti lankstiems ir prisitaikyti prie skirtingų verslo praktikų.
+
+Šis modulis yra tik jūsų kelionės pradžia su Excel. Kuo daugiau praktikuositės, tuo labiau įgysite pasitikėjimo šiuo įrankiu. Kitame modulyje gilinsime jūsų žinias apie duomenų analizę ir vizualizaciją Excel programoje.

@@ -1,0 +1,59 @@
+### Exceli Kursus: Tase 1, Moodul 1
+
+**Sissejuhatus Excelisse**
+
+Excel on Microsofti loodud tabelarvutusprogramm, mis on laialdaselt kasutusel ärimaailmas, sealhulgas võrgustikuturunduses ja digitaalses äris, nagu Live On Plus. See programm võimaldab kasutajatel luua ja hallata andmetabeleid, sooritada arvutusi ning luua graafikuid ja aruandeid. Esimeses moodulis õpime Exceli põhifunktsioone, mis on vajalikud edasiseks õppimiseks.
+
+**Teooria ja Praktika**
+
+Excel koosneb töövihikutest, mis omakorda sisaldavad töölehti. Iga tööleht on jagatud lahtriteks, mida tähistatakse veergude ja ridade järgi. Veerud on tähistatud tähtedega (A, B, C jne) ja read numbritega (1, 2, 3 jne). Lahtrite ristumiskohti kasutatakse andmete sisestamiseks ja nendega töötamiseks.
+
+Alustame Exceli avamisega. Kui programm on avatud, näete uut töövihikut. Klõpsake esimesel töölehel ja valige lahter A1. Sisestage sinna näiteks sõna "Nimi". Seejärel liikuge lahtrisse B1 ja sisestage "Müügikäive". Need pealkirjad aitavad andmeid struktureerida.
+
+**Praktiline Näide Võrgustikuturunduses**
+
+Oletame, et töötate ettevõttes Live On Plus ja peate jälgima oma tiimi müügikäivet. Excel on ideaalne tööriist selleks. Sisestage lahtrisse A2 ühe oma tiimiliikme nimi, näiteks "Kati", ja seejärel lahtrisse B2 tema müügikäive, näiteks "500". Korrake seda protsessi, lisades rohkem tiimiliikmeid ja nende vastavaid müügikäibeid.
+
+**Exceli Valemid ja Funktsioonid**
+
+Exceli üks võimsamaid omadusi on valemid ja funktsioonid. Näiteks, kui soovite arvutada oma tiimi kogumüügi, kasutage funktsiooni SUM. Liikuge lahtrisse B6 ja sisestage valem: `=SUM(B2:B5)`. Vajutage Enter ja Excel arvutab automaatselt kokku lahtrite B2 kuni B5 väärtused.
+
+**Eksam ja Harjutused**
+
+1. Sisestage järgmised andmed:
+
+   - A3: "Mari", B3: "750"
+   - A4: "Juhan", B4: "630"
+   - A5: "Laura", B5: "820"
+
+2. Kasutage funktsiooni SUM, et arvutada kogumüük lahtrites B2 kuni B5.
+
+**Lahendused**
+
+Kui olete andmed sisestanud ja valemi õigesti rakendanud, peaks lahtris B6 olema näidatud kogumüük: 2700.
+
+**Reaalsed Dialoogid**
+
+- **WhatsApp/Telegram:**
+  - Sina: "Tere, Kati! Kuidas su müügiga läheb? Vaja on, et sisestad oma viimase kuu müügikäibe Excelisse."
+  - Kati: "Tere! Jah, kohe lisan. Kasutan SUM funktsiooni, et kogumüüki arvutada, eks?"
+  - Sina: "Täpselt, suurepärane!"
+
+- **Zoom:**
+  - Sina: "Tere, tiim! Täna keskendume Exceli kasutamisele meie müügi jälgimisel. Kas kõik on andmed sisestanud?"
+  - Tiimiliige: "Jah, aga kuidas saan kiirelt kogusumma arvutada?"
+  - Sina: "Kasutage valemit `=SUM(B2:B5)`, see lahendab probleemi."
+
+- **Email:**
+  - Teema: Müügikäibe Aruandlus Excelis
+  - Tere, tiim! Palun sisestage oma viimase kuu müügikäive Exceli tabelisse. Kasutage SUM funktsiooni, et arvutada kogusumma. Kui vajate abi, andke teada.
+
+**Tüüpilised Veakohad ja Kuidas Neid Vältida**
+
+Algajad teevad sageli vea, kui unustavad valemites õiged süntaksid. Näiteks, kui unustate võrdsusmärgi (=) valemi alguses, siis Excel ei tunnista seda valemina. Samuti veenduge, et viitate õigele lahtrivahemikule. Kui soovite arvutada kogusumma lahtrites B2 kuni B5, siis peab valem olema täpne.
+
+**Kultuurilised Tõed Rahvusvahelises Ärimaailmas**
+
+Exceli oskused on rahvusvaheliselt tunnustatud ja väga nõutud. Erinevates kultuurides võib lähenemine andmete esitlemisele ja analüüsile erineda, kuid Excel on universaalne tööriist, mis ületab kultuurilisi barjääre. Näiteks Aasias pannakse rõhku detailsele analüüsile, samas kui Euroopas võib keskenduda rohkem visuaalidele ja kokkuvõtetele.
+
+Käesolev moodul on esimene samm teie teekonnal Exceli eksperdiks saamisel. Järgnevates moodulites süveneme keerukamatesse funktsioonidesse ja analüüside tegemisse. Edukat õppimist!

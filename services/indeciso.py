@@ -1,0 +1,43 @@
+from telegram.ext import CommandHandler
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+import sys, os
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from utils import get_user
+
+async def indeciso_handler(update, context):
+
+    user = update.effective_user
+
+    domanda = update.message.text
+
+    prompt = (
+
+        f"Rispondi a questa domanda in modo personale, empatico e motivante come Massimo AI: {domanda} "
+
+        "Aiuta a superare dubbi, scetticismo e paure sul network marketing, scegliendo la soluzione migliore."
+
+    )
+
+    import openai
+
+    response = openai.ChatCompletion.create(
+
+        model="gpt-4o",
+
+        messages=[{"role": "user", "content": prompt}],
+
+        temperature=0.8,
+
+        max_tokens=120
+
+    )
+
+    text = f"💡 {response['choices'][0]['message']['content'].strip()}"
+
+    await context.bot.send_message(chat_id=user.id, text=text)
+
+async def catch_all(update, context):
+    await update.message.reply_text("🙋‍♂️ Scrivi /start per cominciare oppure scegli una delle opzioni dal menu.")

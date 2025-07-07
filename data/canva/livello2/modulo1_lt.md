@@ -1,0 +1,66 @@
+# **Modulis: Canva naudojimas tinklo rinkodaros ir verslo skaitmeninio pasaulio kontekste**
+
+**Įvadas į Canva: Teorija ir praktika**
+
+Canva yra grafinio dizaino platforma, kuri leidžia kurti įvairius vizualinius turinius, tokius kaip socialinės medijos įrašai, prezentacijos, plakatus ir dar daugiau. Šio modulio tikslas - supažindinti jus su Canva naudojimu tinklo rinkodaros srityje, ypač su Live On Plus platforma. Canva yra puikus įrankis, skirtas kurti patrauklius vizualinius turinius, kurie padės pritraukti klientus ir stiprinti jūsų prekės ženklą.
+
+**Teorija: Kaip Canva padeda tinklo rinkodaros specialistams**
+
+Tinklo rinkodaros specialistams labai svarbu turėti patrauklias vizualines medžiagas, kurios padeda išreikšti prekės ženklo vertybes ir pritraukti potencialius klientus. Canva suteikia galimybę lengvai kurti profesionaliai atrodančius dizainus net ir tiems, kurie neturi daug grafinio dizaino patirties.
+
+**Praktinis naudojimas: Canva funkcijos**
+
+1. **Sukurkite Canva paskyrą**: Eikite į Canva svetainę ir užsiregistruokite. Galite prisijungti naudodamiesi savo el. paštu arba socialinių tinklų paskyromis.
+
+2. **Pasirinkite šabloną**: Canva siūlo daugybę šablonų įvairiems poreikiams. Tinklo rinkodaros specialistams gali būti naudingi socialinės medijos įrašų, skrajutės ar prezentacijos šablonai.
+
+3. **Pritaikykite dizainą**: Naudokite Canva įrankius, kad pritaikytumėte šablonus pagal savo prekės ženklą. Galite keisti spalvas, šriftus, pridėti savo logotipą ir kitus elementus.
+
+4. **Įkelkite savo turinį**: Jei turite savo nuotraukų ar grafikos, galite jas įkelti į Canva ir naudoti savo kūriniuose.
+
+5. **Eksportuokite ir dalinkitės**: Kai jūsų dizainas bus baigtas, galite jį atsisiųsti įvairiais formatais arba tiesiogiai dalintis per socialinius tinklus.
+
+**Pavyzdys: Canva naudojimas Live On Plus platformoje**
+
+Sukurti patrauklią prezentaciją Live On Plus webinarui:
+
+- **Šablono pasirinkimas**: Pasirinkite prezentacijos šabloną, kuris atitinka jūsų tema.
+- **Turinio struktūra**: Sukurkite skaidres su aiškia struktūra – įžanga, pagrindinė informacija, išvados.
+- **Vizualiniai elementai**: Pritaikykite grafiką ir diagramas, kad iliustruotumėte savo mintis.
+- **Prekės ženklas**: Įtraukite savo logotipą ir naudokite prekės ženklo spalvas.
+
+**Esercizi ir quiz su sprendimais**
+
+1. **Užduotis**: Sukurkite Canva dizainą, skirtą naujienlaiškiui, kuriame pristatote naują produktą.
+   - **Sprendimas**: Pasirinkite naujienlaiškio šabloną, pritaikykite spalvas ir šriftus pagal savo prekės ženklą, pridėkite produkto nuotrauką ir aprašymą.
+
+2. **Quiz**: Koks yra pagrindinis privalumas, naudojant Canva tinklo rinkodaroje?
+   - **Atsakymas**: Canva leidžia greitai ir lengvai kurti profesionalius vizualinius turinius, kurie padeda pritraukti ir įtraukti klientus.
+
+**Dialogai realiomis situacijomis**
+
+- **WhatsApp/Telegram**:
+  - Jūs: "Labas, ar žinai, kaip naudoti Canva? Man reikia padaryti patrauklų skelbimą mūsų naujam produktui."
+  - Kolega: "Žinoma, galiu padėti. Pabandykime naudoti vieną iš socialinės medijos šablonų ir pritaikyti jį pagal mūsų prekės ženklą."
+
+- **Zoom susitikimas**:
+  - Jūs: "Sveiki visi, šiandien aptarsime, kaip naudoti Canva kuriant turinį mūsų socialinės medijos kampanijai."
+  - Komandos narys: "Puiku, manau, kad galime pradėti nuo įdomių ir patrauklių vizualinių elementų pridėjimo."
+
+- **El. paštas**:
+  - Jūs: "Sveiki, pridedu Canva dizainą mūsų naujam naujienlaiškiui. Prašome peržiūrėti ir pateikti savo atsiliepimus."
+  - Gavėjas: "Ačiū, atrodo puikiai! Gal galėtumėte pridėti dar kelias nuotraukas iš mūsų paskutinio renginio?"
+
+**Dažniausios klaidos ir kaip jų išvengti**
+
+1. **Nepakankamas prekės ženklo nuoseklumas**: Užtikrinkite, kad kiekvienas dizainas atitiktų jūsų prekės ženklo spalvas ir šriftus.
+
+2. **Pernelyg daug teksto**: Dizainai su per daug teksto gali būti neįskaitomi. Naudokite trumpus ir aiškius sakinius.
+
+3. **Netinkamas vaizdų dydis**: Įsitikinkite, kad vaizdai yra tinkamo dydžio ir kokybės, kad jie atrodytų profesionaliai.
+
+**Tarptautinė verslo kultūra: Canva įtaka globaliame kontekste**
+
+Canva leidžia verslininkams iš viso pasaulio kurti vieningus ir profesionalius dizainus, nepaisant jų geografinės vietos. Tai ypač svarbu tarptautinėje rinkodaroje, kur vizualinis turinys gali būti greitai pritaikytas skirtingoms kultūroms ir rinkoms.
+
+Naudodamiesi Canva, jūs galite ne tik sutaupyti laiko ir išteklių, bet ir užtikrinti, kad jūsų prekės ženklo žinutė būtų nuosekli ir atitiktų tarptautinius standartus. Tai suteikia jums konkurencinį pranašumą ir padeda efektyviai komunikuoti su globalia auditorija.

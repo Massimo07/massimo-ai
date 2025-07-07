@@ -1,0 +1,79 @@
+# ### Module 1: Inleiding tot Canva
+
+Welkom bij Module 1 van je cursus over Canva. Deze module is speciaal ontworpen voor beginners en zal je stap voor stap begeleiden bij het begrijpen en gebruiken van Canva, een krachtig ontwerpplatform dat essentieel kan zijn voor je netwerkmarketing- en digitale businessactiviteiten. 
+
+#### Theorie van Canva
+
+**Wat is Canva?**
+
+Canva is een online grafisch ontwerpplatform waarmee je eenvoudig professionele ontwerpen kunt maken zonder uitgebreide kennis van grafisch ontwerpsoftware. Het biedt gebruikers de mogelijkheid om presentaties, social media graphics, posters, documenten en andere visuele content te maken. Canva is bijzonder nuttig voor netwerkmarketing en Live On Plus, omdat het je helpt aantrekkelijke visuals te creëren die je producten en diensten effectief kunnen promoten.
+
+**Waarom Canva gebruiken voor Network Marketing?**
+
+In de wereld van netwerkmarketing is visuele content van cruciaal belang. Goed ontworpen visuals trekken de aandacht, communiceren je boodschap duidelijk en helpen je merk op te bouwen. Met Canva kun je consistentie behouden in je branding, wat belangrijk is voor herkenbaarheid en vertrouwen bij je publiek.
+
+#### Praktijk: Aan de slag met Canva
+
+**Stap 1: Een account aanmaken**
+
+1. Ga naar de Canva-website (www.canva.com).
+2. Klik op "Meld je aan" rechtsboven in het scherm.
+3. Kies of je je wilt aanmelden met je Google-account, Facebook-account of e-mailadres.
+4. Volg de aanwijzingen om je account te verifiëren en te voltooien.
+
+**Stap 2: Het dashboard verkennen**
+
+1. Nadat je bent ingelogd, kom je op het Canva-dashboard. Hier zie je opties zoals "Maak een ontwerp", "Sjablonen" en "Je ontwerpen".
+2. Neem een paar minuten de tijd om te verkennen wat er beschikbaar is. Let op de sjablonen voor sociale media, presentaties en marketingmateriaal.
+
+**Stap 3: Een eenvoudig ontwerp maken**
+
+1. Klik op "Maak een ontwerp" en kies "Instagram Post" als formaat. Dit is een standaardformaat dat veel wordt gebruikt in netwerkmarketing.
+2. Je komt nu in de ontwerpfase terecht, waar je een lege canvas ziet en aan de linkerkant verschillende tools en sjablonen.
+3. Kies een sjabloon dat je aanspreekt of begin helemaal opnieuw.
+
+**Stap 4: Elementen toevoegen**
+
+1. Voeg tekst toe door links in het menu op "Tekst" te klikken en een van de tekstopties te selecteren.
+2. Voeg een afbeelding toe door op "Foto's" te klikken en een afbeelding te zoeken die bij je merk past. Canva biedt zowel gratis als premium afbeeldingen.
+3. Versleep de elementen naar de gewenste positie en pas de grootte aan door te slepen aan de hoeken.
+
+#### Voorbeeld in Network Marketing
+
+Stel je voor dat je een productlancering hebt. Je kunt Canva gebruiken om een aantrekkelijke Instagram-post te maken die de voordelen van het nieuwe product laat zien, samen met een call-to-action die je publiek aanmoedigt om contact met je op te nemen voor meer informatie.
+
+#### Echte dialogen voor communicatie
+
+**WhatsApp Dialoog**
+
+*Gebruiker*: "Hallo, ik ben geïnteresseerd in je nieuwe product. Kun je me meer informatie sturen?"
+
+*Jij*: "Natuurlijk! Ik stuur je een visuele gids die ik op Canva heb gemaakt. Het laat alle geweldige functies van ons product zien. Hier is de link: [link naar Canva-ontwerp]."
+
+**Zoom Meeting**
+
+Tijdens een Zoom-vergadering kun je je Canva-presentatie delen door je scherm te delen. Zorg ervoor dat je presentatie visueel aantrekkelijk is en de kernpunten van je product of dienst duidelijk weergeeft.
+
+#### Veelgemaakte fouten en hoe deze te vermijden
+
+1. **Te veel tekst gebruiken**: Houd je ontwerpen schoon en eenvoudig. Gebruik bullet points en korte zinnen om je boodschap over te brengen.
+   
+2. **Verwaarlozen van branding**: Zorg ervoor dat al je ontwerpen consistent zijn met je merkidentiteit. Gebruik dezelfde kleuren, lettertypen en logo's.
+
+3. **Afbeeldingen van lage kwaliteit gebruiken**: Gebruik altijd afbeeldingen van hoge kwaliteit om een professionele uitstraling te behouden.
+
+#### Internationale zakelijke cultuur
+
+In de internationale zakenwereld is het belangrijk om rekening te houden met culturele verschillen. Wat in één cultuur werkt, werkt misschien niet in een andere. Met Canva kun je eenvoudig ontwerpen aanpassen om culturele gevoeligheden te respecteren en je boodschap wereldwijd effectief over te brengen.
+
+#### Quiz
+
+**Vraag 1**: Wat is een belangrijk voordeel van het gebruik van Canva in netwerkmarketing?
+
+**Antwoord**: Canva stelt je in staat om consistente en aantrekkelijke visuele content te creëren die de aandacht trekt en je merkboodschap effectief communiceert.
+
+**Vraag 2**: Noem een veelgemaakte fout bij het ontwerpen met Canva.
+
+**Antwoord**: Een veelgemaakte fout is het gebruik van te veel tekst, wat de helderheid en aantrekkingskracht van het ontwerp kan verminderen.
+
+Met deze basiskennis en praktische vaardigheden zou je nu in staat moeten zijn om je eerste ontwerpen in Canva te maken. In de volgende module zullen we dieper ingaan op het gebruik van geavanceerde functies en hoe je deze kunt toepassen in je netwerkmarketingstrategie. Veel succes!

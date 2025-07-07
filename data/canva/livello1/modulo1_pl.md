@@ -1,0 +1,54 @@
+# ### Moduł 1: Wprowadzenie do Canva
+
+Witaj w pierwszym module kursu "Canva", który jest częścią naszego programu nauczania dotyczącego marketingu sieciowego i biznesu cyfrowego. W tym module skupimy się na podstawach korzystania z Canva, narzędzia, które stanie się Twoim najlepszym przyjacielem w tworzeniu atrakcyjnych wizualnie materiałów marketingowych. Dla wielu profesjonalistów Canva jest nieocenionym narzędziem, które pozwala na szybkie i efektywne tworzenie treści wizualnych, niezależnie od poziomu umiejętności graficznych.
+
+#### Teoria i Praktyka
+
+**Czym jest Canva?**
+Canva to intuicyjna platforma online do projektowania graficznego, która umożliwia tworzenie różnorodnych materiałów - od postów w mediach społecznościowych, przez prezentacje, po wizytówki i ulotki. Dzięki bogatej bibliotece szablonów, grafik i zdjęć, nawet osoby bez doświadczenia w projektowaniu mogą tworzyć profesjonalnie wyglądające projekty.
+
+**Dlaczego Canva jest ważna w marketingu sieciowym?**
+W marketingu sieciowym kluczowe jest przyciąganie uwagi odbiorców. Wizualnie atrakcyjne treści mogą zwiększyć zaangażowanie i zasięg Twoich kampanii. Canva umożliwia szybkie dostosowanie materiałów marketingowych do specyficznych potrzeb Twojej sieci, co jest nieocenione w dynamicznie zmieniającym się środowisku biznesowym.
+
+#### Praktyczne zastosowanie w marketingu sieciowym
+
+**Przykład: Tworzenie postu na media społecznościowe dla Live On Plus**
+Załóżmy, że chcesz stworzyć post promujący nową linię produktów Live On Plus. Otwórz Canva i wybierz szablon dla postów na Instagramie. Dzięki temu będziesz mieć pewność, że Twój projekt będzie miał odpowiednie wymiary.
+
+1. **Wybór szablonu:** Wyszukaj słowo kluczowe, np. "promocja" lub "wyprzedaż", aby znaleźć odpowiedni szablon.
+2. **Dostosowanie treści:** Zmień tekst na nazwę produktu i dodaj krótki opis jego zalet. Pamiętaj, aby używać jasnego i zwięzłego języka.
+3. **Dodawanie grafiki:** Wykorzystaj zdjęcia produktów Live On Plus dostępne w Twojej bibliotece mediów lub wybierz z darmowych zasobów w Canva.
+4. **Kolory i czcionki:** Dostosuj kolory i czcionki, aby były spójne z identyfikacją wizualną Twojej marki.
+
+#### Ćwiczenia i quizy
+
+**Ćwiczenie praktyczne:**
+Stwórz grafikę promującą wydarzenie online związane z Twoją siecią marketingową. Skorzystaj z Canva, aby zaprojektować atrakcyjny baner i udostępnij go w mediach społecznościowych.
+
+**Quiz:**
+1. Jakie są główne zalety używania Canva w marketingu sieciowym?
+2. Jak można dostosować szablon w Canva do potrzeb konkretnej kampanii?
+
+**Odpowiedzi:**
+1. Canva umożliwia szybkie i łatwe tworzenie profesjonalnych materiałów graficznych, co jest kluczowe w przyciąganiu uwagi odbiorców.
+2. Dostosowując kolory, czcionki i treści do specyficznych wymagań kampanii oraz identyfikacji wizualnej marki.
+
+#### Dialogi w kontekście biznesowym
+
+**WhatsApp/Telegram:**
+- Ty: "Cześć! Pracuję nad nowym projektem promocyjnym dla Live On Plus. Chciałbym skonsultować się z Tobą na temat użycia Canva. Czy masz chwilę?"
+- Kolega: "Jasne, Canva to świetne narzędzie. Możemy się połączyć na Zoomie, aby omówić szczegóły?"
+
+**Email:**
+- Temat: Wsparcie w tworzeniu materiałów promocyjnych
+- Treść: "Droga Anno, pracuję nad kampanią dla Live On Plus i potrzebuję Twojej opinii na temat mojego projektu w Canva. Czy mogłabyś rzucić okiem i podzielić się swoimi uwagami?"
+
+#### Błędy i jak ich unikać
+
+Jednym z najczęstszych błędów w korzystaniu z Canva jest przesycenie projektu elementami graficznymi. Pamiętaj, aby Twoje projekty były czytelne i spójne wizualnie. Unikaj używania zbyt wielu różnych czcionek i kolorów, które mogą zdezorientować odbiorcę.
+
+#### Kultura biznesowa międzynarodowa
+
+W kontekście międzynarodowego biznesu, Canva umożliwia tworzenie materiałów dostosowanych do różnych rynków. Pamiętaj, aby uwzględniać różnice kulturowe i językowe w swoich projektach. Przykładowo, kolory mają różne znaczenia w różnych kulturach, więc dostosuj paletę barw, aby była odpowiednia dla Twojej grupy docelowej.
+
+Podsumowując, ten moduł wprowadził Cię w podstawy korzystania z Canva i jego zastosowania w marketingu sieciowym. W kolejnych modułach zgłębimy bardziej zaawansowane funkcje i techniki, które pozwolą Ci wyróżnić się na tle konkurencji. Powodzenia!

@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome to Massimo AI!",
+  "choose_country": "Select your country or region to continue.",
+  "choose_language": "Select your language.",
+  "onboarding_intro": "Let’s personalize your experience.",
+  "profile_selection": "Who are you? (Personal, Work, Student, etc.)",
+  "start_free_trial": "Start your free trial",
+  "free_trial_info": "You have {days} days left of your free trial.",
+  "subscribe_now": "Subscribe now to keep using all services.",
+  "price_info": "Price: {price} per month",
+  "success": "Registration completed! Welcome, {name}.",
+  "error": "There was an error. Please try again.",
+  "dashboard": "Your dashboard",
+  "menu": "Main menu"
+}

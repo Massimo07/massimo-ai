@@ -1,0 +1,61 @@
+**Kursus: Canva Tase 2, Moodul 1**
+
+**Sissejuhatus**
+
+Tere tulemast Canva kursuse teise taseme esimesse moodulisse! Canva on võimas tööriist, mis võimaldab luua professionaalseid graafilisi disaine ilma eelneva disainikogemuseta. Selles moodulis keskendume sellele, kuidas kasutada Canvat tõhusalt võrguturunduse ja digitaalsete ettevõtete, nagu Live On Plus, kontekstis. 
+
+**Teooria ja Praktika**
+
+Canva on veebipõhine disainitööriist, mis pakub laia valikut mallide ja tööriistade abil disainide loomiseks. Alustame sellega, kuidas Canvat avada ja projekte luua. Esimesena, minge Canvasse ja logige sisse oma kontoga. Kui teil kontot pole, saate selle luua paari lihtsa sammuga, kasutades oma e-posti aadressi või sotsiaalmeedia kontot.
+
+Kui olete sisse loginud, näete avalehel erinevaid mallide kategooriaid, sealhulgas sotsiaalmeedia postitused, esitlused, plakatid ja palju muud. Kuna keskendume võrguturundusele, valige kategooria "Sotsiaalmeedia postitused". Valige mall, mis kõige paremini teie vajadustele sobib. Näiteks, kui soovite luua postituse, mis reklaamib Live On Plus toodet, valige sobiv mall ja klõpsake sellel.
+
+**Reaalelulised Näited Võrguturunduses**
+
+Oletame, et olete võrguturundaja, kes soovib edendada Live On Plus toodet. Valisite Canvast sobiva sotsiaalmeedia postituse malli ja nüüd on aeg seda kohandada. Klõpsake tekstikastidel, et lisada toote nimi, omadused ja unikaalsed müügiargumendid. Kasutage pilte, mis kajastavad teie toodet või teenust. Canva pildipangast leiate tasuta ja tasulisi pilte, mida saate oma disainis kasutada.
+
+Lisage oma kontaktandmed, näiteks e-posti aadress või telefoninumber, et inimesed saaksid teiega ühendust võtta. Võite lisada ka QR-koodi, mis viib teie veebisaidile või toodete lehele.
+
+**Harjutused ja Viktoriinid**
+
+**Harjutus 1:** Looge Canva abil sotsiaalmeedia postitus, mis reklaamib uut Live On Plus toodet. Kasutage erinevaid fonte, värve ja pilte, et muuta see visuaalselt atraktiivseks.
+
+**Viktoriin:**
+1. Mis on Canva?
+2. Kuidas saate Canvas malli muuta?
+3. Kuidas lisada pilte Canva disainile?
+
+**Lahendused:**
+1. Canva on veebipõhine disainitööriist.
+2. Klõpsake malli erinevatel osadel, et neid kohandada.
+3. Kasutage vasakul asuvat tööriistariba, et lisada pilte.
+
+**Reaalsed Dialoogid**
+
+**WhatsApp Dialoog:**
+Kliendi: "Tere! Kas saaksite mulle saata Canva disaini, mis tutvustab Live On Plus uut toodet?"
+Teie: "Tere! Muidugi, saadan teile kohe disaini. Kas soovite, et lisaksin sinna ka teie kontaktandmed?"
+
+**Telegram Dialoog:**
+Teie: "Tere tiim! Olen loonud uue Canva postituse, mis reklaamib meie uut toodet. Palun vaadake see üle ja andke tagasisidet."
+Tiimiliige: "Väga hea töö! Kas saaksime lisada ka meie uusima kampaania lingi?"
+
+**Zoom Vestlus:**
+Teie: "Täna arutame, kuidas kasutada Canvat meie turundusstrateegias. Näitan, kuidas luua tõhus sotsiaalmeedia postitus."
+Osaleja: "Kas saate näidata, kuidas muuta disain vastavalt meie brändi värvidele?"
+
+**E-mail:**
+Teema: Uus Canva disain Live On Plus edendamiseks
+Sisu: "Tere, saadan teile uue Canva disaini, mille lõin meie uue toote reklaamimiseks. Palun vaadake see üle ja andke teada, kui soovite mingeid muudatusi."
+
+**Levinud Veakad ja Kuidas Neid Vältida**
+
+Üks levinud viga Canvat kasutades on liiga palju erinevate fontide ja värvide kasutamine. See võib muuta disaini segaseks ja raskesti loetavaks. Soovitan kasutada maksimaalselt kahte erinevat fonti ja hoida värvipalett lihtsana, et säilitada professionaalne välimus.
+
+Teine viga on madala kvaliteediga piltide kasutamine. Veenduge, et kasutate kõrge kvaliteediga pilte, et teie disain näeks välja professionaalne ja selge.
+
+**Rahvusvahelise Ärikultuuri Süvitsi Vaatamine**
+
+Rahvusvahelises ärikultuuris on visuaalne esitlus ülioluline. Erinevates kultuurides võivad värvid ja sümbolid omada erinevaid tähendusi. Näiteks võib punane värv Hiinas tähendada õnne, kuid mõnes teises kultuuris võib see olla seotud ohuga. Seega on oluline uurida, millised värvid ja disainielemendid on teie sihtturul kõige sobivamad.
+
+Olenemata sellest, kas töötate kohalikus või rahvusvahelises kontekstis, aitab Canva teil luua visuaalselt köitvaid ja kultuuriliselt tundlikke disaine, mis aitavad teil saavutada oma turunduseesmärke.

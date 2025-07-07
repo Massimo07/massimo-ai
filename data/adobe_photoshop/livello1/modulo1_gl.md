@@ -1,0 +1,57 @@
+# **Módulo 1: Introdución a Adobe Photoshop para Network Marketing e Negocios Dixitais**
+
+**1. Introdución a Adobe Photoshop**
+
+Adobe Photoshop é unha das ferramentas máis poderosas e versátiles para o deseño gráfico e a edición de imaxes. Neste módulo, imos descubrir como podes usar este software para potenciar as túas capacidades no ámbito do marketing en rede e dos negocios dixitais, como Live On Plus. A idea é que, ao finalizar este módulo, te sintas cómodo navegando pola interface de Photoshop e realizando tarefas básicas que che axudarán a crear contido visual atractivo.
+
+**2. Instalación e Configuración Inicial**
+
+Para comezar, necesitarás instalar Adobe Photoshop no teu computador. Asegúrate de ter unha versión actualizada do software. Unha vez instalado, ábreo e familiarízate coa interface. Verás unha barra de ferramentas á esquerda, un panel de capas á dereita e un espazo de traballo no centro. Estes elementos son fundamentais para o traballo en Photoshop.
+
+**3. Teoría e Práctica: Comprender a Interfaz**
+
+A interfaz de Photoshop pode parecer complexa ao principio, pero imos descompoñela. Na barra de ferramentas á esquerda, atoparás ferramentas para seleccionar, pintar, borrar, e máis. Pasa o rato sobre cada icona para ver unha breve descrición da súa función. Practica seleccionando diferentes ferramentas e observa como cambia o cursor.
+
+**4. Exemplo Real: Creación dun Banner para Network Marketing**
+
+Supón que queres crear un banner atractivo para promocionar un evento de Live On Plus. O primeiro paso é abrir un novo documento (Arquivo > Novo) e escoller o tamaño adecuado para o teu banner. Un tamaño común pode ser 1200x600 píxeles.
+
+Selecciona a ferramenta de texto na barra de ferramentas e fai clic no teu lenzo para comezar a escribir. Escribe un título chamativo, como "Únete ao noso evento exclusivo de Live On Plus!". Personaliza o tipo de letra, tamaño e cor na parte superior da pantalla. Proba diferentes estilos ata que o texto destaque.
+
+**5. Esercicios Prácticos**
+
+Exercicio 1: Crea un documento de 800x800 píxeles e experimenta con diferentes tipos de letra e cores. Intenta replicar o estilo dun banner que che guste e adaptao ao teu contido.
+
+Exercicio 2: Inserta unha imaxe no teu documento e axusta o seu tamaño usando a ferramenta de transformación libre (Editar > Transformación libre).
+
+**6. Quiz**
+
+Pregunta 1: Cal é a función da ferramenta de lazo en Photoshop?
+Pregunta 2: Como podes cambiar a cor de fondo dun documento novo?
+
+**Solucións:**
+
+1. A ferramenta de lazo úsase para seleccionar áreas específicas dunha imaxe.
+2. Ao crear un novo documento, podes seleccionar a cor de fondo na ventá de configuración inicial.
+
+**7. Comunicación en Plataformas Dixitais**
+
+En WhatsApp ou Telegram, poderías dicir: "Ola equipo! Acabo de crear un novo banner en Photoshop para o noso evento. Quen quere ver unha vista previa?"
+
+Nunha reunión de Zoom: "Vou compartir pantalla para mostrarvos o proceso de creación de imaxes en Photoshop que estamos usando para mellorar o noso marketing visual."
+
+Nun correo electrónico: "Estimado equipo, adxunto atoparedes o novo banner creado en Adobe Photoshop para a nosa próxima campaña. Espero os vosos comentarios!"
+
+**8. Erros Comúns e Como Evitalos**
+
+Erro: Non gardar o traballo frecuentemente. Solución: Usa o atallo de teclado Ctrl + S (Cmd + S en Mac) para gardar o teu traballo regularmente.
+
+Erro: Traballar nunha soa capa. Solución: Usa múltiples capas para diferentes elementos. Isto permíteche editar partes específicas sen afectar o resto.
+
+**9. Cultura de Negocios Internacional**
+
+No contexto global, a habilidade de crear contido visual profesional é altamente valorada. As imaxes de alta calidade poden mellorar a percepción da túa marca e aumentar o compromiso do cliente. Comprender as preferencias culturais do teu público obxectivo pode influír no estilo de deseño que escolles.
+
+**10. Resumo e Próximos Pasos**
+
+Neste módulo, aprendiches os conceptos básicos de Adobe Photoshop, desde a instalación ata a creación dun banner básico. Practica regularmente para mellorar as túas habilidades. No seguinte módulo, exploraremos técnicas avanzadas de edición de imaxes que fortalecerán aínda máis a túa presenza en network marketing e negocios dixitais.

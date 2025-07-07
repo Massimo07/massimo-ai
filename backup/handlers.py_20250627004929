@@ -1,0 +1,30 @@
+from telegram.ext import (
+    CommandHandler,
+    CallbackQueryHandler,
+    MessageHandler,
+    filters,
+)
+from services.onboarding import onboarding_handlers
+# Qui puoi aggiungere altri import dei tuoi servizi/menu, ad esempio:
+# from services.motivazione import motivazione_handler
+# from services.prodotti import prodotti_handler
+# ...
+
+# --- RACCOLTA TUTTI I HANDLER ---
+def get_handlers():
+    handlers = []
+
+    # ONBOARDING: start, scelta lingua, ecc
+    handlers.extend(onboarding_handlers)
+
+    # Esempio: aggiungi altri handler come motivazione, prodotti, etc
+    # handlers.append(motivazione_handler)
+    # handlers.append(prodotti_handler)
+
+    # Catch-all (per messaggi di testo generici)
+    handlers.append(MessageHandler(filters.TEXT & ~filters.COMMAND, catch_all))
+
+    return handlers
+
+async def catch_all(update, context):
+    await update.message.reply_text("🙋‍♂️ Scrivi /start per cominciare oppure scegli una delle opzioni dal menu in basso.")

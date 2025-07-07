@@ -1,0 +1,61 @@
+### Modulu 1: Adobe Photoshop għal Network Marketing u Business Diġitali
+
+#### Introduzzjoni
+
+Adobe Photoshop huwa wieħed mill-aktar għodod versatili u b'saħħithom għall-editjar tar-ritratti u l-ħolqien tal-kontenut viżiv. F'dan il-modulu, se niffokaw fuq kif tista' tuża Photoshop biex ittejjeb il-preżenza tiegħek fis-suq diġitali, speċjalment fil-qasam tan-network marketing u l-pjattaforma Live On Plus.
+
+#### Teorija u Prattika
+
+##### Teorija Bażika ta' Photoshop
+
+Photoshop jippermettilek toħloq u timmanipula stampi b'modi li jistgħu jieħdu l-kampanji tal-marketing tiegħek għal livelli ġodda. Il-fehim tal-interface huwa l-ewwel pass. Meta tiftaħ Photoshop, tara diversi pjanċi u għodod fuq l-iskrin. Il-pannell tax-xellug juri għodod bażiċi bħal l-għodda tal-għażla, brush, u l-għodda tal-test. Fuq nett, għandek il-menu bar fejn tista' ssib għażliet bħal File, Edit, Image, u aktar. Dan jippermettilek tiffranka l-fajls tiegħek, timmodifika l-immaġini, u tapplika effetti speċjali.
+
+##### Prattika: Ħolqien ta' Banner għal Live On Plus
+
+Ejja nieħdu eżempju prattiku: ħolqien ta' banner promozzjonali għal Live On Plus.
+
+1. **Oħloq Dokument Ġdid**: Mur fuq "File" > "New". Agħżel id-dimensjonijiet ideali skont il-pjattaforma fejn se ttella' l-banner. Għal websajt, id-dimensjonijiet komuni huma 1920x1080 pixels.
+
+2. **Sfond u Kuluri**: Uża l-għodda tal-bucket biex timla l-isfond b'kulur li jirrifletti l-identità tal-marka tiegħek. Għal Live On Plus, tista' tuża blu skur jew griż biex tirrifletti professjonaliżmu.
+
+3. **Żid il-Logos u l-Immaġini**: Importa l-logo tal-kumpanija tiegħek billi tmur fuq "File" > "Place Embedded". Poġġi l-logo f'post prominenti fuq il-banner.
+
+4. **Test Promozzjonali**: Uża l-għodda tal-test biex iżżid kliem bħal "Join Live On Plus Today!" Agħżel font li huwa ċar u faċli biex jinqara.
+
+#### Eżempji Reali
+
+Immaġina li qed tipprepara kampanja ta' email marketing. L-użu ta' Photoshop biex toħloq grafika attraenti jista' jgħin biex ittejjeb ir-rata ta' klikks. Per eżempju, tista' toħloq immaġni ta' qabel u wara li turi l-benefiċċji tal-prodott tiegħek, u mbagħad tinkorpora dik l-immaġni fl-email tiegħek.
+
+#### Eżerċizzji u Quiz
+
+**Eżerċizzju:** Oħloq flyer għall-prodott favorit tiegħek, inkluż immaġini tal-prodott, testi promozzjonali, u logo tal-kumpanija. 
+
+**Quiz:**
+1. X'inhi l-funzjoni tal-għodda tal-lasso?
+2. Kif tista' timporta immaġni f'Photoshop?
+
+**Soluzzjonijiet:**
+1. L-għodda tal-lasso tintuża biex tagħmel għażliet irregolari fuq l-immaġini.
+2. Tista' timporta immaġni billi tmur fuq "File" > "Place Embedded".
+
+#### Dialogi Reali
+
+**WhatsApp:**
+- Int: "Hello, għandek xi pariri kif nista' napplika filtri f'Photoshop?"
+- Kollega: "Żgur! Uża l-għodda tal-'Adjustments' taħt il-menu 'Image'. Hemmhekk tista' ssib diversi għażliet bħal brightness, contrast, u aktar."
+
+**Email:**
+- Int: "Hi team, għadni kif lestajt il-banner għal Live On Plus. Tista' tiċċekkja jekk hemmx xi tibdil li għandna nagħmlu?"
+- Superjur: "Grazzi! Jidher tajjeb, imma forsi nistgħu nżidu aktar kuntrast biex it-test joħroġ aktar."
+
+#### Żbalji Komuni u Kif Tevitahom
+
+Waħda mill-iżbalji komuni hija l-użu żejjed ta' effetti u filtri, li jistgħu jagħmlu l-immaġini tiegħek tidher mhux professjonali. Żommha sempliċi u iffoka fuq il-messaġġ ewlieni li trid twassal.
+
+#### Approfondimenti ta' Kultura Business Internazzjonali
+
+Meta toħloq kontenut viżiv għal suq internazzjonali, huwa importanti li tifhem il-kunċetti kulturali differenti. Kuluri, simboli, u anke kliem jistgħu jkollhom tifsiriet differenti skont il-kultura. Photoshop jista' jgħinek billi toħloq verżjonijiet differenti tal-istess kampanja, adattati għal diversi swieq.
+
+#### Konklużjoni
+
+Dan il-modulu fih il-bażi li teħtieġ biex tibda tuża Adobe Photoshop b'mod effettiv għan-network marketing u l-business diġitali tiegħek. Tiftakar li l-kreattività hija ċ-ċavetta, imma dejjem għandek iżżomm f'moħħok l-identità tal-marka u l-udjenza fil-mira tiegħek. Kif tkompli tistudja, se tiskopri aktar modi kif din l-għodda tista' ttejjeb il-kampanji tiegħek u tagħtik vantaġġ kompetittiv.

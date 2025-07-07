@@ -1,0 +1,60 @@
+# **Modulo 1: Adobe Photoshop eta Network Marketing-a**
+
+**1. Sarrera Adobe Photoshop-era**
+
+Adobe Photoshop argazki eta irudi digitalen edizioa egiteko software oso eta profesionala da. Network marketing-en eta Live On Plus-en, irudi erakargarriak eta profesionalak sortzea ezinbestekoa da zure produktuak eta zerbitzuak modu eraginkorrean sustatzeko. Modulu honetan, Photoshop-en erabilera oinarrizkoak ikasiko ditugu, zure negozio digitalaren irudikapena hobetzeko.
+
+**2. Photoshop-eko Teoria eta Praktika**
+
+Photoshop-en interfazea ulertzea funtsezkoa da. Programa abiarazten duzunean, hainbat atal ikusiko dituzu: tresna barra ezkerrean, panelak eskuinean, eta lan-eremua erdian. Erabili ahal izango dituzun tresnak: Pintzel tresna, Luma tresna eta Testu tresna, besteak beste.
+
+Adibidez, zure produktua sustatzeko banner bat sortzeko, ondorengo pausoak jarraitu:
+
+- **Pauso 1:** Ireki Photoshop eta sortu fitxategi berria (File > New). Aukeratu tamainak, adibidez, 1200x628 pixel, sare sozialetarako egokia den tamaina.
+- **Pauso 2:** Aukeratu kolore atzealdea (Edit > Fill) eta gehitu zure negozioaren logoa (File > Place Embedded).
+- **Pauso 3:** Gehitu testu bat erabiliz Testu tresna. Adibidez, "Ezagutu gure eskaintzak!".
+- **Pauso 4:** Erabili Pintzel tresna efektu bereziak gehitzeko, adibidez, distira edo itzalak.
+
+**3. Eginbide Errealak Network Marketing-erako**
+
+Network marketing-ean, irudi erakargarriek bezero potentzialak erakartzen dituzte. Adibidez, Live On Plus-en, zure produktuak erakusteko Photoshop erabil dezakezu:
+
+- Produktuaren argazki bat hartu eta Photoshop-en editatu, koloreak hobetu eta atzealdea garbituz.
+- Gehitu zure webgunearen URLa eta kontaktu-informazioa, bezeroek erraz aurki zaitzaten.
+
+**4. Eserketak eta Quiz-ak**
+
+Eserketa bat: Sortu irudi bat zure negozioaren logoarekin eta esaldi erakargarri batekin. Erabili kolore eta testura desberdinak ikusgarritasuna hobetzeko.
+
+Quiz-a:
+1. Zein tresna erabiltzen da testua gehitzeko?
+2. Nola aldatu atzealdearen kolorea?
+3. Zer tamaina gomendatzen da sare sozialetarako?
+
+**Soluzioak:**
+1. Testu tresna.
+2. Edit > Fill erabiliz.
+3. 1200x628 pixel.
+
+**5. Komunikazio Tresnak**
+
+Network marketing-ean, komunikazio eraginkorra ezinbestekoa da. Hona hemen zenbait adibide:
+
+- **WhatsApp:** "Kaixo, nola doa zure eguna? Nahi nuke gure azken produktuak erakutsi, hemen duzu banner bat."
+- **Telegram:** "Gure taldeari ongietorria ematen diogu! Hona hemen promozio irudi bat erabil dezakezu."
+- **Zoom:** "Aurkezpenaren amaieran, ikusiko duzue gure produktuen irudiak. Photoshop-en editatu ditugu ikusgarritasuna hobetzeko."
+- **Email:** "Gure azken eskaintzak ikusi nahi dituzu? Begiratu atxikitako irudia!"
+
+**6. Ohiko Akatsak eta Nola Saihestu**
+
+- **Akats 1:** Irudi gehiegi konbinatzea, nahasgarria izan daiteke.
+- **Akats 2:** Testua irakurtezina izatea. Erabili kontraste handiko koloreak.
+- **Akats 3:** Fitxategi formatua oker gordetzea. Sare sozialetarako, .jpg edo .png gomendatzen dira.
+
+**7. Nazioarteko Business Kulturaren Sakontzea**
+
+Photoshop-en lan egitean, kontuan izan nazioarteko merkatuetan erabiltzen diren kolore eta diseinu joerak. Adibidez, kolore gorriak Txinan zorte ona adieraz dezake, baina mendebaldean abisua edo arriskua esan dezake. Ziurtatu zure diseinuak zure xede merkatuaren kulturarekin bat datozela.
+
+**Ondorioa**
+
+Modulu honetan, Photoshop-en oinarrizko gaitasunak ikasi ditugu network marketing-erako irudi erakargarriak sortzeko. Praktika gehiago eginez, zure negozioaren irudi profesionalak sortzeko gai izango zara, eta horrek zure marketin estrategiak hobetuko ditu modu esanguratsuan.

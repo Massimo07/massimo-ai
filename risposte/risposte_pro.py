@@ -1,0 +1,1 @@
+def risposte_pro(testo): return 'Funzionalità PRO in arrivo.'

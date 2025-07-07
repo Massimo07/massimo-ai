@@ -1,0 +1,3 @@
+DEBUG: false
+DATABASE_URL: "postgresql://user:pass@host:port/db"
+SECRET_KEY: "questa-è-la-vera-secret"

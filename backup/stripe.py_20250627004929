@@ -1,0 +1,87 @@
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+import stripe
+
+from utils import get_user
+
+from translations import t
+
+# Carica chiavi Stripe dal file .env
+
+import os
+
+stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
+
+PRICE_IDS = {
+
+    0: "price_FREE",       # Livello 0 (gratuito)
+
+    1: "price_START",      # Primo Passo
+
+    2: "price_SILVER",     # Cambio Vita
+
+    3: "price_GOLD",       # Mentalità Vincente
+
+    4: "price_PLATINUM",   # Crescita Esponenziale
+
+    5: "price_DIAMOND",    # Imprenditore Libero
+
+    6: "price_BLACK",      # Guida del Team
+
+    7: "price_DB",         # Network Leggendario
+
+}
+
+def get_checkout_url(level, user_id):
+
+    return stripe.checkout.Session.create(
+
+        payment_method_types=["card"],
+
+        line_items=[{"price": PRICE_IDS[level], "quantity": 1}],
+
+        mode="subscription",
+
+        success_url=f"https://t.me/MassimoAI?start=success_{user_id}",
+
+        cancel_url=f"https://t.me/MassimoAI?start=cancel_{user_id}",
+
+        metadata={"user_id": str(user_id), "level": str(level)}
+
+    ).url
+
+async async def start_payment_handler(update, context):
+
+    user = update.effective_user
+
+    data = get_user(user.id)
+
+    lang = data.get("lang", "it")
+
+    await context.bot.send_message(
+
+        chat_id=user.id,
+
+        text=t("scegli_livello", lang),
+
+        reply_markup=... # genera bottoni per ogni livello con prezzo e descrizione
+
+    )
+
+async async def payment_callback_handler(update, context):
+
+    query = update.callback_query
+
+    user = query.from_user
+
+    data = get_user(user.id)
+
+    level = int(query.data.replace("pay_lvl_", ""))
+
+    url = get_checkout_url(level, user.id)
+
+    await query.edit_message_text(
+
+        f"Procedi all'abbonamento per il livello {level}. Clicca qui: {url}"
+
+    )

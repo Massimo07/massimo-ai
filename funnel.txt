@@ -1,0 +1,27 @@
+STEP 1: Benvenuto!
+Benvenuto in Massimo AI! Come ti chiami?
+
+STEP 2: Info obiettivo
+Vuoi ricevere solo informazioni, vuoi risparmiare, o vuoi costruire un guadagno?  
+[1] Solo info  
+[2] Voglio risparmiare sui miei acquisti  
+[3] Voglio anche guadagnare
+
+STEP 3: Percorso info
+Se hai scelto "solo info":  
+Scopri i nostri prodotti, il catalogo, i prezzi e le offerte migliori! Scrivi /faq per vedere tutte le domande frequenti.
+
+STEP 4: Percorso risparmio
+Se hai scelto "voglio risparmiare":  
+Per avere fino al 60% di sconto basta la registrazione come Customer! Scrivi /registrati per attivare subito il tuo profilo.
+
+STEP 5: Percorso guadagno
+Se hai scelto "voglio guadagnare":  
+La vera opportunità Live On Plus è il piano marketing!  
+Supera il quiz /quiz per sbloccare tutti i livelli di formazione avanzata.
+
+STEP 6: Reminder
+Non hai ancora completato il quiz? Puoi farlo quando vuoi scrivendo /quiz.
+
+STEP 7: Fine funnel
+Hai completato tutti i passaggi! Ora puoi accedere ai contenuti premium e richiedere il tuo link personalizzato di iscrizione.

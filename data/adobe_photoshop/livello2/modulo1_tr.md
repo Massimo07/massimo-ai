@@ -1,0 +1,65 @@
+# ### Adobe Photoshop Kursu: Seviye 2, Modül 1
+
+Adobe Photoshop, görsel içerik oluşturma ve düzenleme dünyasında vazgeçilmez bir araçtır. Bu modülde, Photoshop'un temel ve ileri düzey özelliklerini network marketing ve dijital iş dünyasında nasıl etkili bir şekilde kullanabileceğinizi öğreneceksiniz.
+
+#### Teori ve Pratik
+
+Photoshop’un temel özellikleri arasında katmanlar, maskeleme, seçim araçları ve ayar katmanları bulunur. Katmanlar, bir görseli farklı bölümlere ayırmanıza ve her bölümü ayrı ayrı düzenlemenize olanak tanır. Örneğin, bir ürün afişi hazırlarken arka planı, metni ve ürün görselini ayrı katmanlar olarak düzenlemek işinizi kolaylaştırır.
+
+Maskeleme, bir katmanın belirli kısımlarını gizlemek veya göstermek için kullanılır. Network marketing materyallerinde, örneğin bir ürünün belirli bölümlerini vurgulamak istediğinizde maskeleme kullanabilirsiniz.
+
+Seçim araçları, bir görselin belirli bir bölümünü seçmenize ve düzenlemenize olanak tanır. Canlı renkler ve dikkat çekici grafikler network marketingde büyük önem taşır ve doğru seçim araçlarıyla profesyonel görseller oluşturabilirsiniz.
+
+Ayar katmanları, görselin tamamını etkilemeden belirli ayarlamalar yapmanıza olanak tanır. Örneğin, bir ürün fotoğrafının sadece renk tonunu değiştirmek istediğinizde ayar katmanlarını kullanabilirsiniz.
+
+#### Gerçek Hayattan Örnekler
+
+Örneğin, Live On Plus platformunda bir ürün tanıtımı yaparken, ürünün dikkat çekici bir görselini oluşturmak önemlidir. Photoshop kullanarak arka planı bulanıklaştırabilir, ürünü öne çıkarabilir ve metin ekleyebilirsiniz. Bu tür küçük ama etkili dokunuşlar, müşteri ilgisini artırabilir.
+
+#### Esercizi ve Çözümleri
+
+**Eserciz 1:** Bir ürün fotoğrafını alıp arka planı değiştirin ve ürünü daha öne çıkaracak bir ayarlama yapın.
+
+**Çözüm:** 
+1. Ürün fotoğrafını Photoshop’a yükleyin.
+2. Seçim aracı (Lasso Tool veya Quick Selection Tool) ile ürünü seçin.
+3. Seçimi ters çevirin ve Delete tuşuna basarak arka planı silin.
+4. Yeni bir katman oluşturun ve istediğiniz arka plan rengini ekleyin.
+5. Ürün katmanına dönün ve ayar katmanları ile parlaklık ve kontrastı ayarlayın.
+
+**Eserciz 2:** Bir afiş tasarlayın ve metin ekleyin.
+
+**Çözüm:**
+1. Yeni bir belge oluşturun (Ölçüler: 1080x1920 px).
+2. Arka planı belirgin bir renkle doldurun.
+3. Ürün görselini ekleyin ve uygun bir yere yerleştirin.
+4. Metin aracı (Text Tool) ile dikkat çekici bir slogan ekleyin.
+5. Her bir element için farklı katmanlar kullanarak düzenlemelerinizi yapın.
+
+#### Dialog Örnekleri
+
+**WhatsApp:**
+- Merhaba, yeni ürünümüzün görseli üzerinde biraz çalıştım. Photoshop ile arka planı değiştirdim ve metin ekledim. Görüşlerinizi bekliyorum!
+
+**Telegram:**
+- Afiş tasarımında Photoshop kullanarak neler yapabileceğimi göstermek istiyorum. Bir Zoom toplantısı ayarlayalım mı?
+
+**Zoom:**
+- Bugün Photoshop’un katman özelliklerini nasıl kullanacağımızı göstereceğim. Ürün görsellerinizi daha profesyonel hale getirebilirsiniz.
+
+**Email:**
+- Merhaba, Photoshop kullanarak hazırladığım yeni afiş tasarımını ekte bulabilirsiniz. Görüşlerinizi paylaşmanızı rica ederim.
+
+#### Yaygın Hatalar ve Bunlardan Kaçınma Yolları
+
+1. **Katmanları Adlandırmamak:** Katmanlarınızı adlandırarak düzenli kalın ve hangi katmanın ne işe yaradığını karıştırmayın.
+   
+2. **Yanlış Dosya Formatı:** Çalışmanızı JPEG yerine PSD olarak kaydetmeyi unutmayın. PSD formatı katmanlarınızı korur ve gelecekte düzenleme yapmanıza olanak tanır.
+
+3. **Düşük Çözünürlük:** Görsellerinizi baskı için hazırlıyorsanız, yeterli çözünürlükte çalıştığınızdan emin olun. Aksi halde, baskı kalitesi düşük olabilir.
+
+#### Uluslararası İş Kültürü İpuçları
+
+Photoshop, uluslararası pazarlarda da yaygın olarak kullanılmaktadır. Kültürel farklılıkları göz önünde bulundurmak, tasarımlarınızın farklı bölgelerdeki hedef kitleye hitap etmesini sağlar. Renklerin, simgelerin ve metinlerin kültürel anlamlarını araştırarak daha etkili ve saygılı tasarımlar oluşturabilirsiniz.
+
+Bu modülde öğrendiklerinizle, network marketing kampanyalarınızda ve dijital iş girişimlerinizde Photoshop’u etkili bir şekilde kullanarak görsel içerikler oluşturabilirsiniz. Unutmayın, pratik yapmak ustalığı getirir. Çalışmalarınızı sürekli olarak gözden geçirin ve geliştirin.

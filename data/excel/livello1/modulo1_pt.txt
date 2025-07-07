@@ -1,0 +1,66 @@
+### Módulo 1: Introdução ao Excel para Network Marketing
+
+#### Introdução
+
+Bem-vindo ao primeiro módulo do nosso curso de Excel, especialmente desenhado para profissionais de network marketing e negócios digitais. Neste módulo introdutório, você aprenderá os fundamentos do Excel, uma ferramenta poderosa para a organização de dados, análise de informações e tomada de decisões estratégicas. Vamos abordar conceitos teóricos e práticos, usando exemplos relacionados ao network marketing e à plataforma Live On Plus.
+
+#### Teoria e Prática do Excel
+
+##### O que é o Excel?
+
+O Excel é um software de planilhas da Microsoft que permite aos usuários organizar, formatar e calcular dados com fórmulas em um sistema de tabelas. No contexto do network marketing, o Excel pode ser utilizado para criar planos de compensação, acompanhar o desempenho da equipe, gerenciar contatos e muito mais.
+
+##### Interface do Excel
+
+1. **Faixa de Opções (Ribbon)**: Localizada na parte superior da tela, a Faixa de Opções contém guias como Página Inicial, Inserir, Layout da Página, que agrupam ferramentas e funcionalidades. Para iniciantes, a guia Página Inicial é frequentemente a mais utilizada, pois contém ferramentas básicas de formatação e edição.
+
+2. **Células**: As células são as unidades básicas de uma planilha. Cada célula é identificada por uma combinação de letra e número, como A1, B2, etc. Você pode inserir dados em células e usar fórmulas para realizar cálculos.
+
+3. **Barra de Fórmulas**: Localizada acima da planilha, a Barra de Fórmulas exibe o conteúdo da célula ativa e permite a inserção de fórmulas.
+
+4. **Planilhas**: Um arquivo do Excel pode conter várias planilhas, acessíveis por abas na parte inferior da janela. Você pode usar diferentes planilhas para organizar dados distintos, como listas de contatos, metas de vendas, etc.
+
+##### Funções Básicas
+
+Para começar, vamos explorar algumas funções básicas que são frequentemente usadas no network marketing:
+
+- **Soma (SUM)**: Para calcular a soma de um intervalo de células. Exemplo: `=SUM(A1:A10)` calcula a soma dos valores de A1 a A10.
+  
+- **Média (AVERAGE)**: Para calcular a média de um conjunto de números. Exemplo: `=AVERAGE(B1:B10)` calcula a média dos valores de B1 a B10.
+
+- **Contagem (COUNT)**: Para contar quantas células contêm números em um intervalo. Exemplo: `=COUNT(C1:C10)`.
+
+#### Exemplo Prático
+
+Imagine que você está gerenciando uma equipe de network marketing na Live On Plus. Você pode usar o Excel para acompanhar as vendas mensais de cada membro da equipe. Crie uma planilha com colunas para o nome do membro, total de vendas e metas. Use a função SOMA para calcular o total de vendas da equipe. Isso ajuda a visualizar o desempenho e identificar áreas de melhoria.
+
+#### Exercícios e Quiz
+
+1. **Exercício Prático**: Crie uma planilha com os nomes de cinco membros da equipe e suas respectivas vendas mensais. Calcule a soma total das vendas e a média. Solução: Use as funções `=SUM(B2:B6)` e `=AVERAGE(B2:B6)`.
+
+2. **Quiz**: Qual função você usaria para contar o número de vendedores que atingiram uma meta específica? Resposta: `=COUNTIF`.
+
+#### Diálogos Reais para Comunicação
+
+**WhatsApp:**  
+*Você:* "Oi, equipe! Atualizei a planilha de desempenho no Excel. Por favor, verifiquem suas vendas mensais e metas. Vamos discutir isso em nossa próxima reunião no Zoom."
+
+**Email:**  
+*Assunto:* Relatório de Vendas Atualizado  
+*Corpo:* "Prezada equipe, anexei a planilha atualizada com os resultados de vendas deste mês. Analisem os dados e preparem suas dúvidas para nossa reunião semanal."
+
+#### Erros Comuns e Como Evitá-los
+
+1. **Erro: Não usar referências absolutas.**  
+   - Solução: Ao copiar fórmulas, use `$` para fixar referências de células, como `$A$1`.
+
+2. **Erro: Inserção incorreta de fórmulas.**  
+   - Solução: Sempre comece fórmulas com `=` e verifique a sintaxe antes de pressionar Enter.
+
+#### Cultura de Negócios Internacional
+
+Em network marketing, entender a cultura de negócios internacional é crucial, pois você pode trabalhar com equipes globalmente diversificadas. No Excel, isso significa estar ciente das diferenças em formatação de datas, uso de vírgulas ou pontos em números, e fusos horários. Personalize suas planilhas para acomodar essas diferenças culturais e mantenha uma comunicação clara e eficaz com suas equipes internacionais.
+
+#### Conclusão
+
+Neste módulo, você aprendeu os conceitos básicos do Excel, explorou suas funcionalidades e como aplicá-las no contexto do network marketing. Pratique regularmente e explore mais funções à medida que avança no curso. No próximo módulo, aprofundaremos em fórmulas e funções mais avançadas para otimizar suas operações de negócios.

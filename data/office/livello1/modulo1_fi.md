@@ -1,0 +1,60 @@
+# ### Moduuli 1: Johdanto Office-ohjelmistoon ja sen käyttö network marketingissa
+
+#### Teoria ja Käytännön Sovellus
+
+Microsoft Office on yksi maailman käytetyimmistä ohjelmistopaketeista, joka tarjoaa työkaluja, kuten Word, Excel, PowerPoint ja Outlook. Näiden ohjelmien avulla voit hallita tietoja, luoda raportteja ja kommunikoida tehokkaasti. Network marketingissa, kuten Live On Plus -alustalla, Office-ohjelmiston käyttö voi tehostaa liiketoimintaprosessejasi merkittävästi.
+
+Aloitamme Microsoft Wordista, joka on tekstinkäsittelyohjelma. Se soveltuu erinomaisesti esitteiden, kirjeiden ja muiden viestintämateriaalien luomiseen. Kun kirjoitat esimerkiksi sähköpostia potentiaaliselle asiakkaalle tai yhteistyökumppanille, voit luoda viestin ensin Wordissa, tarkistaa kielioppia ja muotoilua, ja sitten kopioida sen sähköpostiohjelmaan.
+
+Excel puolestaan on taulukkolaskentaohjelma, joka auttaa sinua hallitsemaan ja analysoimaan tietoa. Voit luoda taulukoita seurantatiedoista, kuten myynnistä tai asiakaskontakteista. Esimerkiksi, jos haluat seurata tiimisi myyntitavoitteita, voit luoda taulukon, johon kirjaat päivittäisen myynnin ja laskelmat. 
+
+PowerPoint on esitysgrafiikkaohjelma, jota käytetään esitysten luomiseen. Network marketingissa voit käyttää PowerPointia luomaan visuaalisesti vaikuttavia esityksiä, jotka tehostavat viestiäsi. Voit esimerkiksi esittää liiketoimintamallisi tai uudet tuotteet tiimillesi tai potentiaalisille asiakkaille.
+
+Outlook on sähköposti- ja kalenteriohjelma, joka auttaa hallitsemaan yhteystietoja ja aikatauluja. Voit esimerkiksi luoda asiakaslistan ja järjestää automaattisia muistutuksia seurantapuheluista tai tapaamisista.
+
+#### Käytännön Esimerkki: Live On Plus
+
+Kuvitellaan tilanne, jossa haluat lähettää uutiskirjeen Live On Plus -tiimillesi. Aloitat luomalla tekstin Wordissa. Kun olet tyytyväinen sisältöön ja muotoiluun, siirryt Outlookiin ja liität tekstin sähköpostiviestiin. Tässä vaiheessa voit hyödyntää Excelissä luotua asiakaslistaa kopioimalla vastaanottajien sähköpostiosoitteet suoraan Outlookiin.
+
+#### Harjoitukset ja Visat
+
+**Harjoitus 1:** Luo Wordissa yksinkertainen esite Live On Plus -tuotteista. Sisällytä siihen otsikko, tuotekuvaus ja yhteystiedot. Tarkista kielioppi Wordin työkalulla ennen kuin tallennat tiedoston.
+
+**Harjoitus 2:** Luo Excelissä taulukko, joka seuraa viikoittaista myyntiäsi. Lisää sarakkeet seuraaville: Viikko, Myynti (€), Tavoite (€), Tavoite saavutettu (Kyllä/Ei).
+
+**Visa:** Mitkä ovat kolme pääasiallista käyttötapaa PowerPointissa network marketingissa?
+
+**Ratkaisut:**
+1. Visuaalisten esitysten luominen liiketoimintamallista.
+2. Tuotteiden tai palveluiden esittely.
+3. Tiimiesitysten ja koulutusten pitäminen.
+
+#### Dialogit
+
+**WhatsApp:**  
+Sinä: "Hei Tiina! Olen luonut uuden esityksen PowerPointissa meidän uudesta tuotteesta. Voinko jakaa sen sinulle sähköpostitse?"
+
+**Telegram:**  
+Tiina: "Totta kai, lähetä vain. Voimme sitten keskustella siitä tarkemmin Zoomissa myöhemmin."
+
+**Zoom:**  
+Sinä: "Kiitos kun liityit kokoukseen, Tiina. Aloitetaan esitys, jonka loin PowerPointilla."
+
+**Sähköposti:**  
+Aihe: Uusi tuote-esittely  
+Hei Tiina,  
+Liitteenä on PowerPoint-esitys meidän uudesta tuotteesta. Käydään se läpi yhdessä Zoomissa.  
+Ystävällisin terveisin,  
+[Sinun Nimesi]
+
+#### Yleiset Virheet ja Miten Välttää Ne
+
+1. **Kielioppivirheet:** Käytä aina Wordin kielioppityökalua ennen kuin lähetät tärkeitä dokumentteja.
+2. **Virheelliset kaavat Excelissä:** Tarkista kaavat huolellisesti ja varmista, että ne viittaavat oikeisiin soluihin.
+3. **Huono esityksen rakenne PowerPointissa:** Pidä diaesitykset selkeinä ja ytimekkäinä. Käytä visuaalisia elementtejä tukemaan viestiäsi.
+
+#### Kansainvälinen Liiketoimintakulttuuri
+
+Network marketing on globaalia, ja kulttuurit eroavat toisistaan. On tärkeää ymmärtää, miten viestintätyyli ja liiketoimintatavat voivat vaihdella eri maissa. Esimerkiksi, amerikkalaiset voivat suosia suoraa ja energistä viestintää, kun taas japanilaiset saattavat arvostaa muodollisempaa lähestymistapaa.
+
+Tämä moduuli antaa sinulle perustiedot Office-ohjelmiston käytöstä network marketingissa. Muista, että harjoitus tekee mestarin. Tartu tilaisuuteen ja käytä näitä työkaluja parantaaksesi liiketoimintaasi!

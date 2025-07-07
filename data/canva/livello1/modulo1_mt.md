@@ -1,0 +1,58 @@
+# Modulu Didattiku: Canva Livell 1, Modulu 1
+
+**Introduzzjoni għal Canva**
+
+Canva hija għodda ta’ disinn grafiku online li hija ideali għal dawk li m’għandhomx ħafna esperjenza fid-disinn iżda jridu joħolqu grafika professjonali. Dan il-modulu se jgħinek tifhem kif tuża Canva b’mod effettiv għan-network marketing u Live On Plus, żewġ oqsma fejn il-preżenza viżiva hija importanti ħafna.
+
+**Teorija u Prattika ta' Canva**
+
+L-ewwel, ejja nifhmu x'inhu Canva. Canva huwa pjattaforma online li jippermetti lill-utenti joħolqu disinji bħal poster, preżentazzjonijiet, logos, u anke postijiet għal social media. Il-pjattaforma toffri templates li huma faċli biex jintużaw, u dan jagħmel il-proċess tad-disinn aktar aċċessibbli għal kulħadd, anke għal dawk li m'għandhomx esperjenza fid-disinn.
+
+**Kif Tibda Tuża Canva**
+
+1. **Irreġistra fuq Canva**: Iftaħ il-websajt ta' Canva fuq www.canva.com. Ikklikkja fuq “Sign Up” biex toħloq kont ġdid. Tista' tirreġistra billi tuża l-email tiegħek jew kont ta' Google jew Facebook.
+
+2. **Esplora t-Templates**: Wara li tidħol, se tara liema templates huma disponibbli. Dawn huma disinji pre-fabbrikati li tista’ tibdel biex jaqblu mal-bżonnijiet tiegħek. Għan-network marketing, tista' ssib templates għal posters promozzjonali, infografika, u postijiet ta' social media.
+
+3. **Agħżel Template**: Għal dan l-eżerċizzju, agħżel template għal post tal-Facebook li tista’ tuża biex tippromwovi prodott fuq Live On Plus. Ikklikkja fuq it-template biex tibda teditjah.
+
+4. **Editja t-Template**: Issa tista’ tibda timmodifika t-test, l-immaġini, u l-kuluri. Biex tbiddel it-test, ikklikkja fuq il-kaxxa tat-test u ibda ittajpja. Għan-network marketing, kun żgur li l-messaġġ huwa ċar u li jħajjar lin-nies jinteraġixxu.
+
+5. **Żid l-Immaġini Tiegħek**: Tista’ ttella’ l-immaġini tiegħek stess billi tikklikkja fuq “Uploads” fuq in-naħa tax-xellug u mbagħad fuq “Upload Media”. Agħżel immaġni li tirrappreżenta l-prodott jew is-servizz tiegħek.
+
+6. **Salva u Esporta**: Ladarba tkun sodisfatt bid-disinn tiegħek, ikklikkja fuq “Download” fin-naħa ta’ fuq tal-lemin. Agħżel il-format li trid (JPEG huwa tajjeb għal social media) u salva fuq il-kompjuter tiegħek.
+
+**Eżempji Reali għan-Network Marketing u Live On Plus**
+
+Immaġina li qed tmexxi kampanja ta’ network marketing għal prodott tas-saħħa fuq Live On Plus. Tista' tuża Canva biex toħloq post attraenti fuq Facebook li juri l-benefiċċji tal-prodott. Uża l-paletta tal-kuluri tal-marka u żid testimonjanzi jew reviżjonijiet viżwali minn klijenti sodisfatti.
+
+**Eżerċizzju**
+
+Oħloq disinn fuq Canva għal post ta' Instagram li jippromwovi l-aħħar webinar tiegħek fuq Live On Plus. Agħżel template, editja l-kuluri u t-test biex jaqblu mal-marka tiegħek, u żid il-logo tal-kumpanija tiegħek. 
+
+**Soluzzjoni Eżerċizzju**
+
+1. Agħżel template ta' post ta' Instagram fuq Canva.
+2. Editja l-kuluri biex jaqblu mal-marka tiegħek.
+3. Żid it-test: "Ġej Webinar Espert! Ingħaqad magħna fuq Live On Plus"
+4. Żid il-logo tal-kumpanija fil-kantuniera.
+
+**Dialogi Realtà Virtwali**
+
+*WhatsApp*: "Hi Maria, qed naħdem fuq xi disinji ġodda fuq Canva għal Live On Plus. Tixtieq tara l-proposti tiegħi?"
+
+*Email*: "Hello Team, Jien għadni kif tlestajt disinn ġdid fuq Canva għall-kampanja li jmiss tagħna. Inkun grat jekk tistgħu tagħtu feedback."
+
+*Zoom*: "Jekk tħarsu lejn is-slide numru tlieta, dan huwa disinn li ħloqt fuq Canva li nistgħu nużaw għall-preżentazzjoni tagħna."
+
+**Errori Komuni u Kif Tevitahom**
+
+- **Nuqqas ta' Konsistenza Viżiva**: Żomm il-kuluri u fonts konsistenti mal-marka tiegħek. Dan jagħti dehra professjonali u koerenti.
+- **Tgħafis Wisq Test**: Evita li żżid wisq informazzjoni f'disinn wieħed. Żommha sempliċi u faċli biex tinqara.
+- **Nuqqas ta' Prova Finali**: Dejjem aqra mill-ġdid it-test qabel ma tippubblika biex tiżgura li m'hemmx żbalji grammatikali jew tipografiċi.
+
+**Approfondiment ta' Kultura Business Internazzjonali**
+
+Fid-dinja tan-network marketing, huwa importanti li tifhem il-kultura u l-preferenzi tal-udjenza internazzjonali tiegħek. Canva jagħtik l-opportunità li toħloq disinji adattati għal swieq differenti billi tuża templates li jirriflettu diversi stili kulturali. Kun żgur li dejjem tikkunsidra l-kuntest kulturali meta toħloq disinji biex tevita nuqqasijiet ta’ qbil kulturali.
+
+Dan il-modulu jipprovdi bażi soda kif tuża Canva b'mod effettiv għan-network marketing u Live On Plus. Fil-moduli li ġejjin, se nkomplu nħarsu lejn tekniki aktar avvanzati u kif tistgħu tgħaqqdu diversi għodda biex ittejjbu l-kampanji tiegħek.

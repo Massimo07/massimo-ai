@@ -1,0 +1,89 @@
+**Modul 1: Úvod do Office v sieťovom marketingu a digitálnom podnikaní**
+
+Vitajte v prvom module kurzu "Office" na úrovni 2. Tento modul sa zameriava na využitie nástrojov Microsoft Office a podobných aplikácií v kontexte sieťového marketingu a digitálneho podnikania, konkrétne s ohľadom na platformu Live On Plus. Naším cieľom je poskytnúť vám praktické zručnosti a teoretické poznatky, ktoré vám pomôžu efektívne komunikovať, organizovať a riadiť vaše podnikanie.
+
+**Teoretická časť:**
+
+Microsoft Office je sada aplikácií, ktoré sú základným nástrojom pre podnikateľov na celom svete. Obsahuje programy ako Word, Excel, PowerPoint a Outlook, ktoré sú nevyhnutné pre vytváranie dokumentov, spracovanie dát, prezentácie a komunikáciu. V sieťovom marketingu sú tieto nástroje kľúčové pre vytváranie profesionálnych materiálov, sledovanie predaja a spravovanie kontaktov.
+
+Word je ideálny na písanie správ, blogov a článkov, ktoré môžete použiť na propagáciu svojho podnikania. Excel vám umožňuje sledovať svoje predaje, výkony tímu a finančné ukazovatele. PowerPoint je neoceniteľným nástrojom pri prezentáciách produktov alebo školeniach. Outlook slúži na efektívnu správu e-mailovej komunikácie a plánovanie stretnutí.
+
+**Praktická časť:**
+
+Začneme s praktickým použitím týchto nástrojov. Predstavte si, že ste zástupcom pre Live On Plus a chcete vytvoriť týždenný report pre svoj tím.
+
+1. **Vytváranie dokumentu vo Worde:**
+   - Otvorte Microsoft Word.
+   - Kliknite na "Nový dokument".
+   - Napíšte nadpis: "Týždenný report – [dátum]".
+   - Vložte tabuľku s dvoma stĺpcami: "Aktivita" a "Výsledky".
+   - Uložte dokument ako "Report_[dátum].docx".
+
+2. **Správa dát v Exceli:**
+   - Otvorte Microsoft Excel.
+   - Vytvorte nový hárok s názvom "Predaje".
+   - Vložte údaje o predaji do tabuliek, napr. "Produkt", "Počet predaných kusov", "Celkový zisk".
+   - Použite funkciu SUM na výpočet celkového zisku.
+
+3. **Príprava prezentácie v PowerPointe:**
+   - Otvorte PowerPoint a vyberte šablónu.
+   - Pridajte snímku s nadpisom "Mesačné výsledky".
+   - Vložte graf, ktorý zobrazuje rast predajov.
+   - Uložte prezentáciu ako "Prezentacia_[dátum].pptx".
+
+4. **Efektívna komunikácia cez Outlook:**
+   - Otvorte Outlook.
+   - Kliknite na "Nový e-mail".
+   - Napíšte predmet: "Týždenný update tímu".
+   - Pridajte prílohy: váš Word dokument a PowerPoint prezentáciu.
+   - Odošlite e-mail svojmu tímu.
+
+**Príklady reálnych situácií:**
+
+- **WhatsApp dialóg:**
+
+  *Vy*: "Ahojte tím, práve som vám poslal týždenný report. Skontrolujte svoje maily, prosím."
+
+  *Člen tímu*: "Vidím to, skvelá práca! Môžeme sa stretnúť cez Zoom na diskusiu?"
+
+- **Telegram dialóg:**
+
+  *Vy*: "Ahojte, práve som zaktualizoval Excel súbor s najnovšími predajmi. Skontrolujte, prosím, a dajte mi vedieť vaše myšlienky."
+
+  *Člen tímu*: "Super, pozriem sa na to teraz."
+
+**Bežné chyby a ako sa im vyhnúť:**
+
+- **Zlá organizácia súborov:**
+  Uchovávajte svoje dokumenty v dobre štruktúrovaných priečinkoch. Napríklad, vytvorte hlavný priečinok "Live On Plus", s podpriečinkami pre "Reporty", "Predaje", "Prezentácie".
+
+- **Nesprávne formátovanie dokumentov:**
+  Používajte štandardizované šablóny a štýly písma, aby vaše dokumenty vyzerali profesionálne.
+
+- **Nedostatočná záloha dát:**
+  Pravidelne zálohujte svoje súbory na cloudové služby, ako je OneDrive alebo Google Drive.
+
+**Kultúrne aspekty medzinárodného podnikania:**
+
+V medzinárodnom podnikaní je dôležité rozumieť kultúrnym rozdielom. Pri práci s globálnymi tímami sa uistite, že váš jazyk je jasný a prispôsobený rôznym kultúrnym normám. Napríklad, pri komunikácii s ázijskými partnermi je vhodné používať formálnejší tón a zdvorilosť.
+
+**Záverečné cvičenia a kvíz:**
+
+- **Cvičenie:** Vytvorte týždenný report pre svoj tím, ktorý obsahuje údaje o predaji, grafy a prezentáciu. Zašlite ho prostredníctvom e-mailu.
+
+- **Kvízové otázky:**
+  1. Ktorý nástroj Office by ste použili na sledovanie predajov?
+     - a) Word
+     - b) Excel
+     - c) PowerPoint
+
+  2. Ako by ste mali štruktúrovať svoje priečinky pre lepšiu organizáciu?
+     - a) Náhodne
+     - b) Podľa dátumu
+     - c) Podľa typu dokumentu
+
+**Riešenia:**
+1. Správna odpoveď: b) Excel
+2. Správna odpoveď: c) Podľa typu dokumentu
+
+Práca s nástrojmi Office je nevyhnutná pre efektívne riadenie vášho podnikania v sieťovom marketingu. Tento modul vám poskytol základné zručnosti a poznatky, ktoré môžete ďalej rozvíjať v praxi. Pri ďalšom module sa zameriame na pokročilejšie techniky a aplikácie, ktoré vám pomôžu ešte viac optimalizovať vaše podnikanie.

@@ -1,0 +1,69 @@
+# **Adobe Photoshop Kursas: Lygis 2, Modulis 1**
+
+**Įvadas į Photoshop ir jo taikymas tinklinėje rinkodaroje**
+
+Sveiki atvykę į mūsų antrąjį Adobe Photoshop kursų lygį! Šiame modulyje mes gilinsimės į pažangesnes Photoshop technikas ir kaip jas pritaikyti tinklinės rinkodaros srityje, ypač naudojant platformą "Live On Plus". Pradėsime nuo teorinių pagrindų, po to pereisime prie praktinių užduočių, kurios padės jums sustiprinti savo įgūdžius.
+
+**Teorija: Kas yra Photoshop ir kaip jis veikia?**
+
+Adobe Photoshop yra galinga grafikos redagavimo programa, kuri leidžia kurti ir redaguoti vaizdus bei grafinius elementus. Tai yra esminis įrankis dizaineriams, fotografams ir rinkodaros specialistams, nes leidžia įgyvendinti kūrybines idėjas su profesionalia kokybe.
+
+Photoshop veikia su sluoksniais, kurie yra tarsi permatomi lapeliai, kuriuos galite redaguoti ir sudėti vienas ant kito norint sukurti galutinį vaizdą. Kiekvienas sluoksnis gali turėti savo spalvą, filtrus, ar efektus, tad galutinis rezultatas yra labai lankstus ir kūrybingas.
+
+**Praktika: Kaip taikyti Photoshop tinklinėje rinkodaroje?**
+
+Tinklinėje rinkodaroje vizualinis turinys yra labai svarbus. Puikiai sukurti vaizdai gali pritraukti daugiau klientų ir padidinti pardavimus. Naudodami Photoshop galite sukurti patrauklius reklaminius skydelius, socialinių tinklų įrašus ar prezentacijų skaidres.
+
+**Pavyzdys: Reklaminio skydelio kūrimas "Live On Plus"**
+
+1. **Atidarykite Photoshop** ir sukurkite naują dokumentą, pasirinkdami tinkamą dydį. Pvz., 1200x628 pikselių yra įprastas dydis Facebook reklamoms.
+
+2. **Įkelkite pagrindinį vaizdą**: Pasirinkite aukštos kokybės vaizdą, kuris atspindi jūsų produktą ar paslaugą. Įterpkite jį kaip pagrindinį sluoksnį.
+
+3. **Pridėkite teksto sluoksnį**: Naudokite aiškų ir įskaitomą šriftą. Parašykite trumpą, bet įtaigų sloganą, pvz., "Padidinkite savo pardavimus su Live On Plus!"
+
+4. **Naudokite filtrus**: Norėdami suteikti vaizdui išskirtinumą, galite naudoti Photoshop filtrus, kaip "Blur" ar "Sharpen", kad išryškintumėte svarbias detales.
+
+5. **Išsaugokite ir eksportuokite** vaizdą tinkamu formatu, pvz., JPEG ar PNG.
+
+**Esercizai ir quiz su sprendimais**
+
+**Užduotis**: Sukurkite socialinio tinklo įrašą apie artėjantį renginį, naudodami "Live On Plus" logotipą ir spalvas.
+
+**Sprendimas**:
+1. Atidarykite naują dokumentą su 1080x1080 pikselių dydžiu.
+2. Naudokite "Live On Plus" spalvų paletę: mėlyna ir oranžinė.
+3. Įterpkite logotipą kaip atskirą sluoksnį.
+4. Pridėkite teksto sluoksnį su renginio data ir laiku.
+5. Išsaugokite kaip PNG, kad būtų išlaikytas skaidrumas.
+
+**Dažni klaidingi žingsniai ir kaip jų išvengti**
+
+1. **Nepastebėjimas sluoksnių**: Dažnai pradedantieji pamiršta, kad dirba su netinkamu sluoksniu. Visada patikrinkite, ar pasirinktas tinkamas sluoksnis, kurį norite redaguoti.
+
+2. **Per didelis filtrų naudojimas**: Filtrų naudojimas gali pagerinti vaizdą, bet per didelis jų naudojimas gali padaryti vaizdą nenatūralų. Naudokite juos saikingai.
+
+**Kultūriniai verslo įžvalgos**
+
+Tarptautiniame versle vizualinis turinys turi skirtingą reikšmę skirtingose kultūrose. Pavyzdžiui, Azijos rinkose spalvos gali turėti simbolinę reikšmę. Raudona dažnai siejama su sėkme, tuo tarpu Vakarų kultūrose ji gali simbolizuoti pavojų. Todėl svarbu suprasti kultūrines subtilybes, kai kuriame turinį tarptautinei auditorijai.
+
+**Dialogai realiame gyvenime**
+
+**WhatsApp/Telegram Dialogas:**
+
+- Klientas: "Sveiki, kaip galiu patobulinti savo reklaminius vaizdus su Photoshop?"
+- Jūs: "Sveiki! Pirmiausia siūlau naudoti sluoksnius, kad pridėtumėte tekstą ir logotipus. Taip pat, naudokite filtrus, kad jūsų vaizdai būtų ryškesni ir patrauklesni."
+
+**Zoom Pokalbis:**
+
+- Instruktorius: "Šiandien parodysiu, kaip naudoti 'Layer Styles'. Ar visi gali matyti mano ekraną?"
+- Studentai: "Taip, matome!"
+
+**Email Komunikacija:**
+
+- Tema: "Photoshop Mokymo Medžiaga"
+- Turinio pavyzdys: "Sveiki, čia rasite pridedamą PDF su šiandienos pamokos santrauka apie sluoksnių naudojimą Photoshop. Jei turite klausimų, nedvejodami rašykite."
+
+**Išvados**
+
+Šis modulis suteikė jums pagrindinių žinių apie Photoshop naudojimą tinklinėje rinkodaroje. Praktikuokite sukurdami savo projektus ir eksperimentuokite su įvairiomis technikomis. Kuo daugiau praktikuosite, tuo labiau įgysite pasitikėjimo savo gebėjimais. Nepamirškite nuolat sekti naujausias tendencijas ir atnaujinti savo įgūdžius!

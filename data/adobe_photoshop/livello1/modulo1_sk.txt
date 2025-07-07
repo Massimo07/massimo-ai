@@ -1,0 +1,57 @@
+**Modul 1: Úvod do Adobe Photoshop pre Network Marketing a Digital Business**
+
+Vitajte v prvom module kurzu "Adobe Photoshop" určeného pre začiatočníkov, ktorí sa zaujímajú o network marketing a digitálny business. Tento modul vám poskytne základné vedomosti o Photoshope, ktoré môžete využiť na vytváranie vizuálne atraktívnych materiálov pre vaše podnikanie. Budeme sa učiť krok za krokom, takže sa nemusíte báť, ak ste v oblasti grafického dizajnu úplnými nováčikmi.
+
+**Teoretický úvod do Adobe Photoshop**
+
+Adobe Photoshop je výkonný grafický editor, ktorý sa používa na úpravu fotografií, tvorbu digitálnych obrazov a grafík. Je to nástroj široko využívaný v marketingu na vytváranie pútavých vizuálnych materiálov, ktoré môžu pomôcť zvýšiť angažovanosť a predaj. V network marketingu môžete Photoshop využiť na tvorbu profesionálnych bannerov, príspevkov na sociálne médiá a prezentácií.
+
+**Praktické základy: Prvý kontakt s Photoshopom**
+
+1. **Inštalácia a rozhranie:** Najprv si stiahnite a nainštalujte Adobe Photoshop z oficiálnej stránky Adobe. Po spustení programu sa oboznámte s jeho rozhraním. Hlavné časti rozhrania zahŕňajú panel nástrojov na ľavej strane, pracovnú plochu v strede a panely vrstiev a histórie na pravej strane.
+
+2. **Vytvorenie nového dokumentu:** Kliknite na "File" (Súbor) a potom na "New" (Nový). Otvorí sa okno, kde si môžete vybrať veľkosť a rozlíšenie dokumentu. Pre sociálne médiá je vhodné použiť rozlíšenie 1080x1080 pixelov.
+
+3. **Základné nástroje:** 
+    - **Nástroj na výber (Move Tool):** Kliknite na ikonu krížika na paneli nástrojov, ktorá vám umožní presúvať objekty v dokumente.
+    - **Nástroj na kreslenie (Brush Tool):** Použite ho na kreslenie a úpravu detailov. Vyberte si veľkosť a tvrdosť štetca podľa potreby.
+    - **Textový nástroj (Text Tool):** Kliknite na ikonu T, aby ste pridali text do svojho dizajnu. To je kľúčové pri vytváraní marketingových materiálov s informáciami o produktoch alebo ponukách.
+
+4. **Použitie vrstiev:** Každý prvok, ktorý pridáte do dokumentu, by mal byť na samostatnej vrstve. To umožňuje jednoduchšiu úpravu a manipuláciu bez ovplyvnenia ostatných častí dizajnu. Naučte sa pracovať s vrstvami pomocou panela Layers (Vrstvy).
+
+**Príklady z praxe: Photoshop v network marketingu**
+
+Napríklad, ak propagujete produkt cez Live On Plus, môžete vytvoriť atraktívny banner s obrázkom produktu, pridať logo vašej značky a krátky slogan. Použite jasné farby a čitateľné písmo, aby ste upútali pozornosť potenciálnych zákazníkov.
+
+**Cvičenia a kvízy**
+
+1. **Cvičenie:** Vytvorte jednoduchý banner pre váš produkt obsahujúci obrázok, text a logo. Skúste použiť rôzne nástroje a vrstvy.
+
+2. **Kvíz:** 
+   - Čo robí nástroj na výber?
+   - Ako pridáte text do dokumentu?
+
+*Riešenia:* 
+- Nástroj na výber umožňuje presúvať objekty.
+- Text pridáte pomocou textového nástroja (T).
+
+**Reálne dialógy pre komunikáciu:**
+
+- **WhatsApp:** 
+  - "Ahoj, potrebujem pomôcť s úpravou obrázku v Photoshope. Môžeme si zavolať?"
+  - "Samozrejme, zavolajme si na Zoom a prejdeme si to spolu."
+
+- **Email:**
+  - Predmet: Potrebujem pomoc s Photoshop projektom
+  - "Dobrý deň, pracujem na marketingovom projekte a potreboval by som radu ohľadom grafického návrhu v Photoshope. Mohli by ste mi poskytnúť nejaké tipy?"
+
+**Bežné chyby a ako sa im vyhnúť**
+
+- **Zabudnutie uložiť prácu:** Vždy pravidelne ukladajte svoju prácu pomocou "File > Save" (Súbor > Uložiť), aby ste predišli strate údajov.
+- **Nepráca s vrstvami:** Pracujte s vrstvami, aby ste mohli jednoducho upravovať jednotlivé prvky dizajnu bez ovplyvnenia ostatných.
+
+**Kultúrne poznatky z medzinárodného biznisu**
+
+V medzinárodnom podnikaní je dôležité chápať vizuálnu komunikáciu ako univerzálny jazyk. Vizuály môžu prekonať jazykové bariéry a priamo komunikovať s globálnym publikom. Preto je schopnosť vytvárať vizuálne príťažlivé materiály v Photoshope cennou zručnosťou v digitálnom marketingu.
+
+Tento modul je vaším prvým krokom do sveta grafického dizajnu a vizuálneho marketingu. Pokračujte v cvičení a skúmaní nástrojov, ktoré Photoshop ponúka, a uvidíte, ako sa vaše zručnosti zlepšujú s každým novým projektom.

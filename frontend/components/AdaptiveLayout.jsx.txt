@@ -1,0 +1,18 @@
+// Massimo AI – AdaptiveLayout.jsx
+import React from "react";
+export default function AdaptiveLayout({ children }) {
+  // Simula device/lingua/accessibilità
+  const isMobile = window.innerWidth < 600;
+  return (
+    <div
+      className={
+        isMobile
+          ? "p-2 bg-white text-base"
+          : "p-8 bg-gradient-to-tr from-black via-violet-800 to-cyan-700 text-lg rounded-2xl"
+      }
+      style={{ minHeight: "100vh", fontFamily: "Montserrat, sans-serif" }}
+    >
+      {children}
+    </div>
+  );
+}

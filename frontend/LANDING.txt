@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Benvenuto nel futuro – Massimo AI</title>
+  <link rel="icon" type="image/png" href="https://d1yei2z3i6k35z.cloudfront.net/13080718/6867c84c4e5ab_copertina1.png" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      min-height: 100vh;
+      background: #000;
+      font-family: 'Montserrat', sans-serif;
+      color: #fff;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    .logo {
+      width: 700px;
+      max-width: 90vw;
+      border-radius: 32px;
+      background: #111;
+      box-shadow: 0 4px 24px #0008;
+      padding: 18px 0 12px 0;
+      margin-top: 48px;
+      margin-bottom: 35px;
+      transition: transform 0.2s;
+    }
+    .logo:hover {
+      transform: scale(1.03) rotate(-2deg);
+      box-shadow: 0 8px 38px #FFD70044, 0 1px 1px #fff1;
+    }
+    .container {
+      background: #15151b;
+      border-radius: 38px;
+      box-shadow: 0 6px 60px 0 #000A, 0 1px 1px 0 #2228;
+      padding: 40px 38px 32px 38px;
+      margin: 0 auto;
+      max-width: 700px;
+      width: 95vw;
+      text-align: center;
+      position: relative;
+    }
+    .main-title {
+      font-size: 2.8rem;
+      font-weight: 600;
+      background: linear-gradient(90deg,#FFD700 20%,#FF8F00 40%,#8B5CFF 65%,#4EC9FF 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      letter-spacing: 2px;
+      margin-bottom: 8px;
+      margin-top: 10px;
+    }
+    .subtitle {
+      font-size: 1.45rem;
+      font-weight: 400;
+      margin-bottom: 22px;
+      background: linear-gradient(90deg, #bba51d 30%, #8B5CFF 60%, #4EC9FF 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    .desc {
+      font-size: 1.18rem;
+      font-weight: 400;
+      margin-bottom: 14px;
+    }
+    .highlight {
+      color: #FFD700;
+      font-weight: 700;
+      font-size: 1.15rem;
+      margin: 0 0 18px 0;
+      display: block;
+      background: linear-gradient(90deg, #FFD700 0, #FF8F00 80%, #fff 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    .form-row {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 14px;
+    }
+    .form-row input {
+      flex: 1;
+    }
+    form input, form select {
+      width: 100%;
+      padding: 16px 14px;
+      margin-bottom: 16px;
+      border-radius: 15px;
+      border: none;
+      font-size: 1.18rem;
+      background: #22242d;
+      color: #fff;
+      box-shadow: 0 1px 8px #0002;
+      transition: border 0.16s;
+    }
+    form input:focus {
+      border: 2px solid #FF8F00;
+      outline: none;
+    }
+    .submit-btn {
+      width: 100%;
+      padding: 18px 0;
+      font-size: 1.25rem;
+      background: linear-gradient(90deg, #FFD700, #8B5CFF 90%);
+      color: #000;
+      border: none;
+      border-radius: 18px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.22s;
+      box-shadow: 0 2px 12px #0003;
+      margin-top: 10px;
+      margin-bottom: 2px;
+    }
+    .submit-btn:hover {
+      background: linear-gradient(90deg, #FF8F00 10%, #FFD700 90%);
+      color: #222;
+    }
+    .language-switcher {
+      display: flex;
+      justify-content: flex-end;
+      gap: 12px;
+      margin-bottom: 0;
+      margin-top: -18px;
+    }
+    .lang-btn {
+      background: #232324;
+      color: #fff;
+      border: 1.5px solid #FF8F00;
+      border-radius: 10px;
+      padding: 6px 16px;
+      cursor: pointer;
+      font-size: 1.02rem;
+      font-weight: 600;
+      transition: background 0.15s, color 0.15s;
+    }
+    .lang-btn.selected, .lang-btn:hover {
+      background: #FFD700;
+      color: #111;
+    }
+    @media (max-width: 900px) {
+      .logo { width: 98vw; max-width: 100vw; }
+      .container { max-width: 98vw; }
+    }
+    @media (max-width: 600px) {
+      .logo { width: 99vw; min-width: 0; }
+      .container { max-width: 99vw; padding: 16px 4vw 16px 4vw; }
+      .main-title { font-size: 2rem; }
+    }
+  </style>
+</head>
+<body>
+  <img src="https://d1yei2z3i6k35z.cloudfront.net/13080718/6867c84c4e5ab_copertina1.png" alt="Massimo AI Logo" class="logo" />
+
+  <div class="container">
+    <div class="language-switcher">
+      <button class="lang-btn selected" data-lang="en">English</button>
+      <button class="lang-btn" data-lang="it">Italiano</button>
+      <button class="lang-btn" data-lang="fr">Français</button>
+      <button class="lang-btn" data-lang="de">Deutsch</button>
+      <button class="lang-btn" data-lang="es">Español</button>
+      <button class="lang-btn" data-lang="ru">Русский</button>
+      <button class="lang-btn" data-lang="ar">عربي</button>
+      <button class="lang-btn" data-lang="zh">中文</button>
+    </div>
+    <div class="main-title" id="mainTitle">Your gateway to the future</div>
+    <div class="subtitle" id="subtitle">The first generative AI ecosystem that adapts, grows and creates personalized digital worlds on demand</div>
+    <div class="desc" id="desc">
+      Massimo AI is not an assistant, it's a living ecosystem that helps you grow, evolve and create positive impact in every dimension.<br><br>
+      Secure your place now: you will be among the first to access the most advanced and ethical AI in the world.
+    </div>
+    <span class="highlight" id="promoText">
+      Only for the first: 15€/month for 3 months instead of 20€!
+    </span>
+    <form id="preorderForm" autocomplete="off">
+      <div class="form-row">
+        <input type="text" name="nome" id="nome" placeholder="First Name" required />
+        <input type="text" name="cognome" id="cognome" placeholder="Last Name" required />
+      </div>
+      <div class="form-row">
+        <input type="email" name="email" id="email" placeholder="Email" required />
+        <input type="tel" name="cell" id="cell" placeholder="Mobile" required />
+      </div>
+      <button class="submit-btn" type="submit" id="submitBtn">Reserve your spot now!</button>
+    </form>
+    <div id="formSuccess" style="display:none;color:#FFD700;font-weight:600;font-size:1.18rem;margin-top:16px;">Thank you! We received your request.</div>
+  </div>
+  <script>
+    // Traduzioni base
+    const translations = {
+      en: {
+        mainTitle: "Your gateway to the future",
+        subtitle: "The first generative AI ecosystem that adapts, grows and creates personalized digital worlds on demand",
+        desc: "Massimo AI is not an assistant, it's a living ecosystem that helps you grow, evolve and create positive impact in every dimension.<br><br>Secure your place now: you will be among the first to access the most advanced and ethical AI in the world.",
+        promoText: "Only for the first: 15€/month for 3 months instead of 20€!",
+        nome: "First Name",
+        cognome: "Last Name",
+        email: "Email",
+        cell: "Mobile",
+        submitBtn: "Reserve your spot now!",
+        thankYou: "Thank you! We received your request."
+      },
+      it: {
+        mainTitle: "La tua porta verso il futuro",
+        subtitle: "Il primo ecosistema AI generativo che si adatta, cresce e crea mondi digitali personalizzati su richiesta",
+        desc: "Massimo AI non è un assistente, è un ecosistema vivente che ti aiuta a crescere, evolvere e generare impatto positivo in ogni dimensione.<br><br>Prenota subito il tuo posto: sarai tra i primi ad accedere all'AI più evoluta ed etica al mondo.",
+        promoText: "Solo per i primi: 15€/mese per 3 mesi invece di 20€!",
+        nome: "Nome",
+        cognome: "Cognome",
+        email: "Email",
+        cell: "Cellulare",
+        submitBtn: "Prenota ora!",
+        thankYou: "Grazie! Abbiamo ricevuto la tua richiesta."
+      },
+      fr: {
+        mainTitle: "Votre portail vers le futur",
+        subtitle: "Le premier écosystème d'IA génératif qui s'adapte, grandit et crée des mondes numériques personnalisés à la demande",
+        desc: "Massimo AI n'est pas un assistant, c'est un écosystème vivant qui vous aide à grandir, évoluer et créer un impact positif dans chaque dimension.<br><br>Réservez votre place dès maintenant : vous serez parmi les premiers à accéder à l'IA la plus avancée et éthique au monde.",
+        promoText: "Pour les premiers : 15€/mois pendant 3 mois au lieu de 20€ !",
+        nome: "Prénom",
+        cognome: "Nom",
+        email: "Email",
+        cell: "Téléphone",
+        submitBtn: "Réservez votre place !",
+        thankYou: "Merci ! Nous avons bien reçu votre demande."
+      },
+      de: {
+        mainTitle: "Ihr Tor zur Zukunft",
+        subtitle: "Das erste generative KI-Ökosystem, das sich anpasst, wächst und auf Abruf personalisierte digitale Welten erschafft",
+        desc: "Massimo AI ist kein Assistent, sondern ein lebendiges Ökosystem, das Ihnen hilft, zu wachsen, sich zu entwickeln und in jeder Dimension positive Auswirkungen zu erzielen.<br><br>Sichern Sie sich jetzt Ihren Platz: Sie gehören zu den Ersten, die Zugang zur fortschrittlichsten und ethischsten KI der Welt erhalten.",
+        promoText: "Nur für die ersten: 15 €/Monat für 3 Monate statt 20 €!",
+        nome: "Vorname",
+        cognome: "Nachname",
+        email: "E-Mail",
+        cell: "Handy",
+        submitBtn: "Jetzt Platz sichern!",
+        thankYou: "Danke! Wir haben Ihre Anfrage erhalten."
+      },
+      es: {
+        mainTitle: "Tu puerta al futuro",
+        subtitle: "El primer ecosistema de IA generativa que se adapta, crece y crea mundos digitales personalizados a pedido",
+        desc: "Massimo AI no es un asistente, es un ecosistema vivo que te ayuda a crecer, evolucionar y crear impacto positivo en cada dimensión.<br><br>¡Asegura tu lugar ahora! Serás de los primeros en acceder a la IA más avanzada y ética del mundo.",
+        promoText: "¡Solo para los primeros: 15 €/mes durante 3 meses en lugar de 20 €!",
+        nome: "Nombre",
+        cognome: "Apellido",
+        email: "Correo electrónico",
+        cell: "Móvil",
+        submitBtn: "¡Reserva tu plaza!",
+        thankYou: "¡Gracias! Hemos recibido tu solicitud."
+      },
+      ru: {
+        mainTitle: "Ваш путь в будущее",
+        subtitle: "Первая генеративная экосистема ИИ, которая адаптируется, развивается и создает персонализированные цифровые миры по запросу",
+        desc: "Massimo AI — это не ассистент, а живой организм, который помогает вам расти, развиваться и создавать позитивное влияние во всех сферах.<br><br>Забронируйте место сейчас: вы будете среди первых, кто получит доступ к самой передовой и этичной ИИ в мире.",
+        promoText: "Только для первых: 15 €/месяц в течение 3 месяцев вместо 20 €!",
+        nome: "Имя",
+        cognome: "Фамилия",
+        email: "Эл. почта",
+        cell: "Телефон",
+        submitBtn: "Забронировать место!",
+        thankYou: "Спасибо! Мы получили вашу заявку."
+      },
+      zh: {
+        mainTitle: "通往未来的门户",
+        subtitle: "首个可自我进化、按需生成定制数字世界的生成式AI生态系统",
+        desc: "Massimo AI不仅仅是一个助手，它是一个帮助你在各个维度成长、进化并创造积极影响的智能生态系统。<br><br>立即预订席位，成为全球首批体验最先进、最具道德责任感AI的人！",
+        promoText: "仅限前几位：每月15欧元，3个月后恢复至20欧元！",
+        nome: "名",
+        cognome: "姓",
+        email: "邮箱",
+        cell: "手机",
+        submitBtn: "立即预约！",
+        thankYou: "谢谢！我们已收到您的申请。"
+      },
+      ar: {
+        mainTitle: "بوابتك إلى المستقبل",
+        subtitle: "أول نظام بيئي للذكاء الاصطناعي التوليدي يتكيف وينمو ويخلق عوالم رقمية مخصصة عند الطلب",
+        desc: "Massimo AI ليس مساعداً، بل هو نظام بيئي حي يساعدك على النمو والتطور وإحداث تأثير إيجابي في جميع المجالات.<br><br>احجز مكانك الآن: ستكون من أوائل من يحصلون على أكثر الذكاء الاصطناعي تطوراً وأخلاقية في العالم.",
+        promoText: "فقط للأوائل: 15 يورو شهريًا لمدة 3 أشهر بدلاً من 20 يورو!",
+        nome: "الاسم",
+        cognome: "اللقب",
+        email: "البريد الإلكتروني",
+        cell: "الجوال",
+        submitBtn: "احجز مكانك الآن!",
+        thankYou: "شكرًا لك! لقد تلقينا طلبك."
+      }
+    };
+
+    const langBtns = document.querySelectorAll('.lang-btn');
+    const updateLang = (lang) => {
+      document.getElementById('mainTitle').innerHTML = translations[lang].mainTitle;
+      document.getElementById('subtitle').innerHTML = translations[lang].subtitle;
+      document.getElementById('desc').innerHTML = translations[lang].desc;
+      document.getElementById('promoText').innerHTML = translations[lang].promoText;
+      document.getElementById('nome').placeholder = translations[lang].nome;
+      document.getElementById('cognome').placeholder = translations[lang].cognome;
+      document.getElementById('email').placeholder = translations[lang].email;
+      document.getElementById('cell').placeholder = translations[lang].cell;
+      document.getElementById('submitBtn').textContent = translations[lang].submitBtn;
+      document.getElementById('formSuccess').textContent = translations[lang].thankYou;
+      langBtns.forEach(btn => btn.classList.remove('selected'));
+      document.querySelector(`.lang-btn[data-lang="${lang}"]`).classList.add('selected');
+    };
+
+    langBtns.forEach(btn => {
+      btn.onclick = () => updateLang(btn.getAttribute('data-lang'));
+    });
+
+    // Form handler
+    document.getElementById('preorderForm').onsubmit = function(e) {
+      e.preventDefault();
+      document.getElementById('preorderForm').style.display = 'none';
+      document.getElementById('formSuccess').style.display = 'block';
+    };
+  </script>
+</body>
+</html>

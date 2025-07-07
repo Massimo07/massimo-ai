@@ -1,0 +1,67 @@
+# ### Módulo 1: Introducción a Canva para Network Marketing
+
+Bienvenido al primer módulo del curso "Canva" nivel 1. Aquí exploraremos las bases de esta herramienta de diseño gráfico y cómo puedes utilizarla para potenciar tu estrategia de network marketing, especialmente en plataformas como Live On Plus. A lo largo de este módulo, te proporcionaremos una comprensión detallada tanto de la teoría como de la práctica, con ejemplos reales y ejercicios para reforzar tu aprendizaje.
+
+#### Teoría: ¿Qué es Canva?
+
+Canva es una plataforma de diseño gráfico en línea que permite a los usuarios crear gráficos, presentaciones, carteles, documentos y otros contenidos visuales. Es especialmente útil para aquellos que no tienen experiencia en diseño gráfico, gracias a su interfaz intuitiva y a la amplia gama de plantillas disponibles.
+
+En el contexto del network marketing, Canva se convierte en una herramienta esencial para crear materiales atractivos que pueden captar la atención de potenciales clientes y socios. Desde la creación de publicaciones en redes sociales hasta el diseño de presentaciones de ventas, Canva ofrece una solución simple y efectiva para mejorar tu presencia visual.
+
+#### Práctica: Primeros pasos en Canva
+
+1. **Registro y acceso**: Dirígete a [www.canva.com](http://www.canva.com) y regístrate con tu correo electrónico o a través de una cuenta de Google o Facebook. Una vez registrado, accede a tu tablero de Canva.
+
+2. **Exploración del tablero**: Familiarízate con el entorno de Canva. A la izquierda, encontrarás opciones para plantillas, elementos, texto, fotos y más. En el centro, verás un espacio de trabajo donde aparecerán tus diseños.
+
+3. **Creación de un diseño básico**: Haz clic en "Crear un diseño" y selecciona el tipo de diseño que deseas crear, por ejemplo, "Publicación para Instagram". Esto abrirá un nuevo espacio de trabajo con dimensiones predefinidas.
+
+4. **Uso de plantillas**: Explora las plantillas prediseñadas que Canva ofrece. Selecciona una que se adapte a tu mensaje de marketing. Puedes personalizarla cambiando textos, colores y elementos gráficos para que se alineen con tu marca.
+
+#### Ejemplo real: Creación de una publicación para Live On Plus
+
+Imagina que estás lanzando un nuevo producto a través de Live On Plus. Necesitas una publicación en redes sociales que resalte las características y beneficios del producto.
+
+1. Selecciona una plantilla adecuada para redes sociales.
+2. Sustituye el texto genérico por un mensaje atractivo que describa tu producto.
+3. Usa imágenes de alta calidad. Puedes cargar fotos propias o utilizar las que ofrece Canva.
+4. Aplica los colores de tu marca para mantener la consistencia visual.
+
+#### Ejercicios y quiz
+
+**Ejercicio práctico**: Crea un folleto para un evento de presentación de negocio en Live On Plus. Usa Canva para diseñar un folleto que incluya la fecha, el lugar, los oradores y una breve descripción del evento.
+
+**Quiz**:
+1. ¿Qué es Canva y para qué se utiliza principalmente?
+2. Describe los pasos para crear un diseño básico en Canva.
+3. ¿Por qué es importante personalizar las plantillas en Canva?
+
+**Soluciones**:
+1. Canva es una plataforma de diseño gráfico en línea utilizada para crear diversos contenidos visuales.
+2. Registro, exploración del tablero, creación de diseño, uso de plantillas.
+3. Para asegurar que el diseño refleje la identidad de tu marca y mensaje específico.
+
+#### Diálogos reales para WhatsApp, Telegram, Zoom, email
+
+**WhatsApp/Telegram**:
+- Tú: "Hola [Nombre], te invito a un evento exclusivo de Live On Plus este viernes. He creado un folleto con todos los detalles usando Canva. ¿Puedo enviártelo?"
+- Contacto: "¡Claro! Me encantaría verlo."
+
+**Zoom**:
+- Tú: "Durante nuestra presentación, observarán algunos gráficos diseñados en Canva para ilustrar los beneficios de unirse a Live On Plus."
+
+**Email**:
+- Asunto: "Descubre nuestro próximo evento en Live On Plus"
+- Cuerpo: "Hola [Nombre], adjunto encontrarás un folleto informativo diseñado en Canva sobre nuestro próximo evento. Esperamos contar con tu presencia."
+
+#### Errores comunes y cómo evitarlos
+
+1. **Sobrecargar el diseño**: Evita usar demasiados elementos. La simplicidad es clave para mantener el enfoque en el mensaje principal.
+2. **No ajustar el tamaño del texto**: Asegúrate de que el texto sea legible en diferentes dispositivos.
+3. **Ignorar la paleta de colores**: Usa colores que representen tu marca y asegúrate de que sean complementarios.
+
+#### Cultura de negocios internacional
+
+En el entorno global del network marketing, es crucial entender las preferencias culturales y estéticas de diferentes audiencias. Canva te permite adaptar tus diseños para que sean culturalmente relevantes, lo que puede aumentar la efectividad de tus campañas internacionales.
+
+Al finalizar este módulo, deberías sentirte más cómodo utilizando Canva para tus necesidades básicas de diseño en el contexto del network marketing. Practica regularmente y experimenta con diferentes plantillas y estilos para desarrollar tus habilidades.

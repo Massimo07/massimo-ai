@@ -1,0 +1,31 @@
+# Cúrsa Gairmiúil ar Mhargaíocht Líonra do Live On Plus: Modúl 1 - Fás Líonra, Earcú, Díolacháin, Dúbailt, Ceannaireacht agus Bainistíocht Foirne Idirnáisiúnta
+
+Réamhrá:
+Fáilte chuig an gcéad mhodúl de do chúrsa gairmiúil ar mhargaíocht líonra le fócas ar Live On Plus. Sa mhodúl seo, díreoimid ar roinnt gnéithe bunúsacha d'fhás líonra, earcú, díolacháin, dúbailt, ceannaireacht, agus bainistíocht foirne idirnáisiúnta. Beidh muid ag míniú gach rud céim ar chéim ionas go dtuigeann tú go hiomlán conas na scileanna seo a chur i bhfeidhm i do ghnó.
+
+Teoiric agus Cleachtas:
+Sa mhargaíocht líonra, is é an príomhchuspóir líonra láidir de dhaoine a chruthú a roinneann an táirge nó an tseirbhís atá á chur chun cinn agat. Tá sé tábhachtach tuiscint a fháil ar an gcaoi a n-oibríonn an córas seo go teoiriciúil agus go praiticiúil. Go teoiriciúil, tá an coincheap simplí: cuir daoine nua leis, múin dóibh conas an rud céanna a dhéanamh, agus cabhraigh leo fás.
+
+Samplaí Fíor-Shaoil:
+Sampla praiticiúil is ea an bealach a d'fhéadfadh tú a bheith ag obair le Live On Plus. Abair go bhfuil tú ag díol táirgí sláinte. Tosaíonn tú trí do chiorcal sóisialta féin a úsáid, ag cur na táirgí chun cinn trí scéalta ratha pearsanta. Nuair a bhíonn daoine nua cláraithe agat, is é do ról iad a thraenáil chun na táirgí a dhíol agus a gciorcal féin a fhás. 
+
+Cleachtadh: Cruthaigh liosta de dheichniúr a d'fhéadfá a chur i láthair do tháirgí Live On Plus, agus scríobh amach conas a dhéanfá teagmháil leo.
+
+Dialóga Fíor-Shaoil:
+1. WhatsApp: "Dia duit [ainm], tá mé tar éis tosú le Live On Plus agus tá táirgí iontacha agam a chabhróidh le do shláinte. An mbeadh suim agat tuilleadh a fhoghlaim?"
+2. Zoom: "Táim sásta go bhfuil tú anseo inniu. Lig dom a thaispeáint duit conas a d'fhéadfadh na táirgí seo tionchar dearfach a bheith acu ar do shaol agus conas is féidir leat páirt a ghlacadh san fhoireann."
+3. Email: "A [ainm], tá seans iontach agam duit le Live On Plus. Má tá suim agat sa tsláinte agus sa ghnó, bheadh sé iontach bualadh le chéile chun caint faoi."
+
+Earráidí Coitianta agus Conas Iad a Sheachaint:
+Ceann de na botúin is coitianta is ea neamhaird a dhéanamh ar an tábhacht a bhaineann le caidrimh fhadtéarmacha a thógáil. Ná dírigh ar dhíol láithreach; ina áit sin, cothaigh muinín agus caidrimh. Seachain ró-mhór a bhrú nó a bheith ró-ghanadh, mar is féidir leis sin daoine a chur ar ais.
+
+Cultúr Gnó Idirnáisiúnta:
+Tá sé riachtanach a bheith feasach ar an éagsúlacht chultúrtha nuair a bhíonn tú ag obair le foirne idirnáisiúnta. Tóg am chun tuiscint a fháil ar na difríochtaí cultúrtha agus oiriúnú dá réir. Bí measúil agus oscailte do dhearcthaí agus do chleachtais éagsúla.
+
+Ceannaireacht agus Bainistíocht:
+Ceannaireacht éifeachtach sa mhargaíocht líonra ciallaíonn tú a bheith mar eiseamláir do do fhoireann. Múnlaigh an iompar a theastaíonn uait a fheiceáil iontu. Bainistigh do fhoireann trí thacaíocht a thabhairt dóibh, freastal ar a gcuid riachtanas, agus iad a spreagadh chun a n-acmhainneacht iomlán a bhaint amach.
+
+Quiz: Cad iad na trí scil is tábhachtaí i bhfás líonra? Freagra: Earcú, Traenáil, Dúbailt.
+
+Conclúid:
+Tá an modúl seo dírithe ar bhunghnéithe na margaíochta líonra a thuiscint agus a chur i bhfeidhm go héifeachtach. Trí na prionsabail seo a mháistreacht, beidh tú in ann líonra rathúil a chruthú le Live On Plus agus rath do ghnó a fheiceáil. Cleachtaigh na scileanna seo go rialta, agus ná bíodh aon leisce ort aiseolas a lorg ó do chomhghleacaithe nó do mheantóirí.

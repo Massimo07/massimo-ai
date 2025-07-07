@@ -1,0 +1,14 @@
+{
+    "123456789": {
+        "lang": "it",
+        "name": "Mario",
+        "nation": "Italia",
+        "level": 0,
+        "quiz_done": false,
+        "registered": false,
+        "code": "",
+        "sponsor": "",
+        "support": "",
+        "faq_done": false
+    }
+}

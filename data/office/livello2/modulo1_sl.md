@@ -1,0 +1,43 @@
+# **Modul 1: Osnove Office aplikacij za digitalno poslovanje in mrežni marketing**
+
+Dobrodošli v prvem modulu našega tečaja "Office" na ravni 2. V tem modulu se bomo osredotočili na uporabo Office aplikacij v kontekstu digitalnega poslovanja in mrežnega marketinga, s posebnim poudarkom na Live On Plus. Naša pot se bo začela s temeljnimi teorijskimi koncepti, nadaljevala pa se bo s praktičnimi primeri in vajami. 
+
+**Teorija in praksa**
+
+Office aplikacije, kot so Microsoft Word, Excel in PowerPoint, so ključne za uspešno vodenje digitalnega poslovanja. Te aplikacije nam omogočajo, da ustvarjamo in delimo dokumente, analiziramo podatke ter pripravljamo predstavitve, ki so pomembne za učinkovito komunikacijo in strategijo v mrežnem marketingu.
+
+1. **Microsoft Word**: Osnovna uporaba vključuje pisanje in urejanje besedilnih dokumentov. V kontekstu mrežnega marketinga lahko Word uporabimo za pripravo poročil o prodaji ali za dokumentacijo strategij.
+
+2. **Microsoft Excel**: Najpomembnejše funkcionalnosti za mrežni marketing so tabele, grafikoni in funkcije za analizo. Na primer, Excel lahko uporabite za sledljivost prodajnih rezultatov ali analizo tržnih trendov.
+
+3. **Microsoft PowerPoint**: Ustvarjanje privlačnih predstavitev je ključno za komunikacijo z ekipo ali potencialnimi strankami. PowerPoint vam omogoča, da vizualno predstavite svoje ideje in strategije.
+
+**Primeri realne uporabe**
+
+Vzemimo primer podjetja Live On Plus, kjer se mrežni marketing uporablja za širjenje baze strank. S pomočjo Microsoft Word lahko ekipa pripravi mesečne poročila o uspešnosti, v katerih so vključeni rezultati prodaje in povratne informacije strank. Excel pa se uporablja za analizo teh podatkov, saj omogoča prikazovanje podatkov v obliki grafikonov, kar olajša prepoznavanje trendov in določanje ključnih kazalnikov uspešnosti. PowerPoint predstavitve se uporabljajo za mesečne sestanke z vodstvom, kjer se delijo uspešne strategije in določajo cilji za naslednje obdobje.
+
+**Vaje in kvizi z rešitvami**
+
+1. **Vaja**: Ustvarite Word dokument, ki povzema mesečne prodajne rezultate vaše ekipe.
+   - **Rešitev**: V dokument vključite naslov, tabelo z rezultati ter zaključke in priporočila za izboljšanje.
+
+2. **Kviza vprašanje**: Kako lahko uporabite Excel za analizo tržnih trendov?
+   - **Rešitev**: Z uporabo funkcij, kot so pivot tabele in grafikoni, za prikazovanje in analizo podatkov.
+
+**Dialogi v realnem času**
+
+- **WhatsApp**: "Živjo ekipa! Prosim, da do petka posodobite svoje prodajne številke v Excel tabeli na naši skupni Google Drive."
+- **Telegram**: "Imamo novo PowerPoint predstavitev za deljenje strategij. Pridružite se Zoom sestanku ob 15:00."
+- **Email**: "Pozdravljeni, priložen je Word dokument z mesečnim poročilom. Prosim, da ga pregledate pred našim naslednjim sestankom."
+
+**Pogoste napake in kako jih preprečiti**
+
+Ena najpogostejših napak je nepravilna uporaba formul v Excelu, kar lahko vodi do napačnih analiz. Da bi se temu izognili, vedno dvakrat preverite formule in uporabite funkcijo za preverjanje napak. V PowerPointu se pogosto zgodi, da so predstavitve preveč besedilne, kar odvrača pozornost občinstva. Poskusite uporabljati več vizualnih elementov in manj besedila.
+
+**Mednarodna poslovna kultura**
+
+Razumevanje mednarodnih poslovnih praks je ključno za uspeh v mrežnem marketingu. Na primer, pri uporabi Office aplikacij je pomembno, da se zavedate kulturnih razlik v poslovni komunikaciji. V nekaterih kulturah so pisni dokumenti in formalne predstavitve bolj cenjeni kot ustna komunikacija, zato je prilagajanje sloga komunikacije ključnega pomena.
+
+Zavedanje teh razlik vam lahko pomaga pri vzpostavljanju boljših odnosov s strankami in partnerji iz različnih delov sveta.
+
+To zaključuje naš uvodni modul. Upamo, da ste pridobili osnovno razumevanje, kako Office aplikacije podpirajo vaše prizadevanje v digitalnem poslovanju in mrežnem marketingu. Naslednji modul bo osredotočen na napredne funkcionalnosti in njihove konkretne aplikacije v svetu mrežnega marketinga.

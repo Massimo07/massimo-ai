@@ -1,0 +1,73 @@
+# # Canva ile Network Marketing ve Dijital İşletmeler için Grafik Tasarım - Seviye 2, Modül 1
+
+## Giriş
+
+Merhaba ve Canva ile tasarım dünyasına hoş geldiniz! Bu modülde, Canva'nın network marketing ve Live On Plus gibi dijital işletmelerde nasıl etkili bir şekilde kullanılacağına dair derinlemesine bilgi edineceksiniz. Canva, kullanıcı dostu arayüzü ve geniş tasarım seçenekleri ile dijital pazarlama stratejilerinizi güçlendirmek için mükemmel bir araçtır.
+
+## Canva'nın Temel Teorisi ve Pratiği
+
+### Canva Nedir?
+
+Canva, herkesin grafik tasarım yapmasına olanak tanıyan çevrimiçi bir platformdur. Tasarım bilgisi olsun veya olmasın, herkesin kullanabileceği bir araç olarak tasarlanmıştır. Canva, şablonlar, yazı tipleri, görseller ve daha fazlasıyla dolu geniş bir kütüphane sunar. Özellikle network marketing için, Canva'nın hızlı ve etkili görseller oluşturma yeteneği vazgeçilmezdir.
+
+### Hesap Oluşturma ve Özellikler
+
+1. **Hesap Oluşturma:** İlk adım, Canva'nın web sitesine giderek veya mobil uygulamasını indirerek bir hesap oluşturmaktır. Facebook, Google veya e-posta adresinizle hızlıca kayıt olabilirsiniz.
+   
+2. **Arayüz Keşfi:** Hesabınızı oluşturduktan sonra, ana kontrol paneline yönlendirileceksiniz. Burada, 'Tasarım Oluştur' butonuna tıklayarak tasarımlarınıza başlayabilirsiniz. Arayüz, sol tarafta araçlar, üstte seçenekler ve ortada çalışma alanı olmak üzere üç ana bölüme ayrılır.
+
+3. **Şablonları Kullanma:** Canva, çeşitli kategorilerde binlerce hazır şablon sunar. "Sosyal Medya", "Sunumlar", "Posterler" gibi seçeneklerden ihtiyacınıza uygun olanı seçip özelleştirebilirsiniz.
+
+### Pratik Uygulama: Network Marketing İçin Bir Sosyal Medya Gönderisi Oluşturma
+
+1. **Şablon Seçimi:** Sol menüden 'Sosyal Medya' kategorisine tıklayın ve beğendiğiniz bir şablonu seçin.
+   
+2. **Metin Ekleme ve Düzenleme:** Seçtiğiniz şablonun üzerine tıklayarak metin kutularını özelleştirin. Örneğin, "Live On Plus ile Hedeflerinize Ulaşın" gibi bir başlık ekleyebilirsiniz.
+
+3. **Grafik ve Renkler:** Renk paletini şirketinizin marka renklerine uyacak şekilde ayarlayın. Canva'nın renk çarkını kullanarak markanıza en uygun renkleri seçebilirsiniz.
+
+4. **Görsel Eklemeler:** Canva'nın kütüphanesinden kaliteli ve lisanslı görseller ekleyerek tasarımınızı zenginleştirin. Ürün görselleri veya takım fotoğrafları eklemek, gönderinizin daha profesyonel görünmesini sağlar.
+
+5. **İndirme ve Paylaşma:** Tasarımınızı tamamladıktan sonra, sağ üst köşedeki 'İndir' butonuna tıklayarak görselinizi bilgisayarınıza kaydedebilir veya doğrudan sosyal medya hesaplarınızda paylaşabilirsiniz.
+
+## Eserler ve Quiz
+
+### Eserler
+
+1. **Eser 1:** Canva kullanarak bir sosyal medya gönderisi tasarlayın. Tasarımda şirketinizin logosunu ve sloganını kullanın. Tasarımınızı kaydedin ve sınıf arkadaşlarınızla paylaşın.
+
+2. **Eser 2:** Bir müşteri teşekkür kartı tasarlayın. Müşterilerinize özel hissettirecek ve markanızı hatırlatacak bir tasarım oluşturun.
+
+### Quiz
+
+1. **Soru 1:** Canva'da bir tasarım oluştururken hangi araçlar en sık kullanılır?
+   - **Cevap:** Şablonlar, metin kutuları, görseller ve renk paleti.
+
+2. **Soru 2:** Network marketing için etkili bir sosyal medya gönderisi nasıl oluşturulur?
+   - **Cevap:** Marka renkleri ve logolar kullanılarak, net ve ilgi çekici bir başlık eklenerek, görsellerle zenginleştirilerek.
+
+## İletişim Diyalogları
+
+### WhatsApp ve Telegram
+
+- **Sizin Mesajınız:** "Merhaba [İsim], Canva'da oluşturduğum yeni sosyal medya gönderisini gördün mü? Live On Plus'ın yeni kampanyasını tanıtmak için harika bir yol oldu!"
+
+- **Yanıt:** "Merhaba, evet gördüm! Gerçekten profesyonel görünüyor. Canva'yı nasıl bu kadar etkili kullandığını bana da öğretebilir misin?"
+
+### Zoom
+
+- **Sizin Açıklamanız:** "Bugünkü Zoom toplantımızda Canva ile sosyal medya stratejimizi nasıl güçlendirebileceğimizi tartışacağız. Herkesin Canva'da yaptığı tasarımları paylaşmasını rica ediyorum."
+
+## Yaygın Hatalar ve Kaçınma Yolları
+
+1. **Çok Fazla Metin Kullanımı:** Görsel tasarımlarınızda çok fazla metin kullanmak, mesajınızın anlaşılmasını zorlaştırabilir. Metninizi kısa ve öz tutun.
+
+2. **Düşük Kaliteli Görseller:** Kalitesiz görseller kullanmak, tasarımınızın profesyonelliğini düşürebilir. Canva'nın kütüphanesinden yüksek çözünürlüklü görseller kullanmaya özen gösterin.
+
+3. **Renk Uyumsuzluğu:** Markanızın renk paletine sadık kalın. Farklı ve uyumsuz renkler kullanmak, tasarımınızın karmaşık görünmesine neden olabilir.
+
+## Uluslararası İş Kültürü Derinlemesi
+
+Canva gibi araçlar, uluslararası iş kültürlerinde de geniş kabul görmektedir. Global bir pazarda, görsel tasarımlarınızın kültürel farklılıkları göz önünde bulundurması önemlidir. Örneğin, renklerin farklı kültürlerde farklı anlamları olabilir. Bu nedenle, hedef kitlenizin kültürünü anlamak ve tasarımlarınızı buna uygun şekilde uyarlamak önemlidir.
+
+Bu modül boyunca öğrendiklerinizle, Canva'nın network marketing stratejilerinizi nasıl zenginleştirebileceğini umarız anlamışsınızdır. Tasarımlarınızı oluştururken yaratıcı olmaktan çekinmeyin ve öğrendiklerinizi pratiğe dökerek mükemmelleştirin. Başarılar!

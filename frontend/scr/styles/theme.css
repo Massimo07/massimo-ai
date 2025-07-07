@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+body {
+  background: #000 !important;
+  font-family: 'Playfair Display', serif;
+}
+h1, h2, h3, h4, .font-serif {
+  font-family: 'Playfair Display', serif !important;
+}
+.gradient-text {
+  background: linear-gradient(90deg, #8B5CFF, #FFD85C, #4EC9FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-style: italic;
+}
+::-webkit-scrollbar {
+  background: #1a1a1a;
+  width: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #FFD85C, #8B5CFF);
+  border-radius: 6px;
+}
+input, button, textarea {
+  font-family: 'Playfair Display', serif;
+}

@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Massimo AI – Demo Completa</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="logo-container">
+    <img src="images/logo_massimo_ai.png" alt="Massimo AI Logo" class="logo">
+  </div>
+  <!-- Selezione lingua -->
+  <section id="languageSelector" class="box">
+    <h2>Scegli la tua lingua / Choose your language</h2>
+    <select id="languageChoice">
+      <!-- Opzioni caricate dinamicamente -->
+    </select>
+    <button class="btn" onclick="startOnboarding()">Conferma</button>
+  </section>
+
+  <!-- Onboarding tradotto, nascosto inizialmente -->
+  <section id="onboardArea" class="box hidden"></section>
+
+<script src="app.js"></script>
+</body>
+</html>

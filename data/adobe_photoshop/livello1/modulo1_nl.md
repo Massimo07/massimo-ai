@@ -1,0 +1,48 @@
+# Module 1: Inleiding tot Adobe Photoshop voor Network Marketing 
+
+Welkom bij de eerste module van ons Adobe Photoshop-cursus, speciaal ontworpen voor beginners in de wereld van network marketing en digitaal ondernemen. In deze module zullen we de basisprincipes van Photoshop verkennen en hoe je deze kunt toepassen om je marketingmateriaal te verbeteren. Laten we stap voor stap beginnen.
+
+**Theorie en Praktijk van Adobe Photoshop**
+
+Adobe Photoshop is een krachtige tool voor beeldbewerking en ontwerp, essentieel voor het creëren van visueel aantrekkelijke marketingmaterialen. Of je nu banners, sociale media-afbeeldingen of productpresentaties wilt maken, Photoshop biedt de mogelijkheden om je creativiteit de vrije loop te laten.
+
+We beginnen met de interface van Photoshop. Wanneer je Photoshop opent, zie je een werkruimte met verschillende panels en gereedschappen. Het belangrijkste paneel is het "Lagen"-paneel, waar je de verschillende onderdelen van je afbeelding kunt beheren. Een laag is als een transparante sheet die je op elkaar stapelt om een uiteindelijke afbeelding te vormen.
+
+**Praktisch Voorbeeld: Creëer een Social Media Post voor Live On Plus**
+
+Stel je voor dat je een promotionele post wilt maken voor Live On Plus, een product binnen je netwerk marketingbedrijf. Open Photoshop en maak een nieuw document (Bestand > Nieuw). Kies een afmeting die geschikt is voor sociale media, bijvoorbeeld 1080x1080 pixels voor Instagram.
+
+1. **Achtergrondkleur instellen**: Gebruik de "Verfemmer" (G) om een effen kleur als achtergrond in te stellen die past bij de branding van Live On Plus.
+
+2. **Tekst toevoegen**: Selecteer het "Tekstgereedschap" (T) en klik ergens op je canvas. Typ een pakkende slogan zoals "Ervaar de Energie van Live On Plus!" Gebruik het "Eigenschappen"-paneel om het lettertype, de grootte en de kleur van de tekst aan te passen.
+
+3. **Afbeeldingen importeren**: Ga naar Bestand > Invoegen om een afbeelding van het product toe te voegen. Schaal en positioneer het met de "Transformatie"-functie (Ctrl + T).
+
+4. **Effecten gebruiken**: Voeg schaduw toe aan de tekst of afbeelding via het "Lagenstijl"-menu (dubbelklik op de laag).
+
+**Echte Voorbeelden in Network Marketing**
+
+Gebruik je creaties als visuele ondersteuning bij het communiceren met potentiële klanten. Bijvoorbeeld, stuur een afbeelding via WhatsApp of Telegram met een persoonlijke boodschap: 
+
+"Hallo [Naam], kijk eens naar deze nieuwe post over Live On Plus! Het laat zien hoe ons product je dagelijks leven kan verbeteren. Laat me weten wat je ervan vindt!"
+
+**Oefeningen en Quiz**
+
+Oefening: Maak een promotionele afbeelding voor een ander product in je netwerk. Gebruik minimaal drie lagen en pas een effect toe op de tekst.
+
+Quizvraag: Wat is het belangrijkste voordeel van het gebruik van lagen in Photoshop?
+A) Ze organiseren het werkoppervlak.
+B) Ze maken het mogelijk om niet-destructief te werken.
+C) Ze maken het bestand kleiner.
+
+**Oplossing**: B) Ze maken het mogelijk om niet-destructief te werken.
+
+**Veelgemaakte Fouten en Hoe Deze te Vermijden**
+
+Een veelgemaakte fout is het per ongeluk bewerken van de verkeerde laag. Zorg ervoor dat je altijd de juiste laag selecteert voordat je begint met bewerken. Een andere fout is het werken in een te lage resolutie, wat leidt tot onscherpe afbeeldingen. Zorg ervoor dat je de juiste instellingen kiest bij het aanmaken van een nieuw document.
+
+**Internationale Business Cultuur**
+
+In de wereld van internationaal zaken doen, is visuele communicatie van cruciaal belang. Kwalitatief hoogwaardig beeldmateriaal kan de perceptie van je merk aanzienlijk verbeteren. In sommige culturen, zoals die in Aziatische landen, wordt veel belang gehecht aan esthetiek en presentatie. Zorg ervoor dat je afbeeldingen professioneel en aantrekkelijk zijn om een positieve indruk te maken.
+
+Door deze module te voltooien, heb je de basisvaardigheden verworven om Photoshop te gebruiken voor het verbeteren van je marketingmateriaal. Je bent nu klaar om je creaties te delen en je netwerk marketingbedrijf visueel te versterken. In de volgende modules zullen we dieper ingaan op geavanceerdere technieken en strategieën. Veel succes met je creatieve reis!

@@ -1,0 +1,61 @@
+# **Modul 1: Základy Excelu pre Network Marketing a Digitálny Biznis**
+
+*Úvod do Excelu*
+
+Microsoft Excel je jeden z najpoužívanejších nástrojov na spracovanie údajov vo svete podnikania. Jeho schopnosti siahajú od jednoduchých výpočtov až po komplexné analýzy. V tomto module sa zameriame na základy Excelu s praktickými príkladmi z oblasti network marketingu a platformy Live On Plus.
+
+**Teória a prax**
+
+Excel je tabuľkový procesor, čo znamená, že pracuje s dátami vo forme tabuliek. Základným prvkom tabuliek sú bunky, v ktorých môžete uchovávať text, čísla, vzorce alebo funkcie. Excel umožňuje vykonávať matematické operácie, analyzovať údaje, vytvárať grafy a mnoho ďalšieho.
+
+**Praktický príklad: Sledovanie predajov v network marketingu**
+
+Predstavte si, že pracujete v network marketingu a potrebujete sledovať predaje svojich produktov. Vytvoríme jednoduchú tabuľku, ktorá vám umožní sledovať, koľko produktov ste predali a aký bol váš celkový zisk.
+
+1. **Otvorenie Excelu**: Spustite Microsoft Excel na svojom počítači. Uvidíte prázdny hárok.
+
+2. **Vytvorenie tabuľky**: Do bunky A1 napíšte "Produkt", do bunky B1 "Počet predaných kusov" a do bunky C1 "Cena za kus". Do bunky D1 napíšte "Celkový zisk".
+
+3. **Zadanie údajov**: Do bunky A2 napíšte názov produktu, napríklad "Krém na pleť". Do bunky B2 zadajte počet predaných kusov, napr. 50. Do bunky C2 zadajte cenu za kus, napr. 10.
+
+4. **Výpočet celkového zisku**: Do bunky D2 zadajte vzorec `=B2*C2`. Tento vzorec vynásobí počet predaných kusov cenou za kus, čím získa celkový zisk.
+
+5. **Rozšírenie tabuľky**: Podobne môžete pridať ďalšie riadky pre iné produkty.
+
+**Esercizi a kvízy**
+
+*Úloha 1*: Vytvorte tabuľku pre tri rôzne produkty s rôznymi počtami predaných kusov a cenami. Vypočítajte celkový zisk pre každý produkt.
+
+*Riešenie*: Použite rovnaký postup, aký sme si ukázali, a skontrolujte, či ste zadali správne vzorce.
+
+**Dialógy pre WhatsApp, Telegram, Zoom, email**
+
+*WhatsApp/Telegram Dialóg*:
+- **Vy**: "Ahoj, ako sa darí s našimi predajmi tento mesiac?"
+- **Partner**: "Ahoj, práve pracujem na analýze v Exceli. Môžeš mi poslať aktuálne čísla predajov?"
+- **Vy**: "Jasné, pošlem ti Excel súbor hneď."
+
+*Zoom Call*:
+- **Vy**: "Dnes sa pozrieme na naše predajné údaje v Exceli. Má niekto otázky predtým, než začneme?"
+- **Kolega**: "Áno, ako môžeme pridať nové produkty do našej existujúcej tabuľky?"
+- **Vy**: "Jednoducho pridajte nový riadok a zopakujte postup pre výpočet celkového zisku."
+
+*Email*:
+- **Predmet**: Aktualizácia predajov
+- **Obsah**: "Dobrý deň, v prílohe nájdete aktuálnu tabuľku s údajmi o našich predajoch. Prosím, skontrolujte a dajte vedieť, ak máte nejaké otázky."
+
+**Bežné chyby a ako sa im vyhnúť**
+
+1. **Nesprávne vzorce**: Uistite sa, že vzorce zadávate do správnych buniek a používate správne odkazy na bunky.
+   
+2. **Preklepy v údajoch**: Vždy skontrolujte, či sú zadané údaje správne, aby boli výsledky presné.
+
+3. **Neuloženie súboru**: Pravidelne ukladajte svoju prácu, aby ste predišli strate údajov.
+
+**Kultúrne aspekty medzinárodného biznisu**
+
+Excel je univerzálny nástroj, ktorý sa používa po celom svete. Porozumenie základom Excelu vám pomôže pri komunikácii s medzinárodnými partnermi a klientmi. Schopnosť efektívne prezentovať údaje v Exceli môže zvýšiť vašu dôveryhodnosť a profesionalizmus v očiach zahraničných kolegov.
+
+Týmto sme ukončili Modul 1 nášho kurzu Excel pre začiatočníkov. Cieľom bolo poskytnúť vám pevné základy, na ktorých môžete stavať ďalej. V ďalšom module sa zameriame na pokročilejšie funkcie a analýzy.  
+  
+Pamätajte, že prax je kľúčová. Čím viac budete pracovať s Excelom, tým pohodlnejšie sa v ňom budete cítiť.

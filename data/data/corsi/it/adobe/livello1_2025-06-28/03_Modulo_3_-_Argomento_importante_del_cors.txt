@@ -1,0 +1,65 @@
+**Modulo 3 - Argomento Importante del Corso Adobe: Introduzione ad Adobe Photoshop**
+
+**Introduzione**
+
+Adobe Photoshop è uno dei software di editing di immagini più potenti e diffusi al mondo. Questo modulo si concentra sull'introduzione agli strumenti di base di Photoshop, offrendo una panoramica delle sue funzionalità principali per i principianti. L'obiettivo è fornire le competenze necessarie per iniziare a modificare le immagini in modo efficace, migliorando il flusso di lavoro creativo.
+
+**Strumenti di Base di Photoshop**
+
+Photoshop offre una vasta gamma di strumenti, ma per cominciare, ci concentreremo su quelli essenziali:
+
+1. **Strumento Selezione**: Permette di selezionare parti specifiche di un'immagine per modificarle. Le selezioni possono essere effettuate con forme rettangolari, ellittiche o con strumenti più avanzati come il lazo e la bacchetta magica.
+
+2. **Strumento Pennello**: Utilizzato per dipingere sull'immagine. Offre una varietà di pennelli e opzioni di personalizzazione, come la dimensione e l'opacità.
+
+3. **Strumento Timbro Clone**: Consente di duplicare parti di un'immagine. È utile per ritoccare e rimuovere imperfezioni.
+
+4. **Strumento Testo**: Permette di aggiungere testo alle immagini. È possibile modificare il carattere, la dimensione e il colore del testo.
+
+5. **Livelli**: Uno dei concetti fondamentali di Photoshop. I livelli consentono di lavorare su parti dell'immagine senza alterare permanentemente il resto. Si può immaginare ogni livello come un foglio trasparente sovrapposto agli altri.
+
+**Esempi Pratici**
+
+- **Esempio 1**: Creare una semplice cartolina di auguri. Utilizza lo strumento testo per aggiungere un messaggio e il pennello per decorare i bordi.
+
+- **Esempio 2**: Rimuovere un oggetto indesiderato da una foto. Usa lo strumento timbro clone per copiare una parte dell'immagine e sovrapporla sull'oggetto da eliminare.
+
+**Esercizi**
+
+1. **Esercizio 1**: Apri un'immagine e pratica l'uso dello strumento selezione per isolare un soggetto. Modifica il colore dello sfondo senza alterare il soggetto.
+
+2. **Esercizio 2**: Utilizza i livelli per creare un collage semplice. Sovrapponi almeno tre immagini diverse, regolando l'opacità per creare un effetto armonioso.
+
+**Quiz**
+
+1. Qual è la funzione principale dello strumento timbro clone?
+   - a) Aggiungere testo
+   - b) Copiare parti di un'immagine
+   - c) Cambiare il colore
+
+2. Cosa permette di fare uno strumento selezione?
+   - a) Selezionare e modificare parti specifiche di un'immagine
+   - b) Creare nuovi livelli
+   - c) Aggiungere effetti speciali
+
+**Glossario Specifico**
+
+- **Opacità**: La trasparenza di un livello o di uno strumento.
+- **Risoluzione**: La quantità di dettagli che un'immagine può mostrare, misurata in pixel per pollice (PPI).
+- **Rasterizzare**: Convertire un'immagine vettoriale in un'immagine bitmap.
+
+**Checklist**
+
+- [ ] Comprendere l'uso di base degli strumenti di selezione.
+- [ ] Creare e gestire livelli efficacemente.
+- [ ] Applicare lo strumento timbro clone per ritocchi semplici.
+
+**Box Motivazione**
+
+La padronanza di Photoshop apre infinite possibilità creative. Che tu voglia migliorare le tue foto personali, lavorare nel campo della grafica o semplicemente esplorare nuove tecniche artistiche, Photoshop è uno strumento che trasforma le tue idee in realtà.
+
+**Caso Studio Reale**
+
+Consideriamo il caso di un fotografo professionista che utilizza Photoshop per migliorare le sue immagini. In una sessione di ritratto, il fotografo nota un'ombra indesiderata sul viso del soggetto. Utilizzando lo strumento timbro clone e i livelli, riesce a rimuovere l'ombra senza alterare la qualità complessiva dell'immagine. Questo esempio dimostra come Photoshop possa essere uno strumento essenziale per ottenere risultati di alta qualità nel campo della fotografia.
+
+Concludendo, il Modulo 3 fornisce le basi per iniziare a navigare nel vasto mondo di Adobe Photoshop. Con pratica e dedizione, gli strumenti e le tecniche apprese in questo modulo diventeranno fondamentali nel tuo percorso creativo.

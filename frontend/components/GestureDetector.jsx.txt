@@ -1,0 +1,47 @@
+import React, { useEffect } from "react";
+
+/**
+ * Props:
+ * - onSwipeLeft, onSwipeRight, onSwipeUp, onSwipeDown
+ * - children (elemento da "ascoltare")
+ */
+const GestureDetector = ({
+  onSwipeLeft,
+  onSwipeRight,
+  onSwipeUp,
+  onSwipeDown,
+  children,
+}) => {
+  let touchStartX = 0,
+    touchStartY = 0;
+
+  useEffect(() => {
+    const handleTouchStart = (e) => {
+      const touch = e.touches[0];
+      touchStartX = touch.clientX;
+      touchStartY = touch.clientY;
+    };
+    const handleTouchEnd = (e) => {
+      const touch = e.changedTouches[0];
+      const dx = touch.clientX - touchStartX;
+      const dy = touch.clientY - touchStartY;
+      if (Math.abs(dx) > Math.abs(dy)) {
+        if (dx > 50 && onSwipeRight) onSwipeRight();
+        if (dx < -50 && onSwipeLeft) onSwipeLeft();
+      } else {
+        if (dy > 50 && onSwipeDown) onSwipeDown();
+        if (dy < -50 && onSwipeUp) onSwipeUp();
+      }
+    };
+    document.addEventListener("touchstart", handleTouchStart, { passive: false });
+    document.addEventListener("touchend", handleTouchEnd, { passive: false });
+    return () => {
+      document.removeEventListener("touchstart", handleTouchStart);
+      document.removeEventListener("touchend", handleTouchEnd);
+    };
+  }, [onSwipeLeft, onSwipeRight, onSwipeUp, onSwipeDown]);
+
+  return <div style={{ touchAction: "none" }}>{children}</div>;
+};
+
+export default GestureDetector;

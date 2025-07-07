@@ -1,0 +1,78 @@
+# **Modúl 1: Tús a Chur le Adobe Photoshop i margaíocht líonra agus gnó digiteach**
+
+**Réamhrá:**
+
+Fáilte chuig an gcéad mhodúl de do chúrsa Adobe Photoshop ag leibhéal 2. Tá an modúl seo dírithe ar dhaoine atá ag iarraidh úsáid a bhaint as Photoshop chun cruthú ábhar amhairc éifeachtach do mhargaíocht líonra agus gnó digiteach. Cé gurb é an sprioc ná ábhair chruthaitheacha a tháirgeadh, cuirimid béim ar an gcaoi ar féidir le híomhánna cumarsáid a dhéanamh go héifeachtach do do spriocghrúpa. Beidh muid ag díriú ar ardteicnící a úsáidtear go minic sa tionscal, chomh maith le hearráidí coitianta a sheachaint.
+
+**1. Teoiric agus Cleachtas:**
+
+Chun tús a chur le Photoshop, ní mór duit a thuiscint conas a oibríonn an clár i dtéarmaí bunúsacha. Beidh tú ag úsáid uirlisí éagsúla chun íomhánna a chur in eagar, agus tá sé tábhachtach a thuiscint conas a oibríonn sraitheanna. Sraitheanna is ea croílár Photoshop; ligeann siad duit oibriú ar chodanna éagsúla d’íomhá gan cur isteach ar chodanna eile.
+
+*Conas a Cruthú Sraitheanna Nua:*
+
+1. Oscail Adobe Photoshop agus roghnaigh "File" > "New" chun doiciméad nua a chruthú.
+2. Socraigh na toisí do doiciméid de réir mar is gá duit do do thionscadal margaíochta líonra.
+3. I bhfuinneog na sraitheanna, cliceáil ar an deilbhín nua sraithe ag bun an phainéil.
+
+*Athraigh Dath Cúlra:*
+
+1. Roghnaigh an uirlis "Paint Bucket" ón mbarra uirlisí.
+2. Roghnaigh do dhath atá uait sa bharra roghnúcháin dathanna.
+3. Cliceáil ar an sraith cúlra chun an dath a athrú.
+
+**2. Samplaí Fíor-Shaoil:**
+
+I margaíocht líonra, is minic a bhíonn gá le híomhánna tarraingteacha a mheallann aird. Mar shampla, má tá tú ag cur chun cinn táirge trí Live On Plus, is féidir leat íomhánna a dhearadh a léiríonn gnéithe táirge ar bhealach tarraingteach.
+
+*Cruthú Postála don Meán Sóisialta:*
+
+1. Úsáid uirlis an téacs chun focail mhealltacha a chur le d’íomhá, mar shampla "Lascaine Eisiach" nó "Teoranta ar Fáil".
+2. Cuir do lógó gnó ar an íomhá trí shraith nua a chruthú agus an lógó a iompórtáil isteach.
+3. Bain úsáid as an uirlis "Blur" chun cúlra a mhaolú agus chun fócas a choinneáil ar an táirge.
+
+**3. Cleachtaí agus Tráth na gCeist:**
+
+*Cleachtadh:*
+
+1. Cruthaigh íomhá simplí ag baint úsáide as trí sraith: cúlra, táirge, agus téacs.
+2. Bain úsáid as an uirlis "Crop" chun an íomhá a bhearradh go dtí na toisí a theastaíonn.
+
+*Tráth na gCeist:*
+
+Cén fáth go bhfuil sraitheanna tábhachtach i Photoshop?
+a) Ligeann siad duit oibriú ar chodanna éagsúla gan cur isteach ar a chéile.
+b) Coscann siad ort aon rud a chur in eagar.
+c) Déanann siad an clár níos moille.
+
+Freagra ceart: a)
+
+**4. Comhráite Fíor:**
+
+*Comhrá WhatsApp:*
+
+Cliant: "Conas is féidir liom lógó mo chuideachta a chur ar an íomhá a chruthaigh mé?"
+Tusa: "Bain úsáid as sraith nua i Photoshop, ansin iompórtáil do lógó agus é a chur os cionn an íomhá. Déan cinnte go bhfuil réiteach an lógó ard go leor."
+
+*Comhrá Zoom:*
+
+Tusa: "An bhfuil aon cheist agat faoin gcaoi a n-úsáidtear an uirlis blur?"
+Cliant: "Conas a roghnaíonn tú an limistéar le haghaidh blur?"
+Tusa: "Roghnaigh an uirlis blur, ansin cliceáil agus tarraing thar an limistéar atá uait a mhaolú."
+
+**5. Earráidí Coitianta agus Conas Iad a Sheachaint:**
+
+*Earráid: Ag obair ar an sraith mhícheart.*
+
+Seachain é seo trí bheith cinnte go bhfuil an sraith cheart roghnaithe agat roimh aon eagarthóireacht a dhéanamh. Seiceáil i gcónaí an painéal sraitheanna.
+
+*Earráid: Íomhánna doiléir tar éis allmhairiú.*
+
+Seachain é seo trí íomhánna a allmhairiú le réiteach ard. Má tá tú ag obair le híomhánna gréasáin, déan cinnte go bhfuil siad 300dpi ar a laghad le haghaidh cló.
+
+**6. Cultúr Gnó Idirnáisiúnta:**
+
+Agus tú ag obair le custaiméirí idirnáisiúnta, bíodh meas agat ar a gcuid ama agus ar a gcuid traidisiúin gnó. Bí soiléir agus gonta i do chumarsáid, agus cuir in oiriúint do chur chuige de réir na tíre nó an chultúir lena bhfuil tú ag obair.
+
+**Conclúid:**
+
+Tá an modúl seo dírithe ar bhunscileanna agus ar theicnící a theastaíonn chun íomhánna cumhachtacha a chruthú i Photoshop atá oiriúnach do mhargaíocht líonra agus gnó digiteach. Trí chleachtadh agus tuiscint a fháil ar na bunghnéithe, beidh tú in ann ábhair a chruthú a bhfuil tionchar mór acu ar do lucht féachana agus ar do chliaint.

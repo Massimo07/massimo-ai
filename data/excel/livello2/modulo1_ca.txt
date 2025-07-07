@@ -1,0 +1,85 @@
+## Mòdul 1: Funcions Avançades d'Excel per al Network Marketing
+
+### Introducció a l'Excel Nivell 2
+
+Benvingut al Mòdul 1 del curs d'Excel nivell 2, centrat en l'aplicació d'Excel en el món del network marketing i el negoci digital amb Live On Plus. En aquest mòdul, aprofundirem en funcions avançades que et permetran analitzar dades de manera eficient per optimitzar les teves estratègies de màrqueting. Aquest curs està dissenyat per a aquells que ja tenen una comprensió bàsica d'Excel, i volen portar les seves habilitats al següent nivell.
+
+### Teoria i Pràctica
+
+#### Funcions Avançades
+
+Comencem amb les funcions avançades d'Excel que són fonamentals per al network marketing:
+
+- **Funció VLOOKUP**: Aquesta funció és útil per cercar dades en una taula. Per exemple, pots utilitzar VLOOKUP per trobar el correu electrònic d'un client basant-te en el seu ID.
+
+  **Exemple Pràctic:**
+
+  Suposem que tens una taula amb els noms dels teus clients i els seus ID. Vols trobar l'email associat a un client específic. Utilitza la fórmula `=VLOOKUP(ID, taula, columna_email, FALSE)`.
+
+- **Funció SUMIFS**: Aquesta funció et permet sumar valors basant-se en múltiples criteris. És ideal per calcular el total de vendes d'un producte en particular en un període de temps específic.
+
+  **Exemple Pràctic:**
+
+  Si tens una taula de vendes amb columnes per a data, producte i import, pots utilitzar `=SUMIFS(import, producte, "nom_producte", data, ">data_inicial", data, "<data_final")` per obtenir el total de vendes.
+
+#### Eines de Dades
+
+- **Taules Dinàmiques**: Les taules dinàmiques són una eina poderosa per resumir dades. Pots utilitzar-les per veure quins productes són més populars o quins representants de vendes estan generant més ingressos.
+
+  **Exemple Pràctic:**
+
+  Selecciona la teva taula de dades i ves a "Inserir" > "Taula Dinàmica". Arrossega "Producte" a l'àrea de files i "Import" a l'àrea de valors per veure un resum de vendes per producte.
+
+### Esercicis i Quiz
+
+#### Exercici 1
+
+- **Objectiu**: Utilitzar VLOOKUP per trobar informació específica.
+- **Dades**: ID de client i taula amb noms i emails.
+- **Pas a pas**: 
+  1. Obre el teu fitxer d'Excel i crea una taula amb les dades dels clients.
+  2. Utilitza VLOOKUP per cercar l'email d'un client amb un ID específic.
+  3. Escriu la fórmula i verifica que el resultat sigui correcte.
+
+#### Exercici 2
+
+- **Objectiu**: Crear una taula dinàmica per resumir les vendes.
+- **Dades**: Taula de vendes amb productes i imports.
+- **Pas a pas**: 
+  1. Selecciona la teva taula de dades.
+  2. Crea una taula dinàmica des del menú "Inserir".
+  3. Arrossega els camps necessaris i obté el resum de les vendes.
+
+#### Quiz
+
+1. Quina funció d'Excel utilitzaries per sumar vendes basant-se en múltiples criteris?
+
+   **Solució**: SUMIFS.
+
+2. Què fan les taules dinàmiques?
+
+   **Solució**: Resumen dades de manera interactiva i dinàmica.
+
+### Diàlegs Reals per WhatsApp, Telegram, Zoom, Email
+
+**Situació**: Estàs organitzant una reunió de seguiment amb el teu equip de màrqueting.
+
+- **WhatsApp**: "Hola [Nom], podríem revisar les dades de vendes amb les taules dinàmiques? Ens ajudarà a identificar els productes clau. Tinc un parell de dubtes que m'agradaria discutir. Pots? Gràcies!"
+
+- **Email**: "Hola equip, adjunto l'arxiu d'Excel amb els resums de vendes que hem creat amb les taules dinàmiques. Si necessiteu ajuda amb les fórmules, com ara VLOOKUP o SUMIFS, si us plau, feu-m'ho saber. Salutacions, [Nom]."
+
+### Errors Comuns i Com Evitar-los
+
+1. **Error**: No incloure el rang complet en VLOOKUP.
+   - **Com Evitar-lo**: Assegura't que el rang inclogui totes les columnes necessàries, incloent la columna de retorn.
+
+2. **Error**: No actualitzar les dades de les taules dinàmiques.
+   - **Com Evitar-lo**: Sempre refresca la taula dinàmica després d'actualitzar les dades d'origen.
+
+### Aproximacions Culturals en el Negoci Internacional
+
+A nivell internacional, Excel és àmpliament utilitzat per la seva capacitat de gestió de dades i la seva versatilitat. Quan treballis amb clients o socis d'altres països, és important comprendre les diferències culturals en la manera de compartir i analitzar dades. Per exemple, a alguns països pot ser més comú l'ús de determinats formats de data o moneda. Això és crucial per assegurar que les teves anàlisis siguin correctes i ben compreses.
+
+### Conclusió
+
+Aquest mòdul ha cobert les funcions avançades d'Excel aplicades al network marketing, amb exemples pràctics i errors comuns a evitar. Practica regularment per millorar les teves habilitats i aplica aquestes tècniques al teu negoci digital per obtenir els millors resultats.

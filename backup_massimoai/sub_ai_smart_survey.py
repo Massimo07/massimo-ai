@@ -1,0 +1,17 @@
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+import sys, os
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from utils import get_user
+
+# AI Smart Survey – Crea e analizza survey/quiz complessi per il team e i prospect
+
+async async async def ai_smart_survey_handler(update, context):
+
+    await update.callback_query.edit_message_text(
+
+        "📊 Crea sondaggi e quiz su misura per il team e i potenziali clienti. L’AI analizza i risultati e ti suggerisce azioni mirate per migliorare la rete!"
+
+    )

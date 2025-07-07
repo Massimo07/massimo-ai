@@ -1,0 +1,94 @@
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
+from telegram.ext import (
+    CommandHandler,
+    CallbackQueryHandler,
+    ContextTypes,
+)
+import logging
+
+# --- Lingue e Frasi di benvenuto ---
+LANGUAGES = [
+    ('it', '🇮🇹 Italiano', 'Italiano selezionato! Benvenuto!'),
+    ('en', '🇬🇧 English', 'English selected! Welcome!'),
+    ('es', '🇪🇸 Español', '¡Español seleccionado! ¡Bienvenido!'),
+    ('fr', '🇫🇷 Français', 'Français sélectionné! Bienvenue!'),
+    ('de', '🇩🇪 Deutsch', 'Deutsch ausgewählt! Willkommen!'),
+    ('ro', '🇷🇴 Română', 'Română selectată! Bun venit!'),
+    ('pt', '🇵🇹 Português', 'Português selecionado! Bem-vindo!'),
+    ('nl', '🇳🇱 Nederlands', 'Nederlands geselecteerd! Welkom!'),
+    ('el', '🇬🇷 Ελληνικά', 'Ελληνικά επιλέχθηκαν! Καλώς ήρθατε!'),
+    ('ru', '🇷🇺 Русский', 'Русский выбран! Добро пожаловать!'),
+    ('ar', '🇸🇦 العربية', 'تم اختيار العربية! أهلاً وسهلاً!'),
+    ('zh', '🇨🇳 中文', '已选择中文！欢迎！')
+]
+
+MAIN_MENU = [
+    ('Cosa è il network marketing', 'menu_network'),
+    ('Chi è Live On Plus', 'menu_azienda'),
+    ('Il nostro piano marketing', 'menu_marketing'),
+    ('Differenze: venditore, consumatore, networker', 'menu_diff'),
+    ('Perché scegliere Live On Plus', 'menu_perche_lop'),
+    ('Perché scegliere il Magic Team', 'menu_perche_magic'),
+    ('FAQ', 'menu_faq'),
+    ('Motivazione del Giorno', 'menu_motivazione'),
+    ('Prodotti & Cataloghi', 'menu_prodotti'),
+    ('Registrati', 'menu_registrati'),
+    ('Sei indeciso? Dimmi perché…', 'menu_obiezioni'),
+    ('Momento no? Ti aiuto', 'menu_aiuto'),
+    ('Scarica il PDF aziendale', 'menu_pdf'),
+    ('Contatta il tuo sponsor', 'menu_sponsor'),
+    ('Testimonianze', 'menu_testimonianze'),
+    # ...altre voci...
+]
+
+def build_language_keyboard():
+    keyboard = []
+    row = []
+    for i, (code, name, _) in enumerate(LANGUAGES, 1):
+        row.append(InlineKeyboardButton(name, callback_data=f"lang_{code}"))
+        if i % 2 == 0:
+            keyboard.append(row)
+            row = []
+    if row:
+        keyboard.append(row)
+    return InlineKeyboardMarkup(keyboard)
+
+def build_main_menu_keyboard():
+    keyboard = []
+    row = []
+    for i, (label, callback) in enumerate(MAIN_MENU, 1):
+        row.append(InlineKeyboardButton(label, callback_data=callback))
+        if i % 2 == 0:
+            keyboard.append(row)
+            row = []
+    if row:
+        keyboard.append(row)
+    return InlineKeyboardMarkup(keyboard)
+
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text(
+        "🌍 Scegli la tua lingua / Choose your language:",
+        reply_markup=build_language_keyboard()
+    )
+
+async def language_selected(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    code = query.data.split("_")[1]
+    for c, _, welcome in LANGUAGES:
+        if c == code:
+            await query.edit_message_text(
+                f"{welcome}\n\n🚀 Ora puoi continuare con Massimo AI!",
+            )
+            # Mostra il menu principale subito dopo la selezione lingua
+            await context.bot.send_message(
+                chat_id=query.message.chat.id,
+                text="👇 Scegli una delle opzioni qui sotto per iniziare:",
+                reply_markup=build_main_menu_keyboard()
+            )
+            return
+
+onboarding_handlers = [
+    CommandHandler("start", start),
+    CallbackQueryHandler(language_selected, pattern="^lang_"),
+]

@@ -1,0 +1,7 @@
+{
+    "livelli_abilitati": [
+        "founder", "admin", "ultra", "black", "diamond_black"
+    ],
+    "notifica_admin": true,
+    "allow_full_auto": true
+}

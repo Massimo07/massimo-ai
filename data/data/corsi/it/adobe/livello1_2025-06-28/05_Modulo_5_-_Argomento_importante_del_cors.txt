@@ -1,0 +1,72 @@
+### Modulo 5 - Argomento Importante del Corso Adobe: Introduzione a Photoshop
+
+#### Introduzione
+
+Photoshop è uno dei software di editing grafico più potenti e versatili disponibili sul mercato. Questo modulo si concentrerà sulle funzionalità di base di Photoshop, fornendo una solida base per i principianti. Impareremo come utilizzare gli strumenti principali, gestire i livelli, applicare filtri e modificare immagini. 
+
+#### Spiegazioni Approfondite
+
+**1. Interfaccia di Photoshop**
+
+Photoshop presenta un'interfaccia complessa ma intuitiva. All'apertura del programma, noterai la barra degli strumenti a sinistra, il pannello dei livelli a destra e la barra delle opzioni in alto. Familiarizzare con questi elementi è essenziale per un uso efficace del software.
+
+**2. Strumenti Principali**
+
+- **Strumento Selezione**: Permette di selezionare porzioni dell'immagine per modificarle. Lo strumento Lazo e lo strumento Bacchetta Magica sono particolarmente utili.
+- **Strumento Pennello**: Usato per dipingere e ritoccare le immagini. Varia la dimensione e la durezza del pennello per effetti diversi.
+- **Strumento Gomma**: Permette di cancellare parti dell'immagine. È possibile regolare la dimensione e l'opacità.
+
+**3. Gestione dei Livelli**
+
+I livelli consentono di lavorare su parti diverse di un'immagine senza influenzare le altre. Questo è fondamentale per un editing non distruttivo. Impara a creare, rinominare, unire e organizzare i livelli.
+
+**4. Applicazione di Filtri**
+
+I filtri possono trasformare un'immagine in modo drammatico. Dal filtro Sfocatura al filtro Nitidezza, questi strumenti offrono infinite possibilità creative. Esplora i filtri disponibili e prova a combinarli per effetti unici.
+
+#### Esempi Pratici
+
+- **Esempio 1**: Utilizzo dello strumento Selezione Rapida per isolare un soggetto in una foto e applicare un filtro Sfocatura allo sfondo per creare profondità.
+- **Esempio 2**: Creazione di un semplice collage utilizzando più livelli e lo strumento Trasformazione Libera per ridimensionare e ruotare le immagini.
+
+#### Esercizi
+
+1. **Esercizio di Selezione**: Apri un'immagine e usa lo strumento Lazo per selezionare un oggetto complesso. Prova a migliorare la selezione con lo strumento Migliora Bordo.
+2. **Esercizio sui Livelli**: Crea un nuovo documento e importa tre immagini diverse su tre livelli separati. Prova a cambiare l'ordine dei livelli e osserva come cambia il risultato finale.
+
+#### Quiz
+
+1. Qual è la funzione del pannello dei livelli in Photoshop?
+   - A) Applicare filtri
+   - B) Organizzare e gestire parti dell'immagine
+   - C) Disegnare forme
+   - D) Modificare il colore
+
+2. Quale strumento useresti per rimuovere una parte indesiderata di un'immagine?
+   - A) Strumento Pennello
+   - B) Strumento Gomma
+   - C) Strumento Selezione
+   - D) Strumento Ritaglio
+
+#### Glossario Specifico
+
+- **Livello**: Un singolo elemento di un'immagine che può essere modificato indipendentemente.
+- **Filtro**: Effetto che può essere applicato a un'immagine o a un livello per modificarne l'aspetto.
+- **Selezione**: Parte di un'immagine che è stata isolata per la modifica.
+
+#### Checklist
+
+- [ ] Conosci l'interfaccia di Photoshop e i suoi componenti principali.
+- [ ] Sai utilizzare gli strumenti di selezione e modifica.
+- [ ] Sai gestire e organizzare i livelli.
+- [ ] Hai sperimentato con diversi filtri.
+
+#### Box Motivazione
+
+"Imparare a usare Photoshop ti apre un mondo di possibilità creative. Ogni immagine è una tela su cui puoi esprimere la tua visione artistica. Continua a esplorare e non aver paura di sperimentare!"
+
+#### Caso Studio Reale
+
+Un fotografo professionista utilizza Photoshop per migliorare le sue foto di matrimonio. In un'immagine, ha usato lo strumento Timbro Clone per rimuovere elementi indesiderati dallo sfondo, migliorando l'estetica complessiva. Poi, ha applicato un filtro Sfocatura per dare un tocco romantico, mettendo in risalto gli sposi. Questo esempio dimostra come Photoshop possa trasformare una foto ordinaria in un'opera d'arte memorabile.
+
+Concludendo, questo modulo ti fornisce le basi per iniziare a esplorare Photoshop. Continua a praticare e a sperimentare per scoprire tutte le potenzialità di questo incredibile strumento.

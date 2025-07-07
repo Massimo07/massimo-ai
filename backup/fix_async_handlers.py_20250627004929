@@ -1,0 +1,52 @@
+import os
+import re
+
+def fix_file(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            code = f.read()
+    except UnicodeDecodeError:
+        print(f"⚠️  [SKIP] File non UTF-8: {path}")
+        return
+
+    # 1. Converte tutte le funzioni handler (start, qualsiasi funzione che riceve update, context) in async
+    code = re.sub(
+        r"def ([a-zA-Z0-9_]+)\s*\(([^)]*update[^)]*)\):",
+        r"async def \1(\2):",
+        code
+    )
+
+    # 2. Mette 'await ' davanti a update.message.reply_text(...) e simili
+    code = re.sub(
+        r"(?<!await\s)(update\.message\.reply_(text|photo|audio|document|video|voice|media_group|location|venue|contact|animation)\s*\([^\)]*\))",
+        r"await \1",
+        code
+    )
+
+    # 3. Mette 'await ' davanti a context.bot.send_message(...) (e altre send_*)
+    code = re.sub(
+        r"(?<!await\s)(context\.bot\.send_(message|photo|audio|document|video|voice|media_group|location|venue|contact|animation)\s*\([^\)]*\))",
+        r"await \1",
+        code
+    )
+
+    # 4. Evita di aggiungere doppio await (caso limite)
+    code = re.sub(r"await\s+await\s+", "await ", code)
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(code)
+
+def scan_and_fix(root):
+    for folder, _, files in os.walk(root):
+        for file in files:
+            if file.endswith(".py") and not file.startswith("fix_async_handlers"):
+                path = os.path.join(folder, file)
+                fix_file(path)
+                print(f"✅ Sistemato: {path}")
+
+if __name__ == "__main__":
+    print("🚀 MASSIMO AI - FIX AUTO ASYNC HANDLERS")
+    scan_and_fix(".")
+    print("✅ TUTTI GLI HANDLER E CALLBACK SONO ORA ASYNC E CON AWAIT 🚀")
+    print("\nOra riavvia pure il bot con:")
+    print("    python main.py")

@@ -1,0 +1,16 @@
+from telegram.ext import filters, ContextTypes
+from telegram.ext import ContextTypes, ContextTypes
+async async async def corso_ai_assistant_livello_1_handler(update, context):
+
+    user = update.effective_user
+
+    text = (
+
+        "🤖 *AI Assistant – Livello 1*\n\n"
+
+        "Cos’è un assistente AI? Come usarlo per domande semplici, trovare info in pochi secondi, base promemoria."
+
+    )
+
+    await context.bot.send_message(chat_id=user.id, text=text)
+

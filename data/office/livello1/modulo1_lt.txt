@@ -1,0 +1,62 @@
+### Modulis 1: Įvadas į "Office" ir jo taikymas tinklinėje rinkodaroje
+
+Sveiki atvykę į pirmąjį mūsų kurso "Office" modulį, kurio tikslas - supažindinti jus su pagrindinėmis "Office" programų funkcijomis ir jų pritaikymu tinklinėje rinkodaroje bei versle, pavyzdžiui, "Live On Plus".
+
+#### Teorija ir praktika
+
+"Office" programų paketas, kurį sudaro programos kaip "Word", "Excel", "PowerPoint" ir kitos, yra esminis įrankis kiekvienam verslo profesionalui. Šiose programose galite kurti dokumentus, analizuoti duomenis, rengti pristatymus ir dar daugiau. Tinklinėje rinkodaroje jos naudojamos siekiant efektyviai valdyti kontaktus, analizuoti pardavimų duomenis ir kurti patrauklias prezentacijas.
+
+**Pavyzdys: "Excel" naudojimas tinklinėje rinkodaroje**
+Tarkime, jūs dirbate su "Live On Plus" ir norite sekti savo pardavimų progresą. Naudodami "Excel", galite sukurti lentelę, kurioje registruojate kiekvieno mėnesio pardavimus, klientų skaičių ir augimo procentą. Naudodamiesi formulėmis ir diagramomis, galite lengvai vizualizuoti savo progresą ir nustatyti, kur reikia tobulėti.
+
+#### Praktiniai pavyzdžiai ir užduotys
+
+1. **"Word" dokumento kūrimas:**
+   - Atidarykite "Word" programą.
+   - Pasirinkite "Naujas dokumentas".
+   - Parašykite laišką potencialiam klientui, pristatydami "Live On Plus" privalumus.
+   - Naudokite formatavimo įrankius (paryškinimas, pasvyravimas, sąrašai) siekiant padaryti tekstą patrauklesnį.
+
+2. **"Excel" lentelė:**
+   - Atidarykite "Excel" programą.
+   - Sukurkite lentelę su stulpeliais "Mėnuo", "Pardavimai", "Nauji klientai".
+   - Naudokite formulę, norėdami apskaičiuoti bendrą pardavimų sumą.
+   - Sukurkite diagramą, kurioje parodytas pardavimų augimas.
+
+#### Dialogai realiam bendravimui
+
+**WhatsApp/Telegram:**
+"Labas, [Vardas]! Kaip sekasi? Turiu naują dokumentą apie "Live On Plus" privalumus, kuriuo norėčiau pasidalinti. Ar galėčiau tau jį atsiųsti?"
+
+**Zoom:**
+"Labas, komanda! Šiandien noriu parodyti jums "Excel" lentelę, kurioje sekame mūsų mėnesinį progresą. Įsitikinkite, kad turite prieigą prie savo "Office" programų."
+
+**El. paštas:**
+"Gerbiamas [Vardas], pridedu "Word" dokumentą, kuriame pateikiama informacija apie "Live On Plus". Prašau peržiūrėti ir pranešti savo nuomonę."
+
+#### Dažniausiai pasitaikančios klaidos ir kaip jų išvengti
+
+1. **Netinkamas dokumentų formatavimas:**
+   - Venkite per daug spalvų ir šriftų. Naudokite vieningą stilių.
+   - Patikrinkite rašybą ir gramatiką prieš siunčiant dokumentą.
+
+2. **Netinkamas duomenų įvedimas į "Excel":**
+   - Visada patikrinkite duomenų tikslumą.
+   - Naudokite funkciją "Patikrinti duomenis", kad išvengtumėte klaidų.
+
+#### Tarptautinės verslo kultūros įžvalgos
+
+Vykdant tarptautinį verslą, svarbu suprasti kultūrinius skirtumus. Pavyzdžiui, Japonijoje verslo susitikimuose svarbu išlaikyti formalumą ir pagarbą, o JAV labiau vertinamas tiesmukumas ir efektyvumas. Naudodami "Office" programos galite pritaikyti savo dokumentus ir pristatymus pagal skirtingų šalių kultūrinius ypatumus.
+
+#### Eiliniai užduotys ir sprendimai
+
+**Užduotis:** Sukurti "Word" dokumentą, kuriame pristatoma "Live On Plus" strategija naujiems klientams.
+
+**Sprendimas:**
+1. Atidarykite "Word" ir pasirinkite "Naujas dokumentas".
+2. Įrašykite antraštę: "Live On Plus strategija".
+3. Parašykite trumpą įžangą apie įmonę ir jos tikslus.
+4. Pateikite strategijos punktus su paaiškinimais.
+5. Pridėkite kontaktinę informaciją pabaigoje.
+
+Šis modulis yra tik pradžia jūsų kelionėje į "Office" pasaulį. Sekančiuose moduliuose gilinsimės į kiekvieną programą atskirai, suteikdami jums dar daugiau įrankių sėkmingam darbui tinklinėje rinkodaroje.
