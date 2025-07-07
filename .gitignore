@@ -22,3 +22,9 @@ data/Catalogo Peccati Olfattivi.pdf
 
 # Escludi tutti i PDF sopra una certa dimensione (solo se necessario)
 # *.pdf
+unione_moduli.py
+backend/ffmpeg-2025-06-28-git-cfd1f81e7d-full_build/bin/ffplay.exe
+backend/ffmpeg-2025-06-28-git-cfd1f81e7d-full_build/bin/ffmpeg.exe
+backend/ffmpeg-2025-06-28-git-cfd1f81e7d-full_build/bin/ffprobe.exe
+data/Catalogo Nuova SKin.pdf
+data/Catalogo Peccati Olfattivi.pdf
